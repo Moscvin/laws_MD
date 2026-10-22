@@ -1,0 +1,17 @@
+name = "bot-legi-md"
+main = "src/index.js"
+compatibility_date = "2025-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "legi-md"
+database_id = "21520a0e-5096-48e8-a138-c38d0f8a5391"
+
+[vars]
+# Modelele Gemini încercate în ordine (al doilea e rezervă când primul și-a atins limita gratuită).
+GEMINI_MODELS = "gemini-2.5-flash,gemini-2.5-flash-lite"
+# Opțional: ID-urile Telegram care au voie să folosească botul, separate prin virgulă. Gol = oricine.
+ALLOWED_USERS = ""
+
+# Secrete (se setează cu `npx wrangler secret put NUME`, nu se scriu aici):
+#   TELEGRAM_TOKEN, GEMINI_API_KEY, WEBHOOK_SECRET

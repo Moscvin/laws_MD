@@ -1,0 +1,1466 @@
+TITLU: Legea nr. 131/2007 privind siguranța traficului rutier
+SURSA: https://www.legis.md/cautare/getResults?doc_id=156143&lang=ro
+
+Republica Moldova
+
+											PARLAMENTUL
+
+											LEGE Nr.												131
+din  07-06-2007
+
+											privind siguranţa traficului rutier*
+
+										Publicat : 23-01-2015
+												în  Monitorul Oficial												Nr.												11-21 art.												6
+
+										MODIFICAT
+
+LP159 din 30.07.26, MO407-409/02.09.26 art. 440; în vigoare 01.01.29
+
+_________________
+
+*Republicată în temeiul art. IV lit. c) din Legea nr. 109 din 19 iunie 2014 – Monitorul Oficial al Republicii Moldova, 2014, nr. 209-216, art. 449.
+
+Modificată şi completată prin legile Republicii Moldova:
+
+1) LP109 din 04.06.10, MO131-134/30.07.10 art. 443;
+
+2) LP304 din 26.12.12, MO48/05.03.13 art. 150;
+
+3) LP164 din 05.07.13, MO161-166/26.07.13 art. 522;
+
+4) LP109 din 19.06.14, MO209-216/25.07.14 art. 449.
+
+Parlamentul adoptă prezenta lege organică.
+
+Prezenta lege transpune parțial art. 2 lit. e), art. 3a alin. (1) teza a doua din Directiva 1999/37/CE a Consiliului din 29 aprilie 1999 privind documentele de înmatriculare pentru vehicule, publicată în Jurnalul Oficial al Uniunii Europene L 138 din 1 iunie 1999, CELEX: 31999L0037.
+
+Capitolul I
+
+DISPOZIŢII GENERALE
+
+Articolul 1. Obiectul legii
+
+(1) Prezenta lege reglementează relaţiile juridico-sociale din domeniul traficului rutier, stabileşte drepturile, obligaţiile, responsabilităţile autorităţilor de resort şi ale participanţilor la acest trafic, determină principiile de organizare a activităţii unităţilor de instruire a personalului din domeniul transportului rutier, precum şi condiţiile de admitere la trafic a conducătorilor de vehicule.
+
+(2) Dispoziţiile prezentei legi vizează traficul rutier din punctul de vedere al asigurării desfăşurării lui fluente şi în plină siguranţă, ceea ce presupune protecţia drepturilor şi intereselor legitime ale persoanelor fizice şi juridice, apărarea proprietăţii acestora, ocrotirea sănătăţii, integrităţii corporale şi a vieţii participanţilor la trafic, precum şi protecţia mediului înconjurător.
+
+Articolul 2. Noţiuni principale
+
+În sensul prezentei legi se utilizează noțiunile definite la art. 2 din Legea nr. 350/2023 privind gestionarea siguranței infrastructurii rutiere, precum și următoarele noțiuni:
+
+accident în trafic rutier – eveniment produs ca urmare a încălcării normelor de siguranţă a traficului rutier, în care au fost implicate unul sau mai multe vehicule aflate în circulaţie pe drum public, în urma căruia a rezultat vătămarea sănătăţii, integrităţii corporale, decesul uneia sau al mai multor persoane ori a fost cauzat un prejudiciu material;
+
+administrator de drum – autoritate a administraţiei publice locale sau un alt organ de stat abilitat de Guvern cu funcţii de administrare, întreţinere şi reparaţie a drumurilor publice;
+
+agent de circulaţie – persoană abilitată cu funcţii de reglementare şi de control asupra traficului rutier pe drumurile publice;
+
+autovehicul – vehicul autopropulsat, cu excepţia ciclomotorului şi a vehiculului care circulă pe şine, destinat transportului de persoane sau de bunuri ori efectuării de lucrări;
+
+bicicletă  – vehicul cu cel puţin două roţi, propulsat exclusiv de energia musculară a persoanei care îl conduce, în special cu ajutorul pedalelor sau manivelelor;
+
+caroserie – parte a vehiculului aşezată deasupra osiilor şi a roţilor, amenajată pentru transportul de persoane sau de bunuri;
+
+certificat de competență profesională (microcertificat) – act de studii eliberat profesorului de siguranță rutieră sau instructorului în conducere auto, care atestă dreptul de a desfășura activități de formare profesională a conducătorilor de vehicule;
+
+ciclomotor – vehicul cu două sau trei roţi, care dezvoltă prin construcţie o viteză maximă de 45 km/h (cu excepţia celor care dezvoltă o viteză mai mică sau egală cu 25 km/h) şi care este echipat cu un motor cu ardere internă sau electric. Capacitatea cilindrică a motorului cu ardere internă nu depăşeşte 50 cm3, iar puterea motorului, atât a celui cu ardere internă, cât şi a motorului electric, nu depăşeşte 4 kW;
+
+coloană oficială – coloană de vehicule precedată de un vehicul cu regim prioritar de circulaţie, care are în funcţiune semnale speciale de avertizare sonore şi luminoase de culoare albastră şi/sau roşie;
+
+comportament agresiv – efectuarea în mod intenționat de către un conducător de vehicul a unor acţiuni sau manevre succesive, prevăzute la art. 33 alin.(3) lit.d) din prezenta lege, neconforme cu prevederile Regulamentului circulației rutiere sau cu normele de conducere preventivă, prin care acesta creează neîntemeiat obstacole circulației, prejudiciază drepturile altor participanţi la trafic sau îi obligă să ia măsuri suplimentare pentru a preveni producerea unui accident sau a nu pune în pericol siguranţa traficului;
+
+conducător – persoană care conduce pe drum public un vehicul, un grup de persoane, însoţeşte animale izolate, turme, cirezi etc., animale de povară sau de călărie, precum şi persoană care efectuează instruirea în conducerea vehiculului;
+
+conducere preventivă – comportament al conducătorului de vehicul, conform cu prevederile Regulamentului circulației rutiere, care asigură prevenirea accidentelor în traficul rutier prin neadmiterea situațiilor periculoase în timpul conducerii vehiculului, precum și prin anticiparea și evitarea situațiilor periculoase ce pot fi provocate de ceilalți participanți la trafic;
+
+drum public local – drum proprietate publică a unităţii administrativ-teritoriale, care asigură legătura între oraşele reşedinţă de raion şi satele (comunele) din componenţa raionului, precum şi legătura între sate (comune), inclusiv accesul spre drumurile publice naţionale;
+
+drum public naţional – drum proprietate publică a statului, care asigură principalele legături rutiere internaţionale, legătura între capitala ţării şi oraşele reşedinţă de raion, municipiile şi obiectivele de importanţă republicană, precum şi legătura între ele;
+
+drum public – orice cale de comunicaţie terestră, inclusiv construcţii artificiale şi drumuri cu înveliş natural, deschisă pentru circulaţia vehiculelor şi a pietonilor, administrată de un organ abilitat;
+
+garantare a siguranţei traficului rutier – activităţi de prevenire a factorilor ce contribuie la producerea accidentelor în traficul rutier şi de diminuare a gravităţii acestora;
+
+inspecţie tehnică periodică – verificare tehnică periodică a vehiculelor în staţiile de inspecţie tehnică autorizate sau în staţiile specializate ale autorităţilor publice abilitate, în vederea corespunderii cu normele şi standardele naţionale de securitate a circulaţiei rutiere şi de protecţie a mediului, confirmată printr-un raport de verificare tehnică;
+
+instructor în conducere auto – personal didactic pentru instruirea în conducerea autovehiculelor, componentă a programelor de formare profesională a conducătorilor de vehicule, acreditate, din cadrul unităților de instruire a personalului din domeniul transportului rutier;
+
+laborator mobil – autovehicul dotat cu echipamentele necesare pentru verificarea stării tehnice a vehiculelor aflate în trafic pe drumurile publice, în vederea stabilirii corespunderii acestora cu normele de exploatare;
+
+motocicletă – vehicul cu 2 sau 3 roţi, cu sau fără ataş, dotat cu motor având capacitate cilindrică mai mare de 50 cm3, şi/sau cu viteză maximă, prin construcţie, de peste 45 km/h, a cărui masă proprie nu depăşeşte 400 kg;
+
+organizare a traficului rutier – ansamblu de măsuri juridico-organizatorice şi inginereşti de sistematizare, reglementare şi dirijare a traficului rutier;
+
+participant la trafic – persoană care ia parte la procesul circulaţiei în calitate de conducător, pieton sau pasager;
+
+pieton – persoană care se află pe drum, în afara vehiculului, şi care nu efectuează lucrări de drum, inclusiv persoana care se deplasează în cărucior (fără motor) pentru invalizi, care duce o bicicletă, un ciclomotor, o motocicletă, săniuţă, un cărucior manual, un cărucior pentru copii sau invalizi;
+
+profesor de siguranță rutieră – personal didactic pentru predarea unităților de curs de profil, componente ale programelor de formare profesională a conducătorilor de vehicule, acreditate, din cadrul unităților de instruire a personalului din domeniul transportului rutier;
+
+program special de instruire pentru anularea punctelor de penalizare – program de instruire a conducătorilor vehiculelor care are ca scop reeducarea și sensibilizarea conducătorilor vehiculelor sancționați contravențional cu privire la consecințele încălcarii prevederilor regulamentului circulației rutiere. Programul special de instruire pentru anularea punctelor de penalizare se efectuează contra plată în modul stabilit de Guvern;
+
+remorcă – vehicul destinat tractării de către un autovehicul; siguranţă a traficului rutier – stare de lucruri în traficul rutier ce reflectă gradul de protecţie a participanţilor la trafic împotriva accidentelor şi consecinţelor acestora;
+
+staţie de inspecţie tehnică – centru tehnic specializat şi autorizat care asigură inspecţia tehnică periodică a vehiculelor prin examinarea vizuală şi diagnosticarea echipamentelor, agregatelor şi sistemelor aferente securităţii circulaţiei rutiere şi protecţiei mediului, cu eliberarea raportului de verificare tehnică;
+
+suspendare a înmatriculării– statut juridic temporar al vehiculului prin care se interzice utilizarea acestuia în traficul rutier, fără anularea certificatului de înmatriculare și fără implicarea unui nou proces de înmatriculare, până la înlăturarea temeiurilor care au determinat suspendarea;
+
+trafic rutier – sistem dinamic complex, constituit din pietoni şi vehicule care, în procesul deplasării pe drumurile publice în condiţii stabilite, generează un ansamblu de relaţii juridico-sociale;
+
+unitate de instruire a personalului din domeniul transportului rutier – persoană juridică, indiferent de tipul de proprietate şi forma juridică de organizare, care asigură formarea iniţială, recalificarea şi/sau perfecţionarea periodică a conducătorilor de vehicule, a instructorilor în conducere auto, a cadrelor manageriale din domeniul transportului rutier, precum şi a experţilor din cadrul staţiilor de inspecţie tehnică, în baza programelor de instruire aprobate de Ministerul Educației și Cercetării cu avizul Ministerului Infrastructurii și Dezvoltării Regionale;
+
+vehicul – sistem mecanic, cu sau fără autopropulsie, destinat transportului de persoane sau de bunuri ori echipat cu mecanisme care pot executa anumite lucrări.
+
+Articolul 3. Principiile de bază privind garantarea
+
+                     Siguranţei traficului rutier
+
+Principiile de bază privind garantarea siguranţei traficului rutier sunt:
+
+a) prioritatea vieţii şi integrităţii corporale a participanţilor la trafic asupra rezultatelor activităţilor economice;
+
+b) prioritatea responsabilităţii statului privind garantarea siguranţei traficului rutier faţă de responsabilitatea participanţilor la trafic;
+
+c) respectarea intereselor persoanei, ale societăţii şi ale statului în activitatea de garantare a siguranţei traficului rutier;
+
+d) abordarea problemei privind garantarea siguranţei traficului rutier prin programe cu obiective bine determinate.
+
+Articolul 4. Cadrul juridic
+
+(1) Cadrul juridic privind siguranţa traficului rutier însumează prezenta lege şi alte acte legislative şi normative, precum şi tratatele internaţionale în domeniu la care Republica Moldova este parte.
+
+(2) Modul de solicitare, acordare, suspendare și retragere a actelor permisive prevăzute de prezenta lege pentru agenți economici se stabilește de Legea nr. 160/2011 privind reglementarea prin autorizare a activității de întreprinzător în partea în care nu este reglementat de prezenta lege.
+
+Capitolul II
+
+COMPETENŢA AUTORITĂŢILOR DE RESORT
+
+ÎN DOMENIUL TRAFICULUI RUTIER
+
+Articolul 5. Competenţa Guvernului
+
+De competenţa Guvernului sunt:
+
+a) dirijarea activităţii organelor centrale de specialitate ale statului cu atribuţii în domeniul traficului rutier;
+
+b) aprobarea programelor de stat privind dezvoltarea traficului rutier şi siguranţa pe drumurile publice, precum şi a actelor normative înaintate de autorităţile competente;
+
+c) finanţarea, dirijarea şi exercitarea controlului asupra realizării programelor de dezvoltare a traficului rutier şi siguranţei acestuia;
+
+d) organizarea activităţii de cercetare științifică şi construcţii tehnologice în domeniul traficului rutier şi siguranţei acestuia;
+
+e) exercitarea controlului asupra executării şi respectării legislaţiei privind siguranţa traficului rutier;
+
+f) aprobarea listei de medicamente contraindicate conducătorilor de vehicule;
+
+g) stabilirea conţinutului minim al truselor medicale de prim ajutor din dotarea vehiculelor;
+
+h) stabilirea normelor metodologice privind organizarea pregătirii, perfecţionării, examinării şi atestării cadrelor didactice din domeniul pregătirii conducătorilor de vehicule şi a personalului din sfera transporturilor rutiere;
+
+i) stabilirea categoriilor de vehicule care pot fi admise în trafic rutier fără a fi omologate;
+
+j) aprobarea programelor de stat privind protecţia mediului înconjurător, standardelor privind starea tehnică a vehiculelor şi a utilajului.
+
+Articolul 6. Competenţa Consiliului naţional pentru
+
+                     securitatea circulaţiei rutiere
+
+(1) Consiliul naţional pentru securitatea circulaţiei rutiere, instituit de Guvern, este organ consultativ în promovarea şi dirijarea politicii statului în domeniul siguranţei traficului rutier.
+
+(2) Consiliul naţional pentru securitatea circulaţiei rutiere are următoarele atribuţii:
+
+a) examinează starea de lucruri şi apreciază activitatea autorităţilor de resort în domeniul siguranţei traficului rutier;
+
+b) coordonează activităţile din domeniu, participă la elaborarea şi examinarea actelor normative privind traficul rutier şi siguranţa acestuia şi le înaintează spre aprobare Guvernului.
+
+(3) Funcția de secretariat și activitatea curentă a Consiliului național pentru securitatea circulației rutiere este realizată de către autoritatea administrativă responsabilă de gestionarea siguranței infrastructurii rutiere.
+
+(4) - abrogat.
+
+(5) - abrogat.
+
+Articolul 7. Competenţa Ministerului Afacerilor
+
+                     Interne
+
+De competenţa Ministerului Afacerilor Interne sunt:
+
+a) exercitarea controlului interdepartamental asupra respectării prevederilor actelor legislative şi ale actelor normative din domeniul traficului rutier;
+
+b) coordonarea, pe domenii de competenţă, a activităţilor de ridicare a gradului de organizare şi de siguranţă a traficului rutier;
+
+c) asigurarea dirijării, supravegherii şi controlului traficului rutier cu mijloace de măsurare, legalizate şi verificate metrologic, conform cerinţelor actelor normative în vigoare;
+
+d) verificarea stării tehnice a vehiculelor, a autovehiculelor și a remorcilor, aflate în proprietatea, în posesia sau în folosința persoanelor fizice și juridice de drept public sau privat, pentru a stabili dacă acestea corespund condițiilor tehnice stipulate de legislație;
+
+e) - abrogată;
+
+f) monitorizarea evoluţiei fenomenului accidentar şi reflectarea în mass-media a stării de lucruri din traficul rutier, a modului în care participanţii la trafic respectă legislaţia privind siguranţa lui;
+
+g) asigurarea activităţii echipelor de intervenţie rapidă pentru întreprinderea măsurilor de urgenţă în cazul producerii de accidente în trafic rutier;
+
+h) organizarea după programe a instruirii angajaţilor subdiviziunii abilitate din subordinea Inspectoratului General al Poliției din cadrul Ministerului Afacerilor Interne, serviciului de pompieri, ai altor structuri specializate privind acordarea de prim ajutor medical persoanelor care au avut de suferit în accidente în trafic rutier;
+
+i) coordonarea itinerarelor pentru efectuarea instruirii practice în conducerea vehiculelor pe drumurile publice, eliberarea permiselor speciale pentru conducătorii de vehicule speciale de încasare și de comunicație specială, pe termen nedeterminat, valabile pe toată durata angajării conducătorului de vehicul în funcția corespunzătoare;
+
+j) ţinerea evidenţei centralizate a contravenţiilor din domeniul traficului rutier şi a sancţiunilor aplicate, eliberarea către solicitanți a certificatelor de cazier contravenţional, a certificatelor cu privire la accidentele rutiere, a actelor juridice cu privire la neridicarea în procesul de constatare a contravenţiilor a permisului de conducere, a certificatului de înmatriculare а vehiculului şi/sau a plăcilor de înmatriculare;
+
+k) coordonarea schemelor de transportare a încărcăturilor de mare tonaj, cu gabarit depăşit şi a încărcăturilor periculoase;
+
+l) escortarea coloanelor oficiale.
+
+Articolul 8. Competenţa Ministerului Infrastructurii
+
+                     și Dezvoltării Regionale
+
+De competenţa Ministerului Infrastructurii și Dezvoltării Regionale sunt:
+
+a) administrarea, întreţinerea, repararea şi înzestrarea cu mijloace de semnalizare a drumurilor publice naţionale pentru sistematizarea şi organizarea traficului rutier în vederea garantării siguranţei circulaţiei; amenajarea drumurilor laterale pentru circulaţia vehiculelor cu tracţiune animală, vehiculelor autopropulsate şi amenajarea pistelor pentru bicicliști;
+
+b) - abrogată;
+
+c) coordonarea, prin avizarea programelor de instruire, a procesului de formare iniţială şi perfecţionare periodică, în cadrul unităţilor de instruire specializate, a experţilor implicaţi în procesul de omologare, inspecţie tehnică periodică, reparaţie şi deservire tehnică a vehiculelor, certificare a transportului conform actelor normative ale Conferinţei Europene a Miniştrilor de Transport (CEMT), Acordului european referitor la transportul rutier internaţional de mărfuri periculoase (ADR), Acordului cu privire la transporturile internaţionale de produse perisabile şi cu privire la mijloacele de transport speciale care trebuie folosite pentru aceste transporturi (ATP), precum şi a personalului din domeniul transportului rutier, în vederea eliberării certificatului de competenţă profesională;
+
+d) elaborarea reglementărilor tehnice de construcţie, reconstrucţie şi reutilare a vehiculelor, elaborarea condiţiilor tehnice şi a metodologiei de omologare, de prestare a serviciilor de reparaţie şi întreţinere tehnică, de inspecţie tehnică periodică, precum şi de certificare a echipamentelor şi subansamblurilor vehiculelor, în vederea admiterii în traficul rutier;
+
+e) - abrogată;
+
+f) elaborarea de norme obligatorii, care urmează a fi aprobate de Guvern, privind organizarea şi buna desfăşurare a transporturilor rutiere, monitorizarea respectării acestor norme;
+
+g) elaborarea de reglementări speciale, care urmează a fi aprobate de Guvern, în domeniul transporturilor rutiere de mărfuri periculoase şi al transporturilor efectuate cu vehicule a căror masă totală şi/sau gabarit depăşesc limitele admise şi stabilirea măsurilor de siguranţă privind efectuarea acestor transporturi;
+
+h) stabilirea reglementărilor tehnice privind întreţinerea şi repararea drumurilor publice şi a pasajelor la nivel cu calea ferată, privind amenajarea acestora cu mijloace de semnalizare, sistematizare şi organizare a traficului rutier;
+
+i) elaborarea de norme legale privind condiţiile de organizare de către agenţii transportatori a transporturilor rutiere de mărfuri şi pasageri pe rute interne şi internaţionale şi modul de desfăşurare a acestora;
+
+j) elaborarea de norme, care urmează a fi aprobate de Guvern, privind reglementarea şi controlul respectării regimului de muncă şi odihnă al conducătorilor de vehicule antrenaţi în transporturile interne şi internaţionale de mărfuri şi pasageri;
+
+k) stabilirea, în conlucrare cu alte autorităţi de resort, a normelor metodologice privind pregătirea, perfecţionarea şi atestarea experţilor antrenaţi în activitatea de omologare a vehiculelor şi de inspecţie tehnică periodică, precum şi a personalului din domeniul transportului rutier;
+
+l) elaborarea metodologiei, care urmează a fi aprobată de Guvern, privind montarea, utilizarea şi verificarea tahografelor şi limitatoarelor de viteză de la bordul vehiculelor, privind eliberarea, înlocuirea, schimbarea şi reînnoirea cartelelor tahografice, privind descărcarea şi stocarea datelor acumulate în tahografele digitale şi în cartelele tahografice;
+
+m) elaborarea normelor privind evaluarea de impact asupra siguranței rutiere, auditul în domeniul siguranței rutiere, inspecțiile în domeniul siguranței rutiere și clasificarea siguranței rețelei rutiere.
+
+Articolul 81. Competența Agenției Naționale
+
+                      Transport Auto
+
+De competența Agenției Naționale Transport Auto sunt:
+
+a) autorizarea activităților conexe transportului rutier, conform prevederilor Codului transporturilor rutiere;
+
+b) controlul activităților conexe transportului rutier, al persoanelor care desfășoară activități de transport rutier sau activități conexe transportului rutier, precum și al altor participanți la aceste activități, în conformitate cu principiile și procedurile stabilite de Legea nr. 131/2012 privind controlul de stat;
+
+c) verificarea stării tehnice a vehiculelor comerciale aflate în trafic pe drumurile publice;
+
+d) asigurarea secretariatului și a activităților curente ale Consiliului național pentru securitatea circulației rutiere;
+
+e) exercitarea atribuțiilor stabilite la art. 4 din Legea nr. 350/2023 privind gestionarea siguranței infrastructurii rutiere;
+
+f) exercitarea funcțiilor și atribuțiilor de autoritate în domeniul supravegherii pieței.
+
+[Art. 81 lit.f) introdusă prin LP159 din 30.07.26, MO407-409/02.09.26 art. 440; în vigoare 01.01.29]
+
+Articolul 9. Competenţa Ministerului Sănătății
+
+De competenţa Ministerului Sănătății sunt:
+
+a) elaborarea de norme, care urmează a fi aprobate de Guvern, privind examinarea medicală a conducătorilor de vehicule şi a candidaţilor pentru obţinerea dreptului de a conduce vehicule;
+
+b) elaborarea regulamentului, care urmează a fi aprobat de Guvern, privind modul de testare alcoolscopică şi examinare medicală pentru stabilirea stării de ebrietate şi a naturii ei;
+
+c) stabilirea de norme privind recoltarea şi analiza probelor biologice pentru determinarea alcoolemiei, a consumului de droguri şi de alte substanţe psihotrope, de medicamente capabile să influenţeze negativ comportamentul conducătorului de vehicul;
+
+d) elaborarea de programe pentru cursurile de instruire a conducătorilor de vehicule, a angajaţilor poliţiei, ai Serviciului Protecţiei Civile şi Situaţiilor Excepţionale, ai altor structuri specializate privind acordarea de prim ajutor persoanelor care au avut de suferit în accidentele de trafic rutier;
+
+e) stabilirea conţinutului minim al truselor medicale de prim ajutor din dotarea vehiculelor, care urmează a fi aprobat de Guvern;
+
+f) acordarea de asistenţă medicală urgentă victimelor accidentelor rutiere;
+
+g) evidenţa, în sistemul informaţional integrat, a persoanelor care s-au adresat la instituţii medico-sanitare, a celor traumatizate şi/sau decedate în urma accidentelor rutiere, afectate de maladii incompatibile cu calitatea de conducător de vehicul, dependente de alcool sau de alte substanţe psihoactive, evidenţa concluziilor consultative narcologice şi a adeverinţelor medicale, a actelor de examinare medicală pentru stabilirea stării de ebrietate şi naturii ei, a concluziilor în baza cercetărilor medico-legale, în modul stabilit de actele normative în vigoare.
+
+Articolul 10. Competenţa Ministerului Educației
+
+                       și Cercetării
+
+De competenţa Ministerului Educației și Cercetării sunt:
+
+a) elaborarea de programe şi materiale metodico-didactice ilustrative şi vizual-auditive în domeniul educaţiei rutiere şi asigurarea activităţii în acest domeniu în instituţiile de învățământ preşcolare şi şcolare, pregătirea şi perfecţionarea cadrelor didactice desemnate să desfăşoare astfel de activităţi;
+
+b) elaborarea de norme, care urmează a fi aprobate de Guvern, privind organizarea activităţii didactice în cadrul unităţilor de instruire a personalului din domeniul transportului rutier în vederea obţinerii dreptului de a conduce vehicule, precum şi privind modelul certificatului de absolvire a acestora;
+
+c) elaborarea, în comun cu autorităţile competente, a programelor de instruire şi recalificare, a testelor de verificare a cunoştinţelor teoretice şi a criteriilor de evaluare a aptitudinilor practice ale conducătorilor pe categorii şi subcategorii de vehicule, precum şi monitorizarea implementării acestora;
+
+d) stabilirea, în conlucrare cu alte autorităţi de resort, a normelor metodologice şi organizarea pregătirii, perfecţionării, examinării şi atestării cadrelor didactice din domeniul instruirii personalului din domeniul transportului rutier, a evaluatorilor examenelor de calificare a candidaţilor pentru obţinerea dreptului de a conduce vehicule;
+
+e) monitorizarea activităţii didactice, evaluarea şi acreditarea unităţilor de instruire a personalului din domeniul transportului rutier, informarea Agenției Servicii Publice privind existenţa hotărârilor definitive cu privire la neacreditarea acestora;
+
+f) - abrogată.
+
+Articolul 11. – abrogat.
+
+Articolul 12. Competenţa Ministerului Apărării
+
+De competenţa Ministerului Apărării sunt:
+
+a) instruirea, în baza programelor aprobate de Ministerul Educației și Cercetării, a efectivului de conducători de vehicule necesar forţelor armate în cadrul unităţilor de instruire a personalului din domeniul transportului rutier care îi aparţin;
+
+b) înmatricularea vehiculelor din parcul propriu şi ţinerea evidenţei lor;
+
+c) organizarea şi efectuarea inspecţiei tehnice periodice a vehiculelor din parcul propriu;
+
+d) reglementarea, dirijarea şi supravegherea circulaţiei pe drumurile publice a vehiculelor care îi aparţin, verificarea modului în care conducătorii acestora respectă Regulamentul circulaţiei rutiere;
+
+e) cooperarea cu unităţile subdiviziunilor abilitate din subordinea Inspectoratului General al Poliției din cadrul Ministerului Afacerilor Interne în escortarea coloanelor oficiale şi a coloanelor de vehicule militare;
+
+f) elaborarea, în comun cu Ministerul Afacerilor Interne, de norme privind condiţiile de deplasare pe drumurile publice a vehiculelor speciale şi controlul asupra circulaţiei lor.
+
+Articolul 13. Competenţa Ministerului Agriculturii
+
+                       și Industriei Alimentare
+
+De competenţa Ministerului Agriculturii și Industriei Alimentare sunt:
+
+a) elaborarea de acte normative privind pregătirea, perfecţionarea, atestarea şi eliberarea permiselor de conducător de vehicule autopropulsate (tractoare, maşini agricole) cu remorci;
+
+b) îndrumarea, coordonarea şi supravegherea instruirii şi perfecţionării conducătorilor de vehicule autopropulsate (tractoare, maşini agricole);
+
+c) înmatricularea vehiculelor autopropulsate (tractoarelor, maşinilor agricole) şi remorcilor la ele din parcul propriu, ţinerea evidenţei lor;
+
+d) organizarea şi efectuarea inspecţiei tehnice periodice a vehiculelor autopropulsate (tractoare, maşini agricole).
+
+e) elaborarea, în conformitate cu cerințele internaționale și cu standardele naționale, de programe privind protecția mediului înconjurător de către participanții la traficul rutier;
+
+f) elaborarea de regulamente, care urmează a fi aprobate de Guvern, privind controlul de stat ecologic instrumental și testarea gradului de poluare a mediului înconjurător cu gaze de eșapament și de poluare fonică de către vehiculele aflate în trafic rutier;
+
+g) asigurarea testării, cu mijloace de măsurare omologate și verificate metrologic, a emisiilor de noxe ale vehiculelor aflate în trafic rutier;
+
+h) organizarea monitorizării la nivel național a stocării și a prelucrării datelor despre poluarea mediului înconjurător de către transportul auto; crearea punctelor de recoltare a probelor privind nivelul poluării rețelelor rutiere, precum și determinarea zonelor critice;
+
+i) verificarea periodică, sistematică, la stațiile de alimentare, a calității carburanților și a lubrifianților, făcând publice rezultatele;
+
+j) impunerea utilizării pe teritoriul țării a carburanților curați din punct de vedere ecologic;
+
+k) asigurarea respectării legislației privind emisiile de noxe ale surselor mobile de poluare.
+
+Articolul 14. Competenţa Agenției Servicii Publice
+
+De competenţa Agenției Servicii Publice sunt:
+
+a) elaborarea modelelor şi eliberarea permiselor de conducător de vehicul, certificatelor şi numerelor de înmatriculare a vehiculelor;
+
+b) organizarea şi desfăşurarea examenelor pentru obţinerea dreptului de a conduce vehicule; înmatricularea, înregistrarea şi radierea vehiculelor din Registrul de stat al vehiculelor;
+
+c) elaborarea de norme, care urmează a fi aprobate de Guvern, privind evidenţa permiselor de conducere şi certificatelor de înmatriculare, documentarea cu aceste acte, desfăşurarea examenelor pentru obţinerea dreptului de a conduce vehicule, precum şi înmatricularea, înregistrarea şi radierea vehiculelor din Registrul de stat al vehiculelor;
+
+d) crearea, utilizarea, actualizarea şi gestionarea Registrului de stat al vehiculelor şi Registrului de stat al conducătorilor de vehicule;
+
+e) verificarea îndeplinirii de către solicitant a condițiilor de licențiere pentru activitatea de instruire a personalului din domeniul transportului rutier, în baza declarației pentru eliberarea licenței și a documentelor anexate, precum și organizarea verificării prealabile la fața locului, în comun cu alte autorități publice competente, a îndeplinirii de către solicitant a condițiilor de licențiere;
+
+f) exercitarea funcțiilor și atribuțiilor de autoritate în domeniul omologării pentru vehicule rutiere.
+
+[Art.14 lit.f) introdusă prin LP159 din 30.07.26, MO407-409/02.09.26 art. 440; în vigoare 01.01.29]
+
+Articolul 15. – abrogat.
+
+Articolul 16. Competenţa autorităţilor administraţiei
+
+                       publice locale
+
+De competenţa autorităţilor administraţiei publice locale sunt:
+
+a) administrarea, întreţinerea, repararea şi dotarea cu mijloace de semnalizare a drumurilor publice locale şi a construcţiilor rutiere, în conformitate cu exigenţele siguranţei traficului rutier;
+
+b) amenajarea drumurilor publice locale pentru sistematizarea şi organizarea traficului rutier în vederea garantării siguranţei lui;
+
+c) înregistrarea şi evidenţa troleibuzelor, a ciclomotoarelor şi a vehiculelor autopropulsate utilizate la lucrările de construcţii sau agricole, care nu se supun înmatriculării, precum şi a vehiculelor cu tracţiune animală, în corespundere cu regulamentul-tip aprobat de Guvern;
+
+d) întocmirea şi actualizarea planurilor de organizare a traficului în localităţile urbane pentru îmbunătăţirea fluenței şi siguranţei lui şi pentru reducerea pe această cale a gradului de poluare a mediului înconjurător;
+
+e) stabilirea reglementărilor privind regimul de acces, circulaţie, staţionare şi parcare a diferitelor categorii de vehicule;
+
+f) amenajarea trotuarelor pentru pietoni, pistelor pentru bicicliști, drumurilor laterale pentru circulaţia vehiculelor cu tracţiune animală şi a vehiculelor autopropulsate;
+
+g) asigurarea evacuării de pe drumurile publice şi depozitării în locuri special amenajate vehiculelor, a caroseriilor sau subansamblurilor, devenite inutile din punct de vedere tehnic sau abandonate;
+
+h) asigurarea amenajării de locuri speciale pentru păstrarea vehiculelor cu tracţiune animală depistate circulând neregulamentar pe drumurile publice;
+
+i) elaborarea şi aprobarea proiectelor de sistematizare a traficului rutier cu avizul subdiviziunii abilitate din subordinea Inspectoratului General al Poliției din cadrul Ministerului Afacerilor Interne.
+
+Articolul 17. Competenţa asociaţiilor obşteşti
+
+În scopul asocierii eforturilor de prevenire a accidentelor în traficul rutier, asociaţiile obşteşti de protejare a drepturilor şi intereselor participanţilor la trafic rutier au dreptul, potrivit statutului lor, în modul stabilit de legislaţia în vigoare:
+
+a) să înainteze autorităţilor administraţiei publice centrale şi locale propuneri de îmbunătățire a regulilor, standardelor de stat, normelor tehnice şi a altor acte normative din domeniul siguranţei traficului rutier;
+
+b) să realizeze, la solicitarea membrilor asociaţiilor obşteşti, examinarea cauzelor şi circumstanţelor accidentelor produse în trafic rutier, transmiterea materialelor către organele procuraturii şi reprezentarea intereselor membrilor lor în instanţă de judecată;
+
+c) să întreprindă de sine stătător sau în parteneriat cu autorităţile publice abilitate acţiuni de prevenire a accidentelor de trafic rutier.
+
+Capitolul III
+
+CONDUCĂTORII DE VEHICULE.
+
+ORGANIZAREA ACTIVITĂŢII DE FORMARE INIŢIALĂ,
+
+RECALIFICARE ŞI PERFECŢIONARE PERIODICĂ
+
+A CONDUCĂTORILOR DE VEHICULE
+
+Articolul 18. Cerinţele faţă de conducătorul
+
+                      de vehicul
+
+Pentru a conduce vehiculul pe drumurile publice, conducătorul lui trebuie să întrunească condiţiile stabilite și să corespundă normelor minime privind aptitudinile fizice și mintale necesare pentru a poseda dreptul de a conduce vehicule din categoria sau subcategoria vehiculului condus, aprobate de către Guvern, precum şi să dispună de autorizaţia corespunzătoare în cazul efectuării anumitor transporturi.
+
+Articolul 19. Dreptul de a conduce vehicule
+
+(1) Dreptul de a conduce vehicule reprezintă un drept special de a conduce vehicule din anumite categorii și/sau subcategorii, obținut în conformitate cu legislația Republicii Moldova și înregistrat în Registrul de stat al conducătorilor de vehicule. Dreptul de a conduce vehicule se confirmă prin deținerea permisului de conducere, în care este indicată categoria sau subcategoria de vehicul pentru care se deține dreptul de a conduce, sau prin înregistrarea acestui drept în Registrul de stat al conducătorilor de vehicule, cu condiția că persoana care conduce vehiculul deține asupra sa un act de identitate valabil pe numele său.
+
+(2) Persoanele care dețin dreptul de a conduce vehicule înregistrat în Registrul de stat al conducătorilor de vehicule pot conduce vehicule din categoria/subcategoria corespunzătoare pe teritoriul Republicii Moldova, indiferent dacă acestea dețin sau nu permis de conducere de categoria/subcategoria respectivă, cu condiția că persoana care conduce vehiculul dispune de permis de conducere digital generat prin intermediul aplicației guvernamentale integrate a serviciilor electronice sau deține asupra sa un act de identitate valabil pe numele său.
+
+Prevederile prezentului alineat nu se răsfrâng asupra conducătorilor de vehicule care conduc vehicule în trafic internațional.
+
+Articolul 20. Categoriile permisului de conducere
+
+(1) Categoriile şi subcategoriile permisului de conducere se stabilesc de Guvern, în funcţie de tipul, destinaţia şi particularităţile de conducere a vehiculului.
+
+(2) Modelul permisului de conducere se stabileşte de Guvern, în conformitate cu cerinţele tratatelor internaţionale din domeniu la care Republica Moldova este parte.
+
+Articolul 21. Obținerea dreptului de a conduce
+
+                       vehicule și emiterea permisului de
+
+                       conducere
+
+(1) Condițiile de obținere a dreptului de a conduce vehicule, de emitere a permisului de conducere, de generare a permisului de conducere digital prin intermediul aplicației guvernamentale integrate a serviciilor electronice și evidența acestora în Registrul de stat al conducătorilor de vehicule se stabilesc de Guvern.
+
+(2) Persoana care solicită dreptul de a conduce vehicule din anumite categorii și/sau subcategorii trebuie să corespundă condiţiilor de vârstă, să fie aptă din punct de vedere medical, să facă dovada pregătirii teoretice şi practice la cursurile organizate de unităţile licenţiate de instruire a conducătorilor de vehicule şi să susţină examenul de calificare la autoritatea competentă.
+
+(3) Modul de organizare a activităţii didactice în cadrul unităţilor de instruire a conducătorilor de vehicule, precum şi condiţiile de eliberare a certificatului de absolvire în vederea obţinerii dreptului de a conduce vehicule sunt stabilite de Guvern.
+
+(4) Pregătirea teoretică şi practică a solicitanților în cadrul unităţilor de instruire a conducătorilor de vehicule se realizează de cadre didactice atestate, în baza programelor aprobate prin ordin al ministrului educației și cercetării.
+
+(5) Evaluarea persoanelor care au urmat cursurile de pregătire în cadrul unităţilor de instruire a conducătorilor de vehicule în vederea eliberării certificatului de absolvire, precum şi a candidaţilor pentru obţinerea dreptului de a conduce vehicule, se efectuează în baza testelor de verificare a cunoştinţelor teoretice şi a criteriilor de evaluare a aptitudinilor practice aprobate prin ordin al ministrului educației și cercetării, cu avizul autorităţilor competente.
+
+Articolul 211. Redobândirea dreptului de conducere
+
+                        a vehiculului
+
+(1) Anularea dreptului de conducere a vehiculului se dispune de către instanța de judecată în următoarele cazuri:
+
+a) titularul permisului de conducere a fost condamnat printr-o hotărâre judecătorească rămasă definitivă cu pedeapsă penală care prevede anularea dreptului de conducere a vehiculului;
+
+b) titularul permisului de conducere a fost declarat inapt de către cadrele medicale abilitate să testeze medical conducătorii vehiculelor.
+
+(2) Dreptul de conducere anulat poate fi redobândit, în condiții generale, după decăderea temeiurilor de anulare a acestuia, la prezentarea unei dovezi în acest sens, și susținerea de către solicitant, la autoritatea competentă, a examenului de calificare pentru obţinerea dreptului de a conduce vehicule, pe categorii și subcategorii de vehicule solicitate. Suplimentar, în cazul prevăzut la alin. (1) lit. a), dreptul de conducere anulat poate fi redobândit după frecventarea programului probațional antialcoolic și antidrog și expirarea termenului de 4 ani din momentul condamnării.
+
+(21) Sunt degrevați de obligația frecventării programului probațional antialcoolic și antidrog persoanele condamnate pentru infracțiunile prevăzute la art. 264 alin.(1), (3) și (5) și art. 2641 alin. (2) din Codul penal al Republicii Moldova nr. 985/2002.
+
+(3) Organele care asigură executarea pedepsei penale sau sancțiunii contravenționale de privare de dreptul de a conduce vehicule, în termen de până la 10 zile, solicită autorității competente înregistrarea anulării dreptului de a conduce vehicule și remit către aceasta permisele de conducere ridicate pentru anularea lor. După înregistrarea anulării dreptului de a conduce vehicule, permisele de conducere digitale devin indisponibile, fapt comunicat în procesul de verificare a acestora.
+
+Articolul 212. Repunerea în drepturi în cazul
+
+                        suspendării exercitării dreptului
+
+                        special de a conduce mijloace
+
+                        de transport
+
+(1) În cazul suspendării exercitării dreptului special de a conduce vehicule, titularul acestui drept este obligat să se prezinte la subdiviziunea de poliție la care se află spre examinare dosarul de executare a sancțiunii sau la subdiviziunea de poliție în a cărei rază își are domiciliul sau reședința, în termen de 5 zile lucrătoare de la primirea înștiințării scrise privind suspendarea, pentru a preda permisul de conducere.
+
+(2) Neprezentarea nejustificată a titularului dreptului de a conduce vehicule, în termenul prevăzut la alin. (1), la subdiviziunea de poliție pentru predarea permisului de conducere atrage majorarea cu 30 de zile a perioadei de suspendare a exercitării dreptului special de a conduce vehicule.
+
+(3) În cazul prevăzut la alin. (2), majorarea perioadei de suspendare a exercitării dreptului special de a conduce vehicule poate fi dispusă repetat, până la acumularea cumulativă a termenului de 180 de zile stabilit de Codul contravențional.
+
+(4) La expirarea perioadei de suspendare a exercitării dreptului special de a conduce vehicule sau a termenului de 180 de zile menţionat la alin. (3), titularul acestui drept se prezintă la subdiviziunea de poliție la care a predat permisul de conducere pentru a-l ridica.
+
+Articolul 22. Condițiile activității de formare profesională
+
+                      a conducătorilor de vehicule
+
+(1) Pentru autorizarea provizorie a programelor de formare profesională a conducătorilor de vehicule, unitatea de instruire a personalului din domeniul transportului rutier îndeplinește cumulativ următoarele condiții:
+
+a) condiția de onorabilitate;
+
+b) condiția privind baza tehnico-materială;
+
+c) condiția privind competența profesională.
+
+(2) Condiția de onorabilitate se consideră îndeplinită dacă echipa managerială și personalul didactic:
+
+a) nu au fost condamnați pentru infracțiuni care îi fac incompatibili cu activitatea prestată și nu au fost privați, printr-o hotărâre judecătorească definitivă, de dreptul de a ocupa anumite funcții;
+
+b) nu au fost sancționați contravențional pentru încălcări repetate, în decursul unui an calendaristic, ale normelor privind drepturile de muncă, condițiile de plată și de angajare sau privind regimul din domeniul circulației rutiere.
+
+Condiția de onorabilitate rămâne neîndeplinită până la expirarea termenului de prescripție privind răspunderea contravențională, stingerea antecedentelor penale sau reabilitarea judecătorească, după caz.
+
+(3) Condiția privind baza tehnico-materială se consideră îndeplinită dacă solicitantul:
+
+a) dispune, cu drept de proprietate sau cu contract de locațiune/arendă, de săli de studii pentru desfășurarea activităților didactice teoretice/practice (încăperi cu destinație nelocativă), de terenuri de instruire în conducerea vehiculelor, care întrunesc condițiile stabilite în anexa la prezenta lege;
+
+b) dispune, cu drept de proprietate sau cu contract de locațiune/leasing, de un număr de vehicule din categoriile/subcategoriile pentru care se va desfășura instruirea în conducere, corelat cu numărul de ore stabilit în programele de formare profesională, dotate conform condițiilor prevăzute de Regulamentul circulației rutiere;
+
+c) dispune de programe aprobate de Ministerul Educației și Cercetării, cu avizul Ministerului Infrastructurii și Dezvoltării Regionale și al Ministerului Afacerilor Interne;
+
+d) deține echipamente și materiale didactice corespunzătoare conținutului unităților de curs din programele de formare profesională, prevăzute în anexa la prezenta lege;
+
+e) deține itinerare pentru instruirea în conducerea vehiculelor, coordonate cu subdiviziunea poliției cu atribuții în domeniul circulației rutiere și cu subdiviziunea specializată a Inspectoratului General al Poliției.
+
+(4) Condiția privind competența profesională se consideră îndeplinită dacă solicitantul:
+
+a) are profesori de siguranță rutieră și instructori în conducere auto, angajați cu contract individual de muncă, într-un număr corespunzător programelor de formare profesională, conform normelor privind organizarea și funcționarea unităților de instruire a personalului din domeniul transportului rutier, aprobate de către Guvern; și
+
+b) profesorii de siguranță rutieră dețin diplome de studii superioare de licență sau medii de specialitate corespunzătoare unității de curs predate și certificate de competență profesională (microcertificate); și
+
+c) instructorii în conducere auto dețin dreptul de a conduce vehicule, au experiență profesională și dețin certificate de competență profesională (microcertificate);
+
+d) are angajați specialiști, cu contract individual de muncă, pentru unitatea de curs Acțiuni de urgență în traficul rutier, cu studii superioare de licență în domeniul medicinii de urgență sau, după caz, al narcologiei ori are încheiat cu o instituție medico-sanitară publică un contract de prestări servicii pentru predarea unității de curs menționate.
+
+(5) Autorizarea de funcționare provizorie a programelor de formare profesională a conducătorilor de vehicule se realizează în conformitate cu normele metodologice aprobate de către Guvern, cu completarea informațiilor în Sistemul informațional „Registrul unităților de instruire a conducătorilor de vehicule și al formabililor” (în continuare – SI RUICVF).
+
+(6) În cazul în care itinerarul prezentat de către unitatea de instruire a personalului din domeniul transportului rutier este întocmit cu încălcarea prevederilor legislației și poate crea un pericol iminent pentru siguranța traficului rutier, subdiviziunea specializată a Inspectoratului General al Poliției, în cel mult 10 zile lucrătoare de la data prezentării acestuia, înștiințează despre acest fapt unitatea respectivă și prescrie ajustările necesare de itinerar, care sunt obligatorii până la prezentarea unei schițe de itinerar alternative.
+
+Articolul 23. Documentele necesare pentru
+
+                       formarea profesională a conducătorilor
+
+                       de vehicule
+
+(1) Fiecare unitate de instruire a personalului din domeniul transportului rutier, pe durata activității, deține obligatoriu următoarele documente (în copie sau în original):
+
+1) titlul de proprietate sau contractul de locațiune a sălilor de studii, a terenurilor de instruire în conducerea vehiculelor sau, după caz, a locului în care se desfășoară activitatea de instruire în conducerea vehiculelor, precum și schița amplasării elementelor obligatorii necesare procesului de instruire și efectuării probelor de verificare a aptitudinilor și a comportamentului în conducerea vehiculelor, cu dimensiunile acestora;
+
+2) autorizația ce atestă conformitatea sălilor de studii cu normele de sănătate publică, după caz;
+
+3) programe de formare profesională a conducătorilor de autovehicule aprobate de Ministerul Educației și Cercetării, cu avizul Ministerului Infrastructurii și Dezvoltării Regionale și al Ministerului Afacerilor Interne;
+
+4) lista vehiculelor utilizate în procesul de formare profesională cu drept de proprietate, de locațiune sau de leasing, însoțită de certificatele de înmatriculare pentru fiecare vehicul;
+
+5) lista nominală a personalului didactic din cadrul unității de instruire, însoțită de următoarele documente, în copie:
+
+a) pentru profesorii de siguranță rutieră – diploma de studii, certificatul de competență profesională (microcertificatul), permisul de conducere, declarația pe propria răspundere privind lipsa antecedentelor penale;
+
+b) pentru instructorii în conducerea auto – certificatul de competență profesională (microcertificatul), permisul de conducere pentru categoriile/subcategoriile de vehicule pentru care desfășoară activitatea de instruire, declarația pe propria răspundere privind lipsa antecedentelor penale și contravenționale;
+
+c) pentru specialiștii la unitatea de curs Acțiuni de urgență în traficul rutier –diploma de studii superioare de licență în domeniu, certificatul de competență profesională/de perfecționare sau, după caz, contractul de prestări servicii încheiat cu o instituție medico-sanitară publică de profil;
+
+d) pentru managerii unității de instruire a personalului din domeniul transportului rutier – diploma de studii superioare de licență, certificatul de competență profesională (microcertificatul), permisul de conducere, o declarație pe propria răspundere privind lipsa antecedentelor penale și contravenționale;
+
+6) lista resurselor educaționale proprii, conform anexei la prezenta lege;
+
+7) schița itinerarelor pentru instruirea în conducerea vehiculelor, coordonată cu subdiviziunea competentă a Inspectoratului General al Poliției.
+
+(2) Documentele indicate la alin. (1), după caz, vor fi utilizate inclusiv pentru obținerea acreditării, conform art. 28, și prezentate în cadrul controlului de stat, conform art. 27.
+
+Articolul 24. Drepturile unității de instruire
+
+                       a personalului din domeniul
+
+                       transportului rutier
+
+Unitatea de instruire a personalului din domeniul transportului rutier are următoarele drepturi:
+
+a) să înmatriculeze, să exmatriculeze cursanți la/de la programele autorizate provizoriu/acreditate;
+
+b) să organizeze procesul de instruire și să elibereze certificate cursanților care au promovat evaluarea finală;
+
+c) să angajeze și să promoveze diferite categorii de personal (de conducere, didactic, auxiliar), precum și să creeze/dezvolte resurse educaționale;
+
+d) să elaboreze și să aprobe taxele pentru serviciile prestate.
+
+Articolul 25. Obligațiile unității de instruire
+
+                      a personalului din domeniul
+
+                      transportului rutier
+
+(1) Unitatea de instruire a personalului din domeniul transportului rutier organizează formarea profesională a conducătorilor de vehicule conform normelor aprobate de Guvern.
+
+(2) Unitatea de instruire a personalului din domeniul transportului rutier asigură evidența în format digital a datelor aferente procesului de instruire, utilizând SI RUICVF.
+
+(3) Unitatea de instruire a personalului din domeniul transportului rutier efectuează instruirea inițială în conducerea vehiculului numai pe teren special, iar pe drumurile publice – numai pe itinerarele coordonate cu poliția și doar în cazul în care cursantul are dexteritate suficientă în conducerea vehiculului.
+
+(4) Unitatea de instruire a personalului din domeniul transportului rutier antrenează în procesul de instruire numai personal didactic certificat, cu studii corespunzătoare modulului respectiv și angajat în bază de contract.
+
+Articolul 26. – abrogat.
+
+Articolul 27. Controlul și monitorizarea unității
+
+                       de instruire a personalului
+
+                       din domeniul transportului rutier
+
+(1) Controlul agenților economici care prestează servicii de instruire a personalului în domeniul transportului rutier se inițiază și se desfășoară în limitele și în conformitate cu prevederile Legii nr. 131/2012 privind controlul de stat.
+
+(2) Ministerul Afacerilor Interne supraveghează respectarea prevederilor prezentei legi și a legislației cu privire la siguranța circulației rutiere.
+
+(3) Ministerul Afacerilor Interne și Ministerul Educației și Cercetării organizează inspecții de monitorizare a procesului de instruire, conform procedurii de monitorizare postacreditare a Agenției Naționale de Asigurare a Calității în Educație și Cercetare.
+
+(4) Unitatea de instruire a personalului din domeniul transportului rutier și/sau sucursalele acesteia prezintă informațiile și documentele solicitate în cadrul inspecțiilor, asigurând condițiile necesare pentru desfășurarea acestora.
+
+Articolul 28. Evaluarea și acreditarea programelor
+
+                       de formare profesională a conducătorilor
+
+                       de vehicule
+
+(1) Programele de formare profesională a conducătorilor de autovehicule se supun procedurii de evaluare externă a calității în vederea autorizării provizorii/acreditării, conform normelor aprobate de Guvern.
+
+(2) În comisiile de evaluare participă și reprezentanții Ministerului Afacerilor Interne.
+
+(3) Metodologia de evaluare și cuantumul plății pentru serviciile de evaluare se aprobă de către Guvern.
+
+(4) Unitatea de instruire a personalului din domeniul transportului rutier și/sau sucursalele acesteia nu se acreditează în cazul în care se constată cel puțin una dintre următoarele abateri:
+
+a) înmatricularea persoanelor în lipsa contractului de prestare a serviciilor educaționale sau efectuarea pregătirii la programe neautorizate provizoriu/neacreditate;
+
+b) desfășurarea activității de către sucursală fără autorizare provizorie/acreditare;
+
+c) desfășurarea activității de instruire în locuri nedeclarate, implicarea, în procesul de pregătire, a personalului didactic necertificat, precum și utilizarea, în procesul de pregătire practică, a vehiculelor neindicate în dosarul de autorizare provizorie/de acreditare sau care nu sunt dotate corespunzător;
+
+d) falsificarea actelor sau eliberarea certificatelor pentru persoane care nu au frecventat minimumul obligatoriu de ore teoretice și practice prevăzute de programele de studii ori nu au susținut testele de evaluare finală.
+
+Articolul 29. Condițiile pentru formarea profesională
+
+                       a personalului didactic din cadrul unităților
+
+                       de instruire a personalului
+
+                       din domeniul transportului rutier
+
+(1) Profesorii de siguranță rutieră și instructorii în conducere auto sunt admiși la activitatea de formare profesională a conducătorilor de vehicule numai dacă dețin certificat de competență profesională (microcertificat).
+
+(2) Modelul certificatelor de competență profesională pentru profesor de siguranță rutieră și pentru instructor în conducere auto se stabilește de Guvern. Termenul de valabilitate al certificatului de competență profesională este de 5 ani de la data eliberării.
+
+(3) Pentru obținerea certificatului de competență profesională pentru profesor de siguranță rutieră, solicitantul trebuie să dețină diplomă de studii superioare de licență sau medii de specialitate în materie de științe juridice sau în ingineria autovehiculelor rutiere și să urmeze un program de formare profesională acreditat, finalizat cu promovarea examenului de absolvire.
+
+(4) Pentru obținerea certificatului de competență profesională pentru instructor în conducere auto, solicitantul trebuie să dețină cel puțin actul de studii liceale și să urmeze un program de formare profesională acreditat, finalizat cu promovarea examenului de absolvire.
+
+(5) Persoana care solicită eliberarea certificatului de competență profesională pentru profesor de siguranță rutieră sau instructor în conducere auto trebuie, pe lângă condițiile de studii, să îndeplinească următoarele condiții:
+
+a) să aibă vârsta de cel puțin 23 de ani;
+
+b) să dețină de cel puțin 3 ani dreptul de a conduce vehicule pentru minimum categoria pentru care solicită atestarea (pentru profesor de siguranță rutieră – categoria B);
+
+c) să nu fi avut suspendată exercitarea dreptului de conducere a vehiculelor în ultimii 3 ani;
+
+d) să fie aptă din punct de vedere medical pentru desfășurarea activității respective.
+
+(6) Primul certificat de competență profesională pentru instructor în conducere auto se poate obține pentru una sau mai multe dintre categoriile/subcategoriile A/A1, A2, B/B1 și BE.
+
+Articolul 30. Formarea profesională a personalului
+
+                       didactic din cadrul unităților de instruire
+
+                       a personalului din domeniul transportului
+
+                       rutier
+
+(1) Programele de formare profesională și curricula sunt elaborate de prestatorii de servicii educaționale, cu avizul Ministerului Infrastructurii și Dezvoltării Regionale și al Ministerului Afacerilor Interne.
+
+(2) Sunt admise la examenele de obținere a certificatului de competență profesională pentru profesor de siguranță rutieră sau instructor în conducere auto persoanele care au urmat integral programul, prezența fiind consemnată în registrele de evidență.
+
+(3) Pentru înscrierea la program în vederea obținerii certificatului de competență profesională pentru profesor de siguranță rutieră sau instructor în conducere auto, solicitantul depune următoarele acte:
+
+a) cererea, în care se menționează numele și prenumele solicitantului, categoriile de vehicule pentru care se solicită formarea;
+
+b) copia de pe actul de identitate;
+
+c) copia de pe permisul de conducere;
+
+d) copia de pe actul de studii;
+
+e) certificatul de cazier judiciar și certificatul de cazier contravențional;
+
+f) adeverința medicală valabilă – pentru profesor de siguranță rutieră; adeverința medicală a conducătorului de vehicul, avizul consultativ narcologic, valabile – pentru instructor în conducere auto.
+
+Articolul 31. Examenul pentru obținerea certificatului
+
+                      de competență profesională
+
+(1) Examenul pentru obținerea certificatului de competență profesională pentru instructor în conducere auto constă din următoarele probe:
+
+a) proba scrisă, care are drept scop evaluarea cunoașterii regulilor de circulație pe drumurile publice, de exploatare a vehiculului, de siguranță a traficului rutier, de conducere preventivă. Această probă poate fi susținută și în sistem informatic, cu îndosarierea rezultatelor;
+
+b) proba practică în trafic, destinată evaluării competențelor psihopedagogice.
+
+(2) Examenul pentru obținerea certificatului de competență profesională pentru profesor de siguranță rutieră constă din următoarele probe:
+
+a) proba scrisă, care are drept scop evaluarea cunoașterii regulilor de circulație pe drumurile publice, cunoașterii vehiculului, a regulilor de exploatare a vehiculului, de siguranță a traficului rutier, de conducere preventivă. Această probă poate fi susținută și în sistem informatic, cu îndosarierea rezultatelor;
+
+b) proba orală pentru evaluarea competențelor psihopedagogice, care constă în prezentarea unui subiect din domeniul legislației rutiere, al siguranței traficului rutier și al conducerii preventive.
+
+(3) Procedura de examinare, testele și modalitatea de evaluare a probelor teoretice și practice, precum și obiectivele care stau la baza acestor evaluări pentru fiecare categorie sunt stabilite în metodologia de specialitate, aprobată de Ministerul Educației și Cercetării, cu avizul Ministerului Infrastructurii și Dezvoltării Regionale și al Ministerului Afacerilor Interne.
+
+(4) Comisia de examinare se constituie din 5 membri, dintre care un reprezentant al Ministerului Educației și Cercetării, un reprezentant al Ministerului Infrastructurii și Dezvoltării Regionale, un reprezentant al Ministerului Afacerilor Interne și doi reprezentanți ai prestatorului de servicii educaționale.
+
+(5) Rezultatele examenelor se consemnează în borderou, care se întocmește în două exemplare, semnate de către toți membrii comisiei de examinare. Primul exemplar se prezintă la Ministerul Educației și Cercetării, iar cel de-al doilea se păstrează la prestatorul de servicii educaționale.
+
+(6) Certificatele de competență profesională (microcertificatele) se personalizează de către Centrul Tehnologii Informaționale și Comunicaționale în Educație (CTICE), subdiviziune a Ministerului Educației și Cercetării, și se eliberează de către prestatorul de servicii educaționale.
+
+Articolul 311. Registrul de stat al vehiculelor
+
+(1) Registrul de stat al vehiculelor descrie vehiculele supuse înmatriculării și arată drepturile reale ce au ca obiect aceste bunuri.
+
+(2) În cazurile prevăzute de lege, în Registrul de stat al vehiculelor pot fi notate drepturi, fapte sau raporturi juridice dacă au legătură cu vehiculele cuprinse în acest registru.
+
+(3) Procedura de înregistrare, înregistrare provizorie, notare sau radiere în Registrul de stat al vehiculelor și alte aspecte legate de funcționarea sa se reglementează prin hotărâre de Guvern.
+
+Articolul 312. Înregistrările în Registrul de stat
+
+                        al vehiculelor
+
+(1) Dacă legea nu prevede altfel, drepturile reale asupra vehiculelor înmatriculate în Registrul de stat al vehiculelor se constituie, se transmit, se grevează cu alte drepturi reale numai prin înregistrare în Registrul de stat al vehiculelor, pe baza actului sau faptului care întemeiază înregistrarea în condițiile legii. Dacă legea nu prevede altfel, drepturile reale asupra vehiculelor înmatriculate în Registrul de stat al vehiculelor se sting numai prin radierea lor din registrul de publicitate prevăzut de lege, cu consimțământul titularului, exprimat în forma prevăzută de lege.
+
+(2) Dispozițiile alin. (1):
+
+a) nu împiedică recunoașterea dreptului de proprietate asupra vehiculelor dobândite în mod legal în afara Republicii Moldova înainte de înmatricularea în Registrul de stat al vehiculelor;
+
+b) nu se aplică grevărilor cu acele drepturi reale care, conform legii, se supun înregistrării în Registrul garanțiilor reale mobiliare.
+
+Articolul 313. Drepturile, actele sau faptele supuse
+
+                        notării
+
+(1) În afara altor cazuri prevăzute de lege sunt supuse notării în Registrul de stat al vehiculelor:
+
+a) reutilarea care a condus la modificarea datelor de evidență a vehiculului;
+
+b) prezența la vehicul a unui număr de identificare nimicit intenționat, falsificat sau contrafăcut;
+
+c) aflarea vehiculului în căutare națională sau internațională.
+
+(2) Faptele prevăzute la alin. (1) lit. b) și c) nu împiedică înmatricularea vehiculului în Registrul de stat al vehiculelor și nici efectuarea înregistrărilor în folosul dobânditorilor de drepturi dacă nu sunt notate interdicții conform legii.
+
+Capitolul IV
+
+DREPTURILE ŞI OBLIGAŢIILE
+
+PARTICIPANŢILOR LA TRAFIC RUTIER
+
+Articolul 32. Modalităţile de garantare a drepturilor
+
+                       participanţilor la trafic rutier.
+
+                       Obligaţiile lor.
+
+(1) Dreptul participanţilor la trafic rutier de a circula în siguranţă pe drumurile publice este garantat de stat şi se asigură prin executarea prezentei legi, actelor legislative şi normative din domeniu şi tratatelor internaţionale la care Republica Moldova este parte.
+
+(2) Exercitarea drepturilor de către unii participanţi la trafic nu trebuie să lezeze drepturile altor participanţi la el.
+
+(3) Participanţii la trafic au dreptul:
+
+a) la circulaţie liberă, fără impedimente, pe drumurile publice, în conformitate cu regulile aprobate, la informaţii veridice, din partea administratorilor de drumuri, despre condiţiile de deplasare în siguranţă şi cauzele restricţiilor de circulaţie;
+
+b) la asistenţă medicală urgentă, conform legislaţiei în vigoare, în caz de accidentare în trafic rutier;
+
+c) la repararea prejudiciului, în modul prevăzut de legislaţia în vigoare, în caz de leziuni corporale, deteriorare a vehiculelor şi/sau a bunurilor ca urmare a unui accident în trafic rutier;
+
+d) la contestarea, în modul prevăzut de legislaţia în vigoare, a acţiunilor nelegitime ale persoanelor cu funcţie de răspundere din domeniul siguranţei traficului rutier.
+
+(4) Participanţii la traficul rutier sunt obligaţi:
+
+a) să cunoască şi să respecte prevederile prezentei legi, ale altor acte legislative şi ale actelor normative în vigoare în domeniu;
+
+b) să manifeste un comportament care să asigure fluența şi siguranţa traficului, să nu pericliteze siguranţa unor alţi participanţi la trafic, să nu cauzeze prejudicii mediului înconjurător, proprietăţii publice sau private;
+
+c) să respecte semnalele agentului de circulaţie;
+
+d) să acorde prioritate vehiculelor speciale cu drept prioritar de circulaţie, cu dispozitivele de semnalizare luminoasă şi/sau sonoră puse în funcţiune.
+
+Articolul 33. Drepturile şi obligaţiile proprietarului
+
+                      şi ale conducătorului de vehicul
+
+(1) Proprietarul de vehicul sau, după caz, mandatarul acestuia este obligat:
+
+a) să înmatriculeze sau, după caz, să înregistreze vehiculul în modul stabilit, să-l menţină în starea tehnică corespunzătoare şi să-l supună la timp inspecţiei tehnice periodice;
+
+b) la cererea poliţiei, să comunice, în termenul solicitat, datele privind identitatea persoanei căreia i-a încredinţat vehiculul pentru a fi condus pe drumuri publice;
+
+c) să se documenteze dacă persoana căreia îi încredinţează vehiculul deține dreptul de a conduce vehicule corespunzător categoriei din care face parte vehiculul;
+
+d) să nu încredinţeze vehiculul unei persoane aflate într-o vădită stare de oboseală, în stare de ebrietate, sub influenţa drogurilor sau altor substanţe cu efecte similare;
+
+e) să nu încredinţeze vehiculul dacă ştie că acesta are defecțiuni tehnice de natură să afecteze siguranţa traficului rutier;
+
+f) să nu fraudeze și/sau să nu admită fraudarea datelor odometrului.
+
+(2) Conducătorul de vehicul are dreptul:
+
+a) să conducă vehiculul, să transporte pasageri şi bunuri pe drumuri publice;
+
+b) să acorde, în modul stabilit, dreptul de a conduce şi utiliza vehiculul proprietate personal altor persoane care dețin dreptul de a conduce vehicule din categoria/subcategoria respectivă;
+
+c) să i se comunice motivul pentru care agentul de circulaţie i-a oprit vehiculul, numele şi funcţia acestuia;
+
+d) să se abată de la exigenţele respective ale legii atunci când trebuie să prevină un accident în trafic rutier şi să nu pună în pericol viaţa sau integritatea corporală a persoanelor dacă, în virtutea împrejurărilor, pericolul nu poate fi evitat altfel.
+
+(3) Conducătorul de vehicul este obligat:
+
+a) să cunoască şi să respecte Regulamentul circulaţiei rutiere;
+
+b) să urmeze periodic controlul medical, în funcţie de categoriile şi subcategoriile de vehicule. Periodicitatea se stabileşte de Guvern;
+
+c) să se supună, la solicitarea agentului de circulaţie, procedurii de testare a aerului expirat şi examenului medical de recoltare a probelor biologice în vederea constatării alcoolemiei ori consumului de droguri şi de alte substanţe psihotrope sau de medicamente cu efecte similare.
+
+d) să aplice în trafic norme de conducere preventivă și să nu adopte comportament agresiv, manifestat prin acţiuni precum:
+
+1) deplasarea succesivă, neregulamentară, de pe o bandă de circulaţie pe alta în scopul devansării, ocolirii vehiculelor;
+
+2) efectuarea manevrei de întoarcere prin folosirea sistemului de frânare;
+
+3) pornirea de pe loc a vehiculului prin demarare bruscă;
+
+4) agresarea conducătorului unui vehicul prin apropierea excesivă din spate sau din lateral, în mod repetat sau continuu, prin gesturi, cuvinte sau expresii obscene;
+
+5) folosirea repetată a semnalelor sonore şi/sau luminoase pentru obligarea conducătorului vehiculului care circulă regulamentar în faţa sa de a elibera, în mod nejustificat, banda de circulaţie;
+
+6) neasigurarea între două vehicule cu masa maximă autorizată mai mare de 3,5 tone, care circulă pe aceeaşi bandă în afara localităţii, a spaţiului necesar revenirii pe bandă a unui vehicul care a efectuat depăşirea;
+
+7) frânarea bruscă a vehiculului, în mod nejustificat, la revenirea pe bandă, imediat după depăşirea unui vehicul, obligând conducătorul acestuia să schimbe direcția de mers sau să frâneze brusc pentru a evita impactul;
+
+8) depăşirea unei coloane de vehicule, obligate să oprească sau să încetinească la pătrunderea într-o intersecție, la trecerea la nivel cu calea ferată sau în caz de forţă majoră, în scopul de a plasa vehiculul în faţă sau în interiorul coloanei;
+
+9) circulaţia cu viteză în limita stabilită sau depășind această limită la o distanţă foarte redusă faţă de un alt vehicul, înaintea, în spatele acestuia ori în lateral, în scopul agresării sau intimidării conducătorului acestuia;
+
+10) conducerea unui ciclomotor sau a unei motociclete pe o singură roată ori a unui cvadriciclu pe cele două roți din spate;
+
+11) circulaţia cu viteză redusă nejustificat pe o altă bandă decât prima, împiedicând circulaţia regulamentară a vehiculelor care se deplasează în urma sa;
+
+12) mersul înapoi cu spatele în scopul agresării sau intimidării celorlalţi participanţi la circulaţie;
+
+13) deplasarea neautorizată în grup (câte doi și mai mulți, cu excepţia coloanelor oficiale) cu vehicule și/sau motociclete sau ciclomotoare care circulă pe aceeaşi bandă sau pe benzi paralele, depășind limita de viteză ori cu viteză redusă nejustificat, sau fără asigurarea între oricare două vehicule consecutive a spaţiului necesar revenirii pe bandă a unui vehicul care a efectuat depăşirea.
+
+Articolul 34. Drepturile şi obligaţiile pasagerului
+
+(1) Pasagerului i se garantează:
+
+a) furnizarea promptă de informaţie corectă privind condiţiile şi modul de deplasare;
+
+b) deplasarea sa şi transportul bagajului în siguranţă;
+
+c) repararea prejudiciului cauzat.
+
+(2) Pasagerul trebuie să respecte prevederile Regulamentului circulaţiei rutiere referitor la obligaţiile sale.
+
+Articolul 35. Drepturile şi obligaţiile pietonului
+
+(1) Pietonul are dreptul să ceară autorităţilor competente, proprietarilor de drumuri publice, străzi, treceri la nivel cu calea ferată şi de alte construcţii rutiere asigurarea de condiţii pentru deplasare în siguranţă.
+
+(2) Pietonul este obligat să respecte prevederile Regulamentului circulaţiei rutiere privind comportamentul pe drumurile publice.
+
+Articolul 36. Drepturile şi obligaţiile bicicliştilor,
+
+                       conducătorilor de vehicule cu tracţiune
+
+                       animală şi ale pietonilor cu cărucioare
+
+                       manual
+
+(1) Bicicliştii, conducătorii de vehicule cu tracţiune animală şi pietonii cu cărucioare manuale au dreptul să utilizeze drumurile publice conform Regulamentului circulaţiei rutiere.
+
+(2) Bicicliştii, conducătorii de vehicule cu tracţiune animală şi pietonii cu cărucioare manuale sunt obligaţi să cunoască şi să respecte Regulamentul circulaţiei rutiere.
+
+Capitolul V
+
+ADMITEREA ŞI MENŢINEREA ÎN TRAFIC RUTIER.
+
+RADIEREA DIN REGISTRUL DE STAT
+
+AL VEHICULELOR
+
+Articolul 37. Condiţii privind circulaţia vehiculelor
+
+                       şi inspecţia tehnică periodică a
+
+                       acestora
+
+(1) Se admit în trafic rutier vehiculele a căror stare tehnică şi al căror utilaj corespund standardelor, altor acte normative ce ţin de siguranţa traficului, de protecţia mediului înconjurător, precum şi normelor tehnice de exploatare.
+
+(2) Vehiculele a căror masă sau al căror gabarit depăşeşte parametrii normativi pot circula pe drumuri publice numai cu autorizaţia de rigoare.
+
+(3) Vehiculele aflate în trafic internaţional pot circula pe drumurile publice ale Republicii Moldova numai în cazul în care îndeplinesc condiţiile tehnice prevăzute de Convenţia asupra circulaţiei rutiere, încheiată la Viena la 8 noiembrie 1968, la care Republica Moldova este parte.
+
+(4) Vehiculele care au volanul amplasat pe partea dreaptă nu pot circula pe drumurile publice ale Republicii Moldova dacă nu îndeplinesc condițiile tehnice prevăzute în Regulamentul circulației rutiere, cu excepția vehiculelor aflate în traficul internațional.
+
+(5) Pentru a fi menţinute în trafic rutier, vehiculele înmatriculate se supun inspecţiei tehnice periodice.
+
+(6) Inspecţia tehnică periodică se efectuează la staţii autorizate, în condiţiile stabilite de legislaţia în vigoare.
+
+(7) Pentru vehiculele care aparţin Ministerului Apărării, Ministerului Afacerilor Interne, Administrației Naționale a Penitenciarelor, Serviciului de Protecţie şi Pază de Stat, Serviciului de Informaţii şi Securitate, precum şi parcurilor de transport electric urban, inspecţia tehnică periodică poate fi efectuată şi la propriile staţii specializate.
+
+(8) Este interzisă circulaţia pe drumuri publice a vehiculelor care nu corespund prevederilor tehnice sau al căror termen de valabilitate a inspecţiei tehnice periodice a expirat.
+
+(9) Constatarea defecţiunilor tehnice la vehiculele aflate în trafic o efectuează subdiviziunea abilitată din subordinea Inspectoratului General al Poliției din cadrul Ministerului Afacerilor Interne.
+
+(10) Nomenclatorul defecţiunilor tehnice ale vehiculelor şi condiţiile în care se interzice circulaţia lor pe drumurile publice sunt prevăzute în Regulamentul circulaţiei rutiere.
+
+(11) Constatarea stării tehnice a vehiculelor se efectuează cu mijloace de măsurare legalizate şi verificate metrologic în modul stabilit.
+
+Articolul 38. Obligaţiile producătorului şi ale
+
+                       reutilatorului de vehicule
+
+(1) Construcţia şi reutilarea vehiculelor prin modificarea tipului, modelului, destinaţiei sau parametrilor constructivi trebuie să corespundă standardelor, regulilor şi actelor normative privind siguranţa traficului rutier şi protecţia mediului înconjurător.
+
+(2) Producătorul şi reutilatorul de vehicule sau reprezentanţii lor autorizați, persoanele care importă echipamente şi accesorii, construiesc şi reutilează vehicule din subansambluri şi piese detaşate sunt obligaţi să solicite evaluarea conformităţii acestora cu cerinţele de siguranţă şi de protecţie a mediului înconjurător.
+
+(3) În prealabil producerii lor în serie, vehiculele şi subansamblurile se supun testării şi evaluării conformităţii, eliberându-se pentru ele certificat de corespundere standardelor şi cerinţelor tehnice.
+
+(4) Reutilarea care a condus la modificarea datelor de evidenţă ale vehiculului trebuie să fie reflectată în certificatul de înmatriculare.
+
+(5) Reutilarea vehiculelor se efectuează de către întreprinderile autorizate de Agenția Națională Transport Auto, în conformitate cu documentația tehnică specifică a producătorului vehiculului ce urmează a fi modificat și cu documentația tehnică specifică proprie, elaborată potrivit reglementărilor tehnice.
+
+(6) Construcţia, reutilarea, repararea şi inspecţia tehnică periodică a vehiculelor se efectuează de către un personal specializat, cu mijloace de măsurare adecvate, legalizate şi verificate metrologic, pe standuri de încercări atestate metrologic în modul stabilit, conform legislaţiei şi actelor normative în vigoare.
+
+Articolul 39. Omologarea şi certificarea
+
+(1) Pentru a fi înmatriculate şi admise în trafic rutier, vehiculele trebuie să fie omologate şi certificate în baza condiţiilor tehnice şi a metodologiei stabilite de Ministerul Infrastructurii și Dezvoltării Regionale.
+
+(2) Prin omologare şi certificare pentru admitere în trafic rutier se verifică gradul de corespundere a vehiculelor cu normele tehnice, cu exigenţele de siguranţă a traficului şi de protecţie a mediului, precum şi utilizarea lor la destinaţie.
+
+(3) Caracteristicile constructive sau de folosinţă ale vehiculelor omologate sau certificate pentru a fi admise în trafic rutier nu pot fi modificate decât în condiţiile legii.
+
+(4) Categoriile de vehicule care pot fi admise în trafic rutier fără a fi omologate se stabilesc prin ordin al ministrului infrastructurii și dezvoltării regionale.
+
+Articolele 40. - 52. - abrogate.
+
+Articolul 53. Înmatricularea sau înregistrarea
+
+                       vehiculelor
+
+(1) Proprietarul este obligat să înmatriculeze vehiculul ori să îl înregistreze, după caz, în modul stabilit, înainte de a-l pune în circulaţie.
+
+(2) Pentru a circula pe drumuri publice, vehiculele, cu excepţia cărucioarelor manuale şi a bicicletelor, trebuie să fie înmatriculate ori înregistrate şi să poarte plăci cu număr de înmatriculare sau de înregistrare de un model prevăzut în standardele în vigoare.
+
+(21) Este interzisă circulația pe drumurile publice a vehiculelor cu plăcile cu număr de înmatriculare neutru sau cu plăcile cu număr de înmatriculare eliberate în unitățile administrativ-teritoriale din stânga Nistrului și municipiul Bender în cazul conducătorilor de vehicule care au domiciliul în altă localitate decât localitățile din stânga Nistrului, municipiul Bender ori localitățile Gîsca, Chițcani, Zahorna, Merenești și Cremenciug din raionul Căușeni, precum și circulația vehiculelor cu plăcile cu număr de înmatriculare dintr-un stat străin nerecunoscut de Republica Moldova.
+
+(22) Prin derogare de la alineatul (21) se permite circulația pe drumurile publice a vehiculelor cu plăcile cu număr de înmatriculare neutru sau cu plăcile cu număr de înmatriculare eliberate în unitățile administrativ-teritoriale din stânga Nistrului și municipiul Bender în cazul conducătorilor de vehicule care dețin dreptul de a conduce vehicule și/sau permis de conducere al Republicii Moldova, emis în modul stabilit de legislația națională, și domiciliază pe teritoriul Republicii Moldova, dacă vehiculele sunt în proprietatea agenților economici din unitățile administrativ-teritoriale din stânga Nistrului, municipiul Bender sau din localitățile Gîsca, Chițcani, Zahorna, Merenești și Cremenciug din raionul Căușeni, înregistrați la organul înregistrării de stat al Republicii Moldova, și dacă conducătorii de vehicule sunt angajați ai acestora.
+
+(3) Vehiculele se înmatriculează, în modul stabilit, la autoritatea competentă în a cărei rază teritorială proprietarii sau deţinătorii îşi au domiciliul ori reşedinţa.
+
+(4) Vehiculele din dotarea Ministerului Apărării, Ministerului Afacerilor Interne şi Serviciului de Informaţii şi Securitate se înregistrează în cadrul acestor instituţii şi pot, după caz, să fie înmatriculate în condiţiile prevăzute la alin.(3).
+
+(5) – abrogat.
+
+(6) Troleibuzele, ciclomotoarele şi vehiculele autopropulsate utilizate în lucrări de construcţii de drumuri sau în lucrări agricole, care nu se supun înmatriculării, precum şi vehiculele cu tracţiune animală se înregistrează la autoritatea administraţiei publice locale, care ţine evidenţa lor.
+
+Articolul 54. Certificatul şi numărul de înmatriculare
+
+(1) Autoritatea care efectuează înmatricularea vehiculului eliberează proprietarului sau mandatarului certificatul de înmatriculare și plăcile de număr de înmatriculare fie la ghișeu, fie cu livrare prin intermediul serviciului guvernamental de livrare (MDelivery), conform solicitării proprietarului sau mandatarului, depusă la ghișeu sau în format electronic. În cazul în care proprietarul vehiculului este o societate de leasing, în certificatul de înmatriculare sau de înregistrare se vor menționa, în mod obligatoriu, datele de identificare ale utilizatorului.
+
+(11) Certificatul de înmatriculare digital este un act ce confirmă înmatricularea vehiculului și poate fi generat prin intermediul aplicației guvernamentale integrate a serviciilor electronice pe dispozitivul inteligent (telefon sau tabletă) al proprietarului vehiculului sau mandatarului.
+
+(12) Certificatul de înmatriculare digital conține datele stabilite de către Guvern, care sunt preluate în regim automatizat din Registrul de stat al vehiculelor, și, suplimentar, un identificator electronic (cod QR).
+
+(13) În cazul actualizării în Registrul de stat al vehiculelor a informațiilor incluse în certificatul de înmatriculare, certificatul de înmatriculare digital se anulează în regim automatizat și un certificat nou este generat în baza informațiilor curente.
+
+(14) Proprietarul vehiculului înmatriculat în Republica Moldova sau mandatarul acestuia poate genera certificatul de înmatriculare digital fără perceperea unor plăți.
+
+(15) Pentru vehiculele înmatriculate în Republica Moldova se pot elibera concomitent un certificat de înmatriculare pe suport material și un certificat de înmatriculare digital.
+
+(16) Certificatul de înmatriculare digital permite titularului acestuia exploatarea vehiculului în traficul rutier național.
+
+(2) Pentru vehiculele prevăzute la art. 53 alin.(4) şi (6), autoritatea competentă eliberează proprietarilor sau mandatarilor certificate şi plăci cu număr de înmatriculare sau atribuie număr de înregistrare, conform categoriei/ subcategoriei din care fac parte vehiculele.
+
+(3) Modelul certificatului de înmatriculare pe suport material și modelul certificatului de înmatriculare digital, precum și cel al certificatului de înregistrare se stabilesc de Guvern.
+
+(4) Tipurile, structura, dimensiunile plăcilor cu număr de înmatriculare, modul de compunere a numărului pe placă, condiţiile privind montarea plăcilor se stabilesc în standardul de stat.
+
+(5) Este interzisă punerea în circulaţie a vehiculului înmatriculat sau înregistrat care nu are montate plăci cu număr de înmatriculare sau de înregistrare atribuite de autoritatea competentă ori dacă acestea nu sunt conforme standardelor în vigoare sau al cărui certificat de înmatriculare sau de înregistrare este reţinut, iar dovada lui înlocuitoare este eliberată fără drept de circulaţie.
+
+(6) Înmatricularea, înregistrarea sau atribuirea unui număr provizoriu vehiculului se anulează de autoritatea care a efectuat-o dacă se constată că au fost încălcate normele legale referitoare la aceste operaţiuni.
+
+(7) Suspendarea înmatriculării intervine de drept în următoarele cazuri:
+
+a) la expirarea valabilității inspecției tehnice periodice;
+
+b) la constatarea, în cadrul inspecției tehnice periodice, a unor defecțiuni tehnice majore și/sau periculoase;
+
+c) la constatarea, în trafic, a unor defecțiuni tehnice majore și/sau periculoase.
+
+(8) Suspendarea înmatriculării în condițiile alin. (7) lit. a) se aplică automat, prin înscrierea mențiunii corespunzătoare în Registrul de stat al vehiculelor, în baza informațiilor transmise prin intermediul sistemelor informaționale corespunzătoare. Suspendarea înmatriculării în condițiile alin. (7) lit. b) și c) se aplică automat, prin înscrierea mențiunii corespunzătoare în Registrul de stat al vehiculelor, în baza informațiilor transmise prin intermediul sistemelor informaționale corespunzătoare, după expirarea termenului de 30 de zile de la data constatării defecțiunilor.
+
+(9) Cu cel puțin 10 zile înainte de data expirării termenului de valabilitate al inspecției tehnice periodice, conform informațiilor din Sistemul informațional „Autotest”, expertul responsabil de activitatea de inspecție tehnică și/sau managerul stației de inspecție tehnică notifică despre aceasta titularul certificatului de înmatriculare.
+
+(10) Datele privind efectuarea inspecției tehnice periodice sau repetate sunt introduse de către stațiile de testare tehnică autorizate prin intermediul Sistemului informațional „Autotest”.
+
+(11) Datele privind constatarea defecțiunilor periculoase în trafic sunt introduse de către agenții constatatori ai Agenției Naționale Transport Auto și ai Poliției prin intermediul Sistemului informațional automatizat de evidență a contravențiilor, a cauzelor contravenționale și a persoanelor care au săvârșit contravenții.
+
+(12) Schimbul de date între sistemele informaționale de stat are loc cu respectarea cadrului de interoperabilitate și a măsurilor de asigurare a cerințelor de interoperabilitate juridică, organizatorică, semantică și tehnică stabilite prin Legea nr. 142/2018 cu privire la schimbul de date și interoperabilitate.
+
+(13) Suspendarea înmatriculării încetează de drept la data eliberării certificatului de inspecție tehnică, care confirmă că vehiculul corespunde normelor tehnice pentru a fi admis în trafic.
+
+(14) Se permite exploatarea vehiculului a cărui înmatriculare a fost suspendată conform alin. (7) lit. b) și c), pe o perioadă de 30 de zile calendaristice de la suspendare, exclusiv pentru înlăturarea defecțiunilor tehnice constatate în cadrul inspecției tehnice periodice și efectuarea unei noi inspecții tehnice periodice, cu excepția vehiculelor la care au fost constatate defecțiuni tehnice periculoase.
+
+(15) Procedura de aplicare a suspendării înmatriculării, evidența, precum și modalitatea de transmitere a informațiilor se stabilesc de către Guvern.
+
+Articolul 55. Radierea din Registrul de stat
+
+                      al vehiculelor
+
+(1) Radierea vehiculelor din Registrul de stat al vehiculelor se face de către autoritatea care a efectuat înmatricularea sau înregistrarea, la cererea proprietarului, în următoarele cazuri:
+
+a) proprietarul sau mandatarul doreşte retragerea din circulaţie a vehiculului şi face dovada depozitării acestuia în afara domeniului public;
+
+b) proprietarul sau mandatarul face dovada dezmembrării, casării sau predării vehiculului la unităţi specializate;
+
+c) vehiculul urmează să fie scos definitiv din Republica Moldova.
+
+(2) Radierea din evidenţă a vehiculului indisponibilizat prin instituirea de sechestru se poate face prin hotărâre judecătorească, conform legii, de către autoritatea care a efectuat înmatricularea sau înregistrarea.
+
+(3) Este interzisă circulaţia pe drumurile publice a vehiculelor radiate din Registrul de stat al vehiculelor, cu excepţia cazului prevăzut la alin.(1) lit. c).
+
+(4) Vehiculul declarat prin hotărâre judecătorească fără stăpân sau abandonat se radiază din oficiu în termen de 30 de zile de la adoptarea hotărârii.
+
+Capitolul VI
+
+SIGURANŢA INFRASTRUCTURII RUTIERE.
+
+ASIGURAREA MEDICALĂ ÎN SIGURANŢA
+
+TRAFICULUI RUTIER
+
+Articolul 56. Actele normative şi acţiunile privind
+
+                       semnalizarea rutieră
+
+(1) Organizarea, sistematizarea şi reglementarea traficului rutier se efectuează în baza Regulamentului circulaţiei rutiere, standardelor şi altor acte normative privind siguranţa traficului rutier, aprobate de Guvern, precum şi a tratatelor internaţionale la care Republica Moldova este parte.
+
+(2) Actele legislative, actele normative şi standardele de stat cu privire la traficul rutier trebuie să asigure desfăşurarea în plină siguranţă a circulaţiei rutiere.
+
+(3) Acţiunile de organizare, de sistematizare şi de reglementare a traficului rutier se efectuează în vederea creşterii siguranţei lui şi capacităţii de trafic a drumurilor.
+
+(4) Semnalizarea rutieră se efectuează, potrivit Regulamentului circulaţiei rutiere, prin indicatoare, marcaje şi semnale luminoase, precum şi prin semnalele agenţilor de circulaţie.
+
+(5) Mijloacele de semnalizare rutieră se constituie într-un sistem unitar coerent, se realizează şi se instalează astfel încât să fie observate cu ușurință şi din timp şi trebuie să fie în deplină concordanţă între ele şi într-o stare tehnică de funcţionare corespunzătoare. Mijloacele de semnalizare rutieră şi alte dispozitive speciale se execută, se instalează, cu avizul poliţiei, şi se întreţin de către administratorul de drum.
+
+Articolul 57. Obligaţiile administratorului de drum
+
+(1) Autorităţile administraţiei publice locale sau, după caz, antreprenorul ori executantul lucrărilor de drum sunt obligaţi, în corespundere cu avizul Ministerului Afacerilor Interne, cu reglementările tehnice şi cu standardele de stat în vigoare, să semnalizeze lucrările prin aplicarea de marcaje, instalarea de indicatoare sau de alte dispozitive speciale, pe care le menţin în permanentă stare de funcţionare.
+
+(2) Administratorul de drum este obligat să semnalizeze corespunzător, cât mai urgent orice obstacol, aflat pe partea carosabilă sau pe acostament, care stânjenește sau pune în pericol siguranţa traficului şi să ia toate măsurile de înlăturare a acestui obstacol.
+
+(3) Administratorul drumului este obligat să amenajeze, cu avizul subdiviziunii abilitate din subordinea Inspectoratului General al Poliției din cadrul Ministerului Afacerilor Interne, staţiile vehiculelor de rută.
+
+(4) Se interzice amplasarea construcţiilor de orice fel şi practicarea comerţului pe acostament sau pe partea carosabilă, iar în afara localităţilor, şi în zona de siguranţă a drumului public.
+
+(5) În perimetrul staţiilor vehiculelor de rută pot fi amenajate doar spaţii:
+
+a) de aşteptare pentru călători;
+
+b) de comercializare a biletelor de călătorie.
+
+(6) În caz de producere a unui accident în trafic rutier ca urmare a stării drumului, dotării lui necorespunzătoare sau incorecte cu mijloace de semnalizare, administratorul de drum, antreprenorul ori executantul lucrărilor de drum poartă răspundere în conformitate cu legislaţia în vigoare.
+
+(7) Orice măsură de restricţie a circulaţiei pe drumurile publice este dispusă de administratorul de drum numai cu avizul subdiviziunii abilitate din subordinea Inspectoratului General al Poliției din cadrul Ministerului Afacerilor Interne.
+
+(8) Prin derogare de la alin.(7), pe banda de urgenţă, destinată staţionării vehiculelor numai în cazuri justificate, precum şi circulaţiei vehiculelor cu regim prioritar care se deplasează la intervenţii sau în misiuni cu caracter de urgenţă, subdiviziunea abilitată din subordinea Inspectoratului General al Poliției din cadrul Ministerului Afacerilor Interne poate dispune, fără acordul administratorului de drum, măsuri temporare de restricţie.
+
+(9) Pentru desfăşurarea în siguranţă a circulaţiei pe drumurile publice ori din motive de securitate naţională, subdiviziunea abilitată din subordinea Inspectoratului General al Poliției din cadrul Ministerului Afacerilor Interne poate solicita administratorului de drum executarea sau, după caz, desfiinţarea de amenajări rutiere.
+
+(10) Administratorul de drum este obligat să stabilească, la sesizarea poliţiei, limitări de viteză sau alte reglementări de circulaţie în zonele cu risc sporit de accident de pe sectoarele de drum aflate în administrarea sa şi să ia măsuri de amenajare.
+
+(11) Se interzice amplasarea, în zona drumurilor publice, de construcţii, panouri sau dispozitive ce pot fi confundate cu indicatoarele de semnalizare rutieră ori a amenajărilor ce pot distrage atenţia participanţilor la trafic, punând în pericol siguranţa circulaţiei.
+
+(12) Prin derogare de la alin. (11), construcțiile, panourile sau alte dispozitive ce nu pot fi confundate cu indicatoarele de semnalizare rutieră pot fi amplasate în zona de protecție a drumurilor cu coordonarea prealabilă (prin avizare) a proiectului cu subdiviziunea abilitată din subordinea Inspectoratului General al Poliției din cadrul Ministerului Afacerilor Interne. Autoritatea publică locală este responsabilă de coordonarea prealabilă a proiectului cu administratorul de drum și cu subdiviziunea abilitată din subordinea Inspectoratului General al Poliției din cadrul Ministerului Afacerilor Interne, care se efectuează în procesul de autorizare a lucrărilor de construcții, în conformitate cu Legea drumurilor nr. 509/1995.
+
+Articolul 58. - abrogat.
+
+Articolul 59. Asigurarea medicală în siguranţa
+
+                      traficului rutier
+
+(1) Asigurarea medicală în siguranţa traficului rutier rezidă în:
+
+a) examinarea, reexaminarea medicală obligatorie a conducătorilor şi a candidaţilor la conducători de vehicule;
+
+b) efectuarea de teste medicale la ieşirea pe rută, la întoarcere şi examinarea curentă;
+
+c) acordarea de asistenţă medicală persoanelor traumatizate în accidente în trafic rutier;
+
+d) instruirea participanţilor la trafic rutier, angajaţilor poliţiei şi ai altor structuri specializate privind acordarea de prim ajutor medical în caz de accident în traficul rutier.
+
+(2) Examinarea, reexaminarea medicală obligatorie a conducătorilor şi a candidaţilor la conducători de vehicule se efectuează pentru a se stabili contraindicaţii sau restricţii în activitatea lor.
+
+(3) Cadrele medicale abilitate să testeze medical conducătorii de vehicule sunt obligate să informeze unitatea subdiviziunii abilitate din subordinea Inspectoratului General al Poliției din cadrul Ministerului Afacerilor Interne în a cărei rază teritorială îşi desfăşoară activitatea despre persoanele constatate inapte de a mai fi titular al dreptului de a conduce vehicule în vederea suspendării acestuia în modul stabilit.
+
+Articolul 60. Finanțarea acțiunilor aferente
+
+                       siguranței rutiere
+
+Finanțarea acțiunilor aferente siguranței rutiere este asigurată în limita alocațiilor aprobate în acest scop în bugetele autorităților/instituțiilor publice implicate.
+
+Capitolul VII
+
+RĂSPUNDEREA
+
+Articolul 61. Răspunderea
+
+Persoanele fizice şi persoanele juridice vinovate de încălcarea dispoziţiilor prezentei legi poartă răspundere în conformitate cu legislaţia în vigoare.
+
+Capitolul VIII
+
+DISPOZIŢII FINALE
+
+Articolul 62.
+
+Guvernul, în termen de 6 luni, va aduce actele sale normative în concordanţă cu prezenta lege.
+
+PREŞEDINTELE PARLAMENTULUI                                        Marian LUPU
+
+Nr. 131-XVI. Chişinău, 7 iunie 2007.
+
+Anexă
+
+Condiţii minime
+
+de dotare cu echipamente şi materiale
+
+didactice pentru desfăşurarea activităţii de instruire
+
+a conducătorilor de vehicule şi/sau a instructorilor
+
+în conducere auto
+
+Secţiunea 1
+
+Dotarea spaţiilor pentru lecţiile teoretico-practice
+
+1. Materiale didactice necesare pentru dotarea auditoriului destinat lecţiilor teoretico practice la modulele Bazele legislaţiei în traficul rutier, Bazele comportamentului în conducerea vehiculului şi siguranţa traficului rutier, Acordarea primului ajutor:
+
+a) fond de carte şi de materiale didactice adecvate modulelor prevăzute de programă, în număr de cel puţin un exemplar de manual pentru fiecare candidat înmatriculat;
+
+b) set de placarde sau materiale didactico-ilustrative ori video la modulul Bazele legislaţiei în traficul rutier privind:
+
+– indicatoarele rutiere şi panourile adiţionale;
+
+– marcajele rutiere;
+
+– mijloacele de identificare a unor vehicule;
+
+– dispozitivele de semnalizare luminoasă (semafoarele);
+
+– simulatoare privind semnalele agentului de circulaţie şi semnalele luminoase;
+
+c) set de placarde sau materiale didactico-ilustrative ori video privind:
+
+– semnalele conducătorilor de vehicule
+
+– folosirea dispozitivelor de iluminare exterioară şi a dispozitivelor de semnalizare luminoasă şi sonoră;
+
+– începutul deplasării şi schimbarea direcţiei de mers;
+
+– poziţia vehiculelor pe carosabil;
+
+– viteza de deplasare şi distanţa dintre vehicule;
+
+– depăşirea şi trecerea în sensuri opuse;
+
+– circulaţia în intersecţii;
+
+– trecerea la nivel cu calea ferată;
+
+– oprirea şi staţionarea voluntară, parcarea;
+
+– remorcarea vehiculelor rămase în pană şi tractarea remorcilor;
+
+– transportul de persoane şi transportarea încărcăturilor;
+
+– circulaţia pe autostrăzi;
+
+– reguli privind circulaţia vehiculelor cu regim prioritar etc.;
+
+d) scheme ale itinerarelor de instruire;
+
+e) set de placarde sau materiale didactico-ilustrative ori video la modulul Bazele comportamentului în conducerea vehiculului şi siguranţa traficului rutier privind:
+
+– parametrii constructivi ai vehiculului;
+
+– schema vehiculului, cu indicarea ansamblurilor şi subansamblurilor care influenţează siguranţa traficului;
+
+– aşezarea la volan şi tehnica utilizării organelor de conducere vehiculului;
+
+– modalităţile de frânare a vehiculului;
+
+– modalităţile de manevrare în spaţii limitate;
+
+– conducerea vehiculului în situaţii şi condiţii periculoase;
+
+– efectuarea ocolirii, trecerea în sensuri opuse şi realizarea depăşirii;
+
+– date statistice despre accidentele în traficul rutier din localitate, clasificarea lor şi cauzele de producere a acestora;
+
+f) set de placarde sau materiale didactico-ilustrative ori video la modulul Acordarea primului ajutor privind:
+
+– anatomia, fiziologia şi sistemele corpului uman;
+
+– restabilirea respiraţiei, măsuri de resuscitare cardiorespiratorie (respiraţia artificială, masajul cardiac extern);
+
+– hemostaza provizorie;
+
+– imobilizarea fracturilor şi a luxaţiilor cu ajutorul atelelor improvizate;
+
+– poziţia de transportare a victimelor;
+
+– componenţa trusei medicale.
+
+2. Materiale didactice necesare pentru dotarea auditoriului destinat lecţiilor teoretice la modulul Construcţia şi exploatarea vehiculelor din categoria A (subcategoriile AM, A1, A2, B1):
+
+a) părţi componente ale:
+
+– echipamentului de semnalizare şi iluminare;
+
+– sistemelor de direcţie şi frânare;
+
+b) set de echipamente de protecţie a conducătorului, a pasagerului (mănuşi, cizme, îmbrăcăminte şi cască de protecţie);
+
+c) set de placarde sau materiale didactico-ilustrative ori video privind construcţia motocicletei.
+
+3. Materiale didactice necesare pentru dotarea auditoriului destinat lecţiilor teoretice la modulul Construcţia şi exploatarea vehiculelor din categoria B:
+
+a) secţiuni ale:
+
+– motorului şi ambreiajului autoturismului;
+
+– subansamblurilor transmisiei şi părţii rulante;
+
+– subansamblurilor sistemelor de direcţie şi frânare;
+
+b) set de placarde sau materiale didactico-ilustrative ori video privind construcţia autoturismelor.
+
+Notă: Pentru folosirea raţională a spaţiului, în cazul categoriilor A şi B, se admite amenajarea unui auditoriu mixt de studiere a modulelor Regulamentul circulaţiei rutiere, Bazele comportamentului în conducerea vehiculului şi siguranţa traficului rutier, Acordarea primului ajutor, Construcţia şi exploatarea vehiculelor.
+
+4. Materiale didactice necesare pentru dotarea auditoriului destinat lecţiilor teoretico-practice la modulul Construcţia şi exploatarea vehiculelor din categoria C (subcategoria C1):
+
+a) secţiuni ale:
+
+– motorului, ambreiajului şi cutiei de viteze ale camionului;
+
+– reductorului distribuitor;
+
+– prizei de putere;
+
+b) secţiuni ale subansamblurilor părţii rulante:
+
+– punţile motoare din faţă;
+
+– amortizoarele suspensiei;
+
+c) secţiuni ale subansamblurilor dispozitivelor de comandă;
+
+– sistemul de direcţie;
+
+– servomecanismul sistemului de direcţie;
+
+– sistemul de frânare cu acţionare hidraulică şi pneumatică;
+
+d) panouri sau seturi cu părţile componente ale:
+
+– mecanismului bielă-manivelă;
+
+– mecanismului de distribuţie a gazelor;
+
+– instalaţiei de răcire;
+
+– instalaţiei de ungere;
+
+– instalaţiei de alimentare a motorului cu aprindere prin scânteie (MAS) cu injecţie de benzină;
+
+– instalaţiei de alimentare a motorului cu aprindere prin scânteie (MAS) cu gaze;
+
+– instalaţiei de alimentare a motorului cu aprindere prin comprimare (MAC - Diesel);
+
+– instalaţiei de aprindere;
+
+– echipamentului electric şi electronic;
+
+– instalaţiei de iluminare şi semnalizare luminoasă şi sonoră;
+
+– suspensiei pneumatice şi cu arcuri;
+
+– transmisiei cardanice;
+
+– frânei de staţionare;
+
+e) set de placarde sau materiale didactico-ilustrative ori video privind construcţia şi exploatarea autocamioanelor;
+
+f) materiale didactico-ilustrative sau video privind:
+
+– modalităţile de îndeplinire a actelor: foi de parcurs, facturi fiscale etc.
+
+– clasificarea vehiculelor (categoria, tipul vehiculului, masa maximă autorizată şi destinaţia);
+
+– instrucţiunile de utilizare şi datele tehnice ale tahografului;
+
+– normele de reglementare a regimului de lucru al conducătorilor în procesul de exploatare a vehiculelor.
+
+5. Materiale didactice necesare pentru dotarea auditoriului destinat lecţiilor teoretico-practice la modulul Construcţia şi exploatarea vehiculelor din categoria D (subcategoria D1):
+
+a) secţiuni ale:
+
+– mecanismului de direcţie;
+
+– sistemului de frânare;
+
+– suspensiilor pneumatice;
+
+– mecanismului de deschidere (închidere) a portierelor;
+
+b) materiale privind construcţia şi datele tehnice ale tahografului;
+
+c) set de placarde sau materiale didactico-ilustrative ori video privind construcţia autobuzelor.
+
+6. Materiale didactice necesare pentru dotarea auditoriului destinat lecţiilor teoretico-practice la modulul Construcţia şi exploatarea ansamblurilor de vehicule din categoriile BE, CE, DE (subcategoriile C1E, D1E):
+
+a) subansambluri ale:
+
+– sistemului de frânare;
+
+– dispozitivului de tracţiune-cuplare (reazem-cuplare);
+
+b) secţiuni ale dispozitivelor sistemului de frânare al remorcilor:
+
+– filtru magistral;
+
+– supapă de derivaţie bimagistrală de limitare;
+
+– distribuitor de aer;
+
+– robinet de desfrânare;
+
+– supapă electromagnetică;
+
+– elemente de conectare şi supape de frânare;
+
+c) set de placarde sau materiale didactico-ilustrative ori video privind construcţia ansamblurilor de vehicule.
+
+Notă: Pentru folosirea raţională a spaţiului se admite amenajarea unui auditoriu mixt de studiere a modulelor Construcţia şi exploatarea vehiculelor din categoriile/ subcategoriile C, C1, D, D1 şi Construcţia şi exploatarea ansamblurilor de vehicule din categoriile/subcategoriile BE, C1E, CE, D1E, DE.
+
+7. Auditoriile vor fi dotate cu tablă de scris, mese, scaune şi vor corespunde normelor sanitaro-igienice.
+
+Secţiunea a 2-a
+
+Terenurile pentru instruire în conducerea vehiculelor
+
+8. Terenurile de instruire şi verificare a aptitudinilor şi comportamentului în conducerea vehiculelor vor corespunde următoarelor condiţii de amenajare şi dotare:
+
+a) terenul pentru instruire va dispune de o suprafaţă acoperită cu îmbrăcăminte (pavată, pietruită, asfaltată, betonată etc.);
+
+b) suprafaţa terenului va fi suficientă pentru amplasarea concomitentă a tuturor elementelor prevăzute de programul de instruire, astfel încât să fie posibilă exersarea eficientă şi în plină siguranţă a manevrelor în conducerea vehiculului;
+
+c) elementele terenului (cu excepţia declivităţilor rampei/ pantei şi rampei/platformei de încărcare) vor fi amenajate corespunzător sau vor fi improvizate prin indicatoare şi marcaje rutiere, jaloane sau steguleţe pe suporturi portative;
+
+d) declivităţile pentru executarea exerciţiilor de deplasare în rampă şi pantă vor fi naturale, în cazul în care relieful terenului de instruire permite acest lucru, ori amenajate în mod artificial din pământ sau alte materiale de construcţii. Valoarea declivităţilor rampei şi pantei trebuie să fie în limitele de 7- 16%;
+
+e) rampa/platforma de încărcare/descărcare va corespunde figurii nr. 3, putând fi improvizată din bare metalice cu dimensiunile de lungime şi lăţime stabilite în figura nr. 3 şi cu o înălţime corespunzătoare înălţimii platformei vehiculelor de instruire.
+
+9. Elementele obligatorii ale terenurilor de instruire şi dimensiunile minim admisibile ale acestora, necesare procesului de instruire şi efectuare a probelor de verificare a aptitudinilor şi comportamentului în conducerea vehiculelor, în funcţie de categoriile/subcategoriile vehiculelor, vor corespunde schiţelor-tip prezentate în figurile nr. 1-3.
+
+Figura nr. 1. Teren de instruire şi efectuare a probelor de verificare a aptitudinilor şi comportamentului în conducerea vehiculelor din categoria A (subcategoriile A1, A2)
+
+Legendă. Elementele terenului de instruire:
+
+1 – teren de instruire iniţială;
+
+2 – locul de începere a deplasării pe motocicletă;
+
+3 – sectorul mişcării în slalom;
+
+4 – obstacol improvizat;
+
+5 – locuri de efectuare a opririi de urgenţă;
+
+6 – itinerar pe perimetrul terenului (itinerarul poate fi altul decât cel pe perimetrul terenului, cu condiţia că se asigură executarea exerciţiilor prevăzute de programă).
+
+Figura nr. 2. Teren de instruire şi efectuare a probelor de verificare a aptitudinilor şi comportamentului în conducerea vehiculelor din categoriile B, BE (subcategoria B1)
+
+Legendă. Elementele terenului de instruire:
+
+1 – teren de instruire iniţială;
+
+2 – rampă şi pantă;
+
+3 – spaţiu limitat;
+
+4 – loc de oprire;
+
+5 – parcare sub un unghi drept către carosabil;
+
+6 – itinerar pe perimetrul terenului;
+
+7 – parcare oblică spre carosabil;
+
+8 – parcare paralelă cu carosabilul;
+
+9 – obstacol.
+
+Figura nr. 3. Teren de instruire şi efectuare a probelor de verificare a aptitudinilor şi comportamentului în conducerea vehiculelor din categoriile C, CE, D, DE (subcategoriile C1, C1E, D1, D1E)
+
+Legendă. Elementele terenului de instruire:
+
+1 – teren pentru instruirea iniţială;
+
+2 – itinerar pe perimetrul terenului;
+
+3 – staţie improvizată pentru vehiculele de rută;
+
+4 – rampă/platformă de încărcare;
+
+5 – loc de oprire.
+
+Note la figurile nr. 2 şi 3:
+
+1. Prin săgeți se demonstrează una dintre posibilele succesiuni de exersare a manevrelor, liniile continue semnifică deplasarea vehiculului cu faţa, cele întrerupte – deplasarea vehiculului cu spatele; L şi D sunt dimensiunile de gabarit ale vehiculelor de instruire, respectiv lungimea şi lățimea vehiculului.
+
+2. Schiţa-tip este prevăzută pentru instruirea concomitentă cu cinci vehicule. Prin urmare, terenul pentru instruirea iniţială, în funcţie de numărul de vehicule utilizate pentru instruirea concomitentă pe teren, poate avea alte dimensiuni.
+
+10. Amplasarea elementelor terenului de instruire poate fi alta decât cea arătată pe schiţa-tip, dar nu este permisă excluderea acestora.
+
+11. Este permisă amenajarea unor terenuri mixte pentru toate categoriile, cu condiţia că se respectă dimensiunile elementelor şi se garantează siguranţa cursanţilor.
+
+Secţiunea a 3-a
+
+Vehiculele de instruire şi echipamentul acestora
+
+12. Vehiculele utilizate în procesul de instruire și în procesul de examinare la proba de conducere în vederea obținerii dreptului de a conduce vehicule vor fi echipate cu:
+
+a) comandă dublă (ambreiaj, frână);
+
+b) oglinzi retrovizoare pentru cursant şi instructor;
+
+c) semnul de identificare „Ş” (şcoala), conform cerinţelor Regulamentului circulaţiei rutiere.
+
+13. În funcţie de categorie (subcategorie), vehiculul va fi dotat cu motor de o anumită cilindree şi putere, va poseda proprietăţi dinamice şi de tracţiune adecvate cerinţelor, se va încadra în anumiţi parametri tehnici constructivi şi de dimensiune, după cum urmează:
+
+a) subcategoria A1 – motociclete fără ataş, care au o capacitate cilindrică de cel puţin 120 cm3 şi care pot atinge o viteză de cel puţin 90 km/h;
+
+b) subcategoria A2 – motociclete fără ataş, cu capacitatea cilindrică de cel puţin 400 cm3 şi puterea motorului de cel puţin 25 kW;
+
+c) categoria A – motociclete fără ataş, cu capacitatea cilindrică de cel puţin 600 cm3 şi puterea motorului de cel puţin 40 kW;
+
+d) categoria B – vehicule din categoria B, cu patru roţi, care pot atinge o viteză de cel puţin 100 km/h;
+
+e) categoria BE – ansamblu compus dintr-un vehicul din categoria B şi o remorcă cu masa maximă autorizată de cel puţin 1000 kg, care poate atinge o viteză de cel puţin 100 km/h şi care nu se încadrează în categoria B. Compartimentul de marfă din remorcă constă dintr-un corp închis care este cel puţin tot atât de lat şi înalt ca şi vehiculul; corpul închis poate fi, de asemenea, puţin mai îngust decât vehiculul, cu condiţia ca vederea în spate să fie posibilă doar prin utilizarea oglinzilor retrovizoare exterioare ale vehiculului; masa reală a remorcii trebuie să fie de cel puţin 800 kg;
+
+f) subcategoria B1 – cvadriciclu cu motor care poate atinge o viteză de cel puţin 60 km/h;
+
+g) categoria C – un vehicul din categoria C cu masa maximă autorizată de cel puţin 12000 kg, cu lungimea de cel puţin 8 m, cu lăţimea de cel puţin 2,40 m, care poate să atingă o viteză de cel puţin 80 km/h; prevăzut cu sistem de prevenire a blocării roţilor în timpul frânării (ABS), echipat cu o cutie de viteze cu cel puţin opt trepte de mers înainte şi aparatură de înregistrare (tahograf); compartimentul de marfă constă dintr-un corp închis care este cel puţin tot atât de lat şi înalt ca şi cabina; masa reală a vehiculului trebuie să fie de cel puţin 10000 kg;
+
+h) categoria CE – un vehicul articulat sau un ansamblu compus dintr-un vehicul din categoria C şi o remorcă cu lungimea de cel puţin 7,50 m; atât vehiculul articulat, cât şi ansamblul au o masă maximă autorizată de cel puţin 20000 kg, o lungime de cel puţin 14 m şi o lăţime de cel puţin 2,40 m, pot atinge o viteză de cel puţin 80 km/h, sunt prevăzute cu sistem de prevenire a blocării roţilor în timpul frânării (ABS), sunt echipate cu o cutie de viteze cu cel puţin opt trepte de mers înainte şi aparatură de înregistrare (tahograf); compartimentul de marfă din remorcă constă dintr-un corp închis care este cel puţin tot atât de lat şi înalt ca şi cabina; masa reală atât a vehiculului articulat, cât şi a ansamblului trebuie să fie de cel puţin 15000 kg;
+
+i) subcategoria C1 – un vehicul din subcategoria C1 cu masa maximă autorizată de cel puţin 4000 kg, cu o lungime de cel puţin 5 m, care poate să atingă o viteză de cel puţin 80 km/h; prevăzut cu sistem de prevenire a blocării roţilor în timpul frânării (ABS), echipat cu aparatură de înregistrare (tahograf); compartimentul de marfă constă dintr-un corp închis care este cel puţin tot atât de lat şi înalt ca şi cabina;
+
+j) subcategoria C1E – un ansamblu alcătuit dintr-un vehicul din subcategoria C1 şi o remorcă cu masa maximă autorizată de cel puţin 1250 kg; acest ansamblu are lungimea de cel puţin 8 m şi poate să atingă o viteză de cel puţin 80 km/h; compartimentul de marfă al remorcii constă dintr-un corp închis care este tot atât de lat şi înalt ca şi cabina; de asemenea, corpul închis poate să fie puţin mai îngust decât cabina, cu condiţia ca vederea în spate să fie posibilă doar prin utilizarea oglinzilor retrovizoare exterioare ale vehiculului; masa reală a remorcii trebuie să fie de cel puţin 800 kg;
+
+k) categoria D – un vehicul din categoria D cu lungimea de cel puţin 10 m, cu lăţimea de cel puţin 2,40 m, care poate atinge o viteză de cel puţin 80 km/h; prevăzut cu sistem de prevenire a blocării roţilor în timpul frânării (ABS), echipat cu aparatură de înregistrare (tahograf);
+
+l) categoria DE – un ansamblu compus dintr-un vehicul din categoria D şi o remorcă cu masa maximă autorizată de cel puţin 1250 kg, lăţimea de cel puţin 2,40 m, care poate atinge o viteză de cel puţin 80 km/h; compartimentul de marfă al remorcii constă dintr-un corp închis care are cel puţin 2 m lăţime şi 2 m înălţime; masa reală a remorcii trebuie să fie de cel puţin 800 kg;
+
+m) subcategoria D1 – un vehicul din subcategoria D1 cu masa maximă autorizată de cel puţin 4000 kg, cu lungimea de cel puţin 5 m, care poate să atingă o viteză de cel puţin 80 km/h; prevăzut cu sistem de prevenire a blocării roţilor în timpul frânării (ABS), echipat cu aparatură de înregistrare (tahograf);
+
+n) subcategoria D1E – un ansamblu compus dintr-un vehicul din subcategoria D1 şi o remorcă cu masa maximă autorizată de cel puţin 1250 kg, care poate atinge o viteză de cel puţin 80 km/h; compartimentul de marfă al remorcii constă dintr-un corp închis care are cel puţin 2 m lăţime şi 2 m înălţime; masa reală a remorcii trebuie să fie de cel puţin 800 kg.
+
+14. Începând cu 1 ianuarie 2017, vehiculele din categoriile BE, C, CE, C1, C1E, D, DE, D1 şi D1E care nu corespund criteriilor menţionate la pct. 13 nu vor fi admise spre utilizare în procesul de instruire.
