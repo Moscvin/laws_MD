@@ -86,7 +86,12 @@ npx wrangler deploy
 
 ## Comenzi în bot
 
-- orice întrebare în text liber
+- orice întrebare în text liber — răspuns scurt (~400 caractere: Da/Nu/Depinde, temeiul, ce faci)
+- `/detalii` — explicația completă pentru ultima întrebare
+- **poză sau PDF cu un proces-verbal**, cu descrierea pozei = ce s-a întâmplat de fapt → botul citește
+  procesul-verbal, verifică încadrarea și sancțiunea față de articolul invocat, câmpurile obligatorii
+  (art. 443, nulitate art. 445 C.contr.), compară cu relatarea ta și spune termenul de contestare (art. 448).
+  O singură poză per mesaj. Poza ajunge la Google Gemini (plan gratuit) — acoperă datele personale.
 - `/art 228 contraventional` — textul exact al unui articol
 - `/legi` — lista actelor din bază
 - `/nou` — uită conversația anterioară (botul ține minte ultimele 3 întrebări)
@@ -98,8 +103,10 @@ npx wrangler deploy
 - `ALLOWED_USERS` — ID-urile Telegram permise, separate prin virgulă (botul îți spune ID-ul dacă
   nu ești pe listă). Recomandat: limita gratuită Gemini e mică și poate fi consumată de străini.
 
-Verificare căutare fără Telegram/Gemini:
-`https://bot-legi-md.moscvin-2002.workers.dev/cauta?cheie=CHEIE&q=retinere avocat`
+Endpointuri de test (protejate cu `WEBHOOK_SECRET`):
+- `GET /cauta?cheie=CHEIE&q=...` — ce articole găsește căutarea (fără Gemini)
+- `GET /intreaba?cheie=CHEIE&q=...[&detaliat]` — răspunsul complet, ca în Telegram
+- `POST /pv?cheie=CHEIE&relatare=...` cu imaginea în corp — analiza unui proces-verbal
 
 ## Adăugarea / actualizarea legilor
 

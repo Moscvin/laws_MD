@@ -20,10 +20,22 @@ def curata(s: str) -> str:
     return re.sub(r"\n\s*\n+", "\n", s).strip()
 
 
+def titlu_articol(text: str) -> str:
+    """„Articolul 128. Procedura efectuării percheziţiei sau / ridicării ...” până la primul alineat."""
+    prima, *rest = [l.strip() for l in text.split("\n")[:4]]
+    linii_titlu = [prima]
+    # Continuarea titlului e scurtă și nu e o propoziție/alineat.
+    for linie in rest:
+        if len(linie) > 90 or re.match(r"(\(\d|\d+[.)]|[a-z]\))", linie) or re.search(r"[.;:]$", linie):
+            break
+        linii_titlu.append(linie)
+    return " ".join(linii_titlu)[:250]
+
+
 linii = [
     "DROP TABLE IF EXISTS fts;",
     "DROP TABLE IF EXISTS bucati;",
-    "CREATE TABLE bucati (id INTEGER PRIMARY KEY, lege TEXT, sursa TEXT, articol TEXT, text TEXT);",
+    "CREATE TABLE bucati (id INTEGER PRIMARY KEY, lege TEXT, sursa TEXT, articol TEXT, titlu TEXT, text TEXT);",
     "CREATE TABLE IF NOT EXISTS istoric (chat_id INTEGER, rol TEXT, text TEXT, ts INTEGER);",
     "CREATE INDEX IF NOT EXISTS istoric_chat ON istoric(chat_id, ts);",
 ]
@@ -31,11 +43,16 @@ n = 0
 for cale in sorted(LEGI.glob("*.txt")):
     for b in citeste_lege(cale):
         n += 1
+        text = curata(b.text)
+        titlu = titlu_articol(text) if b.articol.startswith("Articolul") else ""
+        if titlu.endswith("(continuare)"):
+            titlu = titlu_anterior  # bucata a doua a unui articol lung păstrează titlul articolului
+        titlu_anterior = titlu
         linii.append(
-            f"INSERT INTO bucati VALUES ({n},{q(b.lege)},{q(b.sursa)},{q(b.articol)},{q(curata(b.text))});"
+            f"INSERT INTO bucati VALUES ({n},{q(b.lege)},{q(b.sursa)},{q(b.articol)},{q(titlu)},{q(text)});"
         )
 linii += [
-    "CREATE VIRTUAL TABLE fts USING fts5(lege, articol, text, content='bucati', content_rowid='id',"
+    "CREATE VIRTUAL TABLE fts USING fts5(lege, titlu, text, content='bucati', content_rowid='id',"
     " tokenize='unicode61 remove_diacritics 2', prefix='4 5 6');",
     "INSERT INTO fts(fts) VALUES('rebuild');",
 ]
