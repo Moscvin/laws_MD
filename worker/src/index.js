@@ -147,7 +147,7 @@ async function proceseaza(update, env) {
     await trimite(env, chatId, results.map((r) => `• ${r.lege}\n  ${r.sursa}`).join("\n"));
     return;
   }
-  const cmdArt = text.match(/^\/art\s+(\d+)\s*(.*)$/i);
+  const cmdArt = normSup(text).match(/^\/art\s+(\d+[¹²³⁴⁵⁶⁷⁸⁹]*)\s*(.*)$/i);
   if (cmdArt) {
     const rez = await articoleDirecte(env, [{ nr: cmdArt[1], act: cmdArt[2] }]);
     await trimite(env, chatId, rez.length
@@ -360,10 +360,16 @@ function termeni(text) {
 }
 
 // Recunoaște „art. 228 din codul contravențional”, „articolul 25 legea politiei” etc.
+// „10/1”, „10^1” sau „10 1” devin „10¹”, ca în textul legii.
+const SUP = { 0: "⁰", 1: "¹", 2: "²", 3: "³", 4: "⁴", 5: "⁵", 6: "⁶", 7: "⁷", 8: "⁸", 9: "⁹" };
+function normSup(text) {
+  return text.replace(/(\d+)\s*[\/^]\s*(\d+)/g, (m, a, b) => a + [...b].map((c) => SUP[c]).join(""));
+}
+
 function referinte(text) {
-  const t = faraDiacritice(text);
+  const t = faraDiacritice(normSup(text));
   const ref = [];
-  for (const m of t.matchAll(/art(?:icolul|\.)?\s*(\d+)(?:\s*(?:alin[^\s]*\s*\(?\d+\)?)?)?\s*(?:din\s+)?([a-z ]{0,40})/g)) {
+  for (const m of t.matchAll(/art(?:icolul|\.)?\s*(\d+[¹²³⁴⁵⁶⁷⁸⁹]*)(?:\s*(?:alin[^\s]*\s*\(?\d+\)?)?)?\s*(?:din\s+)?([a-z ]{0,40})/g)) {
     ref.push({ nr: m[1], act: m[2] });
   }
   return ref;
@@ -380,6 +386,10 @@ const ACTE = [
   ["politi", "Poliției"],
   ["administrativ", "administrativ"],
   ["trafic", "traficului"],
+  ["fiscal", "fiscal"],
+  ["familie", "familiei"],
+  ["avocat", "avocatur"],
+  ["consumator", "consumatorilor"],
 ];
 
 async function articoleDirecte(env, refs) {

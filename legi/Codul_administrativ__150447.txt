@@ -791,7 +791,7 @@ Articolul 82. Întocmirea dosarului administrativ
 
 (1) Dacă procedura administrativă trebuie realizată în scris conform art. 28 sau se realizează în scris, autoritatea publică, concomitent cu inițierea procedurii, întocmește un dosar în format electronic sau pe suport de hârtie, care conține toate documentele și înscrisurile ce se referă la procedura respectivă. Dosarul în format electronic conține, după caz, copii scanate de pe documentele pe suport de hârtie, autenticitatea copiilor fiind confirmată prin semnătura electronică aplicată de persoana responsabilă din cadrul autorității publice, documente electronice, alte înscrisuri și informații relevante expuse în format electronic.
 
-(11) Copiile scanate în format electronic de pe documentele oficiale emise pe suport de hârtie și înscrisurile în format electronic pe care nu s-a aplicat semnătura electronică se utilizează fără restricții în raporturile cu autoritatea publică și pot fi incluse în dosarul administrativ, în măsura în care actele normative nu impun expres aplicarea semnăturii pe copiile/înscrisurile în cauză sau respectarea cerințelor pentru documentul electronic.
+(1¹) Copiile scanate în format electronic de pe documentele oficiale emise pe suport de hârtie și înscrisurile în format electronic pe care nu s-a aplicat semnătura electronică se utilizează fără restricții în raporturile cu autoritatea publică și pot fi incluse în dosarul administrativ, în măsura în care actele normative nu impun expres aplicarea semnăturii pe copiile/înscrisurile în cauză sau respectarea cerințelor pentru documentul electronic.
 
 (2) În momentul în care este pus la dosar, un document se vizează cu numere continue de pagini.
 
@@ -1101,7 +1101,7 @@ Articolul 110. Notificarea cu act de recunoaștere
 
 (2) Actul de recunoaștere a recepționării semnat se trimite neîntârziat înapoi autorității publice care a dispus notificarea.
 
-Articolul 1101. Notificarea prin mijloace electronice
+Articolul 110¹. Notificarea prin mijloace electronice
 
                          de comunicație
 
@@ -1853,7 +1853,7 @@ a) situația de fapt sau de drept care stă la baza actului administrativ s-a mo
 
 b) există probe noi care ar fi dus la o decizie mai avantajoasă pentru persoana afectată;
 
-c) există alte temeiuri de reluare conform art. 449 lit. a), c), e) și e1) din Codul de procedură civilă.
+c) există alte temeiuri de reluare conform art. 449 lit. a), c), e) și e¹) din Codul de procedură civilă.
 
 (2) Cererea se admite numai dacă persoana afectată, în afara culpei grave, nu era în stare să revendice, în special prin cale de atac, temeiul pentru reluare în procedura anterioară.
 
@@ -2107,7 +2107,7 @@ Articolul 193. Componența instanței de judecată
 
 (3) Curtea Supremă de Justiție examinează acțiunile în contencios administrativ și cererile de recurs în complete din 3 judecători.
 
-(31) În scopul uniformizării practicii judecătorești, completul din 3 judecători poate decide, prin vot unanim, ca recursul considerat admisibil să fie examinat de un complet din 5 judecători, iar completul din 5 judecători poate decide, prin vot unanim, ca recursul considerat admisibil să fie examinat de un complet din 9 judecători.
+(3¹) În scopul uniformizării practicii judecătorești, completul din 3 judecători poate decide, prin vot unanim, ca recursul considerat admisibil să fie examinat de un complet din 5 judecători, iar completul din 5 judecători poate decide, prin vot unanim, ca recursul considerat admisibil să fie examinat de un complet din 9 judecători.
 
 Articolul 194. Limitele examinării judiciare
 
@@ -2175,9 +2175,9 @@ Articolul 201. Competența în caz de concurență
 
 (1) Dacă acțiunea în contencios administrativ depusă în instanța de judecată conține pretenții inseparabile de drept administrativ și de drept civil, acestea se examinează de instanța de judecată competentă pentru examinarea acțiunii în contenciosul administrativ.
 
-(11) Cererile de confiscare a averii nejustificate în folosul statului și pretențiile pe cauzele de contestare a actelor Autorității Naționale de Integritate de constatare a diferenței substanțiale între veniturile obținute, cheltuielile realizate și averea dobândită ale persoanei supuse controlului sunt inseparabile și se examinează într-o singură procedură, cu examinarea acțiunii în contencios administrativ.
+(1¹) Cererile de confiscare a averii nejustificate în folosul statului și pretențiile pe cauzele de contestare a actelor Autorității Naționale de Integritate de constatare a diferenței substanțiale între veniturile obținute, cheltuielile realizate și averea dobândită ale persoanei supuse controlului sunt inseparabile și se examinează într-o singură procedură, cu examinarea acțiunii în contencios administrativ.
 
-[Art.201 al.(11) introdus prin LP192 din 10.07.25, MO409-412/31.07.25 art.553; în vigoare 31.08.25]
+[Art.201 al.(1¹) introdus prin LP192 din 10.07.25, MO409-412/31.07.25 art.553; în vigoare 31.08.25]
 
 (2) Dacă acțiunea în contencios administrativ depusă în instanța de judecată conține pretenții separabile de drept administrativ și de drept civil, acestea se separă printr-o încheiere nesusceptibilă de recurs, în privința pretențiilor de drept civil aplicându-se prevederile art. 199 alin. (1) și (2) din prezentul cod.
 
@@ -2383,9 +2383,9 @@ Articolul 214. Suspendarea executării actului
 
 a) privind retragerea licențelor pentru nerespectarea de către titularii de licențe din sectorul gazelor naturale a cerințelor legale privind separarea, independența şi/sau certificarea operatorului sistemului de transport, precum şi hotărârile adoptate în scopul asigurării continuității în activitatea de transport al gazelor naturale;
 
-b) adoptate în temeiul art. 811 alin. (1) din Legea nr. 107/2016 cu privire la energia electrică;
+b) adoptate în temeiul art. 81¹ alin. (1) din Legea nr. 107/2016 cu privire la energia electrică;
 
-c) adoptate în temeiul art. 1081 alin. (5) din Legea nr. 108/2016 cu privire la gazele naturale.
+c) adoptate în temeiul art. 108¹ alin. (5) din Legea nr. 108/2016 cu privire la gazele naturale.
 
 (10) – abrogat.
 
@@ -2715,7 +2715,7 @@ Articolul 245. Depunerea cererii de recurs
 
 Recursul se depune la Curtea Supremă de Justiție în termen de două luni de la pronunțarea hotărârii sau a deciziei motivate, dacă legea nu stabilește un alt termen.
 
-Articolul 2451. Temeiurile recursului
+Articolul 245¹. Temeiurile recursului
 
 (1) Recursul este admis dacă:
 
@@ -2745,7 +2745,7 @@ Articolul 246. Examinarea admisibilității cererii
 
 a) decizia instanței de apel nu poate fi contestată cu recurs;
 
-a1) recursul nu se încadrează în temeiurile prevăzute la art. 2451;
+a¹) recursul nu se încadrează în temeiurile prevăzute la art. 245¹;
 
 b) recursul este depus în mod repetat;
 
@@ -2761,7 +2761,7 @@ g) problema juridică invocată în recurs nu este de o importanță fundamental
 
 h) recursul este vădit neîntemeiat.
 
-(3) Recursul declarat în temeiul art. 2451 alin. (1) lit. d) nu poate fi declarat inadmisibil în temeiul alin. (2) lit. g).
+(3) Recursul declarat în temeiul art. 245¹ alin. (1) lit. d) nu poate fi declarat inadmisibil în temeiul alin. (2) lit. g).
 
 Articolul 247. Procedura de judecare a recursului
 
@@ -2779,7 +2779,7 @@ c) admite recursul și modifică hotărârea și/sau decizia;
 
 d) admite recursul, casează integral decizia instanței de apel și trimite cauza spre rejudecare în instanța de apel o singură dată dacă eroarea judiciară nu poate fi corectată de către instanța de recurs.
 
-(2) Dacă recursul este admis în temeiul art. 2451 alin. (1) lit. d), completul poate emite o încheiere interlocutorie, pe care o expediază inspecției judiciare.
+(2) Dacă recursul este admis în temeiul art. 245¹ alin. (1) lit. d), completul poate emite o încheiere interlocutorie, pe care o expediază inspecției judiciare.
 
 (3) Decizia instanței de recurs este irevocabilă din momentul emiterii. Decizia se consideră emisă din momentul publicării pe pagina web oficială a Curții Supreme de Justiție. Ea se notifică participanților în termen de 5 zile de la data emiterii.
 

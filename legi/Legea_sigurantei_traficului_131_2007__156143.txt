@@ -63,7 +63,7 @@ caroserie – parte a vehiculului aşezată deasupra osiilor şi a roţilor, ame
 
 certificat de competență profesională (microcertificat) – act de studii eliberat profesorului de siguranță rutieră sau instructorului în conducere auto, care atestă dreptul de a desfășura activități de formare profesională a conducătorilor de vehicule;
 
-ciclomotor – vehicul cu două sau trei roţi, care dezvoltă prin construcţie o viteză maximă de 45 km/h (cu excepţia celor care dezvoltă o viteză mai mică sau egală cu 25 km/h) şi care este echipat cu un motor cu ardere internă sau electric. Capacitatea cilindrică a motorului cu ardere internă nu depăşeşte 50 cm3, iar puterea motorului, atât a celui cu ardere internă, cât şi a motorului electric, nu depăşeşte 4 kW;
+ciclomotor – vehicul cu două sau trei roţi, care dezvoltă prin construcţie o viteză maximă de 45 km/h (cu excepţia celor care dezvoltă o viteză mai mică sau egală cu 25 km/h) şi care este echipat cu un motor cu ardere internă sau electric. Capacitatea cilindrică a motorului cu ardere internă nu depăşeşte 50 cm³, iar puterea motorului, atât a celui cu ardere internă, cât şi a motorului electric, nu depăşeşte 4 kW;
 
 coloană oficială – coloană de vehicule precedată de un vehicul cu regim prioritar de circulaţie, care are în funcţiune semnale speciale de avertizare sonore şi luminoase de culoare albastră şi/sau roşie;
 
@@ -87,7 +87,7 @@ instructor în conducere auto – personal didactic pentru instruirea în conduc
 
 laborator mobil – autovehicul dotat cu echipamentele necesare pentru verificarea stării tehnice a vehiculelor aflate în trafic pe drumurile publice, în vederea stabilirii corespunderii acestora cu normele de exploatare;
 
-motocicletă – vehicul cu 2 sau 3 roţi, cu sau fără ataş, dotat cu motor având capacitate cilindrică mai mare de 50 cm3, şi/sau cu viteză maximă, prin construcţie, de peste 45 km/h, a cărui masă proprie nu depăşeşte 400 kg;
+motocicletă – vehicul cu 2 sau 3 roţi, cu sau fără ataş, dotat cu motor având capacitate cilindrică mai mare de 50 cm³, şi/sau cu viteză maximă, prin construcţie, de peste 45 km/h, a cărui masă proprie nu depăşeşte 400 kg;
 
 organizare a traficului rutier – ansamblu de măsuri juridico-organizatorice şi inginereşti de sistematizare, reglementare şi dirijare a traficului rutier;
 
@@ -241,7 +241,7 @@ l) elaborarea metodologiei, care urmează a fi aprobată de Guvern, privind mont
 
 m) elaborarea normelor privind evaluarea de impact asupra siguranței rutiere, auditul în domeniul siguranței rutiere, inspecțiile în domeniul siguranței rutiere și clasificarea siguranței rețelei rutiere.
 
-Articolul 81. Competența Agenției Naționale
+Articolul 8¹. Competența Agenției Naționale
 
                       Transport Auto
 
@@ -259,7 +259,7 @@ e) exercitarea atribuțiilor stabilite la art. 4 din Legea nr. 350/2023 privind 
 
 f) exercitarea funcțiilor și atribuțiilor de autoritate în domeniul supravegherii pieței.
 
-[Art. 81 lit.f) introdusă prin LP159 din 30.07.26, MO407-409/02.09.26 art. 440; în vigoare 01.01.29]
+[Art. 8¹ lit.f) introdusă prin LP159 din 30.07.26, MO407-409/02.09.26 art. 440; în vigoare 01.01.29]
 
 Articolul 9. Competenţa Ministerului Sănătății
 
@@ -443,7 +443,7 @@ Articolul 21. Obținerea dreptului de a conduce
 
 (5) Evaluarea persoanelor care au urmat cursurile de pregătire în cadrul unităţilor de instruire a conducătorilor de vehicule în vederea eliberării certificatului de absolvire, precum şi a candidaţilor pentru obţinerea dreptului de a conduce vehicule, se efectuează în baza testelor de verificare a cunoştinţelor teoretice şi a criteriilor de evaluare a aptitudinilor practice aprobate prin ordin al ministrului educației și cercetării, cu avizul autorităţilor competente.
 
-Articolul 211. Redobândirea dreptului de conducere
+Articolul 21¹. Redobândirea dreptului de conducere
 
                         a vehiculului
 
@@ -455,11 +455,11 @@ b) titularul permisului de conducere a fost declarat inapt de către cadrele med
 
 (2) Dreptul de conducere anulat poate fi redobândit, în condiții generale, după decăderea temeiurilor de anulare a acestuia, la prezentarea unei dovezi în acest sens, și susținerea de către solicitant, la autoritatea competentă, a examenului de calificare pentru obţinerea dreptului de a conduce vehicule, pe categorii și subcategorii de vehicule solicitate. Suplimentar, în cazul prevăzut la alin. (1) lit. a), dreptul de conducere anulat poate fi redobândit după frecventarea programului probațional antialcoolic și antidrog și expirarea termenului de 4 ani din momentul condamnării.
 
-(21) Sunt degrevați de obligația frecventării programului probațional antialcoolic și antidrog persoanele condamnate pentru infracțiunile prevăzute la art. 264 alin.(1), (3) și (5) și art. 2641 alin. (2) din Codul penal al Republicii Moldova nr. 985/2002.
+(2¹) Sunt degrevați de obligația frecventării programului probațional antialcoolic și antidrog persoanele condamnate pentru infracțiunile prevăzute la art. 264 alin.(1), (3) și (5) și art. 264¹ alin. (2) din Codul penal al Republicii Moldova nr. 985/2002.
 
 (3) Organele care asigură executarea pedepsei penale sau sancțiunii contravenționale de privare de dreptul de a conduce vehicule, în termen de până la 10 zile, solicită autorității competente înregistrarea anulării dreptului de a conduce vehicule și remit către aceasta permisele de conducere ridicate pentru anularea lor. După înregistrarea anulării dreptului de a conduce vehicule, permisele de conducere digitale devin indisponibile, fapt comunicat în procesul de verificare a acestora.
 
-Articolul 212. Repunerea în drepturi în cazul
+Articolul 21². Repunerea în drepturi în cazul
 
                         suspendării exercitării dreptului
 
@@ -699,7 +699,7 @@ b) proba orală pentru evaluarea competențelor psihopedagogice, care constă î
 
 (6) Certificatele de competență profesională (microcertificatele) se personalizează de către Centrul Tehnologii Informaționale și Comunicaționale în Educație (CTICE), subdiviziune a Ministerului Educației și Cercetării, și se eliberează de către prestatorul de servicii educaționale.
 
-Articolul 311. Registrul de stat al vehiculelor
+Articolul 31¹. Registrul de stat al vehiculelor
 
 (1) Registrul de stat al vehiculelor descrie vehiculele supuse înmatriculării și arată drepturile reale ce au ca obiect aceste bunuri.
 
@@ -707,7 +707,7 @@ Articolul 311. Registrul de stat al vehiculelor
 
 (3) Procedura de înregistrare, înregistrare provizorie, notare sau radiere în Registrul de stat al vehiculelor și alte aspecte legate de funcționarea sa se reglementează prin hotărâre de Guvern.
 
-Articolul 312. Înregistrările în Registrul de stat
+Articolul 31². Înregistrările în Registrul de stat
 
                         al vehiculelor
 
@@ -719,7 +719,7 @@ a) nu împiedică recunoașterea dreptului de proprietate asupra vehiculelor dob
 
 b) nu se aplică grevărilor cu acele drepturi reale care, conform legii, se supun înregistrării în Registrul garanțiilor reale mobiliare.
 
-Articolul 313. Drepturile, actele sau faptele supuse
+Articolul 31³. Drepturile, actele sau faptele supuse
 
                         notării
 
@@ -935,9 +935,9 @@ Articolul 53. Înmatricularea sau înregistrarea
 
 (2) Pentru a circula pe drumuri publice, vehiculele, cu excepţia cărucioarelor manuale şi a bicicletelor, trebuie să fie înmatriculate ori înregistrate şi să poarte plăci cu număr de înmatriculare sau de înregistrare de un model prevăzut în standardele în vigoare.
 
-(21) Este interzisă circulația pe drumurile publice a vehiculelor cu plăcile cu număr de înmatriculare neutru sau cu plăcile cu număr de înmatriculare eliberate în unitățile administrativ-teritoriale din stânga Nistrului și municipiul Bender în cazul conducătorilor de vehicule care au domiciliul în altă localitate decât localitățile din stânga Nistrului, municipiul Bender ori localitățile Gîsca, Chițcani, Zahorna, Merenești și Cremenciug din raionul Căușeni, precum și circulația vehiculelor cu plăcile cu număr de înmatriculare dintr-un stat străin nerecunoscut de Republica Moldova.
+(2¹) Este interzisă circulația pe drumurile publice a vehiculelor cu plăcile cu număr de înmatriculare neutru sau cu plăcile cu număr de înmatriculare eliberate în unitățile administrativ-teritoriale din stânga Nistrului și municipiul Bender în cazul conducătorilor de vehicule care au domiciliul în altă localitate decât localitățile din stânga Nistrului, municipiul Bender ori localitățile Gîsca, Chițcani, Zahorna, Merenești și Cremenciug din raionul Căușeni, precum și circulația vehiculelor cu plăcile cu număr de înmatriculare dintr-un stat străin nerecunoscut de Republica Moldova.
 
-(22) Prin derogare de la alineatul (21) se permite circulația pe drumurile publice a vehiculelor cu plăcile cu număr de înmatriculare neutru sau cu plăcile cu număr de înmatriculare eliberate în unitățile administrativ-teritoriale din stânga Nistrului și municipiul Bender în cazul conducătorilor de vehicule care dețin dreptul de a conduce vehicule și/sau permis de conducere al Republicii Moldova, emis în modul stabilit de legislația națională, și domiciliază pe teritoriul Republicii Moldova, dacă vehiculele sunt în proprietatea agenților economici din unitățile administrativ-teritoriale din stânga Nistrului, municipiul Bender sau din localitățile Gîsca, Chițcani, Zahorna, Merenești și Cremenciug din raionul Căușeni, înregistrați la organul înregistrării de stat al Republicii Moldova, și dacă conducătorii de vehicule sunt angajați ai acestora.
+(2²) Prin derogare de la alineatul (2¹) se permite circulația pe drumurile publice a vehiculelor cu plăcile cu număr de înmatriculare neutru sau cu plăcile cu număr de înmatriculare eliberate în unitățile administrativ-teritoriale din stânga Nistrului și municipiul Bender în cazul conducătorilor de vehicule care dețin dreptul de a conduce vehicule și/sau permis de conducere al Republicii Moldova, emis în modul stabilit de legislația națională, și domiciliază pe teritoriul Republicii Moldova, dacă vehiculele sunt în proprietatea agenților economici din unitățile administrativ-teritoriale din stânga Nistrului, municipiul Bender sau din localitățile Gîsca, Chițcani, Zahorna, Merenești și Cremenciug din raionul Căușeni, înregistrați la organul înregistrării de stat al Republicii Moldova, și dacă conducătorii de vehicule sunt angajați ai acestora.
 
 (3) Vehiculele se înmatriculează, în modul stabilit, la autoritatea competentă în a cărei rază teritorială proprietarii sau deţinătorii îşi au domiciliul ori reşedinţa.
 
@@ -951,17 +951,17 @@ Articolul 54. Certificatul şi numărul de înmatriculare
 
 (1) Autoritatea care efectuează înmatricularea vehiculului eliberează proprietarului sau mandatarului certificatul de înmatriculare și plăcile de număr de înmatriculare fie la ghișeu, fie cu livrare prin intermediul serviciului guvernamental de livrare (MDelivery), conform solicitării proprietarului sau mandatarului, depusă la ghișeu sau în format electronic. În cazul în care proprietarul vehiculului este o societate de leasing, în certificatul de înmatriculare sau de înregistrare se vor menționa, în mod obligatoriu, datele de identificare ale utilizatorului.
 
-(11) Certificatul de înmatriculare digital este un act ce confirmă înmatricularea vehiculului și poate fi generat prin intermediul aplicației guvernamentale integrate a serviciilor electronice pe dispozitivul inteligent (telefon sau tabletă) al proprietarului vehiculului sau mandatarului.
+(1¹) Certificatul de înmatriculare digital este un act ce confirmă înmatricularea vehiculului și poate fi generat prin intermediul aplicației guvernamentale integrate a serviciilor electronice pe dispozitivul inteligent (telefon sau tabletă) al proprietarului vehiculului sau mandatarului.
 
-(12) Certificatul de înmatriculare digital conține datele stabilite de către Guvern, care sunt preluate în regim automatizat din Registrul de stat al vehiculelor, și, suplimentar, un identificator electronic (cod QR).
+(1²) Certificatul de înmatriculare digital conține datele stabilite de către Guvern, care sunt preluate în regim automatizat din Registrul de stat al vehiculelor, și, suplimentar, un identificator electronic (cod QR).
 
-(13) În cazul actualizării în Registrul de stat al vehiculelor a informațiilor incluse în certificatul de înmatriculare, certificatul de înmatriculare digital se anulează în regim automatizat și un certificat nou este generat în baza informațiilor curente.
+(1³) În cazul actualizării în Registrul de stat al vehiculelor a informațiilor incluse în certificatul de înmatriculare, certificatul de înmatriculare digital se anulează în regim automatizat și un certificat nou este generat în baza informațiilor curente.
 
-(14) Proprietarul vehiculului înmatriculat în Republica Moldova sau mandatarul acestuia poate genera certificatul de înmatriculare digital fără perceperea unor plăți.
+(1⁴) Proprietarul vehiculului înmatriculat în Republica Moldova sau mandatarul acestuia poate genera certificatul de înmatriculare digital fără perceperea unor plăți.
 
-(15) Pentru vehiculele înmatriculate în Republica Moldova se pot elibera concomitent un certificat de înmatriculare pe suport material și un certificat de înmatriculare digital.
+(1⁵) Pentru vehiculele înmatriculate în Republica Moldova se pot elibera concomitent un certificat de înmatriculare pe suport material și un certificat de înmatriculare digital.
 
-(16) Certificatul de înmatriculare digital permite titularului acestuia exploatarea vehiculului în traficul rutier național.
+(1⁶) Certificatul de înmatriculare digital permite titularului acestuia exploatarea vehiculului în traficul rutier național.
 
 (2) Pentru vehiculele prevăzute la art. 53 alin.(4) şi (6), autoritatea competentă eliberează proprietarilor sau mandatarilor certificate şi plăci cu număr de înmatriculare sau atribuie număr de înregistrare, conform categoriei/ subcategoriei din care fac parte vehiculele.
 
@@ -1435,11 +1435,11 @@ c) semnul de identificare „Ş” (şcoala), conform cerinţelor Regulamentului
 
 13. În funcţie de categorie (subcategorie), vehiculul va fi dotat cu motor de o anumită cilindree şi putere, va poseda proprietăţi dinamice şi de tracţiune adecvate cerinţelor, se va încadra în anumiţi parametri tehnici constructivi şi de dimensiune, după cum urmează:
 
-a) subcategoria A1 – motociclete fără ataş, care au o capacitate cilindrică de cel puţin 120 cm3 şi care pot atinge o viteză de cel puţin 90 km/h;
+a) subcategoria A1 – motociclete fără ataş, care au o capacitate cilindrică de cel puţin 120 cm³ şi care pot atinge o viteză de cel puţin 90 km/h;
 
-b) subcategoria A2 – motociclete fără ataş, cu capacitatea cilindrică de cel puţin 400 cm3 şi puterea motorului de cel puţin 25 kW;
+b) subcategoria A2 – motociclete fără ataş, cu capacitatea cilindrică de cel puţin 400 cm³ şi puterea motorului de cel puţin 25 kW;
 
-c) categoria A – motociclete fără ataş, cu capacitatea cilindrică de cel puţin 600 cm3 şi puterea motorului de cel puţin 40 kW;
+c) categoria A – motociclete fără ataş, cu capacitatea cilindrică de cel puţin 600 cm³ şi puterea motorului de cel puţin 40 kW;
 
 d) categoria B – vehicule din categoria B, cu patru roţi, care pot atinge o viteză de cel puţin 100 km/h;
 

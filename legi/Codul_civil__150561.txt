@@ -10791,7 +10791,7 @@ Articolul 966. Efectele executării
 
 (2) Obligaţia se stinge şi în cazul în care creditorul acceptă o altă executare în locul celei datorate (darea în plată). În acest caz, debitorul răspunde pentru viciile prestaţiei conform regulilor privind răspunderea vînzătorului.
 
-(21) În cazul prevăzut la alin. (2), atunci când, în locul prestației inițiale, este cedată o creanță, obligația se stinge în momentul satisfacerii creanței cedate. Părțile, în baza unui acord comun, pot deroga de la această regulă, stabilind că obligația în locul căreia debitorul își cedează propria creanță se stinge încă de la data cesiunii. Dispozițiile legale referitoare la cesiunea de creanță sunt aplicabile în mod corespunzător.
+(2¹) În cazul prevăzut la alin. (2), atunci când, în locul prestației inițiale, este cedată o creanță, obligația se stinge în momentul satisfacerii creanței cedate. Părțile, în baza unui acord comun, pot deroga de la această regulă, stabilind că obligația în locul căreia debitorul își cedează propria creanță se stinge încă de la data cesiunii. Dispozițiile legale referitoare la cesiunea de creanță sunt aplicabile în mod corespunzător.
 
 (3) Dacă acceptă executarea obligaţiei, sarcina de a demonstra neexecutarea revine creditorului.
 
@@ -17259,15 +17259,15 @@ b) cazarea care nu face parte intrinsecă din transportul de pasageri și care e
 
 c) închirierea de autoturisme, de alte autovehicule sau de motociclete care necesită permis de conducere de categoria A;
 
-c1) asigurarea medicală de călătorie peste hotare;
+c¹) asigurarea medicală de călătorie peste hotare;
 
-c2) serviciu de consultanță/asistență în perioada aflării în străinătate;
+c²) serviciu de consultanță/asistență în perioada aflării în străinătate;
 
 d) orice alt serviciu turistic care nu este parte intrinsecă a unui serviciu de călătorie în sensul lit. a), b) sau c).
 
 (4) Serviciile care, de fapt, fac obiectul unor alte servicii de călătorie nu se consideră servicii de călătorie în sensul alin. (3).
 
-(5) O combinație de servicii de călătorie în care unul dintre serviciile de călătorie menționate la alin. (3) lit. a)–c2) este combinat cu unul sau mai multe servicii turistice menționate la alin. (3) lit. d) nu se consideră un pachet dacă aceste din urmă servicii turistice:
+(5) O combinație de servicii de călătorie în care unul dintre serviciile de călătorie menționate la alin. (3) lit. a)–c²) este combinat cu unul sau mai multe servicii turistice menționate la alin. (3) lit. d) nu se consideră un pachet dacă aceste din urmă servicii turistice:
 
 a) nu reprezintă o proporție semnificativă a valorii combinației, nu sînt prezentate ca fiind o caracteristică esențială a combinației și nu reprezintă în alt fel o asemenea caracteristică; sau
 
@@ -23983,7 +23983,7 @@ c) persoana în favoarea căreia se întocmește testamentul, rudele acesteia p�
 
 d) analfabeții și alte persoane inapte să citească testamentul;
 
-e) persoanele cu antecedente penale pentru faptele prevăzute la art. 312, 314 sau 3521 din Codul penal;
+e) persoanele cu antecedente penale pentru faptele prevăzute la art. 312, 314 sau 352¹ din Codul penal;
 
 f) persoanele care nu posedă limba în care este întocmit testamentul;
 

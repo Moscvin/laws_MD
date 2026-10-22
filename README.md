@@ -30,6 +30,10 @@ Acte incluse (descărcate de pe legis.md, versiunea din 22.10.2026):
 | Legea nr. 131/2007 privind siguranța traficului rutier | 156143 |
 | Codul de procedură civilă nr. 225/2003 | 156839 |
 | Codul administrativ nr. 116/2018 | 150447 |
+| Codul fiscal nr. 1163/1997 | 155071 |
+| Codul familiei nr. 1316/2000 | 156321 |
+| Legea nr. 1260/2002 cu privire la avocatură | 153429 |
+| Legea nr. 105/2003 privind protecţia consumatorilor | 150997 |
 
 ## Structura
 
@@ -129,10 +133,11 @@ se face din Chrome-ul tău:
 
    ```bash
    python3 genereaza_sql.py && cd worker && npx wrangler d1 execute legi-md --remote --file=legi.sql
+   npx wrangler deploy
    ```
 
 ## Limitări
 
 - Răspunsurile sunt informative, nu consultație juridică.
-- Indicii superiori din numerele articolelor s-au pierdut la export: art. 213¹ apare ca „Articolul 2131”.
+- Articolele cu indice (ex. 213¹) sunt păstrate ca în lege. Întrebările pot scrie „213¹”, „213/1” sau „213^1”.
 - Legile sunt o copie din 22.10.2026 — modificările ulterioare nu apar până nu refaci exportul.

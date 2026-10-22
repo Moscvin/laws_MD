@@ -137,7 +137,7 @@ masă maximă autorizată – masa totală a vehiculului echipat, inclusiv înc�
 
 maşină autopropulsată – autovehiculul (inclusiv tractorul) destinat executării unor lucrări de construcţii, agricole, silvice sau a altor activităţi;
 
-motocicletă – autovehiculul cu două roţi, cu sau fără ataş, avînd capacitatea cilindrică a motorului mai mare de 50 cm3. Autovehiculul cu trei roţi (triciclu) sau cu patru roţi simetrice faţă de axa sa longitudinală (cvadriciclu), avînd capacitatea cilindrică a motorului mai mare de 50 cm3 şi masa echipată mai mică de 400 kg, este considerat motocicletă;
+motocicletă – autovehiculul cu două roţi, cu sau fără ataş, avînd capacitatea cilindrică a motorului mai mare de 50 cm³. Autovehiculul cu trei roţi (triciclu) sau cu patru roţi simetrice faţă de axa sa longitudinală (cvadriciclu), avînd capacitatea cilindrică a motorului mai mare de 50 cm³ şi masa echipată mai mică de 400 kg, este considerat motocicletă;
 
 motocultor cu remorcă – tractor monoax fără mecanism de direcție, a cărui viteză prin construcție nu depășește 25 km/h, utilizat pentru efectuarea lucrărilor de transport;
 
@@ -363,7 +363,7 @@ f) să spele în apele naturale vehicule sau utilaje ale acestora;
 
 g) să manifeste față de alți participanți la traficul rutier un comportament agresiv, neacordîndu-le prioritatea regulamentară în cazul deplasării prin intersecții, preselectării benzii de circulație, în timpul executării manevrei de depășire, precum și prin executarea accelerărilor și frînărilor bruște fără temei sau utilizarea semnalelor sonore şi luminoase.
 
-141. Conducătorul de vehicul oprit pentru verificare de către agentul de circulaţie are dreptul:
+14¹. Conducătorul de vehicul oprit pentru verificare de către agentul de circulaţie are dreptul:
 
 a) să fie informat în privinţa numelui, prenumelui, funcţiei agentului de circulaţie, autorităţii pe care o reprezintă, inclusiv prin prezentarea legitimaţiei, precum şi temeiul legal al opririi;
 
@@ -1037,7 +1037,7 @@ Intersecţii cu circulaţie nedirijată
 
 4) La intersecţia drumurilor de semnificaţie echivalentă, conducătorul de vehicul trebuie să cedeze trecerea vehiculelor care se apropie de intersecţie din dreapta, indiferent de direcţia de deplasare ulterioară a acestora.
 
-41) Ieșirea din sensul giratoriu trebuie efectuată numai de pe banda din dreapta a părții carosabile, dacă configurația intersecției sau mijloacele de semnalizare nu impun altă modalitate de efectuare a manevrei.
+4¹) Ieșirea din sensul giratoriu trebuie efectuată numai de pe banda din dreapta a părții carosabile, dacă configurația intersecției sau mijloacele de semnalizare nu impun altă modalitate de efectuare a manevrei.
 
 5) În cazul în care conducătorul vehiculului nu poate determina prezenţa îmbrăcămintei drumului (timp de noapte, zăpadă, noroi etc.), iar indicatoarele rutiere de prioritate lipsesc, el va considera că se află pe drumul fără prioritate.
 
@@ -1113,13 +1113,13 @@ g) este interzisă parcarea pe drumurile publice din localități și pe teritor
 
 Staţionarea de lungă durată (odihnă, popas de noapte etc.) se permite numai în locurile de parcare sau în afara drumului.
 
-681. Accesul pentru autovehiculele utilate cu sistem de alimentare cu gaze este interzis:
+68¹. Accesul pentru autovehiculele utilate cu sistem de alimentare cu gaze este interzis:
 
 a) în parcările subterane ale clădirilor locative multietajate, clădirilor de menire social-culturală, clădirilor cu destinaţie publică şi administrativă;
 
 b) în parcările supraterane de tip închis.
 
-682. Interzicerea accesului pentru autovehiculele utilate cu sistem de alimentare cu gaze este semnalizată prin indicatorul 3.34.
+68². Interzicerea accesului pentru autovehiculele utilate cu sistem de alimentare cu gaze este semnalizată prin indicatorul 3.34.
 
 69. Oprirea este interzisă:
 
@@ -1463,7 +1463,7 @@ La intersecțiile cu circulația dirijată, precum și în cazul intersectării 
 
 Dimensiunile de gabarit ale trotinetei electrice trebuie să nu depășească în lungime – 2 m; în lățime – 0,7 m;  în înălțime – 1,4 m; masa proprie – 55 kg.
 
-31) Pentru a fi admise în traficul rutier, motocultoarele cu remorcă trebuie să întrunească următoarele condiţii:
+3¹) Pentru a fi admise în traficul rutier, motocultoarele cu remorcă trebuie să întrunească următoarele condiţii:
 
 a) motocultorul cu remorcă trebuie să fie echipat cu frînă la remorcă;
 

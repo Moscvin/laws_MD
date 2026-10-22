@@ -201,7 +201,7 @@ Articolul 12. Soluţionarea cauzelor civile în temeiul
 
 (4) Dacă în tratatul internaţional la care Republica Moldova este parte sunt stabilite alte reglementări decât cele prevăzute de legislaţia internă, instanţa, la judecarea cauzei, aplică reglementările tratatului internaţional.
 
-Articolul 121. Ridicarea excepţiei de neconstituţionalitate
+Articolul 12¹. Ridicarea excepţiei de neconstituţionalitate
 
 (1) În cazul existenţei incertitudinii privind constituţionalitatea legilor, a hotărârilor Parlamentului, a decretelor Preşedintelui Republicii Moldova, a hotărârilor şi ordonanţelor Guvernului ce urmează a fi aplicate la soluţionarea unei cauze, instanța de judecată, din oficiu sau la cererea unui participant la proces, sesizează Curtea Constituţională.
 
@@ -221,7 +221,7 @@ d) nu există o hotărâre anterioară a Curţii Constituționale având ca obie
 
 (5) Instanța de judecată poate ridica excepția de neconstituționalitate doar dacă cererea de chemare în judecată sau cererea de apel a fost acceptată în modul prevăzut de lege ori dacă cererea de recurs împotriva hotărârii sau deciziei curții de apel a fost declarată admisibilă conform legii.
 
-Articolul 122. Avizele consultative ale Curții Supreme
+Articolul 12². Avizele consultative ale Curții Supreme
 
                         de Justiție
 
@@ -283,7 +283,7 @@ Articolul 16. Caracterul obligatoriu al actelor
 
 Articolul 17. – abrogat.
 
-Articolul 171. Depunerea documentelor prin intermediul
+Articolul 17¹. Depunerea documentelor prin intermediul
 
                          programului integrat de gestionare a
 
@@ -297,11 +297,11 @@ Articolul 18. Utilizarea de mijloace tehnice
 
 (1) Pentru documentarea lucrărilor şedinţei de judecată şi conservarea probelor, instanţa judecătorească poate utiliza orice mijloc tehnic în conformitate cu prezentul cod şi alte legi.
 
-(11) Pentru exercitarea drepturilor şi obligaţiilor procesuale, participanţii la proces pot efectua înregistrarea audio a şedinţei de judecată.
+(1¹) Pentru exercitarea drepturilor şi obligaţiilor procesuale, participanţii la proces pot efectua înregistrarea audio a şedinţei de judecată.
 
-(2) Înregistrarea video, fotografierea, utilizarea altor mijloace tehnice decât cele cerute în condiţiile alin. (11) pot fi admise numai de preşedintele şedinţei de judecată și doar cu acordul părților și al altor participanți la proces, iar în caz de audiere a martorilor, cu acordul acestora.
+(2) Înregistrarea video, fotografierea, utilizarea altor mijloace tehnice decât cele cerute în condiţiile alin. (1¹) pot fi admise numai de preşedintele şedinţei de judecată și doar cu acordul părților și al altor participanți la proces, iar în caz de audiere a martorilor, cu acordul acestora.
 
-(21) Ședințele publice ale Curții Supreme de Justiție sunt înregistrate video, iar înregistrările video sunt disponibile pe pagina web oficială a curții.
+(2¹) Ședințele publice ale Curții Supreme de Justiție sunt înregistrate video, iar înregistrările video sunt disponibile pe pagina web oficială a curții.
 
 (3) Încălcarea prevederilor alin.(2) se sancţionează cu amendă de până la 20 unităţi convenţionale şi cu confiscarea înregistrărilor (peliculei, pozelor, casetelor etc.).
 
@@ -387,7 +387,7 @@ Articolul 25. Principiul nemijlocirii şi oralităţii în
 
 (2) Dezbaterile judiciare se desfăşoară oral şi în faţa aceluiași complet de judecată. În cazul înlocuirii unui judecător în timpul judecării cauzei, dezbaterile se reiau de la început.
 
-(21) În cazul în care unul dintre judecătorii completului format din mai mulți judecători nu poate participa la judecarea cauzei din motiv de boală îndelungată, de deces, de eliberare din funcție în condițiile legii sau în cazul admiterii cererii de recuzare ori a declarației de abținere, acesta este înlocuit de un alt judecător și cauza se judecă în continuare. Judecătorului care intervine în proces i se oferă timp pentru a lua cunoștință de materialele cauzei, inclusiv de cele cercetate în instanță, însă înlocuirea acestuia în condițiile prezentului alineat nu necesită reluarea judecării cauzei. Judecătorul are dreptul să solicite repetarea unor acțiuni procesuale deja efectuate în ședințele de judecată în lipsa lui dacă are de concretizat chestiuni suplimentare.
+(2¹) În cazul în care unul dintre judecătorii completului format din mai mulți judecători nu poate participa la judecarea cauzei din motiv de boală îndelungată, de deces, de eliberare din funcție în condițiile legii sau în cazul admiterii cererii de recuzare ori a declarației de abținere, acesta este înlocuit de un alt judecător și cauza se judecă în continuare. Judecătorului care intervine în proces i se oferă timp pentru a lua cunoștință de materialele cauzei, inclusiv de cele cercetate în instanță, însă înlocuirea acestuia în condițiile prezentului alineat nu necesită reluarea judecării cauzei. Judecătorul are dreptul să solicite repetarea unor acțiuni procesuale deja efectuate în ședințele de judecată în lipsa lui dacă are de concretizat chestiuni suplimentare.
 
 (3) În cazurile expres prevăzute de lege, judecătorul examinează cauza în procedură scrisă.
 
@@ -431,7 +431,7 @@ Articolul 33. Competenţa generală a instanţelor
 
 (2) Instanţele judecătoreşti judecă cauzele cu participarea organizaţiilor şi cetăţenilor din Republica Moldova, a cetăţenilor străini, apatrizilor, organizaţiilor străine, organizaţiilor cu capital străin, organizaţiilor internaţionale dacă prin lege sau prin tratatele internaţionale la care Republica Moldova este parte nu este stabilită competenţa instanţelor judecătoreşti străine sau a altor organe.
 
-Articolul 331. Competența judecătoriilor
+Articolul 33¹. Competența judecătoriilor
 
 Judecătoriile examinează şi soluționează în fond toate cauzele civile, dacă legea nu prevede altfel.
 
@@ -447,7 +447,7 @@ Articolul 37. Competenţa în caz de concurenţă
 
 În cazul în care pretenţii legate între ele sunt examinate de mai multe instanţe judecătoreşti în acelaşi timp, acestea urmează a fi conexate, la cerere, printr-o încheiere şi examinate de judecătoria sesizată mai întâi. Judecătoriile (judecătoria) sesizate ulterior vor strămuta pretenţiile la judecătoria sesizată mai întâi printr-o încheiere ce poate fi atacată cu recurs.
 
-Articolul 371. Competenţa în judecarea pretenţiilor
+Articolul 37¹. Competenţa în judecarea pretenţiilor
 
                          conexe
 
@@ -485,11 +485,11 @@ Articolul 39. Competenţa la alegerea reclamantului
 
 (11) Acţiunea născută din contractul în care se indică locul executării lui poate fi intentată şi în oricare dintre sediile instanței din acel loc.
 
-(111) Acţiunea ce ţine de încasarea datoriei scadente din contractul încheiat între agenţii economici poate fi intentată şi în oricare dintre sediile instanței de la sediul reclamantului.*
+(11¹) Acţiunea ce ţine de încasarea datoriei scadente din contractul încheiat între agenţii economici poate fi intentată şi în oricare dintre sediile instanței de la sediul reclamantului.*
 
 ____________________________________
 
-*Notă: Articolul 39 completat cu alin. (111) prin LP nr.163 din 22.07.2011 (art.III-XV) – declarat neconstituțional prin HCC3 din 09.02.12, MO38-41/24.02.12 art.7; în vigoare 09.02.12
+*Notă: Articolul 39 completat cu alin. (11¹) prin LP nr.163 din 22.07.2011 (art.III-XV) – declarat neconstituțional prin HCC3 din 09.02.12, MO38-41/24.02.12 art.7; în vigoare 09.02.12
 
 (12) Acţiunea împotriva pârâtului care este o organizaţie sau un cetăţean al Republicii Moldova cu sediul ori cu domiciliul pe teritoriul unui alt stat poate fi intentată şi în oricare dintre sediile instanței de la sediul ori domiciliul reclamantului sau în oricare dintre sediile instanței de la locul de aflare a bunurilor pârâtului pe teritoriul Republicii Moldova.
 
@@ -513,11 +513,11 @@ Articolul 40. Competenţa excepțională
 
 (6) Cererile acţionarilor se depun în instanţa de la sediul societăţii lor.
 
-(7) Cererea privind recuperarea prejudiciilor aduse unei bănci insolvabile împotriva administratorului băncii și persoanei căreia îi este imputabilă apariţia stării de insolvabilitate sau de dificultate majoră a băncii, în temeiul art. 3815 al Legii instituţiilor financiare nr. 550-XIII din 21 iulie 1995, se depune în instanța de judecată de la sediul băncii insolvabile.
+(7) Cererea privind recuperarea prejudiciilor aduse unei bănci insolvabile împotriva administratorului băncii și persoanei căreia îi este imputabilă apariţia stării de insolvabilitate sau de dificultate majoră a băncii, în temeiul art. 38¹⁵ al Legii instituţiilor financiare nr. 550-XIII din 21 iulie 1995, se depune în instanța de judecată de la sediul băncii insolvabile.
 
 Articolul 41. – abrogat.
 
-Articolul 411. Competenţa în materie de moştenire
+Articolul 41¹. Competenţa în materie de moştenire
 
 (1) În instanţa de la locul în care se desfășoară procedura succesorală se înaintează următoarele acţiuni:
 
@@ -577,7 +577,7 @@ g) în circumstanţe excepţionale, instanţa competentă să judece cauza nu po
 
 (4) Strămutarea cauzei în cazurile prevăzute la alin.(2) lit. d), e), f) şi g) se efectuează de către instanţa ierarhic superioară, a cărei încheiere nu se supune niciunei căi de atac. Încheierea instanței ierarhic superioare este emisă în cel mult 5 zile lucrătoare, în baza copiilor de pe actele relevante transmise în formă electronică.
 
-(41) Instanţa este obligată să remită instanţei competente dosarul în termen de 5 zile de la data la care încheierea de strămutare a cauzei devine irevocabilă.
+(4¹) Instanţa este obligată să remită instanţei competente dosarul în termen de 5 zile de la data la care încheierea de strămutare a cauzei devine irevocabilă.
 
 (5) Actele procedurale îndeplinite de instanţa care a intentat procesul anterior strămutării cauzei au efect juridic în măsura în care noua instanţă consideră că nu este necesară modificarea lor.
 
@@ -655,9 +655,9 @@ a) la judecarea anterioară a cauzei a participat în calitate de martor, expert
 
 b) se află în raporturi de rudenie până la al patrulea grad inclusiv sau de afinitate până la al treilea grad inclusiv cu vreuna dintre părţi, cu alţi participanţi la proces sau cu reprezentanţii acestora;
 
-b1) o rudă a sa până la al patrulea grad inclusiv sau un afin până la al treilea grad inclusiv a participat, ca judecător, la judecarea aceleiaşi cauze;
+b¹) o rudă a sa până la al patrulea grad inclusiv sau un afin până la al treilea grad inclusiv a participat, ca judecător, la judecarea aceleiaşi cauze;
 
-b2) este rudă până la al patrulea grad inclusiv sau afin până la al treilea grad inclusiv cu un alt membru al completului de judecată;
+b²) este rudă până la al patrulea grad inclusiv sau afin până la al treilea grad inclusiv cu un alt membru al completului de judecată;
 
 c) este reprezentantul legal al uneia dintre părți;
 
@@ -693,7 +693,7 @@ Articolul 52. Declaraţiile de recuzare şi de abţinere
 
 (3) Dacă temeiurile recuzării i-au devenit cunoscute după ce a început judecarea cauzei în fond, instanţa este obligată să le comunice în şedinţă de judecată pentru soluţionarea recuzării.
 
-(31) Dacă motivele recuzării sau abținerii i-au devenit cunoscute după ce a început judecarea cauzei în fond, cererea de recuzare trebuie înaintată în cel mult 5 zile lucrătoare de la data la care acestea i-au devenit cunoscute.
+(3¹) Dacă motivele recuzării sau abținerii i-au devenit cunoscute după ce a început judecarea cauzei în fond, cererea de recuzare trebuie înaintată în cel mult 5 zile lucrătoare de la data la care acestea i-au devenit cunoscute.
 
 (4) Procedura soluţionării cererii de abţinere de la judecată şi efectele admiterii ei se determină conform prevederilor art. 53 şi 54.
 
@@ -707,7 +707,7 @@ Articolul 53. Procedura de soluţionare a cererii
 
 (1) Propunerea de recuzare se examinează de instanţa sesizată cu acţiunea. Instanța examinează explicațiile persoanei a cărei recuzare se solicită, dacă acestea au fost depuse, şi ascultă opinia participanţilor la proces. Nu se admite interogarea ca mijloc de dovadă a motivelor de recuzare, nici efectuarea unor acte de procedură.
 
-(11) – abrogat.
+(1¹) – abrogat.
 
 (2) Cererea de recuzare se distribuie spre soluționare în mod aleatoriu prin intermediul Programului integrat de gestionare a dosarelor și se examinează în cel mult 5 zile lucrătoare din momentul repartizării, fără a afecta continuitatea ședinței de judecată, însă până la soluționarea cererii de recuzare se amână pledoariile.
 
@@ -763,7 +763,7 @@ Articolul 58. Capacitatea de exerciţiu al drepturilor
 
 (2) Actele de procedură efectuate de minorii cu vârste cuprinse între 14 şi 18 ani sunt lovite de nulitate relativă. Reprezentantul legal al minorului poate încuviința toate aceste acte sau numai o parte dintre ele. Instanţa judecătorească va acorda un termen pentru încuviințarea actelor. Dacă actele nu sunt încuviințate în termenul stabilit, se va dispune anularea acestora.
 
-(21) Actele de procedură efectuate de minorii cu vârste de până la 14 ani sau de persoanele supuse măsurii de ocrotire judiciare sub forma tutelei sunt nule. Prevederea nu se aplică în cazul în care persoana supusă măsurii de ocrotire judiciare sub forma tutelei contestă hotărârea respectivă.
+(2¹) Actele de procedură efectuate de minorii cu vârste de până la 14 ani sau de persoanele supuse măsurii de ocrotire judiciare sub forma tutelei sunt nule. Prevederea nu se aplică în cazul în care persoana supusă măsurii de ocrotire judiciare sub forma tutelei contestă hotărârea respectivă.
 
 (3) Minorul care a atins vârsta de 16 ani poate să-şi exercite personal drepturile procedurale şi să-şi îndeplinească obligaţiile procedurale de sine stătător în cazul declarării capacităţii depline de exerciţiu (emancipării) sau al încheierii căsătoriei.
 
@@ -773,7 +773,7 @@ Articolul 58. Capacitatea de exerciţiu al drepturilor
 
 (6) Drepturile, libertățile şi interesele legitime ale minorilor cu vârsta de până la 14 ani sunt apărate în instanța judecătorească de reprezentanții legali ai acestora.
 
-Articolul 581. Capacitatea de exerciţiu al drepturilor
+Articolul 58¹. Capacitatea de exerciţiu al drepturilor
 
                          procedurale civile a persoanei în privinţa
 
@@ -821,7 +821,7 @@ Articolul 60. Drepturile procedurale ale părţilor
 
 (2) Pe tot parcursul examinării cauzei, reclamantul este în drept să renunţe la acţiune, pârâtul este în drept să recunoască acţiunea, iar părţile pot înceta procesul prin tranzacţie de împăcare.
 
-(21) În faza de pregătire a cauzei pentru dezbateri judiciare, reclamantul este în drept să modifice temeiul sau obiectul acțiunii. Exercitarea acestui drept după începutul dezbaterilor judiciare constituie o acțiune nouă, care poate fi depusă în instanță în ordine generală. În asemenea cazuri, continuă examinarea cererii depuse anterior ori se dispune încetarea procesului, dacă reclamantul renunță la acțiunea inițială. Instanța restituie părţii, printr-o încheiere protocolară, cererea de modificare a temeiului sau obiectului acțiunii, precum şi actele anexate.
+(2¹) În faza de pregătire a cauzei pentru dezbateri judiciare, reclamantul este în drept să modifice temeiul sau obiectul acțiunii. Exercitarea acestui drept după începutul dezbaterilor judiciare constituie o acțiune nouă, care poate fi depusă în instanță în ordine generală. În asemenea cazuri, continuă examinarea cererii depuse anterior ori se dispune încetarea procesului, dacă reclamantul renunță la acțiunea inițială. Instanța restituie părţii, printr-o încheiere protocolară, cererea de modificare a temeiului sau obiectului acțiunii, precum şi actele anexate.
 
 (3) Nu se consideră modificare a acţiunii dacă reclamantul completează temeiul acțiunii, mărește sau micșorează cuantumul pretențiilor, completează acțiunea cu pretenții accesorii sau solicită compensarea valorii obiectului pierdut sau pierit.
 
@@ -863,7 +863,7 @@ Articolul 63. Coparticiparea facultativă
 
 (1) Pentru judecarea rapidă şi justă a litigiilor, instanţa judecătorească este în drept să admită examinarea concomitentă a mai multor pretenţii înaintate de mai mulţi reclamanţi către acelaşi pârât ori de un reclamant către mai mulţi pârâți, ori de mai mulţi reclamanţi împotriva mai multor pârâți (inclusiv în cazul când fiecare pretenţie poate fi examinată şi executată de sine stătător), când ele se află în conexiune prin raportul material juridic dintre coparticipanţi, prin pretenţiile înaintate sau probele comune şi când există posibilitatea examinării lor în aceeaşi procedură şi de aceeaşi instanţă.
 
-(11) Fiecare coreclamant sau copârât participă în proces în mod independent faţă de ceilalţi coparticipanţi.
+(1¹) Fiecare coreclamant sau copârât participă în proces în mod independent faţă de ceilalţi coparticipanţi.
 
 (2) Încheierea judecătorească prin care s-a permis ori s-a respins cererea de admitere a coparticipării facultative nu se supune recursului.
 
@@ -877,11 +877,11 @@ Articolul 65. Intervenientul principal (intervenientul
 
 (1) Orice persoană interesată poate interveni într-un proces ce se desfăşoară între alte persoane. Intervenţia este în interesul propriu când intervenientul invocă un drept al său asupra obiectului litigiului sau un drept legat de acesta.
 
-(11) Dacă se constată că există persoane care pot să îşi declare propriile pretenţii asupra obiectului litigiului între părţile iniţiale, instanţa este obligată să înştiinţeze persoanele în cauză despre procesul pornit şi să le explice dreptul lor de a interveni în proces prin înaintarea unei acţiuni.
+(1¹) Dacă se constată că există persoane care pot să îşi declare propriile pretenţii asupra obiectului litigiului între părţile iniţiale, instanţa este obligată să înştiinţeze persoanele în cauză despre procesul pornit şi să le explice dreptul lor de a interveni în proces prin înaintarea unei acţiuni.
 
 (2) Intervenientul principal poate interveni în proces până la închiderea dezbaterilor judiciare în primă instanţă, înaintând acţiunea către una sau către ambele părţi în modul prevăzut de prezentul cod. Intervenientul principal are drepturi şi obligaţii de reclamant.
 
-(21) Cererea de intervenţie principală se întocmeşte conform cerinţelor prevăzute pentru cererea de chemare în judecată.
+(2¹) Cererea de intervenţie principală se întocmeşte conform cerinţelor prevăzute pentru cererea de chemare în judecată.
 
 (3) – abrogat.
 
@@ -975,7 +975,7 @@ Articolul 75. Reprezentarea în instanţă judecătorească
 
 (1) În proces civil, persoanele fizice îşi pot apăra interesele personal, prin avocat sau avocat stagiar. Participarea personală în proces nu face ca persoana fizică să decadă din dreptul de a avea avocat.
 
-(11) Persoanele fizice pot fi reprezentate în instanţa de judecată de către soț/soție, părinți, copii, fraţi, surori, bunei, nepoţi dacă aceștia sunt licențiați în drept și sunt împuterniciți printr-o procură autentificată notarial.
+(1¹) Persoanele fizice pot fi reprezentate în instanţa de judecată de către soț/soție, părinți, copii, fraţi, surori, bunei, nepoţi dacă aceștia sunt licențiați în drept și sunt împuterniciți printr-o procură autentificată notarial.
 
 (2) Procesele persoanelor juridice se susţin în instanţă de judecată de către organele lor de administrare, care acţionează în limitele împuternicirilor atribuite prin lege, prin alte acte normative sau prin actele lor de constituire, precum şi de către alţi angajaţi împuterniciţi ai persoanei juridice, de către avocaţi sau avocaţi stagiari.
 
@@ -993,7 +993,7 @@ a) dacă domiciliul pârâtului nu este cunoscut;
 
 b) – abrogată;
 
-c) în condițiile art. 306, 316 și 2786;
+c) în condițiile art. 306, 316 și 278⁶;
 
 d) în alte cazuri prevăzute de lege.
 
@@ -1001,13 +1001,13 @@ Articolul 78. – abrogat.
 
 Articolul 79. Reprezentanţii legali
 
-(1) Drepturile, libertăţile şi interesele legitime ale persoanelor care nu au capacitate deplină de exerciţiu și ale celor în privința cărora au fost instituite măsuri de ocrotire sunt apărate în instanţă, în cazurile şi condiţiile prevăzute la art. 58 şi 581, de către părinţi, tutori sau curatori, de alte persoane cărora acest drept le este acordat prin lege.
+(1) Drepturile, libertăţile şi interesele legitime ale persoanelor care nu au capacitate deplină de exerciţiu și ale celor în privința cărora au fost instituite măsuri de ocrotire sunt apărate în instanţă, în cazurile şi condiţiile prevăzute la art. 58 şi 58¹, de către părinţi, tutori sau curatori, de alte persoane cărora acest drept le este acordat prin lege.
 
 (2) Reprezentarea în proces a persoanei declarate dispărută fără veste în modul stabilit de lege se face de administratorul fiduciar sau de tutorele numit în conformitate cu legea.
 
 (3) Reprezentarea în proces a moştenitorilor persoanei decedate sau declarate decedată în modul stabilit de lege, dacă succesiunea nu a fost încă acceptată de nimeni, se face de către custodele masei succesorale sau tutorele/curatorul, desemnat în conformitate cu legea, ori de către autoritatea tutelară teritorială.
 
-(31) Reprezentarea în proces a minorului aflat în plasament de urgență sau plasament planificat se efectuează de către autoritatea tutelară teritorială sau de tutorele/curatorul desemnat în conformitate cu legea.
+(3¹) Reprezentarea în proces a minorului aflat în plasament de urgență sau plasament planificat se efectuează de către autoritatea tutelară teritorială sau de tutorele/curatorul desemnat în conformitate cu legea.
 
 (4) Reprezentantul legal îndeplineşte în numele celui reprezentat toate actele procedurale pe care acesta din urmă are dreptul să le exercite, cu excepțiile stabilite de lege.
 
@@ -1039,7 +1039,7 @@ Articolul 81. Împuternicirile reprezentantului
 
 (1) Împuternicirea de reprezentare în judecată acordă reprezentantului dreptul de a exercita în numele reprezentatului toate actele procedurale, cu excepţia dreptului de a semna cererea şi de a o depune în judecată, de a recurge la arbitraj pentru soluționarea litigiului, de a renunţa total sau parţial la pretenţiile din acţiune, de a majora sau reduce cuantumul acestor pretenţii, de a modifica temeiul sau obiectul acţiunii, de a o recunoaşte, de a recurge la mediere, de a încheia tranzacţii, de a intenta acţiune reconvenţională, de a transmite împuterniciri unei alte persoane, de a ataca hotărârea judecătorească, de a-i schimba modul de executare, de a amâna sau eşalona executarea ei, de a prezenta un titlu executoriu spre urmărire, de a primi bunuri sau bani în temeiul hotărârii judecătoreşti, drept care trebuie menţionat expres, sub sancţiunea nulităţii, în procura eliberată reprezentantului persoanei juridice sau în mandatul eliberat avocatului.
 
-(2) Prin derogare de la alin. (1), mandatul de ocrotire în viitor, acordat prin act juridic încheiat în formă autentică şi care a început să producă efecte, acordă mandatarului împuternicirea de a îndeplini toate actele procedurale pe care mandantul are dreptul să le exercite, cu excepțiile stabilite la art. 4812–4827 din Codul civil și de mandatul de ocrotire în viitor.
+(2) Prin derogare de la alin. (1), mandatul de ocrotire în viitor, acordat prin act juridic încheiat în formă autentică şi care a început să producă efecte, acordă mandatarului împuternicirea de a îndeplini toate actele procedurale pe care mandantul are dreptul să le exercite, cu excepțiile stabilite la art. 48¹²–48²⁷ din Codul civil și de mandatul de ocrotire în viitor.
 
 Capitolul VII
 
@@ -1107,9 +1107,9 @@ g) din suma totală de plată sau a livrărilor restante, dar nu mai mult decât
 
 h) din suma totală a chiriei în termenul rămas de valabilitate a contractului, dar nu mai mult decât pe 3 ani – în acţiunile de reziliere a contractului de locațiune;
 
-j1) în mărime de 20% din valoarea bunului – în acţiunile posesorii;
+j¹) în mărime de 20% din valoarea bunului – în acţiunile posesorii;
 
-j2) din valoarea dreptului real sau de creanţă – în cazul acţiunii în efectuarea înregistrării, al acţiunii în justificare şi al acţiunii în rectificare a registrului de publicitate prevăzut de lege;
+j²) din valoarea dreptului real sau de creanţă – în cazul acţiunii în efectuarea înregistrării, al acţiunii în justificare şi al acţiunii în rectificare a registrului de publicitate prevăzut de lege;
 
 k) din valoarea fiecărei pretenţii aparte – în acţiunile care constau din mai multe pretenţii de sine stătătoare.
 
@@ -1135,7 +1135,7 @@ c) refuzului de a primi cererea spre examinare în temeiul art. 169 alin.(1);
 
 d) restituirii cererii în temeiul art. 170 alin.(1) şi art. 171 alin.(2);
 
-e) încetării procesului pentru motivele specificate la art. 265, 2651 și 374;
+e) încetării procesului pentru motivele specificate la art. 265, 265¹ și 374;
 
 f) scoaterii cererii de pe rol pentru motivele specificate la art. 267;
 
@@ -1233,7 +1233,7 @@ Articolul 96. Compensarea cheltuielilor de asistenţă
 
 (1) Instanţa judecătorească obligă partea care a pierdut procesul să compenseze părţii care a avut câștig de cauză cheltuielile ei de asistenţă juridică, în măsura în care acestea au fost reale, necesare şi rezonabile.
 
-(11) Cheltuielile menţionate la alin. (1) se compensează părţii care a avut câștig de cauză dacă aceasta a fost reprezentată în judecată de un avocat.
+(1¹) Cheltuielile menţionate la alin. (1) se compensează părţii care a avut câștig de cauză dacă aceasta a fost reprezentată în judecată de un avocat.
 
 (2) În cazul în care partea care a câștigat procesul a beneficiat de asistenţă juridică calificată garantată de stat, plata cheltuielilor de acordare a asistenţei juridice calificate revine părţii care a pierdut procesul. Sumele respective se încasează în conformitate cu Legea nr. 198-XVI din 26 iulie 2007 cu privire la asistența juridică garantată de stat.
 
@@ -1255,7 +1255,7 @@ Articolul 97. Repartizarea cheltuielilor de judecată
 
 (6) Dacă, după depunerea cererii de chemare în judecată, părţile au recurs la mediere şi s-au împăcat parţial, taxa de stat se reduce proporţional valorii pretenţiei soluţionate prin tranzacţie.
 
-Articolul 971. Compensarea cheltuielilor de judecată
+Articolul 97¹. Compensarea cheltuielilor de judecată
 
                         făcute de părţi
 
@@ -1273,7 +1273,7 @@ Articolul 98. Compensarea cheltuielilor suportate
 
 (3) Dacă acţiunea a fost admisă parţial, iar pârâtul este scutit de plata cheltuielilor de judecată, cheltuielile de judecare a cauzei suportate de instanţă se încasează la buget de la reclamant, dacă acesta nu este scutit de plata cheltuielilor de judecată, proporţional părţii respinse din acţiune.
 
-(4) Prin hotărâre judecătorească, decizie a instanței de apel sau decizie a instanței de recurs se dispune în mod obligatoriu încasarea cheltuielilor suportate de instanța de judecată de la partea care a pierdut procesul. Cuantificarea acestora se face conform unei metodologii aprobate prin hotărâre de Guvern. Dacă procesul a încetat conform art. 265 lit. a), b), e) și h), art. 2651 sau cererea a fost scoasă de pe rol conform art. 267 lit. a), d)–h), k) și k1) prin încheierea respectivă, instanța dispune în mod obligatoriu încasarea cheltuielilor suportate de instanța de judecată de la reclamant.
+(4) Prin hotărâre judecătorească, decizie a instanței de apel sau decizie a instanței de recurs se dispune în mod obligatoriu încasarea cheltuielilor suportate de instanța de judecată de la partea care a pierdut procesul. Cuantificarea acestora se face conform unei metodologii aprobate prin hotărâre de Guvern. Dacă procesul a încetat conform art. 265 lit. a), b), e) și h), art. 265¹sau cererea a fost scoasă de pe rol conform art. 267 lit. a), d)–h), k) și k¹) prin încheierea respectivă, instanța dispune în mod obligatoriu încasarea cheltuielilor suportate de instanța de judecată de la reclamant.
 
 Articolul 99. Atacarea încheierilor judecătoreşti
 
@@ -1291,13 +1291,13 @@ Articolul 100. Comunicarea actelor de procedură
 
 (1) Cererea de chemare în judecată şi actele de procedură se comunică participanţilor la proces şi persoanelor interesate, contra semnătură, prin intermediul persoanei împuternicite, prin poștă, cu scrisoare recomandată şi cu aviz de primire, prin intermediul biroului executorului judecătoresc, la adresa electronică indicată în cererea de chemare în judecată sau înregistrată prin intermediul Programului integrat de gestionare a dosarelor, sau prin alte mijloace care să asigure transmiterea textului cuprins în act şi confirmarea primirii lui, precum şi prin delegație judiciară.
 
-(11) Cererea de chemare în judecată și actele de procedură ale instanței de judecată se comunică autorităților publice, persoanelor juridice, întreprinzătorilor individuali, persoanelor care exercită profesii juridice și persoanelor fizice asistate de avocat, prin intermediul Programului integrat de gestionare a dosarelor, la care acestea sunt conectate prin adresa electronică indicată în cererea de chemare în judecată, în actul ce atestă împuternicirea de reprezentare în judecată sau în alte acte ce confirmă utilizarea acesteia, precum și la adresa electronică identificată prin intermediul platformelor guvernamentale, al Registrului de stat al unităților de drept și al Registrului de stat al profesiilor juridice.
+(1¹) Cererea de chemare în judecată și actele de procedură ale instanței de judecată se comunică autorităților publice, persoanelor juridice, întreprinzătorilor individuali, persoanelor care exercită profesii juridice și persoanelor fizice asistate de avocat, prin intermediul Programului integrat de gestionare a dosarelor, la care acestea sunt conectate prin adresa electronică indicată în cererea de chemare în judecată, în actul ce atestă împuternicirea de reprezentare în judecată sau în alte acte ce confirmă utilizarea acesteia, precum și la adresa electronică identificată prin intermediul platformelor guvernamentale, al Registrului de stat al unităților de drept și al Registrului de stat al profesiilor juridice.
 
-[Art.100 al.(11) în redacția LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.100 al.(1¹) în redacția LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
-(12) Actele de procedură expediate prin mijloace electronice se consideră comunicate la data și ora la care au devenit disponibile destinatarului în sistemul informațional utilizat pentru comunicare.
+(1²) Actele de procedură expediate prin mijloace electronice se consideră comunicate la data și ora la care au devenit disponibile destinatarului în sistemul informațional utilizat pentru comunicare.
 
-[Art.100 al.(12) introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.100 al.(1²) introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
 (2) Dacă i se cere să îndeplinească pentru o altă instanţă procedura de comunicare, instanţa solicitată este obligată să ia de îndată măsurile necesare, conform legii, şi să trimită instanţei solicitante dovezile de îndeplinire a procedurii cerute.
 
@@ -1313,9 +1313,9 @@ Articolul 102. Citaţia şi înştiinţarea judiciară
 
 [Art.102 al.(2) modificat prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
-(21) În cazul în care instanța dispune desfășurarea ședinței de judecată prin videoconferință, citația sau înștiințarea cuprinde o mențiune expresă privind modalitatea de participare, precum și datele tehnice necesare pentru accesul la ședință.
+(2¹) În cazul în care instanța dispune desfășurarea ședinței de judecată prin videoconferință, citația sau înștiințarea cuprinde o mențiune expresă privind modalitatea de participare, precum și datele tehnice necesare pentru accesul la ședință.
 
-[Art.102 al.(21) introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.102 al.(2¹) introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
 (3) Citaţiile şi înştiinţările se comunică participanţilor la proces, martorilor, experţilor, specialiştilor, interpreţilor astfel încât aceștia să se poată pregăti de proces şi să se prezinte la timp în faţa instanţei.
 
@@ -1325,7 +1325,7 @@ Articolul 102. Citaţia şi înştiinţarea judiciară
 
 [Art.102 al.(4) modificat prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
-(41) Participanţii la proces înştiinţaţi în mod legal o dată nu pot invoca necitarea lor pentru efectuarea actelor de procedură la o dată ulterioară.
+(4¹) Participanţii la proces înştiinţaţi în mod legal o dată nu pot invoca necitarea lor pentru efectuarea actelor de procedură la o dată ulterioară.
 
 (5) Prezentarea părţii în instanţă, în persoană sau prin reprezentant, precum și participarea acesteia prin videoconferință, acoperă orice viciu de înmânare a citaţiei. Partea însă este în drept să ceară amânarea procesului dacă citaţia nu i s-a înmânat în termen.
 
@@ -1333,9 +1333,9 @@ Articolul 102. Citaţia şi înştiinţarea judiciară
 
 (6) Citaţia sau înştiinţarea se trimite la adresa menţionată de parte sau de un alt participant la proces. Dacă persoana nu locuieşte la adresa comunicată instanţei, citaţia sau înştiinţarea poate fi trimisă la locul ei de muncă sau la locul unde se află.
 
-(61) Dacă destinatarul este un participant la proces dintre cei prevăzuți la art. 100 alin. (11), martor, expert, specialist sau interpret, citația ori înștiințarea se expediază la adresa electronică înregistrată în Programul integrat de gestionare a dosarelor, la adresa electronică indicată în alte acte care confirmă utilizarea acesteia sau la adresa electronică identificată de instanță prin intermediul platformelor guvernamentale, al Registrului de stat al unităților de drept și al Registrului de stat al profesiilor juridice.
+(6¹) Dacă destinatarul este un participant la proces dintre cei prevăzuți la art. 100 alin. (1¹), martor, expert, specialist sau interpret, citația ori înștiințarea se expediază la adresa electronică înregistrată în Programul integrat de gestionare a dosarelor, la adresa electronică indicată în alte acte care confirmă utilizarea acesteia sau la adresa electronică identificată de instanță prin intermediul platformelor guvernamentale, al Registrului de stat al unităților de drept și al Registrului de stat al profesiilor juridice.
 
-[Art.102 al.(61) introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.102 al.(6¹) introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
 (7) Citațiile și înștiințările judiciare trimise la sediul persoanelor juridice și nerecepționate la expirarea termenelor de reclamare se consideră înmânate la data expirării termenului de reclamare chiar dacă destinatarul nu a reclamat corespondența de la oficiul poștal. Citațiile și înștiințările expediate la adresa electronică înregistrată în Programul integrat de gestionare a dosarelor sau la adresa electronică identificată de instanță prin intermediul Registrului de stat al unităților de drept se consideră comunicate la data și ora la care au devenit disponibile destinatarului în sistemul informațional utilizat pentru comunicare.
 
@@ -1373,7 +1373,7 @@ d) întreprinderile şi toţi cei supuşi procedurii de reorganizare judiciară 
 
 e) minorii, prin reprezentanţii lor legali, iar în cazul numirii unui curator – prin acesta, dacă nu au capacitate de exercițiu al drepturilor procedurale în cauza civilă respectivă;
 
-e1) persoana în privinţa căreia este instituită o măsură de ocrotire judiciară, precum şi persoana însărcinată cu ocrotirea;
+e¹) persoana în privinţa căreia este instituită o măsură de ocrotire judiciară, precum şi persoana însărcinată cu ocrotirea;
 
 f) personalul misiunilor diplomatice şi al oficiilor consulare ale Republicii Moldova, cetăţenii Republicii Moldova trimişi ca funcţionari în organizaţii internaţionale, precum şi membrii lor de familie care locuiesc cu ei în străinătate, prin intermediul Ministerului Afacerilor Externe şi Integrării Europene al Republicii Moldova;
 
@@ -1393,7 +1393,7 @@ Articolul 105. Înmânarea citaţiei şi înştiinţării
 
 (1) Citaţia şi înştiinţarea se trimit prin scrisoare recomandată cu aviz de primire sau prin persoana împuternicită de judecată. Data înmânării citaţiei sau înştiinţării se înscrie pe citaţie sau înştiinţare în partea care se înmânează destinatarului, precum şi pe cotor, care se restituie instanţei.
 
-(11) Citaţia sau înştiinţarea se expediază autorităţilor publice, persoanelor juridice de drept privat şi avocaţilor prin intermediul Programului integrat de gestionare a dosarelor sau prin orice mijloc de comunicare ce asigură transmiterea şi confirmarea primirii acestor acte. La solicitarea persoanelor fizice, citaţia sau înştiinţarea poate fi transmisă acestora prin mijloace de comunicare ce asigură transmiterea şi confirmarea primirii acestor acte sau prin poșta electronică în cadrul Programului integrat de gestionare a dosarelor.
+(1¹) Citaţia sau înştiinţarea se expediază autorităţilor publice, persoanelor juridice de drept privat şi avocaţilor prin intermediul Programului integrat de gestionare a dosarelor sau prin orice mijloc de comunicare ce asigură transmiterea şi confirmarea primirii acestor acte. La solicitarea persoanelor fizice, citaţia sau înştiinţarea poate fi transmisă acestora prin mijloace de comunicare ce asigură transmiterea şi confirmarea primirii acestor acte sau prin poșta electronică în cadrul Programului integrat de gestionare a dosarelor.
 
 (2) Cu consimțământul participantului la proces, judecătorul îi încredinţează citația sau înştiinţarea pentru a o înmîna destinatarului. Persoana împuternicită de judecător să înmâneze citaţia sau înştiinţarea este obligată să restituie instanţei cotorul cu semnătura de primire a destinatarului.
 
@@ -1427,9 +1427,9 @@ Articolul 107. Schimbarea adresei sau a avocatului
 
 (1) Dacă îşi schimbă domiciliul sau sediul după pornirea procesului, partea sau reprezentantul ei este obligat să comunice instanţei noua adresă. În lipsa unei astfel de comunicări, citaţia sau înştiinţarea se trimite la ultima adresă cunoscută instanţei şi se consideră recepționată chiar dacă destinatarul nu mai locuieşte sau nu îşi are sediul acolo.
 
-(11) Dacă își schimbă adresa electronică după intentarea procesului, partea sau reprezentantul acesteia este obligată/obligat să comunice instanței, precum și celorlalți participanți la proces, noua sa adresă electronică. În lipsa unei astfel de comunicări, citația sau înștiințarea se expediază la ultima adresă electronică indicată de parte sau de reprezentant, utilizată anterior în proces ori identificată de instanță potrivit art. 102 alin. (61), și se consideră comunicată chiar dacă destinatarul nu mai utilizează respectiva adresă electronică.
+(1¹) Dacă își schimbă adresa electronică după intentarea procesului, partea sau reprezentantul acesteia este obligată/obligat să comunice instanței, precum și celorlalți participanți la proces, noua sa adresă electronică. În lipsa unei astfel de comunicări, citația sau înștiințarea se expediază la ultima adresă electronică indicată de parte sau de reprezentant, utilizată anterior în proces ori identificată de instanță potrivit art. 102 alin. (6¹), și se consideră comunicată chiar dacă destinatarul nu mai utilizează respectiva adresă electronică.
 
-[Art.107 al.(11) introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.107 al.(1¹) introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
 (2) Partea este obligată să informeze instanța, nu mai târziu de 3 zile până la data ședinței de judecată, despre angajarea unui avocat, schimbarea sau renunţarea la serviciile avocatului, prezentând instanței datele de contact ale noului avocat, inclusiv adresa electronică a acestuia.
 
@@ -1477,7 +1477,7 @@ Articolul 112. Expirarea termenului de procedură
 
 (1) Termenul stabilit în săptămâni, luni sau o perioadă care cuprinde mai multe luni (ani, semestre, trimestre) expiră, în cazul prevăzut la art. 111 alin.(3), în acea zi a ultimei săptămâni sau ultimei luni care, prin denumirea sau numărul ei, corespunde zilei în care a survenit evenimentul sau momentul în timp respectiv, iar în cazul prevăzut la art. 111 alin.(4), acesta expiră în acea zi a ultimei săptămâni sau ultimei luni care precedă ziua în care, prin denumirea sau numărul ei, corespunde zilei în care a început să curgă termenul.
 
-(11) Dacă ultima lună nu are ziua respectivă determinată conform alin.(1), termenul expiră în ultima zi a lunii.
+(1¹) Dacă ultima lună nu are ziua respectivă determinată conform alin.(1), termenul expiră în ultima zi a lunii.
 
 (2) Dacă ultima zi a termenului este nelucrătoare, acesta expiră în următoarea zi lucrătoare.
 
@@ -1545,7 +1545,7 @@ Articolul 119. Prezentarea şi reclamarea probelor
 
 (3) Persoanele care nu deţin probele de rigoare sau nu au posibilitatea de a le prezenta în termenul stabilit de judecată sunt obligate să comunice instanţei faptul în decursul a 5 zile de la data primirii cererii acesteia, indicând motivele neprezentării. În caz de neînştiinţare, precum şi de declarare de către instanţă a neîndeplinirii cererii de a se prezenta probe ca fiind neîntemeiată, persoanele vinovate care nu sunt participanţi la proces se sancţionează cu amendă de la 20 la 50 unităţi convenţionale. Refuzul sau omisiunea de către persoanele menționate de a comunica și de a prezenta instanţei în termenul stabilit, din motive imputabile acestora, probele reclamate, dacă în acest mod se tergiversează judecarea cauzei, se sancționează cu amendă de până la 50 de unităţi convenţionale pentru fiecare caz de tergiversare. Aplicarea amenzii nu scuteşte persoanele care deţin proba reclamată de obligaţia prezentării ei în instanţă.
 
-Articolul 1191. Ordinea de prezentare a probelor
+Articolul 119¹. Ordinea de prezentare a probelor
 
 (1) Toate probele se prezintă, sub sancţiunea decăderii, în termenul stabilit de instanța de judecată, în faza de pregătire a cauzei pentru dezbateri judiciare, dacă legea nu prevede altfel. În cazul prezentării probelor contrar condițiilor prevăzute de lege, judecătorul dispune restituirea acestora printr-o încheiere protocolară.
 
@@ -1583,7 +1583,7 @@ Articolul 122. Admisibilitatea probelor
 
 (3) Se consideră inadmisibile probele obţinute cu încălcarea prevederilor legii, cum ar fi inducerea în eroare a participantului la proces, încheierea actului de către o persoană neîmputernicită, încheierea defectuoasă a actului procedural, alte acţiuni ilegale.
 
-(4) Se consideră inadmisibile probele ce nu au fost prezentate de participanţii la proces până la data stabilită de judecător, cu excepţia cazurilor prevăzute la art. 1191 şi art. 372 alin. (1).
+(4) Se consideră inadmisibile probele ce nu au fost prezentate de participanţii la proces până la data stabilită de judecător, cu excepţia cazurilor prevăzute la art. 119¹ şi art. 372 alin. (1).
 
 Articolul 123. Temeiurile degrevării de probaţiune
 
@@ -1629,9 +1629,9 @@ Articolul 127. Asigurarea probelor
 
 (1) Participanţii la proces interesaţi să prevină dispariţia ori imposibilitatea administrării în viitor a unei probe utile pentru dovedirea pretenţiilor pot cere instanţei judecătoreşti asigurarea probei. Asigurarea se face prin audierea martorului, efectuarea expertizei, cercetarea la faţa locului şi prin alte modalităţi.
 
-(2) Asigurarea probelor înainte de intentarea procesului în instanţă judecătorească se efectuează de executorii judecătoreşti, de notari, de persoanele oficiale ale misiunilor diplomatice ale Republicii Moldova în privinţa cetăţenilor Republicii Moldova, în modul prevăzut de legislaţia în vigoare, sau de judecători, în condiţiile prevăzute la art. 1271.
+(2) Asigurarea probelor înainte de intentarea procesului în instanţă judecătorească se efectuează de executorii judecătoreşti, de notari, de persoanele oficiale ale misiunilor diplomatice ale Republicii Moldova în privinţa cetăţenilor Republicii Moldova, în modul prevăzut de legislaţia în vigoare, sau de judecători, în condiţiile prevăzute la art. 127¹.
 
-Articolul 1271. Asigurarea probelor în cazul obiectelor
+Articolul 127¹. Asigurarea probelor în cazul obiectelor
 
                           de proprietate intelectuală
 
@@ -1645,7 +1645,7 @@ Articolul 1271. Asigurarea probelor în cazul obiectelor
 
 (5) Încheierea de admitere a asigurării probelor poate fi atacată odată cu fondul, iar cea de respingere a cererii poate fi atacată cu recurs în termen de 5 zile de la pronunţare, dacă s-a emis cu citarea participanţilor la proces, sau de la comunicare, dacă s-a emis fără citarea lor. Depunerea recursului nu suspendă executarea măsurilor de asigurare.
 
-Articolul 1272. Cauţiunea în cazul asigurării probelor
+Articolul 127². Cauţiunea în cazul asigurării probelor
 
                           până la intentarea acţiunii
 
@@ -1661,7 +1661,7 @@ Articolul 1272. Cauţiunea în cazul asigurării probelor
 
 (6) Instanţa se pronunţă asupra cererii de restituire a cauţiunii, cu citarea părţilor, printr-o încheiere supusă recursului.
 
-Articolul 1273. Anularea măsurilor de asigurare a probelor
+Articolul 127³. Anularea măsurilor de asigurare a probelor
 
 (1) Măsurile de asigurare a probelor se consideră nule în cazul în care reclamantul nu intentează în termen de 20 de zile lucrătoare o acţiune în instanţă judecătorească privind încălcarea drepturilor.
 
@@ -1795,7 +1795,7 @@ Articolul 138. Prezentarea înscrisurilor
 
 (1) Înscrisurile se depun în judecată de către părţi şi de alţi participanţi la proces. La solicitarea acestora, înscrisurile sunt reclamate de instanţă părţilor, altor participanţi la proces, precum şi persoanelor care nu sunt participanţi la proces.
 
-(11) Dacă participantul la proces nu execută încheierea judecătorească privind prezentarea înscrisurilor și pe parcursul examinării cauzei se constată că acestea sunt deținute de participant, dar nu au fost prezentate, instanța poate considera dovedite afirmațiile participantului care a solicitat prezentarea, cu privire la cuprinsul înscrisurilor reclamate.
+(1¹) Dacă participantul la proces nu execută încheierea judecătorească privind prezentarea înscrisurilor și pe parcursul examinării cauzei se constată că acestea sunt deținute de participant, dar nu au fost prezentate, instanța poate considera dovedite afirmațiile participantului care a solicitat prezentarea, cu privire la cuprinsul înscrisurilor reclamate.
 
 (2) Dacă înscrisul se păstrează la o autoritate, organizaţie sau la o altă persoană sau instituţie, instanţa, la cererea participantului la proces, dispune prezentarea lui în termen. Această prescripţie nu se referă la înscrisurile care pot fi obţinute fără concursul instanţei. Obţinerea şi prezentarea înscrisului se fac pe cheltuiala solicitantului.
 
@@ -1955,7 +1955,7 @@ Articolul 154. Drepturile şi obligaţiile expertului
 
 (3) Pentru depunerea cu bună ştiinţă a unui raport fals, expertul răspunde în conformitate cu legislaţia penală. În cazul efectuării expertizei într-o instituţie de expertiză, răspunderea pentru veridicitatea raportului depus o poartă expertul sau experţii desemnaţi de şeful instituţiei.
 
-(31) Expertul are obligaţia să nu divulge circumstanţele şi datele ce i-au devenit cunoscute în urma efectuării expertizei sau în urma participării la o şedinţă de judecată închisă, inclusiv cele ce se referă la inviolabilitatea vieţii private şi a vieţii de familie, precum şi cele ce constituie secret de stat, secret de serviciu, secret comercial sau un alt secret ocrotit de lege.
+(3¹) Expertul are obligaţia să nu divulge circumstanţele şi datele ce i-au devenit cunoscute în urma efectuării expertizei sau în urma participării la o şedinţă de judecată închisă, inclusiv cele ce se referă la inviolabilitatea vieţii private şi a vieţii de familie, precum şi cele ce constituie secret de stat, secret de serviciu, secret comercial sau un alt secret ocrotit de lege.
 
 (4) Expertul este obligat să prezinte explicații instanței judecătorești ori de câte ori i se cere. Expertul poate da explicații instanței în scris, prezentându-se personal în ședință la ora, data și locul citării, sau poate comunica cu instanța și participanții la proces prin videoconferință. În cazul neprezentării nejustificate a explicațiilor, al modificării raportului de expertiză judiciară în ședință de judecată față de cel depus în scris, al refuzului de a efectua expertiza judiciară, dacă este obligat să o efectueze, sau al neprezentării materialelor din dosar ori a altor materiale utilizate, cheltuielile suportate de persoanele interesate vor fi puse în sarcina expertului. În aceste cazuri, expertului i se poate aplica și amendă de 15 unități convenționale. În cazul neîndeplinirii obligațiilor după aplicarea amenzii sau în caz de nerecuperare a cheltuielilor suportate de persoanele interesate, sancțiunea cu amendă se aplică repetat.
 
@@ -2047,25 +2047,25 @@ a) instanţa căreia îi este adresată;
 
 b) numele sau denumirea reclamantului, domiciliul ori sediul lui, numărul de identificare de stat (IDNO) – pentru persoane juridice și întreprinzători individuali și numărul de identificare personal (IDNP) – pentru persoane fizice; dacă reclamantul este o persoană juridică, datele bancare, numele reprezentantului şi adresa lui, în cazul în care cererea se depune de reprezentant dacă reclamantul locuiește în străinătate, adresa din Republica Moldova unde urmează a i se face comunicările despre proces;
 
-b1) numărul de telefon şi alte date de contact ale reclamantului persoană fizică; numărul de telefon, adresa electronică înregistrată în Programul integrat de gestionare a dosarelor, adresa electronică din Registrul de stat al unităților de drept şi alte date de contact ale reclamantului persoană juridică;
+b¹) numărul de telefon şi alte date de contact ale reclamantului persoană fizică; numărul de telefon, adresa electronică înregistrată în Programul integrat de gestionare a dosarelor, adresa electronică din Registrul de stat al unităților de drept şi alte date de contact ale reclamantului persoană juridică;
 
-[Art.166 al.(2), lit.b1) modificată prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.166 al.(2), lit.b¹) modificată prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
 c) numele sau denumirea pârâtului, domiciliul ori sediul lui;
 
-c1) numărul de telefon, numărul de fax, poşta electronică sau alte date de contact ale pârâtului, în cazul în care reclamantul dispune de aceste date;
+c¹) numărul de telefon, numărul de fax, poşta electronică sau alte date de contact ale pârâtului, în cazul în care reclamantul dispune de aceste date;
 
-c2) numele, prenumele, adresa, numărul de telefon, adresa electronică înregistrată în Programul integrat de gestionare a dosarelor şi alte date de contact ale reprezentantului reclamantului;
+c²) numele, prenumele, adresa, numărul de telefon, adresa electronică înregistrată în Programul integrat de gestionare a dosarelor şi alte date de contact ale reprezentantului reclamantului;
 
 d) esenţa încălcării sau a pericolului de încălcare a drepturilor, libertăţilor sau intereselor legitime ale reclamantului, pretenţiile lui;
 
 e) circumstanţele de fapt şi de drept pe care reclamantul îşi întemeiază pretenţiile şi toate probele de care acesta dispune în momentul depunerii cererii;
 
-e1) lista probelor anexate;
+e¹) lista probelor anexate;
 
-e2) lista probelor reclamate;
+e²) lista probelor reclamate;
 
-e3) cererile de reclamare a probelor, efectuare a expertizei, numire/recuzare a expertului, alte cereri formulate;
+e³) cererile de reclamare a probelor, efectuare a expertizei, numire/recuzare a expertului, alte cereri formulate;
 
 f) pretenţiile reclamantului către pârât;
 
@@ -2085,7 +2085,7 @@ i) documentele anexate la cerere.
 
 [Art.166 al.(7) abrogat prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
-Articolul 1661. Depunerea cererii de chemare în
+Articolul 166¹. Depunerea cererii de chemare în
 
                             judecată prin mijloace electronice
 
@@ -2099,7 +2099,7 @@ Articolul 1661. Depunerea cererii de chemare în
 
 (5) În cazul în care cererea de chemare în judecată este depusă prin intermediul Programului integrat de gestionare a dosarelor, iar cel puțin unul dintre pârâți sau intervenienți nu face parte din categoria subiecților prevăzuți la alin. (2) ori nu dispune de o adresă electronică cunoscută pentru realizarea comunicării prevăzute la alin. (4), reclamantul prezintă instanței de judecată, în termen de 5 zile de la data depunerii cererii de chemare în judecată, în conformitate cu art. 167, pe suport de hârtie, copii ale cererii de chemare în judecată și ale înscrisurilor anexate, într-un număr egal cu numărul de pârâți și intervenienți, plus un rând de copii pentru instanță.
 
-[Art.1661 introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.166¹ introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
 Articolul 167. Actele care se anexează la cererea
 
@@ -2109,7 +2109,7 @@ Articolul 167. Actele care se anexează la cererea
 
 a) copiile de pe cererea de chemare în judecată şi de pe înscrisuri, certificate de către parte, pe proprie răspundere, într-un număr egal cu numărul de pârâți şi de intervenienţi, dacă ei nu dispun de aceste acte, plus un rând de copii pentru instanţă. Copiile vor fi certificate de către parte pentru conformitate cu originalul. Dacă înscrisurile şi cererea de chemare în judecată sunt făcute într-o limbă străină, instanţa dispune prezentarea traducerii lor în modul stabilit de lege;
 
-a1) copia de pe actul de identitate al reclamantului persoană fizică;
+a¹) copia de pe actul de identitate al reclamantului persoană fizică;
 
 b) dovada de plată a taxei de stat și/sau de taxei de timbru;
 
@@ -2117,9 +2117,9 @@ c) documentele care certifică circumstanţele pe care reclamantul îşi înteme
 
 d) documentele care confirmă respectarea procedurii de soluţionare prealabilă a litigiului, dacă respectarea acestei proceduri este prevăzută de lege sau de contractul părţilor;
 
-d1) dovada transmiterii către pârât și intervenient a copiei cererii de chemare în judecată și a înscrisurilor anexate, dacă cererea de chemare în judecată a fost depusă conform art. 1661;
+d¹) dovada transmiterii către pârât și intervenient a copiei cererii de chemare în judecată și a înscrisurilor anexate, dacă cererea de chemare în judecată a fost depusă conform art. 166¹;
 
-[Art.167 al.(1), lit.d1) introdusă prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.167 al.(1), lit.d¹) introdusă prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
 e) documentul ce legalizează împuternicirile reprezentantului;
 
@@ -2157,7 +2157,7 @@ a) cererea nu urmează a fi judecată în instanţă judecătorească în proced
 
 b) există o hotărâre judecătorească irevocabilă cu privire la un litigiu între aceleaşi părţi, asupra aceluiaşi obiect şi având aceleaşi temeiuri sau o încheiere judecătorească prin care se admite încetarea procesului în legătură cu faptul că reclamantul a renunţat la acţiune sau că între părţi s-a încheiat o tranzacţie;
 
-b1) reclamantul şi-a retras acţiunea civilă la faza judecării cauzei în procesul penal, dacă retragerea a fost acceptată de instanţă;
+b¹) reclamantul şi-a retras acţiunea civilă la faza judecării cauzei în procesul penal, dacă retragerea a fost acceptată de instanţă;
 
 c) aceasta este depusă de un organ, organizaţie sau o persoană în apărarea drepturilor, libertăţilor şi intereselor legitime ale unei alte persoane fără ca prezentul cod sau o altă lege să le delege dreptul adresării în judecată în acest scop;
 
@@ -2187,9 +2187,9 @@ f) cererea a fost depusă în numele persoanei interesate de către o persoană 
 
 g) la aceeaşi instanţă sau la o alta, se află în judecată un litigiu între aceleaşi părţi, asupra aceluiaşi obiect şi având aceleaşi temeiuri;
 
-g1) reclamantul depune o nouă cerere de chemare în judecată împotriva aceluiași pârât, având același obiect și aceleași temeiuri, după restituirea cererii anterioare în temeiul art. 171 alin. (2), iar din conținutul cererii și din actele anexate rezultă în mod vădit că nu au fost înlăturate neajunsurile indicate în încheierea prin care cererii anterioare nu i s-a dat curs și care au determinat restituirea acesteia;
+g¹) reclamantul depune o nouă cerere de chemare în judecată împotriva aceluiași pârât, având același obiect și aceleași temeiuri, după restituirea cererii anterioare în temeiul art. 171 alin. (2), iar din conținutul cererii și din actele anexate rezultă în mod vădit că nu au fost înlăturate neajunsurile indicate în încheierea prin care cererii anterioare nu i s-a dat curs și care au determinat restituirea acesteia;
 
-[Art.170 al.(1), lit.g1) introdusă prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.170 al.(1), lit.g¹) introdusă prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
 h) – abrogată;
 
@@ -2197,7 +2197,7 @@ i) reclamantul îşi retrage cererea înainte de emiterea încheierii privind in
 
 j) la depunerea cererii în procedură specială se constată un litigiu de drept ce ţine de competenţa instanţelor judecătoreşti;
 
-k) cererea de chemare în judecată a fost depusă cu încălcarea prevederilor art. 1661 alin. (1) și (2).
+k) cererea de chemare în judecată a fost depusă cu încălcarea prevederilor art. 166¹ alin. (1) și (2).
 
 [Art.170 al.(1), lit.k) introdusă prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
@@ -2211,7 +2211,7 @@ k) cererea de chemare în judecată a fost depusă cu încălcarea prevederilor 
 
 Articolul 171. Cazurile în care nu se dă curs cererii
 
-(1) După ce constată că cererea a fost depusă în judecată fără a se respecta condiţiile art. 166, art. 1661 alin. (5) și art. 167 alin. (1) lit. a), b), c), d1) și e), judecătorul emite, în cel mult 5 zile de la repartizarea cererii, o încheiere pentru a nu se da curs cererii, comunicând persoanei care a depus cererea acest fapt de încălcare şi acordându-i un termen rezonabil pentru lichidarea neajunsurilor.
+(1) După ce constată că cererea a fost depusă în judecată fără a se respecta condiţiile art. 166, art. 166¹ alin. (5) și art. 167 alin. (1) lit. a), b), c), d¹) și e), judecătorul emite, în cel mult 5 zile de la repartizarea cererii, o încheiere pentru a nu se da curs cererii, comunicând persoanei care a depus cererea acest fapt de încălcare şi acordându-i un termen rezonabil pentru lichidarea neajunsurilor.
 
 [Art.171 al.(1) modificat prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
@@ -2247,7 +2247,7 @@ Articolul 174. Temeiurile asigurării acţiunii
 
 (1) La cererea participanţilor la proces, judecătorul sau instanţa dispune în aceeaşi zi aplicarea sau neaplicarea măsurilor de asigurare a acţiunii. Asigurarea se admite în orice fază a procesului până la etapa în care hotărârea judecătorească devine definitivă, în cazul în care neaplicarea măsurilor de asigurare a acţiunii ar face imposibilă executarea hotărârii judecătoreşti.
 
-(2) La dispunerea măsurilor de asigurare a acţiunii în litigiile care pot viza competenţele Băncii Naţionale a Moldovei sau pe cele ale Comisiei Naţionale a Pieţei Financiare, instanţa de judecată aplică mutatis mutandis prevederile art. 111 alin. (2)–(5) şi (7) din Legea nr. 548-XIII din 21 iulie 1995 cu privire la Banca Naţională a Moldovei sau prevederile art. 23 alin. (2)–(8) și (11) din Legea nr. 192-XIV din 12 noiembrie 1998 privind Comisia Naţională a Pieţei Financiare, după caz. În aceste litigii nu pot fi dispuse măsurile de asigurare a acţiunii prevăzute la art. 175 alin. (1) lit. b) şi c) şi alin. (2) din prezentul cod.
+(2) La dispunerea măsurilor de asigurare a acţiunii în litigiile care pot viza competenţele Băncii Naţionale a Moldovei sau pe cele ale Comisiei Naţionale a Pieţei Financiare, instanţa de judecată aplică mutatis mutandis prevederile art. 11¹ alin. (2)–(5) şi (7) din Legea nr. 548-XIII din 21 iulie 1995 cu privire la Banca Naţională a Moldovei sau prevederile art. 23 alin. (2)–(8) și (11) din Legea nr. 192-XIV din 12 noiembrie 1998 privind Comisia Naţională a Pieţei Financiare, după caz. În aceste litigii nu pot fi dispuse măsurile de asigurare a acţiunii prevăzute la art. 175 alin. (1) lit. b) şi c) şi alin. (2) din prezentul cod.
 
 Articolul 175. Măsurile de asigurare a acţiunii
 
@@ -2255,7 +2255,7 @@ Articolul 175. Măsurile de asigurare a acţiunii
 
 a) să pună sechestru pe bunurile sau pe sumele de bani ale pârâtului, inclusiv pe cele care se află la alte persoane;
 
-a1) să noteze acţiunea, în registrele de publicitate prevăzute de lege, în raport cu drepturile pârâtului;
+a¹) să noteze acţiunea, în registrele de publicitate prevăzute de lege, în raport cu drepturile pârâtului;
 
 b) să interzică pârâtului săvârșirea unor anumite acte;
 
@@ -2271,17 +2271,17 @@ e) să suspende urmărirea, întemeiată pe un document executoriu, contestat de
 
 (4) Sechestrul sau interdicţia aplicată în privinţa unui drept înregistrat într-un registru de publicitate prevăzut de lege nu împiedică titularul dreptului să încheie acte juridice de dispoziţie cu privire la drept, cu condiţia că actul juridic stipulează expres că este încheiat sub condiţia suspensivă a ridicării sechestrului sau interdicţiei. În acest caz, dreptul dobânditorului doar se înregistrează provizoriu.
 
-(5) Nu pot fi puse sub sechestru, inclusiv în procesele de insolvabilitate, acțiunile emise de bănci, care cad sub incidența dispozițiilor art. 45 alin. (4), art. 46 alin. (4), art. 52 alin. (1) lit. b) și c), alin. (2), alin. (3), alin. (6) și art. 521 din Legea nr. 202/2017 privind activitatea băncilor. În cazurile prevăzute de prezentul alineat, pot fi puse sub sechestru mijloacele bănești rezultante din înstrăinarea acestor acțiuni.
+(5) Nu pot fi puse sub sechestru, inclusiv în procesele de insolvabilitate, acțiunile emise de bănci, care cad sub incidența dispozițiilor art. 45 alin. (4), art. 46 alin. (4), art. 52 alin. (1) lit. b) și c), alin. (2), alin. (3), alin. (6) și art. 52¹ din Legea nr. 202/2017 privind activitatea băncilor. În cazurile prevăzute de prezentul alineat, pot fi puse sub sechestru mijloacele bănești rezultante din înstrăinarea acestor acțiuni.
 
-(6) Instanța de judecată nu poate dispune, inclusiv în procesele de insolvabilitate, măsuri de asigurare a acțiunii care au drept obiect sau efect interzicerea înstrăinării obligatorii a acțiunilor emise de bănci, care cad sub incidența dispozițiilor art. 45 alin. (4), art. 46 alin. (4), art. 52 alin. (1) lit. b) și c), alin. (2), alin. (3), alin. (6) și art. 521 din Legea nr. 202/2017 privind activitatea băncilor.
+(6) Instanța de judecată nu poate dispune, inclusiv în procesele de insolvabilitate, măsuri de asigurare a acțiunii care au drept obiect sau efect interzicerea înstrăinării obligatorii a acțiunilor emise de bănci, care cad sub incidența dispozițiilor art. 45 alin. (4), art. 46 alin. (4), art. 52 alin. (1) lit. b) și c), alin. (2), alin. (3), alin. (6) și art. 52¹ din Legea nr. 202/2017 privind activitatea băncilor.
 
 (7) În cazul în care bunurile puse sub sechestru urmează a fi expropriate de către stat sau de către o unitate administrativ-teritorială pentru realizarea unor lucrări de utilitate publică, organul abilitat va institui măsura asigurătoare a sechestrului pe sumele consemnate pe numele proprietarului bunului expropriat, cu respectarea Legii exproprierii pentru cauză de utilitate publică nr. 488/1999.
 
-Articolul 1751. Notarea acţiunii în registrul de publicitate
+Articolul 175¹. Notarea acţiunii în registrul de publicitate
 
                          prevăzut de lege
 
-(1) În cazurile prevăzute de art. 28327 din Codul civil şi în alte cazuri prevăzute de lege, acţiunea este notată în registrul de publicitate prevăzut de lege la cererea reclamantului, fără intervenţia instanţei de judecată.
+(1) În cazurile prevăzute de art. 283²⁷ din Codul civil şi în alte cazuri prevăzute de lege, acţiunea este notată în registrul de publicitate prevăzut de lege la cererea reclamantului, fără intervenţia instanţei de judecată.
 
 (2) Reclamantul poate cere instanţei de judecată să dispună notarea acţiunii pentru alte cazuri decât cele prevăzute la alin.(1).
 
@@ -2319,7 +2319,7 @@ Articolul 177. Cuprinsul şi modul de soluţionare
 
 (2) Cererea de asigurare a acţiunii se soluţionează de către judecătorul care examinează cauza în ziua depunerii, fără înştiinţarea pârâtului şi a celorlalţi participanţi la proces. Dacă cererea de asigurare a acţiunii este depusă concomitent cu cererea de chemare în judecată, aceasta se soluţionează în ziua emiterii încheierii privind acceptarea cererii de chemare în judecată, fără înştiinţarea pârâtului şi a celorlalţi participanţi la proces.
 
-(21) Dacă cererea de asigurare a acţiunii este formulată în timpul şedinţei de judecată, aceasta se soluţionează de către instanţă în şedinţa respectivă, indiferent de absenţa unor participanţi la proces.
+(2¹) Dacă cererea de asigurare a acţiunii este formulată în timpul şedinţei de judecată, aceasta se soluţionează de către instanţă în şedinţa respectivă, indiferent de absenţa unor participanţi la proces.
 
 (3) Judecătorul pronunţă o încheiere motivată privind asigurarea sau neasigurarea acţiunii.
 
@@ -2337,7 +2337,7 @@ Articolul 179. Substituirea unei forme de asigurare
 
 (2) Substituirea unei forme de asigurare a acţiunii printr-o altă formă se soluţionează în şedinţă de judecată. Participanţilor la proces li se comunică locul, data şi ora şedinţei de judecată. Neprezentarea lor însă nu împiedică examinarea problemei.
 
-(21) Încheierea judecătorească privind substituirea unei forme de asigurare a acţiunii printr-o altă formă poate fi atacată cu recurs.
+(2¹) Încheierea judecătorească privind substituirea unei forme de asigurare a acţiunii printr-o altă formă poate fi atacată cu recurs.
 
 (3) În cazul asigurării acţiunii prin care se cere plata unei sume, pârâtul este în drept ca, în locul măsurilor de asigurare luate, să depună pe contul de depozit al instanţei suma cerută de reclamant.
 
@@ -2347,11 +2347,11 @@ Articolul 180. Anularea măsurilor de asigurare a acţiunii
 
 (2) Anularea măsurii anterioare de asigurare a acţiunii se soluţionează în şedinţă de judecată. Participanţilor la proces li se comunică locul, data şi ora şedinţei. Neprezentarea lor repetată însă nu împiedică examinarea problemei. Încheierea judecătorească privind anularea măsurilor de asigurare a acțiunii poate fi atacată cu recurs. Recursul împotriva încheierii de anulare a măsurilor de asigurare a acţiunii sau de substituire a unei forme de asigurare cu o alta suspendă executarea încheierii.
 
-(21) Anularea măsurilor de asigurare a acţiunii se dispune de instanţa de judecată odată cu pronunţarea asupra fondului printr-o hotărâre de respingere a acţiunii. Reglementările referitoare la caracterul definitiv al actului judecătoresc prin care se soluţionează fondul sunt aplicabile integral şi asupra prevederilor referitoare la măsurile de asigurare.
+(2¹) Anularea măsurilor de asigurare a acţiunii se dispune de instanţa de judecată odată cu pronunţarea asupra fondului printr-o hotărâre de respingere a acţiunii. Reglementările referitoare la caracterul definitiv al actului judecătoresc prin care se soluţionează fondul sunt aplicabile integral şi asupra prevederilor referitoare la măsurile de asigurare.
 
 (3) În cazul respingerii acţiunii, măsurile anterioare de asigurare a acţiunii se menţin până când hotărârea judecătorească devine definitivă. În cazul admiterii acţiunii, măsurile anterioare de asigurare îşi păstrează efectul până la executarea hotărârii judecătoreşti.
 
-(31) În cazul încetării procedurii de executare în conformitate cu prevederile art. 83 alin. (1) lit. d) şi e) din Codul de executare, instanţa de judecată care a emis documentul executoriu, la cererea părţii interesate, dispune printr-o încheiere imediat executorie anularea măsurilor de asigurare a acţiunii. În cazurile prevăzute la art. 83 alin. (1) lit. a)-c), f) şi g) din Codul de executare, anularea măsurilor de asigurare este dispusă de executorul judecătoresc prin încheiere.
+(3¹) În cazul încetării procedurii de executare în conformitate cu prevederile art. 83 alin. (1) lit. d) şi e) din Codul de executare, instanţa de judecată care a emis documentul executoriu, la cererea părţii interesate, dispune printr-o încheiere imediat executorie anularea măsurilor de asigurare a acţiunii. În cazurile prevăzute la art. 83 alin. (1) lit. a)-c), f) şi g) din Codul de executare, anularea măsurilor de asigurare este dispusă de executorul judecătoresc prin încheiere.
 
 (4) Despre anularea măsurilor de asigurare a acţiunii, instanţa înştiinţează, după caz, organul care înregistrează bunul sau dreptul asupra lui.
 
@@ -2375,13 +2375,13 @@ Articolul 182. Reparaţia prejudiciului cauzat pârâtului
 
 (1) Acceptând asigurarea acţiunii, judecătorul sau instanţa, la solicitarea motivată a pârâtului, cere reclamantului o cauţiune a prejudiciilor care ar putea fi cauzate pârâtului.
 
-(11) În cazul în care reclamantul nu depune cauţiunea în termenul stabilit de instanţă, aceasta din urmă emite o încheiere de anulare a măsurilor de asigurare a acţiunii, care se execută imediat.
+(1¹) În cazul în care reclamantul nu depune cauţiunea în termenul stabilit de instanţă, aceasta din urmă emite o încheiere de anulare a măsurilor de asigurare a acţiunii, care se execută imediat.
 
 (2) Dacă hotărârea de respingere a acţiunii reclamantului a devenit irevocabilă, pârâtul este în drept să intenteze împotriva lui acţiune în reparaţie a prejudiciului cauzat prin măsurile de asigurare a acţiunii, luate la cererea acestuia, indiferent de vinovăţia reclamantului.
 
 (3) Persoana care a depus cauţiunea are dreptul să solicite restituirea acesteia în cazul în care partea care se consideră prejudiciată prin măsurile de asigurare a acţiunii nu depune o acţiune pentru compensarea prejudiciilor în termen de cel mult două luni de la data la care a rămas irevocabilă hotărârea judecătorească prin care a fost soluţionată cauza ori s-a emis încheierea judecătorească irevocabilă prin care a fost încetat procesul sau prin care cererea a fost scoasă de pe rol.
 
-Capitolul XIII1 - abrogat.
+Capitolul XIII¹ - abrogat.
 
 Capitolul XIV
 
@@ -2429,15 +2429,15 @@ Articolul 185. Actele judecătorului de pregătire
 
 a) soluţionează problema intervenirii în proces a coreclamanţilor, copârâţilor şi intervenienţilor;
 
-a1) concretizează dacă reclamantul a prezentat toate probele, oferind, la solicitare, un termen suficient pentru prezentarea sau reclamarea probelor;
+a¹) concretizează dacă reclamantul a prezentat toate probele, oferind, la solicitare, un termen suficient pentru prezentarea sau reclamarea probelor;
 
-b) expediază pârâtului şi, după caz, intervenientului copiile de pe cererea de chemare în judecată şi de pe înscrisurile anexate la ea întru confirmarea pretenţiilor reclamantului şi stabileşte data până la care pârâtul şi, după caz, intervenientul urmează să prezinte o referinţă scrisă privind acţiunea reclamantului şi toate probele necesare, cu excepția cazului prevăzut la art. 1661 alin. (3), dacă reclamantul a anexat dovada transmiterii acestora potrivit art. 167 alin. (1) lit. d1);
+b) expediază pârâtului şi, după caz, intervenientului copiile de pe cererea de chemare în judecată şi de pe înscrisurile anexate la ea întru confirmarea pretenţiilor reclamantului şi stabileşte data până la care pârâtul şi, după caz, intervenientul urmează să prezinte o referinţă scrisă privind acţiunea reclamantului şi toate probele necesare, cu excepția cazului prevăzut la art. 166¹ alin. (3), dacă reclamantul a anexat dovada transmiterii acestora potrivit art. 167 alin. (1) lit. d¹);
 
 [Art. 185 al. (1), lit.b) modificată prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
 c) remite reclamantului şi, după caz, intervenientului copiile de pe referinţă şi de pe înscrisurile anexate la ea şi stabileşte data până la care urmează să fie prezentate toate probele suplimentare;
 
-c1) remite pârâtului şi, după caz, intervenientului principal copiile de pe înscrisurile prezentate suplimentar de către reclamant sau intervenientul principal după studierea referinţei;
+c¹) remite pârâtului şi, după caz, intervenientului principal copiile de pe înscrisurile prezentate suplimentar de către reclamant sau intervenientul principal după studierea referinţei;
 
 d) ia măsuri pentru concilierea părţilor, explică părţilor dreptul de a recurge la mediere, le informează despre esenţa, avantajele şi efectele medierii sau le propune să participe la o şedinţă de informare cu privire la soluţionarea litigiilor prin mediere;
 
@@ -2461,7 +2461,7 @@ m) soluționează, la cerere sau din oficiu, problema strămutării cauzei la o 
 
 n) la cerere, soluționează excepția de tardivitate a pretențiilor;
 
-o) soluționează primirea cererii de modificare a cererii de chemare în judecată sau, după caz, a cererii reconvenționale, în condițiile art. 60 alin. (21) şi (3) sau, respectiv, art. 173;
+o) soluționează primirea cererii de modificare a cererii de chemare în judecată sau, după caz, a cererii reconvenționale, în condițiile art. 60 alin. (2¹) şi (3) sau, respectiv, art. 173;
 
 p) explică participanților la proces consecințele încălcării termenelor de efectuare a actelor de procedură;
 
@@ -2479,7 +2479,7 @@ u) efectuează alte acte procedurale.
 
 (3) În cadrul pregătirii cauzei pentru dezbateri judiciare, participanții la proces pot formula cereri de recuzare a judecătorului, a expertului, a specialistului, a interpretului și a grefierului, cereri privind completarea temeiului acțiunii, mărirea sau micșorarea cuantumului pretențiilor, completarea acțiunii cu pretenții accesorii sau compensarea valorii obiectului pierdut sau pierit, precum și cereri de renunțare totală sau parțială la acțiune, recunoaștere totală sau parțială a pretențiilor sau demersuri de conciliere, inclusiv cu ajutorul mediatorului. Formularea cererilor de recuzare la etapa dezbaterilor judiciare este posibilă doar din motive pe care participantul la proces nu le-a cunoscut și nici nu putea să le cunoască în faza de pregătire a cauzei pentru dezbateri judiciare.
 
-(4) Participanții la proces, doar în faza de pregătire a cauzei pentru dezbateri judiciare, pot solicita, sub sancțiunea decăderii din acest drept, încetarea procesului în temeiul art. 265 lit. a), c1), e), g) și h) sau scoaterea cererii de pe rol în temeiul art. 267 lit. a), c), e) și h).
+(4) Participanții la proces, doar în faza de pregătire a cauzei pentru dezbateri judiciare, pot solicita, sub sancțiunea decăderii din acest drept, încetarea procesului în temeiul art. 265 lit. a), c¹), e), g) și h) sau scoaterea cererii de pe rol în temeiul art. 267 lit. a), c), e) și h).
 
 Articolul 186. Prezentarea de către pârât a probelor
 
@@ -2511,11 +2511,11 @@ i) orice cerere menționată la art. 166 şi 167, în funcţie de interesul proc
 
 j) alte date importante pentru soluţionarea cauzei.
 
-(31) Pentru instanţa judecătorească se anexează copii certificate de pe înscrisuri şi de pe alte documente pe care se întemeiază referinţa. Referința cu toate anexele se depune în numărul necesar pentru toți participanții la proces. Referința se semnează de pârât sau de reprezentantul lui împuternicit în modul stabilit. Referința pârâtului persoană fizică care este asistat în judecată de un avocat şi referinţa pârâtului persoană juridică trebuie să fie dactilografiate și depuse prin intermediul Programului integrat de gestionare a dosarelor, cu semnătură electronică avansată calificată.
+(3¹) Pentru instanţa judecătorească se anexează copii certificate de pe înscrisuri şi de pe alte documente pe care se întemeiază referinţa. Referința cu toate anexele se depune în numărul necesar pentru toți participanții la proces. Referința se semnează de pârât sau de reprezentantul lui împuternicit în modul stabilit. Referința pârâtului persoană fizică care este asistat în judecată de un avocat şi referinţa pârâtului persoană juridică trebuie să fie dactilografiate și depuse prin intermediul Programului integrat de gestionare a dosarelor, cu semnătură electronică avansată calificată.
 
 (4) Judecătorul explică pârâtului că neprezentarea în termen a probelor şi a referinţei nu împiedică soluţionarea cauzei în baza materialelor din dosar.
 
-Articolul 1861. Excepția de tardivitate
+Articolul 186¹. Excepția de tardivitate
 
 (1) Cererile depuse în instanța de judecată peste termenul de prescripție extinctivă, a căror tardivitate a fost invocată în faza de pregătire a cauzei pentru dezbateri judiciare de partea în proces, persoana în a cărei favoare a curs prescripţia, de creditorul persoanei sau de către oricare altă persoană care are interes legitim, se examinează în fond doar după examinarea de către instanța de judecată a excepției de tardivitate. Dacă reclamantul a solicitat repunerea în termenul de prescripție sau solicită repunerea odată cu ridicarea excepției, instanța de judecată examinează excepția de tardivitate concomitent cu cererea de repunere în termen.
 
@@ -2581,13 +2581,13 @@ Articolul 192. Termenele de judecare a cauzelor civile
 
 (1) Cauzele civile se judecă în primă instanţă în termen rezonabil. Criteriile de determinare a termenului rezonabil sunt: complexitatea cauzei, comportamentul participanţilor la proces, conduita instanţei judecătoreşti şi a autorităţilor relevante, importanţa procesului pentru cel interesat. Respectarea termenului rezonabil de judecare a cauzei se asigură de către instanţă.
 
-(11) În situația în care, la judecarea unei cauze concrete, există pericolul de încălcare a termenului rezonabil, participanţii la proces pot adresa instanţei care examinează cauza în fond o cerere privind accelerarea procedurii de judecare a cauzei. Examinarea cererii se face în absenţa părţilor, în termen de 5 zile lucrătoare, de către un alt judecător sau de un alt complet de judecată decât cel care examinează cauza.
+(1¹) În situația în care, la judecarea unei cauze concrete, există pericolul de încălcare a termenului rezonabil, participanţii la proces pot adresa instanţei care examinează cauza în fond o cerere privind accelerarea procedurii de judecare a cauzei. Examinarea cererii se face în absenţa părţilor, în termen de 5 zile lucrătoare, de către un alt judecător sau de un alt complet de judecată decât cel care examinează cauza.
 
-(12) Instanţa decide asupra cererii de la alin. (11) printr-o încheiere motivată, prin care fie obligă instanţa care judecă cauza în fond să întreprindă un act procesual, stabilind, după caz, un anumit termen pentru accelerarea procedurii, fie respinge cererea. Încheierea nu se supune nici unei căi de atac.
+(1²) Instanţa decide asupra cererii de la alin. (1¹) printr-o încheiere motivată, prin care fie obligă instanţa care judecă cauza în fond să întreprindă un act procesual, stabilind, după caz, un anumit termen pentru accelerarea procedurii, fie respinge cererea. Încheierea nu se supune nici unei căi de atac.
 
-(13) O cerere repetată privind accelerarea procedurii de judecare a cauzei poate fi înaintată după 6 luni de la data la care a rămas definitivă încheierea emisă în condițiile alin. (12).
+(1³) O cerere repetată privind accelerarea procedurii de judecare a cauzei poate fi înaintată după 6 luni de la data la care a rămas definitivă încheierea emisă în condițiile alin. (1²).
 
-(14) Cauzele privind constatarea faptului nașterii unei persoane de către o anumită femeie și cele privind constatarea decesului, la o anumită dată, în anumite împrejurări, inclusiv a celor produse pe teritoriul unui stat necontrolat de autoritățile acestuia sau al unor entități teritoriale nerecunoscute de Republica Moldova, se judecă în termen de 30 de zile lucrătoare de la data depunerii cererii.
+(1⁴) Cauzele privind constatarea faptului nașterii unei persoane de către o anumită femeie și cele privind constatarea decesului, la o anumită dată, în anumite împrejurări, inclusiv a celor produse pe teritoriul unui stat necontrolat de autoritățile acestuia sau al unor entități teritoriale nerecunoscute de Republica Moldova, se judecă în termen de 30 de zile lucrătoare de la data depunerii cererii.
 
 (2) Cauzele privind încasarea pensiei de întreţinere, apărarea drepturilor şi intereselor minorului, repararea prejudiciului cauzat prin vătămare a integrităţii corporale sau prin altă vătămare a sănătăţii ori prin deces, litigiile de muncă, contestarea actelor normative, a hotărârilor, acţiunilor sau inacţiunilor autorităţilor publice, ale altor organe şi organizaţii, ale persoanelor oficiale şi funcţionarilor publici se judecă de urgenţă şi în mod prioritar.
 
@@ -2603,7 +2603,7 @@ Articolul 193. Şedinţa de judecată
 
 [Art.193 al.(3) introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
-Articolul 1931. Ședința de judecată desfășurată
+Articolul 193¹. Ședința de judecată desfășurată
 
                             prin mijloace electronice
 
@@ -2613,9 +2613,9 @@ Articolul 1931. Ședința de judecată desfășurată
 
 (3) În cazul apariției unor defecțiuni tehnice în timpul ședinței de judecată, care limitează participarea efectivă a unuia sau a mai multor participanți la proces, inclusiv a martorilor, experților, specialiștilor sau interpreților, instanța poate dispune amânarea sau întreruperea ședinței de judecată. Ședința poate fi reluată după înlăturarea defecțiunilor tehnice.
 
-[Art.1931 introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.193¹ introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
-Articolul 1932. Asigurarea participării efective la ședința
+Articolul 193². Asigurarea participării efective la ședința
 
                           de judecată desfășurată prin mijloace
 
@@ -2625,15 +2625,15 @@ Articolul 1932. Asigurarea participării efective la ședința
 
 (2) Defecțiunile tehnice sau alte circumstanțe obiective neimputabile părții sau participantului la proces, care fac imposibilă participarea efectivă la ședința de judecată desfășurată prin mijloace electronice, nu constituie temei pentru aplicarea sancțiunilor procedurale în sensul art. 10.
 
-[Art.1932 introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.193² introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
-Articolul 1933. Verificarea identității participanților
+Articolul 193³. Verificarea identității participanților
 
 (1) Instanța verifică identitatea părților și a celorlalți participanți la proces prezenți la ședința de judecată desfășurată prin videoconferință, în baza unui act de identitate valabil prezentat de aceștia. Participanții la proces sunt obligați să mențină camera video activă pe întreaga durată a ședinței de judecată, astfel încât identitatea lor să poată fi confirmată în condiții tehnice corespunzătoare.
 
 (2) Identitatea participanților la proces și a altor persoane, modul de verificare și confirmarea prezenței acestora se consemnează în procesul-verbal al ședinței de judecată.
 
-[Art.1933 introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
+[Art.193³ introdus prin LP186 din 24.08.26, MO490-493/01.10.26 art.513; în vigoare 01.01.27]
 
 Articolul 194. Preşedintele şedinţei de judecată
 
@@ -2641,7 +2641,7 @@ Articolul 194. Preşedintele şedinţei de judecată
 
 (2) Preşedintele şedinţei conduce dezbaterile judiciare, ia măsuri pentru cercetarea exhaustivă, multiaspectuală a probelor şi circumstanţelor cauzei, pentru clarificarea drepturilor şi obligaţiilor părţilor, înlăturând din dezbateri tot ceea ce nu are legătură cu procesul. Obiecţiile participanţilor la proces împotriva actului preşedintelui se consemnează în procesul-verbal al şedinţei. Preşedintele dă explicaţii asupra acţiunilor sale. În cazul examinării colegiale a cauzei, problema se soluţionează de întregul complet de judecată.
 
-(21) Preşedintele ședinței este obligat să informeze participanţii la proces despre faptul că ședința de judecată se înregistrează audio şi/sau video.
+(2¹) Preşedintele ședinței este obligat să informeze participanţii la proces despre faptul că ședința de judecată se înregistrează audio şi/sau video.
 
 (3) Preşedintele şedinţei ia măsuri pentru asigurarea ordinii cuvenite în şedinţa de judecată, dispoziţiile lui fiind obligatorii pentru participanţii la proces, pentru cei care asistă în sală.
 
@@ -2729,11 +2729,11 @@ Articolul 203. Soluţionarea cererilor şi demersurilor
 
 Articolul 204. Prezentarea probelor în şedinţa de judecată
 
-Instanța decide acceptarea probelor în ședință de judecată doar în condițiile art. 1191.
+Instanța decide acceptarea probelor în ședință de judecată doar în condițiile art. 119¹.
 
-Articolul 2041. Întreruperea şedinţei de judecată
+Articolul 204¹. Întreruperea şedinţei de judecată
 
-(1) În condiţiile în care şedinţa de judecată a fost deschisă şi a început examinarea cauzei în fond, întreruperea ședinței poate avea loc doar din motive ce țin de regimul de muncă al instanței de judecată (pauza de prânz, sfârșitul zilei de muncă) sau potrivit art. 1191 alin. (4).
+(1) În condiţiile în care şedinţa de judecată a fost deschisă şi a început examinarea cauzei în fond, întreruperea ședinței poate avea loc doar din motive ce țin de regimul de muncă al instanței de judecată (pauza de prânz, sfârșitul zilei de muncă) sau potrivit art. 119¹ alin. (4).
 
 (2) Întreruperea şedinţei de judecată se dispune printr-o încheiere protocolară şi nu afectează integritatea procesului-verbal.
 
@@ -2787,7 +2787,7 @@ Articolul 208. Amânarea procesului
 
 (1) Amânarea procesului se admite doar în cazurile prevăzute de prezentul cod.
 
-(2) În cazul amânării procesului, instanţa de judecată fixează o dată pentru desfăşurarea noii şedinţe, cu excepţia situaţiei prevăzute la art. 122 alin. (5).
+(2) În cazul amânării procesului, instanţa de judecată fixează o dată pentru desfăşurarea noii şedinţe, cu excepţia situaţiei prevăzute la art. 12² alin. (5).
 
 (3) Încheierea de amânare a procesului nu poate fi atacată cu recurs.
 
@@ -2863,7 +2863,7 @@ Articolul 216. Procedura de audiere a martorului
 
 (1) Fiecare martor este audiat separat.
 
-(11) Audierea martorului are loc în sala de şedinţe. În cazul imposibilităţii de a se prezenta în şedinţă, la cererea participanţilor, a martorului sau din oficiu, instanţa poate dispune audierea martorului prin intermediul videoconferinţei. Audierea prin intermediul videoconferinţei a martorului aflat peste hotarele Republicii Moldova are loc la sediul misiunii diplomatice sau al oficiului consular al Republicii Moldova, a martorului aflat pe teritoriul Republicii Moldova – la biroul notarial, la sediul organului de probaţiune sau biroul executorului judecătoresc, a martorului care execută pedeapsa în penitenciarele din Republica Moldova – la instituția penitenciară în care execută pedeapsa, a martorului internat într-o instituție medicală care nu se poate deplasa pentru a participa la ședințele de judecată – la sediul instituției medicale, dacă acestea dispun de mijloace tehnice corespunzătoare și verifică identitatea martorului. Martorul semnează declarația privind cunoașterea obligațiilor și răspunderii lui, care va fi expediată instanței de judecată prin intermediul poștei electronice.
+(1¹) Audierea martorului are loc în sala de şedinţe. În cazul imposibilităţii de a se prezenta în şedinţă, la cererea participanţilor, a martorului sau din oficiu, instanţa poate dispune audierea martorului prin intermediul videoconferinţei. Audierea prin intermediul videoconferinţei a martorului aflat peste hotarele Republicii Moldova are loc la sediul misiunii diplomatice sau al oficiului consular al Republicii Moldova, a martorului aflat pe teritoriul Republicii Moldova – la biroul notarial, la sediul organului de probaţiune sau biroul executorului judecătoresc, a martorului care execută pedeapsa în penitenciarele din Republica Moldova – la instituția penitenciară în care execută pedeapsa, a martorului internat într-o instituție medicală care nu se poate deplasa pentru a participa la ședințele de judecată – la sediul instituției medicale, dacă acestea dispun de mijloace tehnice corespunzătoare și verifică identitatea martorului. Martorul semnează declarația privind cunoașterea obligațiilor și răspunderii lui, care va fi expediată instanței de judecată prin intermediul poștei electronice.
 
 (2) Preşedintele şedinţei constată atitudinea martorului faţă de participanţii la proces, îi propune să comunice instanţei tot ceea ce cunoaşte personal despre subiectul audierii.
 
@@ -2969,7 +2969,7 @@ Concluziilor date de autorităţile publice admise în proces de către instanţ
 
 Articolul 232. Finalizarea examinării cauzei în fond
 
-După examinarea tuturor probelor, preşedintele şedinţei de judecată clarifică dacă reclamantul nu renunță la acțiune, dacă pârâtul nu recunoaște pretențiile, dacă părțile nu intenționează să se împace și dacă participanții nu solicită completarea materialelor din dosar în condițiile art. 1191 alin. (4). În lipsa unor astfel de cereri, preşedintele şedinţei de judecată declară finalizarea examinării cauzei și trece la pledoarii.
+După examinarea tuturor probelor, preşedintele şedinţei de judecată clarifică dacă reclamantul nu renunță la acțiune, dacă pârâtul nu recunoaște pretențiile, dacă părțile nu intenționează să se împace și dacă participanții nu solicită completarea materialelor din dosar în condițiile art. 119¹ alin. (4). În lipsa unor astfel de cereri, preşedintele şedinţei de judecată declară finalizarea examinării cauzei și trece la pledoarii.
 
 Articolul 233. Pledoariile
 
@@ -3061,11 +3061,11 @@ Articolul 241. Cuprinsul hotărârii
 
 (6) Dispozitivul cuprinde concluzia instanţei judecătoreşti privind admiterea sau respingerea integrală sau parţială a acţiunii, repartizarea cheltuielilor de judecată, calea şi termenul de atac al hotărârii.
 
-(7) În cazul în care instanța judecătorească dispune executarea imediată a hotărârii, în cuprinsul dispozitivului se stabilește un termen rezonabil de executare benevolă, prevăzut la art. 256 alin. (11). Dacă a respins pretențiile reclamantului, instanța dispune, prin hotărâre, anularea măsurilor de asigurare a acțiunii.
+(7) În cazul în care instanța judecătorească dispune executarea imediată a hotărârii, în cuprinsul dispozitivului se stabilește un termen rezonabil de executare benevolă, prevăzut la art. 256 alin. (1¹). Dacă a respins pretențiile reclamantului, instanța dispune, prin hotărâre, anularea măsurilor de asigurare a acțiunii.
 
 Articolul 242. – abrogat.
 
-Articolul 2421. Transmiterea acţiunilor băncii în
+Articolul 242¹. Transmiterea acţiunilor băncii în
 
                            temeiul hotărârii de judecată
 
@@ -3121,9 +3121,9 @@ Articolul 249. Corectarea greşelilor din hotărâre
 
 (2) La cererea participanţilor la proces sau din oficiu, instanţa judecătorească corectează greşelile sau omisiunile din hotărâre care ţin de nume, calitatea procesuală, orice alte erori materiale sau de calcul evidente. Problema corectării unor astfel de greșeli se soluționează în baza dosarului și/sau a materialelor anexate la cererea de corectare a greșelilor sau a omisiunilor, fără citarea participanților la proces. Instanța care examinează problema corectării poate dispune citarea participanţilor pentru a se pronunța cu privire la temeiurile de corectare. Neprezentarea lor însă nu împiedică examinarea corectării greşelilor.
 
-(21) În cazul în care cererea privind corectarea greşelilor sau a omisiunilor din hotărâre se depune în cadrul examinării cauzei în instanţa de apel sau de recurs, aceasta se soluţionează de către instanţa respectivă.
+(2¹) În cazul în care cererea privind corectarea greşelilor sau a omisiunilor din hotărâre se depune în cadrul examinării cauzei în instanţa de apel sau de recurs, aceasta se soluţionează de către instanţa respectivă.
 
-(22) În cazul în care cererea privind corectarea greşelilor sau a omisiunilor se referă la actele emise de instanţa de apel sau de recurs, aceasta se soluţionează de către instanţa respectivă.
+(2²) În cazul în care cererea privind corectarea greşelilor sau a omisiunilor se referă la actele emise de instanţa de apel sau de recurs, aceasta se soluţionează de către instanţa respectivă.
 
 (3) Încheierea prin care instanţa judecătorească se pronunţă asupra cererii se comunică participanților la proces și poate fi atacată cu recurs.
 
@@ -3149,7 +3149,7 @@ Articolul 251. Explicarea hotărârii
 
 (1) Dacă sunt necesare explicaţii referitor la sensul, extinderea sau aplicarea dispozitivului hotărârii sau dacă hotărârea cuprinde dispoziţii contradictorii, instanţa emitentă, la cererea participanţilor la proces sau a executorului judecătoresc, dă explicaţii asupra dispozitivului ori omite dispoziţiile contradictorii fără a modifica cuprinsul hotărârii.
 
-(11) Nu se admite formularea cererilor privind explicarea actelor judecătorești de dispoziție prin care nu se soluționează fondul cauzei. Cererile respective, depuse de către subiecții menționați la alin. (1), nu se examinează și se anexează la materialele dosarului printr-o încheiere protocolară nesusceptibilă de atac.
+(1¹) Nu se admite formularea cererilor privind explicarea actelor judecătorești de dispoziție prin care nu se soluționează fondul cauzei. Cererile respective, depuse de către subiecții menționați la alin. (1), nu se examinează și se anexează la materialele dosarului printr-o încheiere protocolară nesusceptibilă de atac.
 
 (2) Explicarea hotărârii este admisibilă dacă nu a fost executată şi nu a expirat termenul de executare silită.
 
@@ -3189,7 +3189,7 @@ Articolul 254. Hotărârile judecătoreşti definitive
 
 a) emise în primă instanţă, după expirarea termenului de apel, dacă participanţii interesaţi nu au exercitat calea de atac corespunzătoare;
 
-a1) emise în primă instanță, contestate cu apel, fără drept de recurs;
+a¹) emise în primă instanță, contestate cu apel, fără drept de recurs;
 
 b) emise de instanţa de apel, după expirarea termenului de recurs, dacă participanţii interesaţi nu au exercitat calea de atac corespunzătoare;
 
@@ -3203,7 +3203,7 @@ c) emise de instanţa de recurs, după examinarea recursului.
 
 Articolul 255. Executarea hotărârii
 
-Hotărârea judecătorească se execută benevol, în modul stabilit de lege, în termen de cel mult 15 zile după ce rămâne definitivă, cu excepția hotărârilor judecătorești prevăzute la art. 256. După expirarea termenului prevăzut de prezentul articol sau a termenului stabilit în conformitate cu prevederile art. 256 alin. (11), creditorul poate solicita executarea silită în condițiile Codului de executare.
+Hotărârea judecătorească se execută benevol, în modul stabilit de lege, în termen de cel mult 15 zile după ce rămâne definitivă, cu excepția hotărârilor judecătorești prevăzute la art. 256. După expirarea termenului prevăzut de prezentul articol sau a termenului stabilit în conformitate cu prevederile art. 256 alin. (1¹), creditorul poate solicita executarea silită în condițiile Codului de executare.
 
 Articolul 256. Executarea imediată a hotărârii
 
@@ -3217,7 +3217,7 @@ c) reparaţiei prejudiciilor cauzate prin vătămare a integrităţii corporale 
 
 d) unui salariu mediu pentru absenţă forţată de la lucru, în cazul reintegrării în serviciu.
 
-(11) Instanța care a pronunțat ordonanța sau hotărârea judecătorească prevăzută la alin. (1) stabilește în cuprinsul dispozitivului un termen rezonabil de executare benevolă de către pârât a obligației sale, care nu poate depăși 15 zile de la pronunțarea ordonanței sau a hotărârii judecătorești.
+(1¹) Instanța care a pronunțat ordonanța sau hotărârea judecătorească prevăzută la alin. (1) stabilește în cuprinsul dispozitivului un termen rezonabil de executare benevolă de către pârât a obligației sale, care nu poate depăși 15 zile de la pronunțarea ordonanței sau a hotărârii judecătorești.
 
 (2) Hotărârea judecătorească privind reintegrarea în serviciu a salariatului concediat sau transferat nelegitim urmează a fi executată imediat.
 
@@ -3285,7 +3285,7 @@ b) până la prezentarea de către instanţa străină a delegaţiei de acordare
 
 c) până la data intrării în vigoare a hotărârii judecătoreşti în cadrul procedurii insolvabilităţii – în cazurile prevăzute la art. 260 lit. d);
 
-c1) pe perioada desfăşurării medierii – în cazurile prevăzute de art. 260 alin. (1) lit. f);
+c¹) pe perioada desfăşurării medierii – în cazurile prevăzute de art. 260 alin. (1) lit. f);
 
 d) până la data eliberării din rândurile Forţelor Armate a părţii în proces sau externării ei din instituţia curativ-profilactică, până la găsirea pârâtului ori încetarea căutării lui, până la prezentarea în instanţă a raportului de expertiză, a raportului autorității tutelare sau a delegaţiei judiciare – în cazurile prevăzute la art. 261 lit. a), b), c), d), e), f) şi g);
 
@@ -3317,7 +3317,7 @@ b) într-un litigiu între aceleaşi părţi, cu privire la acelaşi obiect şi 
 
 c) reclamantul a renunţat la acţiune, renunţul fiind admis de instanţă;
 
-c1) reclamantul şi-a retras acţiunea civilă la faza judecării cauzei în procesul penal, dacă retragerea a fost acceptată de instanţă;
+c¹) reclamantul şi-a retras acţiunea civilă la faza judecării cauzei în procesul penal, dacă retragerea a fost acceptată de instanţă;
 
 d) părţile au încheiat o tranzacţie, confirmată de instanţă;
 
@@ -3329,7 +3329,7 @@ g) reclamantului şi/sau pârâtului îi lipseşte capacitatea de folosinţă, c
 
 h) cererea de chemare în judecată este depusă de un organ, o organizaţie sau o persoană în vederea apărării drepturilor, libertăţilor sau intereselor legitime ale unei alte persoane fără ca prezentul cod sau o altă lege să le confere acest drept.
 
-Articolul 2651. Încetarea procesului privind
+Articolul 265¹. Încetarea procesului privind
 
                           avertizarea de integritate
 
@@ -3367,7 +3367,7 @@ d) litigiul dintre aceleaşi părţi, cu privire la acelaşi obiect şi pe acele
 
 e) există o convenție de arbitraj prin care părțile decid să soluționeze litigiul pe cale arbitrală, iar pârâtul în faza de pregătire a cauzei pentru dezbateri judiciare a ridicat obiecţii împotriva soluţionării litigiului în judecată;
 
-e1) - abrogată;
+e¹) - abrogată;
 
 f) părţile citate legal nu s-au prezentat la şedinţa de judecată după a doua citare şi nici nu au solicitat examinarea cauzei în absenţa lor;
 
@@ -3381,11 +3381,11 @@ j) persoanele indicate la art. 72 şi 73 au renunţat la acţiune, iar reclamant
 
 k) instanța a amânat ori a eșalonat plata taxei de stat și/sau a taxei de timbru, iar reclamantul nu a efectuat plata în termenul stabilit de instanță;
 
-k1) în faza de pregătire a cauzei pentru dezbateri judiciare se constată că reclamantul nu a achitat taxa de stat și/sau de taxa de timbru în cuantumul prevăzut de lege;
+k¹) în faza de pregătire a cauzei pentru dezbateri judiciare se constată că reclamantul nu a achitat taxa de stat și/sau de taxa de timbru în cuantumul prevăzut de lege;
 
 l) la examinarea cauzei în procedură specială se constată un litigiu de drept ce ţine de competenţa instanţelor judecătoreşti;
 
-l1) părţile au solicitat examinarea cauzei de către judecata arbitrală, în condiţiile legii;
+l¹) părţile au solicitat examinarea cauzei de către judecata arbitrală, în condiţiile legii;
 
 m) în alte cazuri prevăzute de lege.
 
@@ -3487,7 +3487,7 @@ Articolul 275. Întocmirea procesului-verbal
 
 Articolul 276. – abrogat.
 
-Articolul 2761. Eliberarea copiilor de pe procesul-verbal
+Articolul 276¹. Eliberarea copiilor de pe procesul-verbal
 
                            şi de pe înregistrările audio şi/sau video
 
@@ -3495,13 +3495,13 @@ Articolul 2761. Eliberarea copiilor de pe procesul-verbal
 
 (2) Prevederile alin.(1) nu se aplică în cazul examinării cauzei în şedinţă închisă. În acest caz, participanţii la proces şi reprezentanţii lor au dreptul să ia cunoştinţă de procesul-verbal întocmit în scris, să ia notiţe de pe acesta şi să audieze/vizioneze înregistrările audio şi/sau video ale şedinţei de judecată respective.
 
-Capitolul XXI1
+Capitolul XXI¹
 
 PROCEDURA ÎN CAZUL CERERILOR
 
 CU VALOARE REDUSĂ
 
-Articolul 2762. Cererile cu valoare redusă
+Articolul 276². Cererile cu valoare redusă
 
 (1) Dacă valoarea cererii în cauzele de încasare a unei sume de bani nu depăşeşte 10 salarii medii pe economie prognozate la data sesizării instanţei, fără a se lua în considerare dobânzile, penalitățile, cheltuielile de judecată şi alte venituri accesorii, această cerere se examinează ca cerere cu valoare redusă.
 
@@ -3509,7 +3509,7 @@ Articolul 2762. Cererile cu valoare redusă
 
 (3) Dispozițiile prezentului cod privind procedura contencioasă se aplică la examinarea cererilor cu valoare redusă în măsura în care dispozițiile prezentului capitol nu prevăd altfel.
 
-Articolul 2763. Procedura de examinare a cererilor
+Articolul 276³. Procedura de examinare a cererilor
 
                           cu valoare redusă
 
@@ -3521,7 +3521,7 @@ Articolul 2763. Procedura de examinare a cererilor
 
 (4) Dacă din materialele cauzei rezultă că cererea nu poate fi examinată în ordinea stabilită pentru cererile cu valoare redusă, judecătorul, prin încheiere motivată care poate fi atacată odată cu fondul, dispune examinarea cauzei în ordine generală. În acest caz, prevederile prezentului capitol sunt inaplicabile.
 
-Articolul 2764. Soluţionarea cererii
+Articolul 276⁴. Soluţionarea cererii
 
 (1) Instanța soluţionează cauza și adoptă dispozitivul hotărârii într-un termen de cel mult 6 luni de la data depunerii cererii.
 
@@ -3531,7 +3531,7 @@ Articolul 2764. Soluţionarea cererii
 
 (4) Hotărârea judecătorească poate fi atacată cu apel, care se examinează în condițiile prezentului cod. Deciziile instanței de apel nu se supun recursului, fiind definitive și irevocabile de la pronunțare.
 
-(5) Instanța de apel examinează cererea de apel în procedură scrisă sau cu citarea participanților la proces, prevederile art. 2763 fiind aplicabile corespunzător.
+(5) Instanța de apel examinează cererea de apel în procedură scrisă sau cu citarea participanților la proces, prevederile art. 276³ fiind aplicabile corespunzător.
 
 B. PROCEDURA CONTENCIOSULUI
 
@@ -3551,17 +3551,17 @@ Articolul 278. Examinarea acţiunilor
 
 Acţiunile în contenciosul administrativ se examinează de instanţele judecătoreşti respective conform normelor generale ale prezentului cod, cu excepţiile şi completările stabilite de legislaţia contenciosului administrativ.
 
-B1. PROCEDURA DE CONFISCARE A AVERII
+B¹. PROCEDURA DE CONFISCARE A AVERII
 
 NEJUSTIFICATE ÎN FOLOSUL STATULUI
 
-Capitolul XXII1
+Capitolul XXII¹
 
 PROCEDURA DE CONFISCARE A AVERII
 
 NEJUSTIFICATE ÎN FOLOSUL STATULUI
 
-Articolul 2781. Acţiunea privind confiscarea averii
+Articolul 278¹. Acţiunea privind confiscarea averii
 
                           nejustificate
 
@@ -3569,19 +3569,19 @@ Articolul 2781. Acţiunea privind confiscarea averii
 
 (2) Cererea privind confiscarea averii nejustificate este depusă de Autoritatea Națională de Integritate și trebuie să corespundă prevederilor art. 166.
 
-Articolul 2782. Examinarea cererii
+Articolul 278². Examinarea cererii
 
 (1) Cererea privind confiscarea averii nejustificate se judecă în instanță conform regulilor generale de examinare a acțiunilor civile, cu excepțiile stabilite de prezentul capitol.
 
 (2) Cererea privind confiscarea averii nejustificate se examinează de instanţa judecătorească cu citarea obligatorie a reprezentantului Autorității Naționale de Integritate și a persoanei a cărei avere este solicitată de a fi confiscată și/sau a reprezentantului acesteia.
 
-B2. APLICAREA MĂSURILOR DE PROTECȚIE
+B². APLICAREA MĂSURILOR DE PROTECȚIE
 
 ÎN CAZURILE DE VIOLENȚĂ ÎMPOTRIVA FEMEILOR
 
 ȘI DE VIOLENȚĂ ÎN FAMILIE
 
-Capitolul XXII2
+Capitolul XXII²
 
 APLICAREA MĂSURILOR DE PROTECȚIE
 
@@ -3589,13 +3589,13 @@ APLICAREA MĂSURILOR DE PROTECȚIE
 
 ȘI DE VIOLENȚĂ ÎN FAMILIE
 
-Articolul 2783. Examinarea cauzelor
+Articolul 278³. Examinarea cauzelor
 
 (1) Cererile privind aplicarea măsurilor de protecție în cazurile de violență împotriva femeilor și de violență în familie se examinează de către instanțele judecătorești conform normelor generale ale prezentului cod, cu excepțiile și completările stabilite în prezentul capitol și în legislația de prevenire și combatere a violenței împotriva femeilor și a violenței în familie.
 
 (2) Instanţa examinează cererea de aplicare a măsurilor de protecţie în cazurile de violenţă în familie cu participarea victimei şi a persoanelor interesate. În calitate de persoane interesate pot fi atrase în proces oricare dintre instituţiile abilitate prin lege cu funcţii de prevenire şi combatere a violenţei în familie, în funcție de circumstanţele individuale ale cazului. Instanța poate dispune audierea victimei prin intermediul videoconferinței.
 
-Articolul 2784. Depunerea cererii
+Articolul 278⁴. Depunerea cererii
 
 (1) Cererea privind aplicarea măsurilor de protecţie se depune de către victimă personal sau prin reprezentant. În caz de imposibilitate a depunerii cererii de către victimă din motive de sănătate, vârstă, din alte motive întemeiate, la solicitarea ei, cererea privind aplicarea măsurilor de protecţie poate fi depusă în interesele victimei de către organul de poliţie sau organul de asistenţă socială. Cererea privind aplicarea măsurilor de protecţie în interesele copilului sau ale persoanei în privința căreia a fost instituită o măsură de ocrotire poate fi depusă de autoritatea tutelară, persoana însărcinată cu ocrotirea persoanei aflate sub ocrotire, de procuror sau de orice altă persoană care justifică un interes privind apărarea și protecția personală sau patrimonială a persoanei aflate sub ocrotire şi în lipsa solicitării din partea victimei sau a reprezentantului ei legal.
 
@@ -3603,13 +3603,13 @@ Articolul 2784. Depunerea cererii
 
 (3) Cererea privind aplicarea măsurilor de protecție, depusă în instanța de judecată, este repartizată unui judecător imediat, în mod aleatoriu, prin intermediul Programului integrat de gestionare a dosarelor.
 
-(4) Judecătorul care a primit cererea privind aplicarea măsurilor de protecție întreprinde imediat măsurile prevăzute la art. 2786 alin.(1) și (2) în vederea pregătirii cauzei pentru examinare urgentă.
+(4) Judecătorul care a primit cererea privind aplicarea măsurilor de protecție întreprinde imediat măsurile prevăzute la art. 278⁶ alin.(1) și (2) în vederea pregătirii cauzei pentru examinare urgentă.
 
-Articolul 2785. Cuprinsul cererii
+Articolul 278⁵. Cuprinsul cererii
 
 În cererea privind aplicarea măsurilor de protecţie se indică circumstanţele actului de violenţă, intensitatea, durata, consecinţele suportate şi alte circumstanţe care indică necesitatea aplicării măsurilor de protecţie.
 
-Articolul 2786. Examinarea cererii
+Articolul 278⁶. Examinarea cererii
 
 (1) După primirea cererii privind aplicarea măsurilor de protecţie, instanţa de judecată dispune imediat citarea victimei și a persoanelor interesate, contactează organul de poliție de la locul aflării agresorului şi solicită informarea acestuia despre procedura iniţiată. Instanţa de judecată poate decide citarea pentru audiere în şedinţă de judecată a presupusului agresor.
 
@@ -3621,7 +3621,7 @@ Articolul 2786. Examinarea cererii
 
 (5) Audierea presupusului agresor poate avea loc în absența victimei dacă aceasta din urmă solicită acest lucru.
 
-Articolul 2787. Emiterea ordonanţei de protecţie
+Articolul 278⁷. Emiterea ordonanţei de protecţie
 
 (1) Instanţa de judecată emite, în 24 de ore de la primirea cererii privind aplicarea măsurilor de protecţie, o încheiere prin care admite sau respinge cererea.
 
@@ -3647,21 +3647,21 @@ i) interzicerea de a păstra şi a purta armă;
 
 j) obligarea agresorului de a elimina din dispozitivul digital și/sau dintr-un sistem informațional datele informatice cu conținut abuziv.
 
-(21) Măsurile de protecție prevăzute la alin. (2) lit. a)–d) se aplică în mod obligatoriu cu monitorizare electronică, în modul prevăzut de lege.
+(2¹) Măsurile de protecție prevăzute la alin. (2) lit. a)–d) se aplică în mod obligatoriu cu monitorizare electronică, în modul prevăzut de lege.
 
-(22) Victima sau, după caz, membrii familiei acesteia pot purta un sistem electronic de supraveghere care permite verificarea respectării obligației de către agresor, exprimându-și în formă scrisă acordul în această privință.
+(2²) Victima sau, după caz, membrii familiei acesteia pot purta un sistem electronic de supraveghere care permite verificarea respectării obligației de către agresor, exprimându-și în formă scrisă acordul în această privință.
 
-(23) Măsurile de protecție prevăzute la alin. (1) lit. b)–d), f), i) și j) pot fi aplicate în cazul oricăror forme de violență împotriva femeilor.
+(2³) Măsurile de protecție prevăzute la alin. (1) lit. b)–d), f), i) și j) pot fi aplicate în cazul oricăror forme de violență împotriva femeilor.
 
 (3) Măsurile de protecţie se aplică pe un termen de până la 6 luni.
 
-(31) Instanța de judecată îi explică victimei modul de accesare a serviciilor destinate victimelor violenței împotriva femeilor și ale violenței în familie şi îi oferă informația privind datele de contact ale serviciilor respective.
+(3¹) Instanța de judecată îi explică victimei modul de accesare a serviciilor destinate victimelor violenței împotriva femeilor și ale violenței în familie şi îi oferă informația privind datele de contact ale serviciilor respective.
 
 (4) Instanța remite de îndată ordonanța de protecție poliției, organului de probațiune și altor instituții sau persoane care, conform legii, sunt responsabile de implementarea măsurilor de protecție spre executare imediată.
 
 (5) Ordonanţa de protecţie se execută în conformitate cu legislaţia în vigoare.
 
-Articolul 2788. Prelungirea şi revocarea ordonanţei
+Articolul 278⁸. Prelungirea şi revocarea ordonanţei
 
                           de protecţie
 
@@ -3671,7 +3671,7 @@ Articolul 2788. Prelungirea şi revocarea ordonanţei
 
 (3) Cererea de prelungire sau de revocare a măsurilor de protecție se examinează în condiţiile prezentului capitol.
 
-Articolul 2789. Contestarea încheierii privind admiterea sau
+Articolul 278⁹. Contestarea încheierii privind admiterea sau
 
                           respingerea cererii de aplicare a măsurilor
 
@@ -3681,19 +3681,19 @@ Articolul 2789. Contestarea încheierii privind admiterea sau
 
 (2) Contestarea încheierii privind aplicarea ordonanţei de protecţie nu suspendă executarea măsurilor aplicate.
 
-B3. SUSPENDAREA ŞI RETRAGEREA ACTELOR
+B³. SUSPENDAREA ŞI RETRAGEREA ACTELOR
 
 PERMISIVE CE VIZEAZĂ ACTIVITATEA DE
 
 ÎNTREPRINZĂTOR
 
-Capitolul XXII3
+Capitolul XXII³
 
 SUSPENDAREA ŞI RETRAGEREA ACTELOR PERMISIVE
 
 CE VIZEAZĂ ACTIVITATEA DE ÎNTREPRINZĂTOR
 
-Articolul 27810. Depunerea cererii
+Articolul 278¹⁰. Depunerea cererii
 
 (1) Autorităţile şi instituţiile abilitate prin lege să emită acte permisive în domeniul activității de întreprinzător (în continuare în prezentul capitol – autorităţi competente) pot cere, în cazurile prevăzute de lege, suspendarea sau, după caz, retragerea actelor permisive ce vizează activitatea de întreprinzător, fapt ce are ca efect imposibilitatea continuării acestei activităţi la nivel de întreprindere sau de unitate funcţională autorizată a acesteia.
 
@@ -3701,37 +3701,37 @@ Articolul 27810. Depunerea cererii
 
 (3) Cererile de suspendare sau retragere a actelor permisive ce vizează activitatea de întreprinzător se depun la instanţa judecătorească în a cărei rază teritorială își are sediul întreprinzătorul.
 
-Articolul 27811. Cuprinsul cererii
+Articolul 278¹¹. Cuprinsul cererii
 
 În cererea de suspendare sau retragere a actului permisiv ce vizează activitatea de întreprinzător se indică probele ce atestă încălcarea de către întreprinzător a condiţiilor de desfăşurare a activităţii prevăzute de lege, probele ce atestă că întreprinzătorului i-au fost notificate toate încălcările constatate, nivelul de încălcare a legislației, termenul acordat pentru remediere, modul de remediere a deficienţelor identificate şi că întreprinzătorul nu a remediat, în termenul stabilit, aceste deficienţe, precum şi probele ce atestă existenţa altor fapte care, în conformitate cu prevederile legii, servesc drept temei pentru suspendarea sau retragerea actului permisiv ce vizează activitatea de întreprinzător.
 
-Articolul 27812. Examinarea cererii
+Articolul 278¹². Examinarea cererii
 
-Cererea de suspendare sau retragere a actului permisiv ce vizează activitatea de întreprinzător se examinează în instanţa de judecată cu participarea întreprinzătorului, a avocatului său, a autorităţii competente şi a altor persoane interesate. Cererea de anulare a suspendării actului permisiv, prevăzută la art. 27814, poate fi examinată în lipsa întreprinzătorului.
+Cererea de suspendare sau retragere a actului permisiv ce vizează activitatea de întreprinzător se examinează în instanţa de judecată cu participarea întreprinzătorului, a avocatului său, a autorităţii competente şi a altor persoane interesate. Cererea de anulare a suspendării actului permisiv, prevăzută la art. 278¹⁴, poate fi examinată în lipsa întreprinzătorului.
 
-Articolul 27813. Hotărârea judecătorească
+Articolul 278¹³. Hotărârea judecătorească
 
 Instanţa de judecată examinează cererea de suspendare sau retragere a actului permisiv ce vizează activitatea de întreprinzător în termen de 5 zile lucrătoare de la data acceptării acesteia. După ce examinează cererea în fond, instanţa de judecată emite o hotărâre prin care o admite sau o respinge.
 
-Articolul 27814. Anularea suspendării actului permisiv
+Articolul 278¹⁴. Anularea suspendării actului permisiv
 
                            ce vizează activitatea de întreprinzător
 
 După remedierea circumstanțelor care au dus la suspendarea actului permisiv ce vizează activitatea de întreprinzător, instanța de judecată care a emis hotărârea corespunzătoare, în cadrul procesului intentat în baza cererii de suspendare a actului permisiv, la cererea întreprinzătorului sau a autorității competente, în termen de 5 zile lucrătoare de la depunerea cererii, pronunță o hotărâre prin care anulează suspendarea actului permisiv respectiv. În temeiul acestei hotărâri, autoritatea competentă emite decizia privind reluarea activității de întreprinzător.
 
-B4. PROCEDURA ÎN ACŢIUNILE POSESORII
+B⁴. PROCEDURA ÎN ACŢIUNILE POSESORII
 
-Capitolul XXII4
+Capitolul XXII⁴
 
 PROCEDURA ÎN ACŢIUNILE POSESORII
 
-Articolul 27815. Domeniul de aplicare
+Articolul 278¹⁵. Domeniul de aplicare
 
 (1) În procedura privind acţiunile posesorii se judecă acţiunile prin care se apără posesia în temeiul art. 308–311 din Codul civil (acţiunile posesorii).
 
 (2) Acţiunile posesorii se judecă în instanţă conform regulilor generale de examinare a acţiunilor civile, cu excepţiile stabilite de dispoziţiile prezentului capitol.
 
-Articolul 27816. Examinarea acţiunii şi căile de atac
+Articolul 278¹⁶. Examinarea acţiunii şi căile de atac
 
 (1) Acţiunile posesorii se judecă de urgenţă şi cu precădere.
 
@@ -3739,7 +3739,7 @@ Articolul 27816. Examinarea acţiunii şi căile de atac
 
 (3) Hotărârea asupra acţiunii posesorii este supusă numai recursului.
 
-Articolul 27817. Autoritatea lucrului judecat
+Articolul 278¹⁷. Autoritatea lucrului judecat
 
 (1) Hotărârea judecătorească prin care s-a soluţionat o acţiune posesorie are autoritate de lucru judecat într-o acţiune posesorie ulterioară între aceleaşi părţi, fiind întemeiată pe aceleaşi fapte. Aceasta nu are însă o astfel de autoritate într-o acţiune ulterioară privitoare la fondul dreptului.
 
@@ -3763,7 +3763,7 @@ a) constatarea faptelor care au valoare juridică;
 
 b) încuviinţarea adopţiei;
 
-b1) înapoierea copilului în statul reședinței sale obișnuite sau exercitarea dreptului de vizitare a copilului, în conformitate cu Convenția asupra aspectelor civile ale răpirii internaționale de copii, întocmită la Haga la 25 octombrie 1980;
+b¹) înapoierea copilului în statul reședinței sale obișnuite sau exercitarea dreptului de vizitare a copilului, în conformitate cu Convenția asupra aspectelor civile ale răpirii internaționale de copii, întocmită la Haga la 25 octombrie 1980;
 
 c) declararea capacităţii depline de exerciţiu minorului (emanciparea);
 
@@ -3775,7 +3775,7 @@ f) încuviinţarea spitalizării forţate şi tratamentului forţat;
 
 g) încuviinţarea examenului psihiatric sau spitalizării în staţionarul de psihiatrie;
 
-g1) – abrogată;
+g¹) – abrogată;
 
 h) restabilirea în drepturile ce izvorăsc din titlurile de valoare la purtător şi din titlurile de valoare la ordin pierdute (procedura de chemare);
 
@@ -3819,13 +3819,13 @@ b) întreţinerea persoanei;
 
 c) înregistrarea naşterii, adopţiei, căsătoriei, divorţului şi decesului;
 
-c1) faptul nașterii unei persoane de către o anumită femeie;
+c¹) faptul nașterii unei persoane de către o anumită femeie;
 
-c2) faptul nașterii sau decesul unei persoane produse pe teritoriul unui stat necontrolat de autoritățile acestuia sau al unor entități teritoriale nerecunoscute de Republica Moldova;
+c²) faptul nașterii sau decesul unei persoane produse pe teritoriul unui stat necontrolat de autoritățile acestuia sau al unor entități teritoriale nerecunoscute de Republica Moldova;
 
-c3) căsătoria consemnată pe teritoriul necontrolat de autoritățile unui alt stat sau al unei entități teritoriale nerecunoscute de Republica Moldova;
+c³) căsătoria consemnată pe teritoriul necontrolat de autoritățile unui alt stat sau al unei entități teritoriale nerecunoscute de Republica Moldova;
 
-c4) încetarea căsătoriei anterioare, de la data recunoașterii drept valabilă a căsătoriei următoare;
+c⁴) încetarea căsătoriei anterioare, de la data recunoașterii drept valabilă a căsătoriei următoare;
 
 d) recunoaşterea paternităţii;
 
@@ -3885,7 +3885,7 @@ Articolul 285. Hotărârea judecătorească
 
 (2) Hotărârea judecătorească este un document ce confirmă faptul constatat, serveşte drept temei pentru înregistrarea, după caz, a faptului în organele respective, după rămânerea irevocabilă a hotărârii, fără a substitui documentele pe care aceste organe le eliberează.
 
-(3) Pentru înregistrarea de stat a faptelor care au valoare juridică, constatate prin hotărâre judecătorească în temeiul art. 281 alin. (2) lit. c)–c4), d) și e), la data la care aceasta rămâne irevocabilă, instanța judecătorească transmite această hotărâre Agenției Servicii Publice prin mijloace electronice sau, în decurs de 3 zile lucrătoare, expediază o copie autentificată a acestei hotărâri subdiviziunii teritoriale a Agenției Servicii Publice din raza teritorială a instanței judecătorești.
+(3) Pentru înregistrarea de stat a faptelor care au valoare juridică, constatate prin hotărâre judecătorească în temeiul art. 281 alin. (2) lit. c)–c⁴), d) și e), la data la care aceasta rămâne irevocabilă, instanța judecătorească transmite această hotărâre Agenției Servicii Publice prin mijloace electronice sau, în decurs de 3 zile lucrătoare, expediază o copie autentificată a acestei hotărâri subdiviziunii teritoriale a Agenției Servicii Publice din raza teritorială a instanței judecătorești.
 
 Capitolul XXV
 
@@ -4009,7 +4009,7 @@ Articolul 292. Hotărârea judecătorească
 
 (2) În cazul admiterii cererii de încuviinţare a adopţiei, instanţa recunoaşte adopţia de către persoane concrete şi indică în hotărâre datele despre adoptat şi adoptatori, necesare înregistrării adopţiei în organele de stare civilă.
 
-(21) Hotărârile instanțelor judecătorești emise pe marginea cererilor de încuviințare a adopției naționale/internaționale devin definitive și irevocabile în termen de 10 zile lucrătoare de la data pronunțării.
+(2¹) Hotărârile instanțelor judecătorești emise pe marginea cererilor de încuviințare a adopției naționale/internaționale devin definitive și irevocabile în termen de 10 zile lucrătoare de la data pronunțării.
 
 (3) Încuviințând adopţia, instanţa este în drept să satisfacă cererea adoptatorilor de a fi înscrişi în actul de înregistrare a naşterii în calitate de părinţi sau de a schimba numele, prenumele copilului.
 
@@ -4023,7 +4023,7 @@ Articolul 293. Desfacerea adopţiei şi declararea
 
 Cauzele privind desfacerea adopţiei sau declararea nulităţii ei se judecă în conformitate cu normele procedurii de soluţionare a acţiunii civile.
 
-Capitolul XXV1
+Capitolul XXV¹
 
 ÎNAPOIEREA COPILULUI ȘI EXERCITAREA
 
@@ -4031,11 +4031,11 @@ DREPTULUI DE VIZITARE. PREVENIREA
 
 RĂPIRII INTERNAȚIONALE DE COPII
 
-Articolul 2931. Depunerea cererii
+Articolul 293¹. Depunerea cererii
 
 Cererea privind înapoierea copilului în statul reședinței sale obișnuite și cea privind exercitarea dreptului de vizitare a copilului, în conformitate cu Convenția asupra aspectelor civile ale răpirii internaționale de copii, întocmită la Haga la 25 octombrie 1980, se depun la Curtea de Apel Chișinău de către autoritatea centrală din Republica Moldova pentru implementarea prevederilor convenției menționate sau de către reclamant.
 
-Articolul 2932. Conținutul cererii
+Articolul 293². Conținutul cererii
 
 (1) Cererea trebuie să cuprindă:
 
@@ -4055,19 +4055,19 @@ c) alte documente relevante.
 
 (3) Actele întocmite într-o limbă străină se depun însoțite de traducerea autentificată în limba română.
 
-Articolul 2933. Examinarea cererii
+Articolul 293³. Examinarea cererii
 
 (1) Cererea privind înapoierea copilului în statul reședinței sale obișnuite și/sau cea privind exercitarea dreptului de vizitare a copilului se examinează de către Curtea de Apel în ședință închisă, cu participarea obligatorie a reclamantului și a pârâtului sau a reprezentanților acestora.
 
 (2) Instanța examinează cererile indicate la alin. (1) în mod prioritar și judecă cauza în fond în termen de 10 zile lucrătoare de la data admiterii cererii.
 
-Articolul 2934. Hotărârea judecătorească
+Articolul 293⁴. Hotărârea judecătorească
 
 (1) Hotărârea integrală se întocmește în termen de 14 zile de la data pronunțării dispozitivului acesteia.
 
 (2) Hotărârea judecătorească emisă pe marginea cererii privind înapoierea copilului în statul reședinței sale obișnuite sau privind exercitarea dreptului de vizitare a copilului poate fi atacată cu recurs.
 
-Articolul 2935. Măsuri de protecție a copiilor
+Articolul 293⁵. Măsuri de protecție a copiilor
 
 (1) În cazul existenței unor motive întemeiate pe probe că copilul va fi supus deplasării sau reținerii ilicite, reprezentantul legal al copilului poate înainta instanței de judecată din raza domiciliului copilului o cerere motivată, prin care să solicite dispunerea uneia dintre măsurile de protecție prevăzute la art. 18 alin. (2) din Legea nr. 292/2024 privind protecția specială a copiilor împotriva deplasării în străinătate sau reținerii ilicite.
 
@@ -4097,7 +4097,7 @@ Articolul 296. Hotărârea judecătorească
 
 (1) Instanţa judecătorească, după ce examinează cauza în fond, emite o hotărâre prin care admite sau respinge cererea privind declararea capacităţii depline de exerciţiu minorului.
 
-(11) Hotărârea judecătorească emisă pe marginea cererii privind declararea capacităţii depline de exerciţiu minorului poate fi atacată cu apel. Decizia instanței de apel nu se supune recursului, fiind definitivă și irevocabilă de la pronunțare.
+(1¹) Hotărârea judecătorească emisă pe marginea cererii privind declararea capacităţii depline de exerciţiu minorului poate fi atacată cu apel. Decizia instanței de apel nu se supune recursului, fiind definitivă și irevocabilă de la pronunțare.
 
 (2) În cazul în care cererea este admisă, minorul care a atins vârsta de 16 ani este declarat ca având capacitate deplină de exerciţiu (emancipat) în momentul când hotărârea privind emanciparea rămâne irevocabilă.
 
@@ -4221,11 +4221,11 @@ Articolul 307. Cuprinsul cererii de instituire a măsurii
 
 a) date cu privire la identitatea persoanei în privinţa căreia se solicită instituirea măsurii de ocrotire;
 
-b) expunerea circumstanţelor, în sensul art. 4828 din Codul civil, care impun instituirea măsurii de ocrotire judiciare şi argumentarea solicitării măsurii de ocrotire respective;
+b) expunerea circumstanţelor, în sensul art. 48²⁸ din Codul civil, care impun instituirea măsurii de ocrotire judiciare şi argumentarea solicitării măsurii de ocrotire respective;
 
 c) date cu privire la persoanele propuse a fi însărcinate cu ocrotirea;
 
-d) date cu privire la persoanele care fac parte din anturajul persoanei fizice, enumerate la art. 4830 alin. (1) din Codul civil;
+d) date cu privire la persoanele care fac parte din anturajul persoanei fizice, enumerate la art. 48³⁰ alin. (1) din Codul civil;
 
 e) date cu privire la medicul care tratează persoana în privinţa căreia se solicită instituirea măsurii de ocrotire și datele de contact ale acestuia, dacă îi sunt cunoscute solicitantului;
 
@@ -4243,41 +4243,41 @@ Articolul 308. Audierea persoanei fizice
 
 (2) Audierea persoanei fizice se poate desfăşura la sediul instanţei de judecată, la reşedinţa sa, în instituţia de tratament sau instituţia socială, precum şi în orice alt loc corespunzător.
 
-(3) Audierea are loc în şedinţă secretă, la care pot participa persoanele enumerate la art. 4830 alin. (1) din Codul civil. Avocatul persoanei este informat despre timpul şi locul audierii. Persoana fizică poate cere să fie audiată în regim individual şi închis, fiind însoţită, la dorinţă, de o persoană pe care a ales-o. Dacă este necesar, persoana fizică poate fi audiată și în prezenţa celorlalţi participanţi.
+(3) Audierea are loc în şedinţă secretă, la care pot participa persoanele enumerate la art. 48³⁰ alin. (1) din Codul civil. Avocatul persoanei este informat despre timpul şi locul audierii. Persoana fizică poate cere să fie audiată în regim individual şi închis, fiind însoţită, la dorinţă, de o persoană pe care a ales-o. Dacă este necesar, persoana fizică poate fi audiată și în prezenţa celorlalţi participanţi.
 
 (4) Dacă consideră necesar, instanţa de judecată poate desfășura audierea persoanei fizice în prezenţa medicului care o tratează sau în prezenţa altei persoane pertinente.
 
 (5) Instanţa de judecată va depune toate eforturile posibile pentru a constata dorinţele şi sentimentele persoanei fizice privind cererea supusă examinării, folosind metodele de comunicare care corespund stării și situaţiei persoanei audiate.
 
-Articolul 3081. Audierea persoanei fizice la locul aflării
+Articolul 308¹. Audierea persoanei fizice la locul aflării
 
 În cazul în care prezența persoanei nu este posibilă din motive obiective, instanța de judecată asigură audierea acesteia la locul aflării ei, constatând, prin încheiere, după caz, imposibilitatea comunicării cu aceasta.
 
-Articolul 3082. Audierea altor persoane
+Articolul 308². Audierea altor persoane
 
-(1) La cererea participanţilor sau din oficiu, instanţa de judecată audiază persoanele enumerate la art. 4830 alin. (1) din Codul civil.
+(1) La cererea participanţilor sau din oficiu, instanţa de judecată audiază persoanele enumerate la art. 48³⁰ alin. (1) din Codul civil.
 
-(2) Audierea persoanelor indicate la art. 4830 alin. (1) din Codul civil este obligatorie în cazul desemnării acestora, prin hotărâre judecătorească, în calitate de ocrotitor provizoriu, curator, tutore sau în alte calităţi care țin de exercitarea măsurii de ocrotire judiciare.
+(2) Audierea persoanelor indicate la art. 48³⁰ alin. (1) din Codul civil este obligatorie în cazul desemnării acestora, prin hotărâre judecătorească, în calitate de ocrotitor provizoriu, curator, tutore sau în alte calităţi care țin de exercitarea măsurii de ocrotire judiciare.
 
-Articolul 3083. Efectuarea constatărilor
+Articolul 308³. Efectuarea constatărilor
 
 La cererea participanţilor sau din oficiu, instanţa de judecată poate dispune efectuarea unei anchete sociale sau efectuarea de constatări de către orice autoritate ori persoană pertinentă.
 
-Articolul 3084. Consultarea materialelor dosarului
+Articolul 308⁴. Consultarea materialelor dosarului
 
-(1) Pot lua cunoştinţă de materialele dosarului, personal sau prin reprezentant, participanţii la proces, precum şi, cu aprobarea instanţei de judecată, persoanele enumerate la art. 4830 alin. (1) din Codul civil care justifică un interes legitim.
+(1) Pot lua cunoştinţă de materialele dosarului, personal sau prin reprezentant, participanţii la proces, precum şi, cu aprobarea instanţei de judecată, persoanele enumerate la art. 48³⁰ alin. (1) din Codul civil care justifică un interes legitim.
 
 (2) Dacă cererea de consultare a dosarului este depusă de persoana fizică, instanţa de judecată poate, prin încheiere motivată comunicată acesteia, să excludă unul sau mai multe acte din dosar dacă acestea ar putea cauza un prejudiciu moral grav.
 
 (3) Avocatul persoanei fizice poate efectua extrase şi copii de pe materialele dosarului. Avocatului i se interzice să transmită extrasele și copiile respective, precum și copii de pe acestea, persoanei fizice și terţilor.
 
-Articolul 3085. Consultarea dosarului după ce hotărârea
+Articolul 308⁵. Consultarea dosarului după ce hotărârea
 
                            judecătorească devine irevocabilă
 
 Persoana fizică sau persoana însărcinată cu ocrotirea, precum şi avocaţii acestora pot lua cunoştinţă cu materialele dosarului şi efectua extrase şi copii după ce hotărârea judecătorească devine irevocabilă.
 
-Articolul 3086. Copiile de pe deciziile şi hotărârile
+Articolul 308⁶. Copiile de pe deciziile şi hotărârile
 
                           aferente măsurii de ocrotire
 
@@ -4285,39 +4285,39 @@ Articolul 3086. Copiile de pe deciziile şi hotărârile
 
 (2) Terţii care justifică un interes legitim pot obţine copii de pe deciziile consiliului de familie şi de pe hotărârile judecătoreşti aferente măsurii de ocrotire, cu aprobarea instanţei de judecată.
 
-Articolul 3087. Examinarea cererii în fond
+Articolul 308⁷. Examinarea cererii în fond
 
-(1) În cadrul examinării cauzei în fond, instanţa de judecată audiază petiţionarul, persoana fizică, cu excepţia cazului când s-a pronunţat încheierea de a nu audia persoana, conform art. 3081, precum şi ceilalţi participanţi.
+(1) În cadrul examinării cauzei în fond, instanţa de judecată audiază petiţionarul, persoana fizică, cu excepţia cazului când s-a pronunţat încheierea de a nu audia persoana, conform art. 308¹, precum şi ceilalţi participanţi.
 
-(2) Cauza se examinează în şedinţă secretă, cu excepţia cazului când la ea pot asista alte persoane enumerate la art. 4830 alin. (1) din Codul civil.
+(2) Cauza se examinează în şedinţă secretă, cu excepţia cazului când la ea pot asista alte persoane enumerate la art. 48³⁰ alin. (1) din Codul civil.
 
-Articolul 3088. Termenul de judecare a cererii de instituire
+Articolul 308⁸. Termenul de judecare a cererii de instituire
 
                            a măsurii de ocrotire judiciare
 
 Cererea de instituire a unei măsuri de ocrotire judiciare se scoate de pe rol dacă instanţa de judecată nu o soluţionează, prin hotărâre judecătorească, în termen de un an din data depunerii.*
 
-*Art.3088 declarat neconstituțional prin HCC12 din 23.04.24, MO192-194/02.05.24 art.68; în vigoare 23.04.24
+*Art.308⁸ declarat neconstituțional prin HCC12 din 23.04.24, MO192-194/02.05.24 art.68; în vigoare 23.04.24
 
-Articolul 3089. Judecarea cererii de reînnoire a măsurii
+Articolul 308⁹. Judecarea cererii de reînnoire a măsurii
 
                           de ocrotire judiciare
 
-(1) În cazul cererii de reînnoire a măsurii de ocrotire judiciare conform art. 4840 din Codul civil, instanţa de judecată va pronunţa hotărârea judecătorească după audierea petiţionarului, a persoanei fizice în condiţiile art. 308 şi 3081 şi va obţine avizul persoanei însărcinate cu ocrotirea. Hotărârea judecătorească se comunică în condiţiile art. 30812.
+(1) În cazul cererii de reînnoire a măsurii de ocrotire judiciare conform art. 48⁴⁰ din Codul civil, instanţa de judecată va pronunţa hotărârea judecătorească după audierea petiţionarului, a persoanei fizice în condiţiile art. 308 şi 308¹ şi va obţine avizul persoanei însărcinate cu ocrotirea. Hotărârea judecătorească se comunică în condiţiile art. 308¹².
 
-(2) Dacă se cere instituirea unei măsuri de ocrotire judiciare mai restrictive faţă de persoana fizică conform art. 4840 alin. (3) din Codul civil, instanţa de judecată va aplica dispoziţiile art. 307, 3082, 3083 şi 3087 din prezentul cod.
+(2) Dacă se cere instituirea unei măsuri de ocrotire judiciare mai restrictive faţă de persoana fizică conform art. 48⁴⁰ alin. (3) din Codul civil, instanţa de judecată va aplica dispoziţiile art. 307, 308², 308³ şi 308⁷ din prezentul cod.
 
-Articolul 30810. Cererile altele decât cele de instituire
+Articolul 308¹⁰. Cererile altele decât cele de instituire
 
                             a unei măsuri de ocrotire
 
 Instanţa de judecată soluţionează cererile care îi sunt adresate, după instituirea măsurii de ocrotire, de către persoana ocrotită sau persoana însărcinată cu ocrotirea într-un termen de 3 luni de la data depunerii acestora dacă ele nu necesită obținerea unor informaţii suplimentare, prezentarea de probe suplimentare sau altă cercetare. În acest caz, instanţa de judecată va avertiza petiţionarul despre acest fapt şi îl va informa despre data la care se va pronunţa hotărârea, într-un termen care nu va depăşi 9 luni din data depunerii cererii respective, cu excepţia cazurilor în care instanţa de judecată dispune efectuarea unei dezbateri în contradictoriu conform art. 305.
 
-Articolul 30811. Hotărârea judecătorească de instituire
+Articolul 308¹¹. Hotărârea judecătorească de instituire
 
                            a măsurii de ocrotire judiciare
 
-(1) În temeiul art. 481 şi 4838 din Codul civil, instanţa de judecată poate să instituie o altă măsură de ocrotire judiciară decât cea solicitată de petiţionar sau de către unul dintre participanţi.
+(1) În temeiul art. 481 şi 483⁸ din Codul civil, instanţa de judecată poate să instituie o altă măsură de ocrotire judiciară decât cea solicitată de petiţionar sau de către unul dintre participanţi.
 
 (2) La instituirea măsurii de ocrotire judiciare, instanţa de judecată, obligatoriu, se pronunţă cu privire la privarea dreptului la vot stabilit de Codul electoral. Persoana este privată de dreptul la vot dacă nu întruneşte unul sau mai multe din următoarele criterii:
 
@@ -4331,7 +4331,7 @@ d) persoana poate alege opţiunea dorită.
 
 (3) Hotărârea definitivă a instanţei de judecată prin care persoana este privată de dreptul la vot, precum şi hotărârea definitivă de ridicare a interdicţiei de a vota se aduc la cunoştinţa Comisiei Electorale Centrale.
 
-Articolul 30812. Comunicarea hotărârii judecătoreşti
+Articolul 308¹². Comunicarea hotărârii judecătoreşti
 
 (1) Dispozitivul hotărârii judecătoreşti se comunică petiţionarului, persoanei însărcinate cu ocrotirea şi tuturor persoanelor cărora le modifică drepturile sau obligaţiile aferente măsurii de ocrotire.
 
@@ -4339,7 +4339,7 @@ Articolul 30812. Comunicarea hotărârii judecătoreşti
 
 (3) Instanţa de judecată, prin încheiere motivată, poate să decidă să nu comunice dispozitivul hotărârii judecătoreşti de instituire a măsurii de ocrotire judiciare persoanei ocrotite dacă această informaţie îi poate prejudicia grav sănătatea. În acest caz, dispozitivul se expediază avocatului său, precum şi persoanei pe care instanţa o consideră cea mai potrivită pentru a primi această comunicare.
 
-(4) Dispozitivul hotărârii judecătoreşti se comunică persoanelor care, conform art. 30813, pot depune apel. Comunicarea se efectuează prin scrisoare recomandată cu aviz de recepție. Dacă este necesar, instanţa de judecată poate dispune efectuarea comunicării prin executor judecătoresc.
+(4) Dispozitivul hotărârii judecătoreşti se comunică persoanelor care, conform art. 308¹³, pot depune apel. Comunicarea se efectuează prin scrisoare recomandată cu aviz de recepție. Dacă este necesar, instanţa de judecată poate dispune efectuarea comunicării prin executor judecătoresc.
 
 Secțiunea a 2-a
 
@@ -4347,23 +4347,23 @@ Dispoziţii speciale privind apelul contra
 
 hotărârii judecătoreşti
 
-Articolul 30813. Titularul dreptului de a declara apel
+Articolul 308¹³. Titularul dreptului de a declara apel
 
-(1) Hotărârea instanţei de judecată poate fi atacată cu apel de către oricare persoană enumerată la art. 4830 alin. (1) din Codul civil, chiar dacă acestea nu au participat la procesul desfăşurat în instanţa de fond.
+(1) Hotărârea instanţei de judecată poate fi atacată cu apel de către oricare persoană enumerată la art. 48³⁰ alin. (1) din Codul civil, chiar dacă acestea nu au participat la procesul desfăşurat în instanţa de fond.
 
 (2) Hotărârea judecătorească prin care se respinge cererea de instituire a unei măsuri de ocrotire judiciare poate fi atacată cu apel doar de către petiţionar.
 
-Articolul 30814. Curgerea termenului de apel
+Articolul 308¹⁴. Curgerea termenului de apel
 
 Termenul de apel împotriva hotărârii judecătoreşti prin care se instituie o măsură de ocrotire judiciară începe să curgă:
 
-a) în privinţa persoanei fizice – din data comunicării conform art. 30812;
+a) în privinţa persoanei fizice – din data comunicării conform art. 308¹²;
 
 b) în privinţa persoanelor cărora hotărârea trebuie să le fie comunicată – din data aducerii la cunoştinţă;
 
 c) în privinţa celorlalte persoane care au drept de atac – din data pronunţării dispozitivului hotărârii.
 
-Articolul 30815. Citarea persoanelor care au dreptul
+Articolul 308¹⁵. Citarea persoanelor care au dreptul
 
                            de a depune apel
 
@@ -4375,17 +4375,17 @@ Dispoziţii speciale privind mandatul
 
 de ocrotire în viitor
 
-Articolul 30816. Intervenţia instanţei de judecată
+Articolul 308¹⁶. Intervenţia instanţei de judecată
 
 (1) Judecătorul poate să suspende efectele mandatului de ocrotire în viitor prin hotărârea judecătorească sau încheierea privind instituirea unei ocrotiri provizorii sau, dacă existenţa mandatului îi este adusă la cunoştinţă ulterior, printr-o hotărâre sau încheiere pronunţată pe durata ocrotirii provizorii.
 
 (2) Dacă măsura de ocrotire provizorie încetează, mandatul de ocrotire în viitor îşi reia efectul de plin drept, cu excepţia cazului în care instanţa de judecată îl revocă sau instituie o măsură de ocrotire judiciară.
 
-Articolul 30817. Dreptul de a contesta hotărârea judecătorească
+Articolul 308¹⁷. Dreptul de a contesta hotărârea judecătorească
 
                             prin care se acordă împuterniciri suplimentare
 
-Hotărârea judecătorească prin care se împuterniceşte, în aplicarea art. 4821 şi 4827 din Codul civil, mandatarul sau un mandatar special cu încheierea actelor juridice care exced mandatul de ocrotire în viitor poate fi atacată doar de către mandant, mandatar, persoana însărcinată cu controlul executării mandatului, în sensul art. 4815 alin. (3), şi de către persoanele ale căror drepturi sunt afectate prin aceasta.
+Hotărârea judecătorească prin care se împuterniceşte, în aplicarea art. 48²¹ şi 48²⁷ din Codul civil, mandatarul sau un mandatar special cu încheierea actelor juridice care exced mandatul de ocrotire în viitor poate fi atacată doar de către mandant, mandatar, persoana însărcinată cu controlul executării mandatului, în sensul art. 48¹⁵ alin. (3), şi de către persoanele ale căror drepturi sunt afectate prin aceasta.
 
 Capitolul XXIX
 
@@ -4475,7 +4475,7 @@ Articolul 318. Externarea înainte de termen.
 
 În baza avizului comisiei de medici psihiatri, încheiat în modul stabilit, instanţa judecătorească de la locul de aflare a staţionarului de psihiatrie examinează cererea administraţiei acestuia privind externarea înainte de termen sau prelungirea spitalizării.
 
-Capitolul XXX1 – abrogat.
+Capitolul XXX¹ – abrogat.
 
 Capitolul XXXI
 
@@ -4563,7 +4563,7 @@ CUPRINSULUI REGISTRULUI DE PUBLICITATE
 
 Articolul 327. Domeniul de aplicare şi competenţa
 
-(1) Dispoziţiile prezentului capitol sunt aplicabile cererilor de constatare a uzucapiunii în temeiul art. 3304 din Codul civil şi efectuării înregistrării corespunzătoare în registrul de publicitate prevăzut de lege.
+(1) Dispoziţiile prezentului capitol sunt aplicabile cererilor de constatare a uzucapiunii în temeiul art. 330⁴ din Codul civil şi efectuării înregistrării corespunzătoare în registrul de publicitate prevăzut de lege.
 
 (2) Cererea de uzucapiune se depune la instanţa de judecată de la locul de aflare a bunului imobil, iar în cazul altor bunuri – la sediul sau oficiul teritorial respectiv al autorităţii competente să efectueze înregistrări şi radieri în registrul de publicitate corespunzător prevăzut de lege.
 
@@ -4615,7 +4615,7 @@ e) somaţia către toţi cei interesaţi să facă opoziţie, cu precizarea că,
 
 (6) Dacă s-au formulat opoziţii la cererea de uzucapiune, acestea vor fi comunicate petiţionarului pentru a formula referinţă potrivit dispoziţiilor de drept comun. După primirea referinţei se va fixa un termen pentru soluţionarea cererii de uzucapiune, cu citarea petiţionarului şi a oponenților, cărora li se va remite şi câte o copie de pe cererea de uzucapiune şi de pe referinţa depusă de petiţionar.
 
-(7) În toate cazurile, instanţa va cerceta dacă sunt îndeplinite cerinţele prevăzute de Codul civil pentru dobândirea dreptului reclamat în temeiul uzucapiunii conform art. 3304 din Codul civil.
+(7) În toate cazurile, instanţa va cerceta dacă sunt îndeplinite cerinţele prevăzute de Codul civil pentru dobândirea dreptului reclamat în temeiul uzucapiunii conform art. 330⁴ din Codul civil.
 
 (8) Hotărârea judecătorească poate fi contestată cu apel. Decizia instanţei de apel nu se supune recursului, fiind definitivă şi irevocabilă de la pronunţare.
 
@@ -4627,7 +4627,7 @@ Articolul 330. Înregistrarea în registrul de publicitate
 
 (2) În toate cazurile, registratorul registrului de publicitate prevăzut de lege nu va putea dispune înregistrarea dreptului, în temeiul uzucapiunii, dacă acesta a fost înregistrat sau înregistrat provizoriu în folosul unei alte persoane, chiar după împlinirea termenului de uzucapiune; în cazul în care s-a făcut numai o notare, se va putea dispune înregistrarea dreptului fără ca înregistrarea să fie opozabilă celui care a cerut notarea.
 
-(3) Petiţionarul este considerat proprietar de la data înregistrării, în condiţiile legii, în registrul de publicitate prevăzut de lege a dreptului de proprietate dobândit în temeiul uzucapiunii conform dispoziţiilor art. 3304 din Codul civil.
+(3) Petiţionarul este considerat proprietar de la data înregistrării, în condiţiile legii, în registrul de publicitate prevăzut de lege a dreptului de proprietate dobândit în temeiul uzucapiunii conform dispoziţiilor art. 330⁴ din Codul civil.
 
 Capitolul XXXIII
 
@@ -4737,9 +4737,9 @@ Articolul 343. Hotărârea judecătorească de reconstituire
 
 (4) Actele judiciare emise în vederea reconstituirii procedurii judiciare pierdute pot fi atacate cu recurs.
 
-Capitolul XXXIV1 – abrogat.
+Capitolul XXXIV¹ – abrogat.
 
-Capitolul XXXIV2
+Capitolul XXXIV²
 
 AUTORIZAREA TESTĂRII INTEGRITĂŢII
 
@@ -4747,7 +4747,7 @@ PROFESIONALE ŞI APRECIEREA REZULTATULUI
 
 TESTULUI DE INTEGRITATE PROFESIONALĂ
 
-Articolul 3436. Competenţa de autorizare a testării
+Articolul 343⁶. Competenţa de autorizare a testării
 
                           integrităţii profesionale şi de apreciere
 
@@ -4757,15 +4757,15 @@ Articolul 3436. Competenţa de autorizare a testării
 
 Cererile de autorizare a testării integrităţii profesionale şi de apreciere a rezultatului testului de integritate profesională se examinează de către judecătoriile de drept comun în a căror rază teritorială își au sediul autoritățile indicate la art. 12 din Legea nr. 325/2013 privind evaluarea integrităţii instituţionale.*
 
-*Art.3436 textul „și de apreciere a rezultatului testului de integritate profesională” declarat neconstituțional prin HCC37 din 07.12.21, MO315-324/24.12.21 art.225; în vigoare 07.12.21
+*Art.343⁶ textul „și de apreciere a rezultatului testului de integritate profesională” declarat neconstituțional prin HCC37 din 07.12.21, MO315-324/24.12.21 art.225; în vigoare 07.12.21
 
-Articolul 3437. Autorizarea testării integrităţii profesionale
+Articolul 343⁷. Autorizarea testării integrităţii profesionale
 
 (1) Judecătorul se expune prin încheiere cu privire la autorizarea deciziei de iniţiere a testării integrităţii profesionale în cadrul evaluării integrităţii instituţionale, luată de către instituţia care evaluează integritatea instituţională, în termenele şi condiţiile prevăzute de Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituţionale.
 
 (2) Încheierea prin care instanţa refuză autorizarea deciziei de iniţiere a testării integrităţii profesionale poate fi atacată cu recurs de către instituţia care evaluează integritatea instituţională.
 
-Articolul 3438. Aprecierea rezultatului testului
+Articolul 343⁸. Aprecierea rezultatului testului
 
                           de integritate profesională
 
@@ -4779,7 +4779,7 @@ Articolul 3438. Aprecierea rezultatului testului
 
 (5) La demersul instituţiei care evaluează integritatea instituţională, judecătorul soluţionează, prin încheiere, orice altă situaţie apărută în cadrul testării integrităţii profesionale în vederea asigurării respectării drepturilor şi libertăţilor fundamentale ale omului, nedivulgării identităţii testorilor şi conspirării activităţii de testare a integrităţii profesionale. Încheierea respectivă poate fi atacată cu recurs de către instituţia care evaluează integritatea instituţională.*
 
-*Art.3438 declarat neconstituțional prin HCC37 din 07.12.21, MO315-324/24.12.21 art.225; în vigoare 07.12.21
+*Art.343⁸ declarat neconstituțional prin HCC37 din 07.12.21, MO315-324/24.12.21 art.225; în vigoare 07.12.21
 
 D. PROCEDURA ÎN ORDONANŢĂ
 
@@ -4879,7 +4879,7 @@ Articolul 348. Refuzul de a primi cererea
 
 a) pretenţia nu rezultă din art. 345;
 
-a1) pretenția este formulată față de mai mulți debitori;
+a¹) pretenția este formulată față de mai mulți debitori;
 
 b) debitorul este în afara jurisdicţiei instanţelor judecătoreşti ale Republicii Moldova;
 
@@ -5055,7 +5055,7 @@ Articolul 362. Termenul de declarare a apelului
 
 (3) Repunerea în termen de apel se face de către instanţa de apel în cazurile şi în ordinea prevăzute de art. 116.
 
-Articolul 3621. Apelul incident
+Articolul 362¹. Apelul incident
 
 (1) În cadrul procesului în care se judecă apelul depus de apelant, intimatul este în drept, după expirarea termenului de apel, să depună apel în scris, inclusiv în formă electronică prin intermediul Programului integrat de gestionare a dosarelor. Apelul incident se depune nu mai târziu de data depunerii referinţei la cererea de apel.
 
@@ -5067,7 +5067,7 @@ Articolul 363. Efectul suspensiv al termenului de apel
 
 (2) Apelul exercitat în termen este, de asemenea, suspensiv de executare a hotărârii.
 
-Articolul 3631. Efectul suspensiv al apelului exercitat
+Articolul 363¹. Efectul suspensiv al apelului exercitat
 
                           în afara termenului legal
 
@@ -5111,7 +5111,7 @@ g) numele şi domiciliul martorilor, dacă se cere a fi citaţi în apel;
 
 h) documentele ce se anexează.
 
-(11) Elementele cererii de apel prevăzute la alin. (1) lit. d), e) şi h) pot fi incluse într-o cerere de apel suplimentară depusă după data întocmirii hotărârii integrale.
+(1¹) Elementele cererii de apel prevăzute la alin. (1) lit. d), e) şi h) pot fi incluse într-o cerere de apel suplimentară depusă după data întocmirii hotărârii integrale.
 
 (2) În cererea de apel se poate indica şi alte date ce ţin de examinarea apelului.
 
@@ -5119,7 +5119,7 @@ h) documentele ce se anexează.
 
 (4) La cererea de apel se anexează dovada de plată a taxei de stat, dacă apelul se impune cu taxă, și/sau a taxei de timbru.
 
-Articolul 3651. Intentarea procedurii de apel
+Articolul 365¹. Intentarea procedurii de apel
 
 (1) În termen de 24 de ore de la ajungerea dosarului în instanţa de apel, cererea de apel se repartizează completului de judecată în mod aleatoriu, prin intermediul Programului integrat de gestionare a dosarelor.
 
@@ -5165,7 +5165,7 @@ e) apelantul solicită restituirea apelului până la începerea dezbaterii cauz
 
 f) în virtutea legii, hotărârea nu poate fi atacată în apel.
 
-(11) Asupra restituirii cererii de apel decide un complet din 3 judecători, fără citarea participanților la proces. Instanţa de apel poate convoca participanții la proces în şedinţă prealabilă doar în cazul stabilit la alin. (1) lit. b).
+(1¹) Asupra restituirii cererii de apel decide un complet din 3 judecători, fără citarea participanților la proces. Instanţa de apel poate convoca participanții la proces în şedinţă prealabilă doar în cazul stabilit la alin. (1) lit. b).
 
 (2) Încheierea judecătorească de restituire a cererii de apel poate fi atacată cu recurs.
 
@@ -5185,11 +5185,11 @@ Articolul 372. Prezentarea unor noi probe şi pretenţii
 
                         în instanţă de apel
 
-(1) Părţile şi alţi participanţi la proces au dreptul să prezinte noi probe dacă acestea respectă prevederile art. 1191 alin. (2), dacă acestea nu au fost reclamate de către prima instanță la cererea participanților la proces sau dacă au fost restituite în mod nejustificat de către prima instanţă.
+(1) Părţile şi alţi participanţi la proces au dreptul să prezinte noi probe dacă acestea respectă prevederile art. 119¹ alin. (2), dacă acestea nu au fost reclamate de către prima instanță la cererea participanților la proces sau dacă au fost restituite în mod nejustificat de către prima instanţă.
 
-(11) – abrogat.
+(1¹) – abrogat.
 
-(12) – abrogat.
+(1²) – abrogat.
 
 (2) Pot fi citaţi în instanţă de apel martorii audiaţi în primă instanţă dacă în cererea de apel se contestă depoziţiile lor.
 
@@ -5245,7 +5245,7 @@ Articolul 376. Procedura de judecare a cauzei
 
 (1) Dispoziţiile de procedură privind judecarea cauzelor civile în primă instanţă se aplică şi în instanţa de apel în măsura în care nu sunt contrare dispoziţiilor prezentului capitol.
 
-(11) Apelul împotriva hotărârilor emise de instanța de insolvabilitate, precum și împotriva hotărârilor emise, în cazul cererilor cu valoare redusă se examinează, în procedură scrisă sau cu citarea participanților la proces, în condiţiile examinării cauzelor în primă instanţă.
+(1¹) Apelul împotriva hotărârilor emise de instanța de insolvabilitate, precum și împotriva hotărârilor emise, în cazul cererilor cu valoare redusă se examinează, în procedură scrisă sau cu citarea participanților la proces, în condiţiile examinării cauzelor în primă instanţă.
 
 (2) Lista cauzelor care se examinează în apel se afișează până la şedinţa de judecată.
 
@@ -5317,7 +5317,7 @@ c) să admită apelul şi să caseze integral sau parţial hotărârea primei in
 
 d) să admită apelul, să caseze integral hotărârea primei instanţe şi să trimită cauza spre rejudecare în primă instanţă doar în cazul în care s-au încălcat temeiurile prevăzute la art. 388 alin.(1) lit. d) şi i). La solicitarea participanţilor la proces, instanţa de apel poate trimite cauza spre rejudecare în prima instanță doar o singură dată, în cazul prevăzut la art. 388 alin. (1) lit. b);
 
-e) să admită apelul şi să caseze integral sau parţial hotărârea primei instanţe, dispunând încetarea procesului ori scoaterea cererii de pe rol dacă există temeiurile prevăzute la art. 265, 2651 şi 267.
+e) să admită apelul şi să caseze integral sau parţial hotărârea primei instanţe, dispunând încetarea procesului ori scoaterea cererii de pe rol dacă există temeiurile prevăzute la art. 265, 265¹ şi 267.
 
 Articolul 386. Temeiurile casării sau modificării
 
@@ -5345,7 +5345,7 @@ a) nu a aplicat legea care trebuia să fie aplicată;
 
 b) a aplicat o lege care nu trebuia să fie aplicată;
 
-b1) a aplicat o lege care a fost declarată neconstituțională;
+b¹) a aplicat o lege care a fost declarată neconstituțională;
 
 c) a interpretat eronat legea;
 
@@ -5413,7 +5413,7 @@ f) concluziile instanţei de apel în urma examinării apelului.
 
 (3) În cazul casării integrale sau parţiale a hotărârii primei instanţe şi restituirii cauzei spre rejudecare în primă instanţă, instanţa de apel poate să se expună în decizia sa asupra actelor procedurale care urmează a fi efectuate în primă instanţă la rejudecarea cauzei, însă nu este în drept să prejudece în opiniile sale că o anumită probă ar inspira sau nu încredere, că unele probe ar fi mai temeinice decât altele şi nici să stabilească ce hotărâre ar trebui adoptată după rejudecarea cauzei.
 
-(31) În cazul casării sau modificării hotărârii primei instanţe, instanţa de apel se expune asupra măsurilor de asigurare a acţiunii aplicate, precum şi, după caz, asupra întoarcerii executării.
+(3¹) În cazul casării sau modificării hotărârii primei instanţe, instanţa de apel se expune asupra măsurilor de asigurare a acţiunii aplicate, precum şi, după caz, asupra întoarcerii executării.
 
 (4) Decizia este semnată de toţi judecătorii care au examinat apelul, inclusiv de judecătorul care are opinie separată.
 
@@ -5425,7 +5425,7 @@ Articolul 393. Casarea hotărârii şi încetarea procesului
 
                          ori scoaterea cererii de pe rol
 
-(1) Hotărârea primei instanţe este casată de instanţa de apel care dispune prin decizie încetarea procesului ori scoaterea cererii de pe rol, dacă există temeiurile consemnate la art. 265, 2651 şi 267.
+(1) Hotărârea primei instanţe este casată de instanţa de apel care dispune prin decizie încetarea procesului ori scoaterea cererii de pe rol, dacă există temeiurile consemnate la art. 265, 265¹ şi 267.
 
 (2) Decizia instanţei de apel privind încetarea procesului ori scoaterea cererii de pe rol poate fi atacată cu recurs.
 
@@ -5455,7 +5455,7 @@ Articolul 423. Recursul împotriva încheierii
 
 (1) Încheierea dată în primă instanţă poate fi atacată cu recurs, separat de hotărâre, de către părţi şi de ceilalţi participanţi la proces în cazurile prevăzute de prezentul cod şi de alte legi, precum şi în cazurile în care încheierea face imposibilă desfăşurarea de mai departe a procesului. Ea se examinează în recurs conform regulilor stabilite de prezentul capitol.
 
-(11) Instanţa de judecată care a emis încheierea susceptibilă de recurs, după depunerea recursului, îl expediază, împreună cu copia certificată a dosarului sau prin intermediul Programului integrat de gestionare a dosarelor, instanţei ierarhic superioare competente. Recursul depus împotriva încheierii suspendă executarea acesteia, cu excepţiile stabilite de lege.
+(1¹) Instanţa de judecată care a emis încheierea susceptibilă de recurs, după depunerea recursului, îl expediază, împreună cu copia certificată a dosarului sau prin intermediul Programului integrat de gestionare a dosarelor, instanţei ierarhic superioare competente. Recursul depus împotriva încheierii suspendă executarea acesteia, cu excepţiile stabilite de lege.
 
 (2) Împotriva celorlalte încheieri pronunţate în primă instanţă nu se poate face recurs decât odată cu fondul cauzei.
 
@@ -5487,7 +5487,7 @@ Articolul 426. Depunerea şi examinarea recursului
 
 (3) Recursul împotriva încheierii se examinează în termen de 2 luni într-un complet din 3 judecători, pe baza copiei certificate sau electronice a dosarului, pe baza recursului şi a referinţei la recurs, fără examinarea admisibilității şi fără participarea părţilor.
 
-Articolul 4261. Restituirea recursului împotriva încheierii
+Articolul 426¹. Restituirea recursului împotriva încheierii
 
 (1) Instanţa de recurs este în drept să restituie recursul împotriva încheierii dacă:
 
@@ -5495,7 +5495,7 @@ a) cererea de recurs a fost depusă în afara termenului legal, iar recurentul n
 
 b) cererea de recurs a fost depusă de o persoană care nu este în drept să declare recurs;
 
-b1) cererea de recurs nu corespunde prevederilor art. 437 alin. (1) și (2), cu excepția cerinței privind anexarea dovezii de plată a taxei de stat;
+b¹) cererea de recurs nu corespunde prevederilor art. 437 alin. (1) și (2), cu excepția cerinței privind anexarea dovezii de plată a taxei de stat;
 
 c) cererea de recurs nu este semnată sau este semnată necorespunzător;
 
@@ -5505,7 +5505,7 @@ e) încheierea nu poate fi atacată cu recurs, potrivit legii.
 
 (2) Recursul împotriva încheierii judecătorești se restituie în baza a cel puțin unuia din temeiurile prevăzute la alin. (1), printr-o încheiere care nu se supune niciunei căi de atac.
 
-(21) Prin derogare de la alin. (2), dacă la cererea de recurs lipsește dovada de plată a taxei de timbru, instanța de recurs emite o încheiere, care nu se supune niciunei căi de atac, de a nu da curs cererii de recurs şi acordă recurentului un termen rezonabil pentru înlăturarea deficienţelor depistate. Dacă recurentul înlătură deficienţele în cadrul termenului acordat, recursul se consideră depus la data prezentării iniţiale. Dacă recurentul nu înlătură deficienţele cererii de recurs în cadrul termenului acordat, instanța de recurs o restituie imediat după expirarea termenului rezonabil stabilit de instanță pentru înlăturarea neajunsurilor.
+(2¹) Prin derogare de la alin. (2), dacă la cererea de recurs lipsește dovada de plată a taxei de timbru, instanța de recurs emite o încheiere, care nu se supune niciunei căi de atac, de a nu da curs cererii de recurs şi acordă recurentului un termen rezonabil pentru înlăturarea deficienţelor depistate. Dacă recurentul înlătură deficienţele în cadrul termenului acordat, recursul se consideră depus la data prezentării iniţiale. Dacă recurentul nu înlătură deficienţele cererii de recurs în cadrul termenului acordat, instanța de recurs o restituie imediat după expirarea termenului rezonabil stabilit de instanță pentru înlăturarea neajunsurilor.
 
 Articolul 427. Împuternicirile instanţei la examinarea
 
@@ -5599,7 +5599,7 @@ Articolul 433. Temeiurile inadmisibilităţii recursului
 
 a) recursul nu se încadrează în temeiurile prevăzute la art. 432 alin. (1);
 
-a1) recursul este depus împotriva unui act ce nu se supune recursului, cu excepția cazurilor prevăzute la art. 429 alin. (5);
+a¹) recursul este depus împotriva unui act ce nu se supune recursului, cu excepția cazurilor prevăzute la art. 429 alin. (5);
 
 b) recursul este depus cu omiterea termenului de declarare prevăzut la art. 434;
 
@@ -5673,11 +5673,11 @@ Articolul 438. Restituirea cererii de recurs
 
 (2) Dacă cererea de recurs conţine temeiurile recursului, dar lipsesc unele date prevăzute la art. 437 alin. (1) lit. a)–c), e), alin. (2) și (3), judecătorul raportor emite o încheiere, care nu se supune niciunei căi de atac, de a nu da curs cererii de recurs şi acordă recurentului un termen rezonabil pentru înlăturarea deficienţelor. Dacă recurentul înlătură deficienţele în cadrul termenului acordat, recursul se consideră depus la data prezentării iniţiale. Dacă cererea de recurs nu este semnată, nu conţine temeiurile recursului sau recurentul nu înlătură deficienţele cererii de recurs în cadrul termenului acordat, judecătorul raportor o restituie în termen de 10 zile de la data înregistrării sau de la data expirării termenului acordat pentru înlăturarea deficiențelor.
 
-(21) În cazul în care se solicită scutirea, amânarea sau eşalonarea plăţii taxei de stat (cu prezentarea documentelor justificative), cererea de recurs nu se restituie, completul din trei judecători urmând să se pronunţe, printr-o încheiere nesusceptibilă de atac, asupra demersului înaintat.
+(2¹) În cazul în care se solicită scutirea, amânarea sau eşalonarea plăţii taxei de stat (cu prezentarea documentelor justificative), cererea de recurs nu se restituie, completul din trei judecători urmând să se pronunţe, printr-o încheiere nesusceptibilă de atac, asupra demersului înaintat.
 
-(22) Dacă demersul privind scutirea de plata taxei de stat a fost respins, completul din 3 judecători dispune, printr-o încheiere nesusceptibilă de atac, de a nu da curs cererii, acordând recurentului un termen rezonabil pentru achitarea taxei de stat. Dacă recurentul îndeplineşte în termen indicaţiile din încheierea judecătorească, recursul se consideră depus la data prezentării iniţiale. În caz contrar, completul din 3 judecători restituie cererea de recurs printr-o încheiere care nu se supune niciunei căi de atac.
+(2²) Dacă demersul privind scutirea de plata taxei de stat a fost respins, completul din 3 judecători dispune, printr-o încheiere nesusceptibilă de atac, de a nu da curs cererii, acordând recurentului un termen rezonabil pentru achitarea taxei de stat. Dacă recurentul îndeplineşte în termen indicaţiile din încheierea judecătorească, recursul se consideră depus la data prezentării iniţiale. În caz contrar, completul din 3 judecători restituie cererea de recurs printr-o încheiere care nu se supune niciunei căi de atac.
 
-(23) În cazul în care se solicită suspendarea executării hotărârii atacate cu recurs, cererea de recurs nu se restituie, completul din trei judecători urmând să se pronunţe asupra demersului înaintat, printr-o încheiere nesusceptibilă de atac, în cel mult 10 zile de la depunerea cererii însoţite de confirmarea eliberată de executorul judecătoresc privind depunerea cauţiunii. Încheierea de suspendare se transmite imediat recurentului.
+(2³) În cazul în care se solicită suspendarea executării hotărârii atacate cu recurs, cererea de recurs nu se restituie, completul din trei judecători urmând să se pronunţe asupra demersului înaintat, printr-o încheiere nesusceptibilă de atac, în cel mult 10 zile de la depunerea cererii însoţite de confirmarea eliberată de executorul judecătoresc privind depunerea cauţiunii. Încheierea de suspendare se transmite imediat recurentului.
 
 (3) Restituirea cererii de recurs nu împiedică declararea repetată a recursului după lichidarea neajunsurilor şi respectarea celorlalte reguli stabilite de lege pentru declararea lui.
 
@@ -5739,9 +5739,9 @@ b) să admită recursul şi să caseze integral sau parţial decizia instanţei 
 
 c) să admită recursul, să caseze integral decizia instanţei de apel şi să trimită cauza spre rejudecare în instanţa de apel o singură dată dacă eroarea judiciară nu poate fi corectată de către instanţa de recurs;
 
-c1) să admită recursul și să caseze integral decizia instanței de apel și hotărârea primei instanțe, trimițând cauza spre rejudecare în prima instanță, în cazul în care a constatat neatragerea în proces a persoanelor  ale căror drepturi sunt lezate prin hotărâre;
+c¹) să admită recursul și să caseze integral decizia instanței de apel și hotărârea primei instanțe, trimițând cauza spre rejudecare în prima instanță, în cazul în care a constatat neatragerea în proces a persoanelor  ale căror drepturi sunt lezate prin hotărâre;
 
-d) să admită recursul şi să caseze decizia instanţei de apel şi hotărârea primei instanţe, dispunând încetarea procesului ori scoaterea cererii de pe rol dacă există temeiurile prevăzute la art. 265, 2651 şi 267;
+d) să admită recursul şi să caseze decizia instanţei de apel şi hotărârea primei instanţe, dispunând încetarea procesului ori scoaterea cererii de pe rol dacă există temeiurile prevăzute la art. 265, 265¹ şi 267;
 
 e) să admită recursul şi să modifice decizia instanţei de apel şi/sau hotărârea primei instanţe;
 
@@ -5749,11 +5749,11 @@ f) să admită recursul, să caseze decizia instanţei de apel şi să menţină
 
 g) să admită recursul, să caseze decizia instanţei de apel, cu pronunţarea unei încheieri de restituire a cererii de apel dacă există temeiurile prevăzute la art. 369.
 
-(11) Dacă recursul este admis în temeiul art. 432 alin.(1) lit. e), completul poate emite o încheiere interlocutorie, pe care o expediază inspecției judiciare.
+(1¹) Dacă recursul este admis în temeiul art. 432 alin.(1) lit. e), completul poate emite o încheiere interlocutorie, pe care o expediază inspecției judiciare.
 
 (2) Hotărârea sau decizia casată nu are nici o putere legală. Actele de asigurare sau de executare făcute în temeiul unei astfel de hotărâri sau decizii îşi pierd puterea legală dacă instanţa de recurs nu dispune altfel.
 
-(21) – abrogat.
+(2¹) – abrogat.
 
 (3) În urma examinării recursului, instanţa de recurs emite o decizie care rămâne irevocabilă din momentul emiterii. Decizia se consideră a fi emisă din momentul plasării acesteia pe pagina web a Curţii Supreme de Justiţie.
 
@@ -5761,7 +5761,7 @@ g) să admită recursul, să caseze decizia instanţei de apel, cu pronunţarea 
 
 (5) – abrogat.
 
-Articolul 4451. Încetarea procedurii de recurs
+Articolul 445¹. Încetarea procedurii de recurs
 
 Instanţa de recurs dispune, printr-o încheiere care nu se supune niciunei căi de atac, încetarea procedurii de recurs, din oficiu sau la cerere, dacă după declararea admisibilității recursului se constată existenţa unuia dintre temeiurile prevăzute la art. 433.
 
@@ -5775,7 +5775,7 @@ Articolul 446. Dispoziţiile judecătoreşti care
 
 (1) Pot fi supuse revizuirii hotărârile, ordonanţele, încheierile şi deciziile irevocabile ale tuturor instanţelor judecătoreşti, în condiţiile prezentului capitol.
 
-(2) Încheierile de încetare a procesului conform art. 265 lit. c) și d), precum și cele prin care se respinge acțiunea ca fiind tardivă conform art. 1861 pot fi supuse revizuirii. Încheierile judecătorești care nu se referă la fondul cauzei, precum și deciziile emise în privința acestora nu se supun revizuirii. În aceste cazuri, încheierile de inadmisibilitate a revizuirii nu se supun niciunei căi de atac.
+(2) Încheierile de încetare a procesului conform art. 265 lit. c) și d), precum și cele prin care se respinge acțiunea ca fiind tardivă conform art. 186¹ pot fi supuse revizuirii. Încheierile judecătorești care nu se referă la fondul cauzei, precum și deciziile emise în privința acestora nu se supun revizuirii. În aceste cazuri, încheierile de inadmisibilitate a revizuirii nu se supun niciunei căi de atac.
 
 Articolul 447. Persoanele care sunt în drept să depună
 
@@ -5815,7 +5815,7 @@ d) – abrogată;
 
 e) s-a anulat ori s-a modificat hotărârea, sentinţa sau decizia instanţei judecătoreşti care au servit drept temei pentru emiterea hotărârii sau deciziei a căror revizuire se cere;
 
-e1) a fost aplicată o lege declarată neconstituţională de către Curtea Constituţională şi la judecarea cauzei a fost ridicată excepţia de neconstituţionalitate, iar instanţa de judecată a respins cererea privind sesizarea Curţii Constituţionale sau din hotărârea Curţii Constituţionale rezultă că prin aceasta s-a încălcat un drept garantat de Constituţie sau de tratatele internaţionale în domeniul drepturilor omului;
+e¹) a fost aplicată o lege declarată neconstituţională de către Curtea Constituţională şi la judecarea cauzei a fost ridicată excepţia de neconstituţionalitate, iar instanţa de judecată a respins cererea privind sesizarea Curţii Constituţionale sau din hotărârea Curţii Constituţionale rezultă că prin aceasta s-a încălcat un drept garantat de Constituţie sau de tratatele internaţionale în domeniul drepturilor omului;
 
 f) – abrogată;
 
@@ -5837,7 +5837,7 @@ c) în termen de 3 luni din ziua în care persoana interesată a luat cunoştin�
 
 d) în termen de 3 luni din ziua în care persoana interesată a luat cunoştinţă de hotărârea, sentinţa sau decizia anulată sau modificată care a servit drept temei pentru emiterea hotărârii sau deciziei a căror revizuire se cere – în cazul prevăzut la art. 449 lit. e);
 
-d1) în termen de 3 luni din ziua când persoana interesată a luat cunoştinţă de circumstanţele respective – în cazul prevăzut la art. 449 lit. e1);
+d¹) în termen de 3 luni din ziua când persoana interesată a luat cunoştinţă de circumstanţele respective – în cazul prevăzut la art. 449 lit. e¹);
 
 e) de la informarea Guvernului Republicii Moldova până la soluționarea cererii de către Curtea Europeană a Drepturilor Omului în cazul prevăzut la art. 449 lit. g);
 
@@ -5855,7 +5855,7 @@ Articolul 451. Depunerea cererii de revizuire
 
 (5) Instanţa de revizuire este în drept să suspende executarea hotărârii a cărei revizuire se cere dacă se depune o cauţiune în condiţiile art. 435.
 
-Articolul 4511. Restituirea cererii de revizuire
+Articolul 451¹. Restituirea cererii de revizuire
 
 (1) Dacă cererea de revizuire se depune fără indicarea temeiurilor prevăzute la art. 449 sau fără dovada de plată a taxei de stat și/sau a taxei de timbru, judecătorul emite o încheiere nesusceptibilă de atac de a nu da curs cererii de revizuire şi acordă revizuentului un termen rezonabil pentru înlăturarea deficienţelor. Dacă revizuentul înlătură deficienţele în cadrul termenului acordat, revizuirea se consideră depusă la data prezentării iniţiale. Dacă revizuentul nu înlătură deficienţele cererii de revizuire sau nu prezintă dovada de plată a taxei de stat și/sau a taxei de timbru în termenul acordat, judecătorul o restituie imediat după expirarea termenului rezonabil stabilit de instanță pentru înlăturarea neajunsurilor.
 
@@ -5869,7 +5869,7 @@ Articolul 452. Examinarea cererii de revizuire
 
 (1) Instanţa examinează cererea de revizuire în şedinţă publică în conformitate cu normele de examinare a cererii de chemare în judecată.
 
-(11) Dacă examinarea cererii de revizuire este de competenţa Curţii Supreme de Justiţie sau a instanţei de apel, şedinţele se desfăşoară fără înştiinţarea participanţilor la proces. Dacă instanţa care examinează cererea de revizuire consideră necesară prezenţa participanţilor la proces, aceasta dispune înştiinţarea lor.
+(1¹) Dacă examinarea cererii de revizuire este de competenţa Curţii Supreme de Justiţie sau a instanţei de apel, şedinţele se desfăşoară fără înştiinţarea participanţilor la proces. Dacă instanţa care examinează cererea de revizuire consideră necesară prezenţa participanţilor la proces, aceasta dispune înştiinţarea lor.
 
 (2) Dezbaterile sunt limitate la admisibilitatea revizuirii şi la faptele pe care se întemeiază.
 
@@ -5895,7 +5895,7 @@ b) încheierea de admitere a cererii de revizuire şi de casare a hotărârii sa
 
 (6) În cazul în care o hotărâre examinată anterior în apel şi în recurs a fost supusă revizuirii, cauza se trimite, după admiterea cererii de revizuire, la rejudecare.
 
-(61) În cazul în care o hotărâre examinată anterior în apel şi în recurs a fost supusă revizuirii, cauza se trimite, după admiterea cererii de revizuire, la rejudecare în apel dacă eroarea judiciară nu poate fi corectată de către instanţa de recurs. În cazul prevăzut la art. 449 lit. c), cauza se trimite, după casarea hotărârii, la rejudecare în prima instanță.
+(6¹) În cazul în care o hotărâre examinată anterior în apel şi în recurs a fost supusă revizuirii, cauza se trimite, după admiterea cererii de revizuire, la rejudecare în apel dacă eroarea judiciară nu poate fi corectată de către instanţa de recurs. În cazul prevăzut la art. 449 lit. c), cauza se trimite, după casarea hotărârii, la rejudecare în prima instanță.
 
 (7) În urma judecării cauzei după admiterea cererii de revizuire, instanţa adoptă o hotărâre, care poate fi supusă căilor de atac prevăzute de lege pentru hotărârea revizuită.
 
@@ -5999,7 +5999,7 @@ a) organul de administrare, agenţia, sucursala, reprezentanța persoanei străi
 
 b) pârâtul are bunuri pe teritoriul Republicii Moldova;
 
-b1) bunul asigurat sau locul în care s-a produs riscul asigurat se află în Republica Moldova;
+b¹) bunul asigurat sau locul în care s-a produs riscul asigurat se află în Republica Moldova;
 
 c) reclamantul în procesul cu privire la încasarea pensiei de întreţinere şi constatarea paternităţii are domiciliu în Republica Moldova;
 
@@ -6069,17 +6069,17 @@ Articolul 462. Competenţa contractuală în procesele
 
 (1) În vederea soluționării litigiilor apărute sau care ar putea apărea în legătură cu un anumit raport juridic civil sau comercial cu element de extraneitate, prin încheierea unui acord de alegere a forului, părțile pot schimba competența soluționării litigiului prin învestirea cu competență jurisdicțională a unei sau a mai multor instanțe specifice ale unui sau ale mai multor state. În cazul acordurilor de alegere exclusivă a forului, părțile pot opta și pentru ca acestea să fie încheiate în conformitate cu prevederile Convenției privind acordurile de alegere a forului, încheiată la Haga la 30 iunie 2005.
 
-(11) Acordul de alegere a forului trebuie încheiat în scris sau prin orice alte mijloace de comunicare ce fac informațiile accesibile, astfel încât să poată fi folosit pentru referințe ulterioare.
+(1¹) Acordul de alegere a forului trebuie încheiat în scris sau prin orice alte mijloace de comunicare ce fac informațiile accesibile, astfel încât să poată fi folosit pentru referințe ulterioare.
 
-(2) Competenţa jurisdicţională în cauzele cu element de extraneitate specificate la art. 40 alin. (1)–(5) și (7), art. 411 alin. (1) și art. 461 nu poate fi schimbată la înţelegerea părţilor.
+(2) Competenţa jurisdicţională în cauzele cu element de extraneitate specificate la art. 40 alin. (1)–(5) și (7), art. 41¹ alin. (1) și art. 461 nu poate fi schimbată la înţelegerea părţilor.
 
-Articolul 4621. Competenţa instanţelor judecătoreşti ale
+Articolul 462¹. Competenţa instanţelor judecătoreşti ale
 
                           Republicii Moldova în materie de moştenire
 
 Instanţele judecătoreşti naţionale sunt competente în procesele cu privire la moştenire dacă locul deschiderii moştenirii, conform Codului civil, se află pe teritoriul Republicii Moldova.
 
-Articolul 4622. Competenţa contractuală în procesele
+Articolul 462². Competenţa contractuală în procesele
 
                            cu privire la moştenire
 
@@ -6087,39 +6087,39 @@ Articolul 4622. Competenţa contractuală în procesele
 
 (2) Un astfel de acord trebuie redactat în scris, datat şi semnat de părţile interesate. Orice comunicare sub formă electronică care permite consemnarea acordului este considerată echivalentă cu forma scrisă.
 
-Articolul 4623. Declinarea competenţei în cazul
+Articolul 462³. Declinarea competenţei în cazul
 
                           în care s-a optat pentru o lege în
 
                           materie de moştenire
 
-În cazul în care cel care a lăsat moştenirea alege legea unui stat străin pentru a guverna moştenirea sa, instanţa de judecată naţională sesizată în temeiul art. 4621:
+În cazul în care cel care a lăsat moştenirea alege legea unui stat străin pentru a guverna moştenirea sa, instanţa de judecată naţională sesizată în temeiul art. 462¹:
 
 a) poate, la solicitarea unei părţi la proces, să îşi decline competenţa în cazul în care consideră că instanţele judecătoreşti din statul pentru a cărui lege s-a optat sunt mai competente să hotărască cu privire la moştenire, având în vedere natura acesteia, precum reşedinţa obişnuită a părţilor şi locul unde sunt situate bunurile; sau
 
-b) este obligată să îşi decline competenţa în cazul în care părţile au convenit, în conformitate cu art. 4622, să confere competenţa instanţelor judecătoreşti din statul străin pentru a cărui lege s-a optat.
+b) este obligată să îşi decline competenţa în cazul în care părţile au convenit, în conformitate cu art. 462², să confere competenţa instanţelor judecătoreşti din statul străin pentru a cărui lege s-a optat.
 
-Articolul 4624. Competenţa în cazul în care s-a optat
+Articolul 462⁴. Competenţa în cazul în care s-a optat
 
                           pentru o lege în materie de moştenire
 
 Instanţele judecătoreşti naţionale, pentru a căror lege a optat cel care a lăsat moştenirea, sunt competente să hotărască cu privire la moştenire în cazul în care:
 
-a) o instanţă de judecată dintr-un stat străin sesizată anterior şi-a declinat competenţa cu privire la aceeaşi cauză în temeiul împrejurărilor prevăzute la art. 4623;
+a) o instanţă de judecată dintr-un stat străin sesizată anterior şi-a declinat competenţa cu privire la aceeaşi cauză în temeiul împrejurărilor prevăzute la art. 462³;
 
-b) părţile la proces au convenit, în conformitate cu art. 4622, să ofere competenţa instanţelor judecătoreşti naţionale; sau
+b) părţile la proces au convenit, în conformitate cu art. 462², să ofere competenţa instanţelor judecătoreşti naţionale; sau
 
 c) părţile la proces au recunoscut în mod expres competenţa instanţei judecătoreşti naţionale.
 
-Articolul 4625. Competenţa întemeiată pe înfățișare
+Articolul 462⁵. Competenţa întemeiată pe înfățișare
 
                            în materie de moştenire
 
-(1) În cazul în care, în cursul desfăşurării procesului în faţa instanţei judecătoreşti naţionale care îşi exercită competenţa în temeiul art. 4624, rezultă că nu toate părţile au fost şi părţi la acordul de alegere a instanţei competente, instanţa continuă să îşi exercite competenţa dacă aceste părţi se înfăţişează fără a contesta competenţa instanţei.
+(1) În cazul în care, în cursul desfăşurării procesului în faţa instanţei judecătoreşti naţionale care îşi exercită competenţa în temeiul art. 462⁴, rezultă că nu toate părţile au fost şi părţi la acordul de alegere a instanţei competente, instanţa continuă să îşi exercite competenţa dacă aceste părţi se înfăţişează fără a contesta competenţa instanţei.
 
-(2) În cazul în care părţile care nu au fost părţi la acordul de alegere a instanţei competente contestă competenţa instanţei judecătoreşti menţionate la alin.(1), instanţa îşi declină competenţa. În această situaţie, competenţa de a hotărî cu privire la succesiune revine instanţelor judecătoreşti competente în temeiul art. 4621 sau al art. 4626.
+(2) În cazul în care părţile care nu au fost părţi la acordul de alegere a instanţei competente contestă competenţa instanţei judecătoreşti menţionate la alin.(1), instanţa îşi declină competenţa. În această situaţie, competenţa de a hotărî cu privire la succesiune revine instanţelor judecătoreşti competente în temeiul art. 462¹ sau al art. 462⁶.
 
-Articolul 4626. Competenţa subsidiară în materie
+Articolul 462⁶. Competenţa subsidiară în materie
 
                           de moştenire
 
@@ -6131,7 +6131,7 @@ b) dacă nu este îndeplinită condiţia prevăzută la lit. a), cel care a lăs
 
 (2) În cazul în care nu sunt întrunite condiţiile prevăzute la alin.(1), instanţele judecătoreşti naţionale sunt competente să se pronunţe asupra bunurilor care fac parte din masa succesorală şi sunt situate pe teritoriul Republicii Moldova.
 
-Articolul 4627. Limitarea procedurilor în materie de moştenire
+Articolul 462⁷. Limitarea procedurilor în materie de moştenire
 
 (1) În cazul în care masa succesorală conţine bunuri situate într-un stat străin, la cererea uneia dintre părţi la proces, instanţa de judecată naţională sesizată să hotărască cu privire la moştenire poate decide să nu se pronunţe cu privire la unul sau mai multe dintre bunuri dacă s-a demonstrat că hotărârea sa cu privire la acele bunuri nu va fi recunoscută şi, după caz, declarată executorie în acel stat străin.
 
@@ -6247,7 +6247,7 @@ Articolul 470. Procedura de examinare a cererii
 
 (1) Cererea de recunoaştere a hotărârii judecătoreşti străine se examinează în şedinţă de judecată, cu înştiinţarea legală a debitorului despre locul, data şi ora examinării. Neprezentarea din motive neîntemeiate a debitorului citat legal nu împiedică examinarea cererii.
 
-(11) Instanţa judecătorească care examinează cererea de recunoaştere a hotărârii judecătoreşti străine informează în mod obligatoriu şi neîntârziat despre acest fapt Ministerul Justiţiei şi, după caz, Banca Naţională a Moldovei, în cazul în care este vizată o instituţie financiară licențiată de aceasta, cu remiterea cererii şi a documentelor aferente. Prezenţa reprezentantului Ministerului Justiţiei şi, după caz, al Băncii Naţionale a Moldovei la şedinţa de judecată în cadrul căreia se examinează cererea de recunoaştere a hotărârii judecătoreşti străine este obligatorie. Lipsa reprezentantului Ministerului Justiţiei şi, după caz, al Băncii Naţionale a Moldovei, legal citaţi, nu împiedică examinarea cauzei.
+(1¹) Instanţa judecătorească care examinează cererea de recunoaştere a hotărârii judecătoreşti străine informează în mod obligatoriu şi neîntârziat despre acest fapt Ministerul Justiţiei şi, după caz, Banca Naţională a Moldovei, în cazul în care este vizată o instituţie financiară licențiată de aceasta, cu remiterea cererii şi a documentelor aferente. Prezenţa reprezentantului Ministerului Justiţiei şi, după caz, al Băncii Naţionale a Moldovei la şedinţa de judecată în cadrul căreia se examinează cererea de recunoaştere a hotărârii judecătoreşti străine este obligatorie. Lipsa reprezentantului Ministerului Justiţiei şi, după caz, al Băncii Naţionale a Moldovei, legal citaţi, nu împiedică examinarea cauzei.
 
 (2) Instanţa judecătorească poate satisface cererea întemeiată a debitorului privind amânarea examinării cererii, înștiințându-l.
 
@@ -6275,7 +6275,7 @@ c) examinarea cauzei este de competenţa exclusivă a instanţelor judecătoreş
 
 d) există o hotărâre, chiar şi nedefinitivă, a instanţei judecătoreşti a Republicii Moldova emisă în litigiul dintre aceleaşi părţi, cu privire la acelaşi obiect şi având aceleaşi temeiuri sau în procedura instanţei judecătoreşti a Republicii Moldova se află în judecată o cauză în litigiul dintre aceleaşi părţi, cu privire la acelaşi obiect şi având aceleaşi temeiuri la data sesizării instanţei străine;
 
-d1) hotărârea judecătorească străină nu se conciliază cu o hotărâre judecătorească anterioară, pronunțată în alt stat, într-un litigiu dintre aceleași părți, cu privire la același obiect și având aceleași temeiuri, cu condiția că hotărârea anterioară îndeplinește toate condițiile necesare pentru recunoașterea sa în Republica Moldova;
+d¹) hotărârea judecătorească străină nu se conciliază cu o hotărâre judecătorească anterioară, pronunțată în alt stat, într-un litigiu dintre aceleași părți, cu privire la același obiect și având aceleași temeiuri, cu condiția că hotărârea anterioară îndeplinește toate condițiile necesare pentru recunoașterea sa în Republica Moldova;
 
 e) executarea hotărârii poate prejudicia suveranitatea, poate ameninţa securitatea Republicii Moldova ori poate să contravină ordinii ei publice, inclusiv în situațiile în care procedurile specifice ce au dus la judecarea cauzei au fost incompatibile cu principiile fundamentale ale echității procedurale din Republica Moldova;
 
@@ -6283,9 +6283,9 @@ f) a expirat termenul de prescripţie pentru prezentarea hotărârii spre execut
 
 g) hotărârea judecătorească străină este rezultatul unei fraude comise în procedura din străinătate;
 
-g1) acordul de alegere exclusivă a forului este nul de drept, conform legislației statului în care se află instanța aleasă, cu excepția cazului în care instanța respectivă s-a pronunțat asupra valabilității acordului;
+g¹) acordul de alegere exclusivă a forului este nul de drept, conform legislației statului în care se află instanța aleasă, cu excepția cazului în care instanța respectivă s-a pronunțat asupra valabilității acordului;
 
-g2) partea acordului de alegere exclusivă a forului nu a avut capacitatea de a-l încheia, conform legislației Republicii Moldova;
+g²) partea acordului de alegere exclusivă a forului nu a avut capacitatea de a-l încheia, conform legislației Republicii Moldova;
 
 h) prin hotărâre judecătorească este dispusă transmiterea acţiunilor băncii licenţiate în Republica Moldova. În acest caz, recunoaşterea executării silite a hotărârii judecătoreşti străine este admisă numai cu condiţia prezentării permisiunii Băncii Naţionale pentru deţinerea cotei substanţiale în capitalul social al băncii sau a avizului Băncii Naţionale privind posibilitatea deţinerii acţiunilor fără permisiune prealabilă.
 
@@ -6347,7 +6347,7 @@ a) recunoașterea și executarea silită a hotărârii arbitrale străine; sau
 
 b) doar recunoașterea hotărârii arbitrale străine pentru a invoca autoritatea de lucru judecat, fără a avea dreptul de executare ulterioară a hotărârii recunoscute.
 
-Articolul 4751. Cererea de recunoaștere şi executare
+Articolul 475¹. Cererea de recunoaștere şi executare
 
                           a hotărârii arbitrale străine
 
@@ -6379,7 +6379,7 @@ c) adițional, în caz de necesitate, se va prezenta o declarație pe propria r�
 
 (7) Cererea de recunoaștere și executare a hotărârii arbitrale străine se supune taxei de stat și/sau taxei de timbru în condiţiile legii.
 
-Articolul 4752. Examinarea cererii
+Articolul 475². Examinarea cererii
 
 (1) Cererea de recunoaștere și executare a hotărârii arbitrale străine se examinează în şedinţă publică, cu înştiinţarea părților privind locul, data şi ora examinării. Neprezentarea din motive neîntemeiate a părții împotriva căreia este invocată hotărârea arbitrală străină și în privința căreia au fost îndeplinite condițiile de citare legală nu împiedică examinarea cererii. În cazul în care debitorul solicită instanței judecătorești amânarea datei examinării cererii și această solicitare este recunoscută de către instanța judecătorească ca fiind întemeiată, instanța judecătorească amână data examinării şi înştiinţează ambele părţi despre aceasta.
 
@@ -6389,7 +6389,7 @@ Articolul 4752. Examinarea cererii
 
 (4) În cazul în care, în cadrul soluționării chestiunii privind încuviințarea executării silite, instanța judecătorească are îndoieli cu privire la legalitatea procedurală a hotărârii arbitrale străine, ea poate solicita lămuriri solicitantului recunoașterii și încuviințării executării silite a hotărârii arbitrale străine, de asemenea poate interoga debitorul privitor la conținutul cererii de recunoaștere și executare a hotărârii arbitrale străine și, în caz de necesitate, cere explicații arbitrajului care a emis hotărârea.
 
-Articolul 4753. Încheierea privind recunoașterea și
+Articolul 475³. Încheierea privind recunoașterea și
 
                           executarea hotărârii arbitrale străine
 
@@ -6403,7 +6403,7 @@ b) cu privire la recunoașterea hotărârii arbitrale străine, fără posibilit
 
 (3) Încheierea judecătorească emisă în conformitate cu alin. (1) poate fi atacată cu recurs în ordinea și în termenele prevăzute de prezentul cod.
 
-(4) În temeiul hotărârii arbitrale străine și a încheierii irevocabile emise în conformitate cu alin. (1) lit. a) din prezentul articol, instanța judecătorească menționată la art. 4751 alin. (1) eliberează titlul executoriu care servește drept temei pentru inițierea procedurii de executare în condițiile Codului de executare.
+(4) În temeiul hotărârii arbitrale străine și a încheierii irevocabile emise în conformitate cu alin. (1) lit. a) din prezentul articol, instanța judecătorească menționată la art. 475¹alin. (1) eliberează titlul executoriu care servește drept temei pentru inițierea procedurii de executare în condițiile Codului de executare.
 
 Articolul 476. Refuzul de a recunoaşte și de a executa
 

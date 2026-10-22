@@ -139,7 +139,7 @@ Articolul 10. Finanţarea şi asigurarea tehnico-materială
 
 (2) Normele de asigurare tehnico-materială se stabilesc de către ministrul afacerilor interne, la propunerea șefului Inspectoratului General al Poliției, cu excepția normelor de asigurare cu uniformă, echipament special, mijloace speciale, arme de foc și muniții aferente, care se stabilesc de către Guvern.
 
-(21) Normele de dotare ale Inspectoratului General al Poliției și ale subdiviziunilor regionale, teritoriale și specializate ale Poliției se aprobă de către șeful Inspectoratului General al Poliției.
+(2¹) Normele de dotare ale Inspectoratului General al Poliției și ale subdiviziunilor regionale, teritoriale și specializate ale Poliției se aprobă de către șeful Inspectoratului General al Poliției.
 
 (3) Autorităţile administraţiei publice locale pot finanţa din bugetele proprii realizarea unor acţiuni ale subdiviziunilor teritoriale ale Poliţiei legate de asigurarea ordinii şi securității publice în teritoriu.
 
@@ -149,7 +149,7 @@ ORGANZAREA ŞI FUNCŢIONAREA POLIŢIEI
 
 Articolul 11. - abrogat.
 
-Articolul 111. Efectivul-limită al Poliției
+Articolul 11¹. Efectivul-limită al Poliției
 
 Efectivul-limită al Poliției se aprobă de către Guvern.
 
@@ -177,15 +177,15 @@ a) conduce, coordonează şi controlează activitatea Poliţiei;
 
 b) aprobă regulamentele de organizare și funcționare a subdiviziunilor regionale, teritoriale și specializate ale Poliției;
 
-b1) aprobă structura și efectivul-limită ale subdiviziunilor regionale, teritoriale și specializate ale Poliției;
+b¹) aprobă structura și efectivul-limită ale subdiviziunilor regionale, teritoriale și specializate ale Poliției;
 
 c) organizează şi implementează sistemul de control intern managerial şi poartă răspundere pentru administrarea bugetului instituţiei şi a patrimoniului public aflat în gestiune;
 
-c1) dispune instituirea sistemelor informaționale departamentale, a registrelor și a bazelor de date destinate activității instituției și stabilește modalitatea de administrare a acestora;
+c¹) dispune instituirea sistemelor informaționale departamentale, a registrelor și a bazelor de date destinate activității instituției și stabilește modalitatea de administrare a acestora;
 
 d) aprobă normele de dotare ale Inspectoratului General al Poliției și ale subdiviziunilor regionale, teritoriale și specializate ale Poliției;
 
-d1) încheie contracte pentru asigurarea activităţii Inspectoratului General al Poliţiei;
+d¹) încheie contracte pentru asigurarea activităţii Inspectoratului General al Poliţiei;
 
 e) elaborează şi înaintează propuneri de buget şi, după caz, propuneri de modificare a bugetului, precum şi prezintă rapoarte financiare, rapoarte de performanţă şi alte informaţii necesare în procesul bugetar;
 
@@ -199,7 +199,7 @@ i) acordă stimulări şi aplică sancţiuni disciplinare angajaţilor Inspector
 
 j) raportează despre activitatea sa ministrului afacerilor interne şi Prim-ministrului, la solicitarea acestora;
 
-j1) acordă distincţii, stimulări reprezentanţilor mass-mediei și ai societăţii civile care conlucrează cu Poliţia;
+j¹) acordă distincţii, stimulări reprezentanţilor mass-mediei și ai societăţii civile care conlucrează cu Poliţia;
 
 k) exercită alte funcţii în conformitate cu legislaţia.
 
@@ -313,7 +313,7 @@ g) asigură supravegherea şi organizează controlul, conform legii, asupra deţ
 
 h) exercită controlul, potrivit legii, asupra respectării de către instituţiile abilitate a normelor legale referitoare la circulaţia substanţelor stupefiante , toxice şi radioactive, precum şi a altor obiecte şi substanţe supuse autorizării, care prezintă un pericol public avansat sau care pot fi folosite la săvârșirea unor fapte ilicite;
 
-h1) desfășoară, în limitele competențelor, activități de prevenire și combatere a terorismului, precum și acțiuni specializate pentru depistarea, dezamorsarea, înlăturarea și distrugerea explozivilor;
+h¹) desfășoară, în limitele competențelor, activități de prevenire și combatere a terorismului, precum și acțiuni specializate pentru depistarea, dezamorsarea, înlăturarea și distrugerea explozivilor;
 
 i) întreprinde măsuri pentru asigurarea integrităţii averii fără stăpân, în posesia căreia a intrat, pînă la transmiterea acesteia persoanelor îndreptăţite de a o poseda.
 
@@ -373,7 +373,7 @@ i) asigură protecția victimelor violenței împotriva femeilor și violenței 
 
 j) asigură protecția copiilor în conformitate cu atribuțiile stabilite prin actele normative;
 
-j1) asigură avizarea prealabilă a afișării imaginilor publicitare pe/în vehicule, stabilirea restricțiilor privind afișarea acestor imagini, precum și controlul cu privire la respectarea acestor restricții în conformitate cu Legea nr. 62/2022 cu privire la publicitate;
+j¹) asigură avizarea prealabilă a afișării imaginilor publicitare pe/în vehicule, stabilirea restricțiilor privind afișarea acestor imagini, precum și controlul cu privire la respectarea acestor restricții în conformitate cu Legea nr. 62/2022 cu privire la publicitate;
 
 k) acordă sprijin autorităților publice responsabile care desfășoară activități de asigurare a ordinii publice cu ocazia întrunirilor, manifestațiilor cultural-sportive și a altor activități similare, în cazurile prevăzute de legislație;
 
@@ -465,15 +465,15 @@ Articolul 25. Împuternicirile poliţistului
 
 13) să intre sau să pătrundă, în modul stabilit de lege, utilizând la necesitate mijloace speciale, în orice încăpere sau proprietate în scop de curmare a infracţiunilor, urmărire a persoanelor suspectate de comiterea infracţiunilor, a persoanelor care se ascund de organele de urmărire penală, se sustrag de la executarea pedepsei penale, de la arestul contravenţional sau dacă, în baza unor date suficiente, se ştie că în aceste localuri a fost comisă sau se comite o infracţiune, precum şi în caz de calamităţi naturale şi în alte împrejurări excepţionale care pun în pericol securitatea publică şi siguranța persoanelor;
 
-131) să elibereze, în cazul violenţei în familie, ordinul de restricţie de urgenţă în privinţa agresorului în condiţiile legii;
+13¹) să elibereze, în cazul violenţei în familie, ordinul de restricţie de urgenţă în privinţa agresorului în condiţiile legii;
 
 14) să limiteze sau să interzică temporar circulaţia transportului şi a pietonilor pe străzi şi pe drumuri, precum şi accesul persoanelor pe anumite porţiuni de teren sau spre anumite locuri în scop de asigurare a securităţii publice, de ocrotire a vieţii, sănătăţii şi bunurilor persoanelor, de efectuare a unor acţiuni de urmărire penală sau speciale de investigaţii;
 
 15) să oprească în trafic şi să efectueze controlul permiselor de conducere ale conducătorilor de vehicule, al certificatelor de înmatriculare (înregistrare) a vehiculelor, al altor acte cu caracter permisiv în cazul încălcării regulilor de circulaţie, existenţei probelor de încălcare a legislaţiei sau desfăşurării unei operaţiuni speciale, precum şi în vederea verificării legalităţii transporturilor de mărfuri şi persoane, identificării persoanelor şi a vehiculelor aflate în căutare, interzicerii exploatării vehiculelor a căror stare tehnică prezintă pericol pentru siguranţa traficului;
 
-151) să oprească în trafic şi să efectueze controlul existenţei şi valabilităţii vinietei, iar în cazul expirării termenului de aflare pe teritoriul vamal a mijlocului de transport auto declarat prin acţiune, să îl reţină şi să îl aducă către cel mai apropiat birou vamal, fapta fiind consemnată într-un proces-verbal. Cheltuielile de aducere a mijlocului de transport auto către biroul vamal, în mărimea stabilită de Guvern, sînt suportate de către persoana fizică care a încălcat termenul de aflare a mijlocului de transport auto pe teritoriul vamal;
+15¹) să oprească în trafic şi să efectueze controlul existenţei şi valabilităţii vinietei, iar în cazul expirării termenului de aflare pe teritoriul vamal a mijlocului de transport auto declarat prin acţiune, să îl reţină şi să îl aducă către cel mai apropiat birou vamal, fapta fiind consemnată într-un proces-verbal. Cheltuielile de aducere a mijlocului de transport auto către biroul vamal, în mărimea stabilită de Guvern, sînt suportate de către persoana fizică care a încălcat termenul de aflare a mijlocului de transport auto pe teritoriul vamal;
 
-152) să oprească în trafic și să verifice dreptul conducătorului mijlocului de transport auto cu plăcuța cu număr de înmatriculare din una dintre unitățile administrativ-teritoriale din stânga Nistrului și municipiul Bender sau dreptul conducătorului mijloc;
+15²) să oprească în trafic și să verifice dreptul conducătorului mijlocului de transport auto cu plăcuța cu număr de înmatriculare din una dintre unitățile administrativ-teritoriale din stânga Nistrului și municipiul Bender sau dreptul conducătorului mijloc;
 
 16) să limiteze sau să interzică efectuarea lucrărilor de reparaţie şi de construcţie a drumurilor, precum şi alte lucrări rutiere, dacă nu se respectă cerinţele de asigurare a securităţii rutiere;
 
@@ -491,11 +491,11 @@ Articolul 25. Împuternicirile poliţistului
 
 23) să aducă din locuri publice ori aglomerate într-o instituţie medico-sanitară persoanele aflate sub influența alcoolului, substanţelor stupefiante, psihotrope sau toxice ori a altor substanţe care acţionează grav asupra stării fizice şi psihice a persoanei, precum şi persoanele care sînt incapabile să se mişte sau sînt susceptibile de a dăuna sieşi ori celor din jur;
 
-231) să solicite respectarea interdicțiilor prevăzute la art. 24 alin. (14) lit. a), art. 25 alin. (1) și (4), art. 26 și art. 27 alin. (1) și (2) lit. a) din Legea nr. 278/2007 privind controlul tutunului;
+23¹) să solicite respectarea interdicțiilor prevăzute la art. 24 alin. (1⁴) lit. a), art. 25 alin. (1) și (4), art. 26 și art. 27 alin. (1) și (2) lit. a) din Legea nr. 278/2007 privind controlul tutunului;
 
-232) să constate și/sau să examineze, în limitele competenței legislației contravenționale, contravențiile comise prin nerespectarea legislației privind controlul tutunului;
+23²) să constate și/sau să examineze, în limitele competenței legislației contravenționale, contravențiile comise prin nerespectarea legislației privind controlul tutunului;
 
-233) să solicite persoanelor fizice, inclusiv persoanelor cu funcție de răspundere, să se oprească, după somație, la o distanță de protecție pe care acesta o consideră necesară pentru securitatea sa personală sau a persoanelor terțe;
+23³) să solicite persoanelor fizice, inclusiv persoanelor cu funcție de răspundere, să se oprească, după somație, la o distanță de protecție pe care acesta o consideră necesară pentru securitatea sa personală sau a persoanelor terțe;
 
 24) să ia decizii de reducere a termenului de şedere a străinilor, să aplice şi să ridice interdicţii de intrare şi ieşire în/din Republica Moldova;
 
@@ -539,7 +539,7 @@ j) să declare orice donaţie, directă sau indirectă, primită în legătură 
 
 k) - abrogată;
 
-k1) să respecte prevederile art. 7 alin. (2) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituţionale;
+k¹) să respecte prevederile art. 7 alin. (2) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituţionale;
 
 l) dacă este în uniformă de serviciu, să se adreseze unei persoane doar după ce s-a prezentat, cu indicarea numelui, prenumelui, gradului special și a unității de poliție din care face parte. Dacă este în ținută civilă, să prezinte datele prevăzute la prezenta literă, precum și legitimația de serviciu. Prin excepție, în cazul în care există un pericol iminent pentru siguranța polițistului sau a altei persoane, precum și în situația în care rezultatul intervenției ar putea fi periclitat, polițistul își face cunoscută calitatea imediat ce acest lucru este posibil;
 

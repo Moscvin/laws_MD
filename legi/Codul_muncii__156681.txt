@@ -149,7 +149,7 @@ a) salariaţilor cetăţeni ai Republicii Moldova, încadraţi în baza unui con
 
 b) salariaţilor cetăţeni străini sau apatrizi, încadraţi în baza unui contract individual de muncă, care prestează muncă pentru un angajator care îşi desfăşoară activitatea în Republica Moldova;
 
-b1) salariaților cetățeni ai statelor membre ale Uniunii Europene și ai statelor semnatare ale Acordului Schengen, încadrați în baza unui contract individual de muncă, care prestează muncă în Republica Moldova;
+b¹) salariaților cetățeni ai statelor membre ale Uniunii Europene și ai statelor semnatare ale Acordului Schengen, încadrați în baza unui contract individual de muncă, care prestează muncă în Republica Moldova;
 
 c) salariaţilor cetăţeni ai Republicii Moldova care activează la misiunile diplomatice ale Republicii Moldova de peste hotare;
 
@@ -197,7 +197,7 @@ a) libertatea muncii, incluzând dreptul la munca liber aleasă sau acceptată, 
 
 b) interzicerea muncii forțate (obligatorii);
 
-b1) interzicerea discriminării, a violenței și a hărțuirii de orice natură în cadrul raporturilor de muncă;
+b¹) interzicerea discriminării, a violenței și a hărțuirii de orice natură în cadrul raporturilor de muncă;
 
 c) protecţia împotriva şomajului şi acordarea de asistenţă la plasarea în câmpul muncii;
 
@@ -207,7 +207,7 @@ e) egalitatea în drepturi şi în posibilităţi a salariaţilor;
 
 f) garantarea dreptului fiecărui salariat la achitarea la timp integrală şi echitabilă a salariului care ar asigura o existenţă decentă salariatului şi familiei lui;
 
-f1) remunerarea egală pentru o muncă egală sau pentru o muncă de valoare egală;
+f¹) remunerarea egală pentru o muncă egală sau pentru o muncă de valoare egală;
 
 g) asigurarea egalităţii salariaţilor, fără nici o discriminare, la avansare în serviciu, luându-se în considerare productivitatea muncii, calificarea şi vechimea în muncă în specialitate, precum şi la formare profesională, reciclare şi perfecţionare;
 
@@ -277,7 +277,7 @@ b) munca unei persoane condamnate prestată în condiţii normale în perioada d
 
 c) prestaţiile impuse în situaţia creată de calamităţi ori de alt pericol, precum şi cele care fac parte din obligaţiile civile normale stabilite de lege.
 
-Articolul 71. Interzicerea muncii nedeclarate
+Articolul 7¹. Interzicerea muncii nedeclarate
 
 (1) Munca nedeclarată este interzisă.
 
@@ -289,7 +289,7 @@ Articolul 8. Interzicerea discriminării în sfera muncii
 
 (2) Nu constituie discriminare stabilirea unor diferenţieri, excepţii, preferinţe sau drepturi ale salariaţilor, care sunt determinate de cerinţele specifice unei munci, stabilite de legislaţia în vigoare, sau de grija deosebită a statului faţă de persoanele care necesită o protecţie socială şi juridică sporită.
 
-Articolul 81. Interzicerea violenței și a hărțuirii
+Articolul 8¹. Interzicerea violenței și a hărțuirii
 
                       în muncă
 
@@ -329,7 +329,7 @@ e) asigurarea protecției împotriva oricărui tratament sau comportament nefavo
 
 (7) Angajatorii care au sub 50 de salariați adoptă măsuri rezonabile și adecvate pentru prevenirea și combaterea violenței și a hărțuirii în muncă, proporțional cu numărul de angajați, natura activității și structura organizatorică, cu respectarea principiilor de prevenire, imparțialitate, confidențialitate și de protecție efectivă a persoanelor vizate.
 
-Articolul 82. Procedura de raportare, investigare
+Articolul 8². Procedura de raportare, investigare
 
                        și de soluționare a cazurilor de violență
 
@@ -389,13 +389,13 @@ c) la un loc de muncă, în condiţiile prevăzute de standardele de stat privin
 
 d) la achitarea la timp şi integrală a salariului, în corespundere cu calificarea sa, cu complexitatea, cantitatea şi calitatea lucrului efectuat;
 
-d1) la obținerea, la solicitare, a informațiilor cu privire la nivelurile de remunerare, defalcate în funcție de sex pentru categoriile de salariați care prestează muncă egală sau muncă de valoare egală;
+d¹) la obținerea, la solicitare, a informațiilor cu privire la nivelurile de remunerare, defalcate în funcție de sex pentru categoriile de salariați care prestează muncă egală sau muncă de valoare egală;
 
 e) la odihnă, asigurată prin stabilirea duratei normale a timpului de muncă, prin reducerea timpului de muncă pentru unele profesii şi categorii de salariaţi, prin acordarea repausului suficient și a zilelor de sărbătoare nelucrătoare, a concediilor anuale plătite;
 
 f) la informarea deplină și veridică, anterior angajării sau transferării într-o altă funcție, privind condițiile de activitate, în special privind condițiile de retribuire a muncii, inclusiv salariul funcției sau cel tarifar, suplimentele, premiile și ajutoarele materiale (în cazul în care acestea fac parte din sistemul de salarizare al unității), periodicitatea achitării plăților și criteriile utilizate pentru stabilirea nivelurilor de salarizare;
 
-f1) la informarea și consultarea privind situația economică a unității, securitatea și sănătatea în muncă și privind alte chestiuni ce țin de funcționarea unității, în conformitate cu prevederile prezentului cod;
+f¹) la informarea și consultarea privind situația economică a unității, securitatea și sănătatea în muncă și privind alte chestiuni ce țin de funcționarea unității, în conformitate cu prevederile prezentului cod;
 
 g) la adresare către angajator, patronate, sindicate, organele administraţiei publice centrale şi locale, organele de jurisdicţie a muncii;
 
@@ -415,9 +415,9 @@ n) la repararea prejudiciului material şi a celui moral cauzat în legătură c
 
 o) la asigurarea socială şi medicală obligatorie, în modul prevăzut de legislaţia în vigoare.
 
-(11) Salariaţii nu pot renunţa la drepturile ce le sunt recunoscute prin prezentul cod. Orice înţelegere prin care se urmăreşte renunţarea salariatului la drepturile sale de muncă sau limitarea acestora este nulă.
+(1¹) Salariaţii nu pot renunţa la drepturile ce le sunt recunoscute prin prezentul cod. Orice înţelegere prin care se urmăreşte renunţarea salariatului la drepturile sale de muncă sau limitarea acestora este nulă.
 
-(12) Salariații beneficiază de un mediu de muncă sigur, sănătos, demn și lipsit de orice formă de violență și/sau hărțuire, precum și de următoarele drepturi:
+(1²) Salariații beneficiază de un mediu de muncă sigur, sănătos, demn și lipsit de orice formă de violență și/sau hărțuire, precum și de următoarele drepturi:
 
 a) de a fi informați periodic cu privire la procedurile și măsurile interne aplicabile în materie de prevenire și combatere a violenței și a hărțuirii în muncă;
 
@@ -437,11 +437,11 @@ c) să respecte cerinţele regulamentului intern al unității, dacă este elabo
 
 d) să respecte disciplina muncii;
 
-d1) să manifeste un comportament nediscriminatoriu în raport cu ceilalţi salariaţi şi cu angajatorul;
+d¹) să manifeste un comportament nediscriminatoriu în raport cu ceilalţi salariaţi şi cu angajatorul;
 
-d2) să respecte dreptul la demnitate în muncă al celorlalţi salariaţi;
+d²) să respecte dreptul la demnitate în muncă al celorlalţi salariaţi;
 
-d3) să manifeste un comportament lipsit de violență și/sau hărțuire în cadrul raporturilor de muncă;
+d³) să manifeste un comportament lipsit de violență și/sau hărțuire în cadrul raporturilor de muncă;
 
 e) să respecte cerinţele de securitate şi sănătate în muncă;
 
@@ -449,7 +449,7 @@ f) să manifeste o atitudine gospodărească faţă de bunurile angajatorului ş
 
 g) să informeze de îndată angajatorul sau conducătorul nemijlocit despre orice situaţie care prezintă pericol pentru viaţa şi sănătatea oamenilor sau pentru integritatea patrimoniului angajatorului;
 
-g1) să informeze de îndată angajatorul sau conducătorul nemijlocit despre imposibilitatea de a se prezenta la serviciu și să prezinte, în termen de 5 zile lucrătoare după reluarea activității de muncă, documentele care justifică absența;
+g¹) să informeze de îndată angajatorul sau conducătorul nemijlocit despre imposibilitatea de a se prezenta la serviciu și să prezinte, în termen de 5 zile lucrătoare după reluarea activității de muncă, documentele care justifică absența;
 
 h) să achite contribuţiile de asigurări sociale de stat obligatorii şi primele de asigurare obligatorie de asistenţă medicală în modul stabilit;
 
@@ -465,9 +465,9 @@ b) să ceară salariaţilor îndeplinirea obligaţiilor de muncă şi manifestar
 
 c) să stimuleze salariaţii pentru munca eficientă şi conştiincioasă;
 
-c1) să ofere salariaților care au copii cu vârsta de până la 3 ani servicii de îngrijire a acestora;
+c¹) să ofere salariaților care au copii cu vârsta de până la 3 ani servicii de îngrijire a acestora;
 
-c2) să ofere spații prietenoase pentru copiii cu vârsta de peste 3 ani;
+c²) să ofere spații prietenoase pentru copiii cu vârsta de peste 3 ani;
 
 d) să tragă salariaţii la răspundere disciplinară şi materială în modul stabilit de prezentul cod şi de alte acte normative;
 
@@ -481,7 +481,7 @@ a) să respecte legile şi alte acte normative, clauzele contractului colectiv d
 
 b) să respecte clauzele contractelor individuale de muncă;
 
-b1) să aprobe și/sau să modifice statele de personal ale unităţii în condițiile stabilite de prezentul Cod;
+b¹) să aprobe și/sau să modifice statele de personal ale unităţii în condițiile stabilite de prezentul Cod;
 
 c) - abrogată;
 
@@ -491,25 +491,25 @@ e) să asigure salariaţilor condiţiile de muncă corespunzătoare cerinţelor 
 
 f) să asigure salariaţii cu utilaj, instrumente, documentaţie tehnică şi alte mijloace necesare pentru îndeplinirea obligaţiilor lor de muncă;
 
-f1) să asigure egalitatea de şanse şi de tratament tuturor persoanelor la angajare potrivit profesiei, la orientare şi formare profesională, la promovare în serviciu, fără nici un fel de discriminare;
+f¹) să asigure egalitatea de şanse şi de tratament tuturor persoanelor la angajare potrivit profesiei, la orientare şi formare profesională, la promovare în serviciu, fără nici un fel de discriminare;
 
-f2) să aplice aceleaşi criterii de evaluare a calităţii muncii, de sancţionare şi de concediere;
+f²) să aplice aceleaşi criterii de evaluare a calităţii muncii, de sancţionare şi de concediere;
 
-f3) să întreprindă măsuri de prevenire și combatere a discriminării după orice criteriu, a hărțuirii sexuale și a victimizării la locul de muncă;
+f³) să întreprindă măsuri de prevenire și combatere a discriminării după orice criteriu, a hărțuirii sexuale și a victimizării la locul de muncă;
 
-f4) să asigure condiţii egale, pentru femei şi bărbaţi, de îmbinare a obligaţiilor de serviciu cu cele familiale;
+f⁴) să asigure condiţii egale, pentru femei şi bărbaţi, de îmbinare a obligaţiilor de serviciu cu cele familiale;
 
-f5) - abrogată;
+f⁵) - abrogată;
 
-f6) să asigure respectarea demnităţii în muncă a salariaţilor;
+f⁶) să asigure respectarea demnităţii în muncă a salariaţilor;
 
-f7) să prevină, să identifice, să combată și să sancționeze, în condițiile legii, orice formă de violență sau hărțuire în muncă;
+f⁷) să prevină, să identifice, să combată și să sancționeze, în condițiile legii, orice formă de violență sau hărțuire în muncă;
 
-f8) să elaboreze, să aprobe și să implementeze politici interne clare, coerente și funcționale de prevenire și combatere a violenței și a hărțuirii în muncă, care să cuprindă inclusiv proceduri de raportare, investigare și soluționare a sesizărilor;
+f⁸) să elaboreze, să aprobe și să implementeze politici interne clare, coerente și funcționale de prevenire și combatere a violenței și a hărțuirii în muncă, care să cuprindă inclusiv proceduri de raportare, investigare și soluționare a sesizărilor;
 
-f9) să asigure informarea periodică a salariaților cu privire la drepturile și obligațiile ce le revin, precum și la măsurile de prevenire, protecție și intervenție în cazurile de violență sau hărțuire în muncă;
+f⁹) să asigure informarea periodică a salariaților cu privire la drepturile și obligațiile ce le revin, precum și la măsurile de prevenire, protecție și intervenție în cazurile de violență sau hărțuire în muncă;
 
-f10) să coopereze, la solicitare sau din proprie inițiativă, cu autoritățile competente în procesul de investigare și soluționare a cazurilor de violență sau hărțuire în muncă, precum și să păstreze evidența sesizărilor primite, a măsurilor întreprinse și a rezultatelor obținute, în condițiile legii;
+f¹⁰) să coopereze, la solicitare sau din proprie inițiativă, cu autoritățile competente în procesul de investigare și soluționare a cazurilor de violență sau hărțuire în muncă, precum și să păstreze evidența sesizărilor primite, a măsurilor întreprinse și a rezultatelor obținute, în condițiile legii;
 
 g) să asigure remunerare egală pentru o muncă egală sau o muncă de valoare egală;
 
@@ -599,7 +599,7 @@ a) legalitatea;
 
 b) egalitatea părţilor;
 
-b1) autonomia părților;
+b¹) autonomia părților;
 
 c) paritatea reprezentării părţilor;
 
@@ -743,7 +743,7 @@ Articolul 27. Modul de desfăşurare a negocierilor
 
 (4) Dreptul de a participa la negocierile colective, de a semna convenţiile colective în numele salariaţilor la nivel naţional, ramural sau teritorial aparţine sindicatelor (asociaţiilor sindicale) corespunzătoare. În cazul în care, la nivel naţional, ramural, teritorial sau de unitate există mai multe organe sindicale, se creează un organ reprezentativ unic pentru desfăşurarea negocierilor colective, elaborarea proiectului convenţiei colective şi încheierea acesteia. Constituirea organului reprezentativ se efectuează în baza principiului reprezentării proporţionale a organelor sindicale, în funcţie de numărul membrilor de sindicat. În lipsa unui acord privind crearea organului reprezentativ unic pentru organizarea negocierilor colective, dreptul de a le desfăşura va reveni sindicatului (asociaţiei sindicale) care întruneşte cel mai mare număr de membri.
 
-(41) Dreptul de a participa la negocierile colective, de a semna convenţiile colective în numele angajatorilor la nivel național, ramural sau teritorial aparține patronatelor corespunzătoare. În cazul în care, la nivel național, ramural sau teritorial, există mai multe patronate, se creează un organ reprezentativ unic pentru desfăşurarea negocierilor colective, pentru elaborarea proiectului convenţiei colective şi pentru încheierea acesteia. Constituirea organului reprezentativ se efectuează în baza principiului reprezentării proporţionale a patronatelor, în funcţie de numărul membrilor acestora. În lipsa unui acord privind crearea organului reprezentativ unic pentru organizarea negocierilor colective, dreptul de a le desfăşura va reveni patronatului care întruneşte cel mai mare număr de membri.
+(4¹) Dreptul de a participa la negocierile colective, de a semna convenţiile colective în numele angajatorilor la nivel național, ramural sau teritorial aparține patronatelor corespunzătoare. În cazul în care, la nivel național, ramural sau teritorial, există mai multe patronate, se creează un organ reprezentativ unic pentru desfăşurarea negocierilor colective, pentru elaborarea proiectului convenţiei colective şi pentru încheierea acesteia. Constituirea organului reprezentativ se efectuează în baza principiului reprezentării proporţionale a patronatelor, în funcţie de numărul membrilor acestora. În lipsa unui acord privind crearea organului reprezentativ unic pentru organizarea negocierilor colective, dreptul de a le desfăşura va reveni patronatului care întruneşte cel mai mare număr de membri.
 
 (5) - abrogat.
 
@@ -807,7 +807,7 @@ h) garanţiile şi înlesnirile pentru salariaţii care îmbină activitatea de 
 
 i) recuperarea sănătăţii, odihna salariaţilor şi a membrilor familiilor lor;
 
-i1) interzicerea discriminării după orice criteriu și a hărțuirii sexuale, măsurile de prevenire și combatere a acestora;
+i¹) interzicerea discriminării după orice criteriu și a hărțuirii sexuale, măsurile de prevenire și combatere a acestora;
 
 j) controlul executării clauzelor contractului colectiv de muncă, procedura de modificare şi completare a acestuia;
 
@@ -839,7 +839,7 @@ Articolul 33. Acţiunea contractului colectiv
 
 (1) Contractul colectiv de muncă intră în vigoare din momentul semnării de către părţi sau de la data stabilită în contract. Un exemplar al contractului colectiv de muncă se remite de către una dintre părţile semnatare, în termen de 7 zile calendaristice de la data încheierii, la inspecţia teritorială de muncă.
 
-(11) Durata contractului colectiv de muncă se stabileşte de către părţi şi nu poate fi mai mică de un an.
+(1¹) Durata contractului colectiv de muncă se stabileşte de către părţi şi nu poate fi mai mică de un an.
 
 (2) Contractul colectiv de muncă produce efecte şi în cazul schimbării denumirii unităţii sau al desfacerii contractului individual de muncă cu conducătorul unităţii.
 
@@ -849,7 +849,7 @@ Articolul 33. Acţiunea contractului colectiv
 
 (5) În cazul reorganizării, schimbării tipului de proprietate al unității sau a proprietarului acesteia, oricare dintre părţi poate propune celeilalte părţi să încheie un nou contract colectiv de muncă sau să prelungească contractul precedent.
 
-(51) În cazul intentării procedurii de insolvabilitate a unității, contractul colectiv de muncă, încheiat anterior intentării acestei proceduri, continuă a produce efecte pe întreaga perioadă de valabilitate a acestuia. Modificarea, completarea contractului în vigoare sau încheierea unui nou contract colectiv de muncă la unitatea aflată în proces de insolvabilitate se face numai prin acordul comun al părților.
+(5¹) În cazul intentării procedurii de insolvabilitate a unității, contractul colectiv de muncă, încheiat anterior intentării acestei proceduri, continuă a produce efecte pe întreaga perioadă de valabilitate a acestuia. Modificarea, completarea contractului în vigoare sau încheierea unui nou contract colectiv de muncă la unitatea aflată în proces de insolvabilitate se face numai prin acordul comun al părților.
 
 (6) - abrogat.
 
@@ -951,15 +951,15 @@ Articolul 42. Dreptul salariaţilor la administrarea
 
 a) participarea la elaborarea proiectelor de acte normative la nivel de unitate în domeniul social-economic;
 
-a1) participarea la aprobarea actelor normative la nivel de unitate în cazurile prevăzute de prezentul cod şi de alte acte legislative sau normative;
+a¹) participarea la aprobarea actelor normative la nivel de unitate în cazurile prevăzute de prezentul cod şi de alte acte legislative sau normative;
 
-b) informarea și consultarea salariaților referitor la chestiunile menționate la art. 421;
+b) informarea și consultarea salariaților referitor la chestiunile menționate la art. 42¹;
 
 c) colaborarea cu angajatorul în cadrul parteneriatului social;
 
 d) - abrogată.
 
-Articolul 421. Informarea și consultarea salariaților
+Articolul 42¹. Informarea și consultarea salariaților
 
 (1) În vederea asigurării dreptului salariaților la administrarea unității prevăzut la art. 42, angajatorul este obligat să-i informeze și să-i consulte referitor la subiectele relevante în raport cu activitatea lor în cadrul unității.
 
@@ -1013,7 +1013,7 @@ Această restricție se aplică oriunde s-ar afla respectivii reprezentanți sau
 
 (10) Prin derogare de la prevederile alin. (1)–(8), angajatorul nu este obligat să comunice informații sau să întreprindă consultări dacă asemenea acțiuni pot avea ca efect divulgarea unui secret de stat sau a unui secret comercial. Refuzul angajatorului de a furniza informații sau de a întreprinde consultări asupra subiectelor menționate la alin. (2) poate fi contestat în instanța de judecată.
 
-(11) La informarea și consultarea salariaților în legătură cu reorganizarea unității, schimbarea tipului de proprietate sau a proprietarului acesteia se va ține cont de particularitățile prevăzute la art. 1971.
+(11) La informarea și consultarea salariaților în legătură cu reorganizarea unității, schimbarea tipului de proprietate sau a proprietarului acesteia se va ține cont de particularitățile prevăzute la art. 197¹.
 
 (12) Prin convențiile colective și/sau contractele colective de muncă pot fi stabilite orice proceduri de informare și consultare, care nu vor diminua drepturile salariaților în raport cu prevederile prezentului cod.
 
@@ -1069,7 +1069,7 @@ Articolul 46. Părţile contractului individual de muncă
 
 (4) Se interzice încadrarea în muncă a persoanelor în vârstă de până la 15 ani, precum şi angajarea persoanelor private de instanţa de judecată de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate în funcţiile şi activităţile respective.
 
-(41) Se interzice angajarea persoanelor stabilite la art.18 alin.(3) și (4) din Legea nr.133/2016 privind declararea averii și a intereselor personale până la emiterea unui aviz de conformitate favorabil din partea Autorității Naționale de Integritate privind compatibilitatea cu regimul restricțiilor și limitărilor.
+(4¹) Se interzice angajarea persoanelor stabilite la art.18 alin.(3) și (4) din Legea nr.133/2016 privind declararea averii și a intereselor personale până la emiterea unui aviz de conformitate favorabil din partea Autorității Naționale de Integritate privind compatibilitatea cu regimul restricțiilor și limitărilor.
 
 (5) În calitate de angajator, parte a contractului individual de muncă poate fi orice persoană fizică sau juridică, indiferent de tipul de proprietate şi forma juridică de organizare, care utilizează munca salariată.
 
@@ -1129,13 +1129,13 @@ c) durata contractului;
 
 d) data de la care contractul urmează să-şi producă efectele;
 
-d1) specialitatea, profesia, calificarea, funcţia;
+d¹) specialitatea, profesia, calificarea, funcţia;
 
 e) atribuţiile funcţiei;
 
 f) riscurile specifice funcţiei;
 
-f1) denumirea lucrării ce urmează a fi îndeplinită (în cazul contractului individual de muncă pentru perioada îndeplinirii unei anumite lucrări – art. 312– 316);
+f¹) denumirea lucrării ce urmează a fi îndeplinită (în cazul contractului individual de muncă pentru perioada îndeplinirii unei anumite lucrări – art. 312– 316);
 
 g) drepturile şi obligaţiile salariatului;
 
@@ -1151,11 +1151,11 @@ l) regimul de muncă și de odihnă, programul de muncă, inclusiv durata zilei 
 
 m) după caz, perioada de probă, cu specificarea concretă a duratei și condițiilor de desfășurare a acesteia conform prevederilor art. 60–63;
 
-m1) dreptul și condițiile de formare profesională, de reciclare și de perfecționare, oferite de angajator în conformitate cu prezentul cod și cu alte acte normative, după caz;
+m¹) dreptul și condițiile de formare profesională, de reciclare și de perfecționare, oferite de angajator în conformitate cu prezentul cod și cu alte acte normative, după caz;
 
 n) durata concediului de odihnă anual şi condiţiile de acordare a acestuia;
 
-n1) informația privind perioadele de preaviz ce urmează a fi respectate de angajator și salariat în cazul încetării activității în condițiile prezentului cod;
+n¹) informația privind perioadele de preaviz ce urmează a fi respectate de angajator și salariat în cazul încetării activității în condițiile prezentului cod;
 
 o) - abrogată;
 
@@ -1207,7 +1207,7 @@ Articolul 53. Clauza de confidenţialitate
 
 (2) Nerespectarea clauzei de confidenţialitate atrage obligarea părţii vinovate la repararea prejudiciului cauzat.
 
-Articolul 531. Clauza de neconcurență
+Articolul 53¹. Clauza de neconcurență
 
 (1) Părțile pot negocia o clauză de neconcurență prin care salariatul să fie obligat ca după încetarea contractului individual de muncă să nu presteze, în interes propriu sau al unui terț, o activitate care se află în concurență cu cea prestată la angajatorul său, pe perioada negociată de părți, dar nu mai mult de 1 an. Pe parcursul acestei perioade, angajatorul îi achită salariatului o indemnizație lunară, a cărei mărime va fi negociată de salariat și angajator, dar care nu va fi mai mică de 50% din salariul mediu lunar al salariatului.
 
@@ -1243,13 +1243,13 @@ a) pentru perioada îndeplinirii obligaţiilor de muncă ale salariatului al că
 
 b) pentru perioada îndeplinirii unor lucrări temporare cu o durată de până la 2 luni;
 
-b1) pentru perioada îndeplinirii unor lucrări sezoniere care, în virtutea condiţiilor climaterice, se pot desfăşura numai într-o perioadă anumită a anului;
+b¹) pentru perioada îndeplinirii unor lucrări sezoniere care, în virtutea condiţiilor climaterice, se pot desfăşura numai într-o perioadă anumită a anului;
 
 c) cu persoanele detaşate la lucru peste hotarele Republicii Moldova;
 
-c1) cu cetățenii străini care se angajează în câmpul muncii pe teritoriul Republicii Moldova, cu excepția străinilor cu drept de ședere permanentă sau provizorie pentru reîntregirea familiei;
+c¹) cu cetățenii străini care se angajează în câmpul muncii pe teritoriul Republicii Moldova, cu excepția străinilor cu drept de ședere permanentă sau provizorie pentru reîntregirea familiei;
 
-c2) cu refugiații care se angajează în câmpul muncii pe teritoriul Republicii Moldova pentru perioada efectuării unor lucrări cu caracter temporar sau permanent;
+c²) cu refugiații care se angajează în câmpul muncii pe teritoriul Republicii Moldova pentru perioada efectuării unor lucrări cu caracter temporar sau permanent;
 
 d) pentru perioada stagierii şi instruirii profesionale a salariatului la o altă unitate;
 
@@ -1267,27 +1267,27 @@ j) - abrogată;
 
 k) pentru perioada îndeplinirii unei anumite lucrări;
 
-k1) pentru perioada implementării unui proiect investiţional sau a unui program de asistenţă tehnică şi financiară;
+k¹) pentru perioada implementării unui proiect investiţional sau a unui program de asistenţă tehnică şi financiară;
 
-k2) pentru efectuarea unor lucrări legate de majorarea volumului de producţie sau de servicii prestate, al căror caracter temporar (până la un an) poate fi argumentat de angajator;
+k²) pentru efectuarea unor lucrări legate de majorarea volumului de producţie sau de servicii prestate, al căror caracter temporar (până la un an) poate fi argumentat de angajator;
 
-k3) cu persoanele care se angajează la unităţile create pentru o perioada determinată;
+k³) cu persoanele care se angajează la unităţile create pentru o perioada determinată;
 
 l) cu lucrătorii de creaţie din artă şi cultură;
 
 m) cu salariații asociațiilor religioase;
 
-m1) cu salariații care activează în domeniul tehnologiei informației și comunicațiilor;
+m¹) cu salariații care activează în domeniul tehnologiei informației și comunicațiilor;
 
 n) în alte cazuri prevăzute de legislaţia în vigoare.
 
-(2) În cazurile enumerate la alin. (1) lit. c1), c2), e), g), i), l) și m), încheierea unui contract individual de muncă pe durată determinată sau prelungirea, pe durată determinată, a unui contract existent este permisă doar atunci când stabilirea unui raport de muncă permanent nu este posibilă din motive obiective (cum ar fi disponibilitatea persoanelor care îşi fac studiile la secţia de zi doar în perioada vacanţelor, existenţa unor legi organice care permit sau prescriu angajarea anumitor salariaţi pe durată determinată etc.). Motivele respective, de rând cu temeiurile legale ale limitării duratei raportului de muncă, urmează a fi indicate în contract sau în acordul suplimentar la acesta.
+(2) În cazurile enumerate la alin. (1) lit. c¹), c²), e), g), i), l) și m), încheierea unui contract individual de muncă pe durată determinată sau prelungirea, pe durată determinată, a unui contract existent este permisă doar atunci când stabilirea unui raport de muncă permanent nu este posibilă din motive obiective (cum ar fi disponibilitatea persoanelor care îşi fac studiile la secţia de zi doar în perioada vacanţelor, existenţa unor legi organice care permit sau prescriu angajarea anumitor salariaţi pe durată determinată etc.). Motivele respective, de rând cu temeiurile legale ale limitării duratei raportului de muncă, urmează a fi indicate în contract sau în acordul suplimentar la acesta.
 
-(3) Între aceleași părți se pot încheia succesiv, pe o durată determinată, cel mult 3 contracte individuale de muncă, cu excepția cazurilor prevăzute la alin. (1) lit. a), b), c1) și h), care cumulativ nu vor depăși 60 de luni.
+(3) Între aceleași părți se pot încheia succesiv, pe o durată determinată, cel mult 3 contracte individuale de muncă, cu excepția cazurilor prevăzute la alin. (1) lit. a), b), c¹) și h), care cumulativ nu vor depăși 60 de luni.
 
 (4) Contractele individuale de muncă cu o durată determinată se vor considera a fi încheiate succesiv dacă între acestea există un interval de timp mai mic de 3 luni.
 
-Articolul 551. Garanţii pentru salariaţii angajaţi
+Articolul 55¹. Garanţii pentru salariaţii angajaţi
 
                         pe o durată determinată
 
@@ -1349,7 +1349,7 @@ e) certificatul medical, în cazurile prevăzute de legislaţia în vigoare;
 
 f) declaraţia pe propria răspundere cu privire la faptul că, pe durata activităţii la locurile de muncă precedente, nu a încălcat prevederile art. 6 alin. (2) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituționale, cu excepţia cazurilor când persoana se încadrează în câmpul muncii pentru prima dată;
 
-g) documentele prevăzute la art. 32612, în cazul funcțiilor ce implică contact regulat cu copiii.
+g) documentele prevăzute la art. 326¹², în cazul funcțiilor ce implică contact regulat cu copiii.
 
 (2) Se interzice angajatorilor să ceară de la persoanele care se angajează alte documente decât cele prevăzute la alin.(1), precum şi de alte acte legislative.
 
@@ -1479,7 +1479,7 @@ Articolul 72. Salarizarea în caz de detaşare
 
 (2) Dacă, la noul loc de muncă, condiţiile de salarizare sau timpul de odihnă diferă de cele de care beneficia salariatul la unitatea care a dispus detaşarea, salariatului i se vor aplica condiţiile mai favorabile.
 
-Articolul 721. Detașarea experților naționali la instituțiile
+Articolul 72¹. Detașarea experților naționali la instituțiile
 
                           și organismele Uniunii Europene
 
@@ -1499,15 +1499,15 @@ Articolul 74. Transferul la o altă muncă
 
 (2) Salariatul care, conform documentului medical (certificat/adeverință/act etc.), eliberat de autoritatea (instituția) medicală competentă, necesită acordarea unei munci mai uşoare urmează a fi transferat, cu consimțământul scris al acestuia, la o altă muncă, care nu-i este contraindicată. Dacă salariatul refuză acest transfer, contractul individual de muncă se desface în conformitate cu prevederile art.86 alin.(1) lit. x). În cazul în care un loc de muncă corespunzător lipseşte, contractul individual de muncă va fi desfăcut în temeiul art.86 alin.(1) lit. d).
 
-(21) Cu acordul scris al părților, în baza ordinului emis de către angajator, salariatul poate fi transferat temporar la o altă muncă din cadrul aceleiași unități, pe o perioadă de până la o lună, cu posibilitatea prelungirii acestui termen până la un an.
+(2¹) Cu acordul scris al părților, în baza ordinului emis de către angajator, salariatul poate fi transferat temporar la o altă muncă din cadrul aceleiași unități, pe o perioadă de până la o lună, cu posibilitatea prelungirii acestui termen până la un an.
 
-(22) În caz de transfer în condițiile alin. (21), angajatorul va păstra funcția salariatului deținută până la transfer.
+(2²) În caz de transfer în condițiile alin. (2¹), angajatorul va păstra funcția salariatului deținută până la transfer.
 
-(23) Salariatul care a finalizat perioada de probă, dacă aceasta a fost stabilită, și a acumulat o vechime în muncă de cel puțin 6 luni la același angajator poate solicita să i se acorde o altă muncă cu condiții mai previzibile și mai sigure, în cazul în care aceasta este disponibilă.
+(2³) Salariatul care a finalizat perioada de probă, dacă aceasta a fost stabilită, și a acumulat o vechime în muncă de cel puțin 6 luni la același angajator poate solicita să i se acorde o altă muncă cu condiții mai previzibile și mai sigure, în cazul în care aceasta este disponibilă.
 
-(24) În termen de 30 de zile de la recepționarea solicitării prevăzute la alin. (23), angajatorul va oferi un răspuns motivat în formă scrisă. Angajatorul persoană fizică, întreprinderile micro, mici și mijlocii pot să prezinte răspunsul în termen de până la 3 luni, iar răspunsul la o cerere similară ulterioară, depusă de același salariat, dacă justificarea răspunsului referitor la situația salariatului rămâne neschimbată, poate fi comunicat verbal. În caz de refuz, salariatul poate depune o nouă solicitare după cel puțin 6 luni de la data solicitării anterioare.
+(2⁴) În termen de 30 de zile de la recepționarea solicitării prevăzute la alin. (2³), angajatorul va oferi un răspuns motivat în formă scrisă. Angajatorul persoană fizică, întreprinderile micro, mici și mijlocii pot să prezinte răspunsul în termen de până la 3 luni, iar răspunsul la o cerere similară ulterioară, depusă de același salariat, dacă justificarea răspunsului referitor la situația salariatului rămâne neschimbată, poate fi comunicat verbal. În caz de refuz, salariatul poate depune o nouă solicitare după cel puțin 6 luni de la data solicitării anterioare.
 
-(3) În caz de transfer în condiţiile alin. (1), (2), (21) și (23), părţile vor opera modificările necesare în contractul individual de muncă conform art.68, în temeiul ordinului (dispoziţiei, deciziei, hotărârii) emis de angajator care se aduce la cunoştinţa salariatului, sub semnătură sau prin altă modalitate care permite confirmarea recepționării/înștiințării, în termen de 3 zile lucrătoare.
+(3) În caz de transfer în condiţiile alin. (1), (2), (2¹) și (2³), părţile vor opera modificările necesare în contractul individual de muncă conform art.68, în temeiul ordinului (dispoziţiei, deciziei, hotărârii) emis de angajator care se aduce la cunoştinţa salariatului, sub semnătură sau prin altă modalitate care permite confirmarea recepționării/înștiințării, în termen de 3 zile lucrătoare.
 
 (4) – abrogat.
 
@@ -1525,7 +1525,7 @@ Articolul 75. Noţiuni generale
 
 (3) Pe toată durata suspendării contractului individual de muncă, drepturile şi obligaţiile părţilor, în afară de cele prevăzute la alin.(2), continuă să existe dacă prin actele normative în vigoare, prin convenţiile colective, prin contractul colectiv şi prin cel individual de muncă nu se prevede altfel.
 
-(4) Suspendarea contractului individual de muncă și reluarea activității de muncă, cu excepţia cazurilor prevăzute la art. 76 lit. a), b) şi d) şi art. 78 alin. (1) lit. d1) şi e), se face prin ordinul (dispoziţia, decizia, hotărârea) angajatorului, care se aduce la cunoştinţa salariatului, sub semnătură sau prin altă modalitate care permite confirmarea recepționării/înștiințării, cel târziu la data suspendării contractului individual de muncă sau a reluării activității de muncă.
+(4) Suspendarea contractului individual de muncă și reluarea activității de muncă, cu excepţia cazurilor prevăzute la art. 76 lit. a), b) şi d) şi art. 78 alin. (1) lit. d¹) şi e), se face prin ordinul (dispoziţia, decizia, hotărârea) angajatorului, care se aduce la cunoştinţa salariatului, sub semnătură sau prin altă modalitate care permite confirmarea recepționării/înștiințării, cel târziu la data suspendării contractului individual de muncă sau a reluării activității de muncă.
 
 Articolul 76. Suspendarea contractului individual
 
@@ -1563,7 +1563,7 @@ m) stabilire pe termen determinat a gradului de dizabilitate ca urmare a unui ac
 
 n) în alte cazuri prevăzute de legislaţia în vigoare.
 
-Articolul 761. Activitatea de muncă în perioada
+Articolul 76¹. Activitatea de muncă în perioada
 
                          aflării în concediu de maternitate
 
@@ -1587,7 +1587,7 @@ d) îngrijire a copilului bolnav în vârstă de până la 10 ani;
 
 e) – abrogată;
 
-e1) detaşare;
+e¹) detaşare;
 
 f) în alte cazuri prevăzute de legislaţia în vigoare.
 
@@ -1603,15 +1603,15 @@ a) concediu pentru îngrijirea copilului în vârstă de până la 4 ani;
 
 b) concediu pentru îngrijirea unui membru bolnav al familiei cu durata de până la doi ani, conform certificatului medical;
 
-b1) concediu pentru îngrijirea copilului cu dizabilități cu durata de până la 2 ani;
+b¹) concediu pentru îngrijirea copilului cu dizabilități cu durata de până la 2 ani;
 
-b2) concediu neplătit pentru îngrijirea unei persoane care locuiește în aceeași locuință cu salariatul cu o durată de până la 5 zile lucrătoare într-un an calendaristic;
+b²) concediu neplătit pentru îngrijirea unei persoane care locuiește în aceeași locuință cu salariatul cu o durată de până la 5 zile lucrătoare într-un an calendaristic;
 
 c) urmare a unui curs de formare profesională în afara unităţii, potrivit art.214 alin.(3);
 
 d) ocupare a unei funcţii elective în autorităţile publice, în organele sindicale sau în cele patronale;
 
-d1) neachitare sau achitare parţială, cel puţin 2 luni consecutive, a salariului sau a altor plăţi obligatorii;
+d¹) neachitare sau achitare parţială, cel puţin 2 luni consecutive, a salariului sau a altor plăţi obligatorii;
 
 e) condiţii de muncă nesatisfăcătoare din punctul de vedere al protecţiei muncii; precum şi
 
@@ -1621,23 +1621,23 @@ f) din alte motive prevăzute de legislaţie.
 
 a) pe durata anchetei de serviciu, efectuate în condiţiile prezentului cod;
 
-a1) pentru perioada absenței salariatului de la locul de muncă pe un termen maxim de 30 de zile, dacă angajatorul nu a fost informat despre motivul absenței;
+a¹) pentru perioada absenței salariatului de la locul de muncă pe un termen maxim de 30 de zile, dacă angajatorul nu a fost informat despre motivul absenței;
 
 b) - exclusă;
 
 c) în alte cazuri prevăzute de legislaţie.
 
-(3) În cazurile prevăzute la alin. (l) lit. d1) şi e), salariatul este obligat să comunice în scris angajatorului data suspendării contractului individual de muncă.
+(3) În cazurile prevăzute la alin. (l) lit. d¹) şi e), salariatul este obligat să comunice în scris angajatorului data suspendării contractului individual de muncă.
 
-(4) Angajatorul nu este în drept să angajeze alţi salariaţi pentru a-i înlocui pe acei ale căror contracte individuale de muncă au fost suspendate în temeiurile prevăzute la alin. (l) lit. d1) şi e).
+(4) Angajatorul nu este în drept să angajeze alţi salariaţi pentru a-i înlocui pe acei ale căror contracte individuale de muncă au fost suspendate în temeiurile prevăzute la alin. (l) lit. d¹) şi e).
 
-(5) În cazurile de suspendare a contractului individual de muncă în temeiurile prevăzute la alin. (l) lit. d1) şi e), salariatul este obligat să-şi reia activitatea de muncă în cel mult 3 zile lucrătoare de la momentul:
+(5) În cazurile de suspendare a contractului individual de muncă în temeiurile prevăzute la alin. (l) lit. d¹) şi e), salariatul este obligat să-şi reia activitatea de muncă în cel mult 3 zile lucrătoare de la momentul:
 
 a) înlăturării pericolului pentru viaţă sau sănătate;
 
 b) achitării salariului, altor plăţi obligatorii sau informării despre transferul acestor plăţi pe cardul bancar.
 
-Articolul 781. Acordarea de zile libere salariaților în cazul
+Articolul 78¹. Acordarea de zile libere salariaților în cazul
 
                         suspendării procesului educațional în regim
 
@@ -1683,13 +1683,13 @@ c) ca urmare a restricțiilor impuse în starea de urgență în sănătate publ
 
 (4) În perioada şomajului tehnic, salariaţii beneficiază lunar de o indemnizaţie ce nu poate fi mai mică de 50 la sută din salariul lor de bază, cu excepţia cazurilor de suspendare a contractului individual de muncă conform art.77 lit. c).
 
-(41) În cazul instituirii șomajului tehnic în temeiul alin. (1) lit. b) și c), indemnizația poate fi plătită integral sau parțial din bugetul de stat, în modul stabilit de Guvern.
+(4¹) În cazul instituirii șomajului tehnic în temeiul alin. (1) lit. b) și c), indemnizația poate fi plătită integral sau parțial din bugetul de stat, în modul stabilit de Guvern.
 
-(42) În cazul în care indemnizația pentru șomaj tehnic este plătită din bugetul de stat, locurile de muncă ocupate de persoanele pentru care s-au plătit aceste indemnizații nu pot fi reduse pe o perioadă cel puțin egală cu perioada șomajului tehnic pentru care s-au plătit aceste indemnizații, cu excepția situațiilor de insolvabilitate.
+(4²) În cazul în care indemnizația pentru șomaj tehnic este plătită din bugetul de stat, locurile de muncă ocupate de persoanele pentru care s-au plătit aceste indemnizații nu pot fi reduse pe o perioadă cel puțin egală cu perioada șomajului tehnic pentru care s-au plătit aceste indemnizații, cu excepția situațiilor de insolvabilitate.
 
 (5) Modul în care salariaţii vor executa obligaţia de a se afla la dispoziţia angajatorului, precum şi mărimea concretă a indemnizaţiei de care beneficiază salariaţii în perioada şomajului tehnic, se stabilesc prin ordinul (dispoziţia, decizia, hotărârea) angajatorului, de contractul colectiv de muncă şi de convenţiile colective.
 
-Articolul 801. Staționarea
+Articolul 80¹. Staționarea
 
 (1) Staționarea reprezintă imposibilitatea temporară a continuării activităţii de producţie de către unitate, de către o subdiviziune (subdiviziuni) interioară a acesteia, de către un salariat sau un grup de salariați și poate fi produsă:
 
@@ -1721,7 +1721,7 @@ Articolul 81. Temeiurile încetării contractului
 
 a) în circumstanţe ce nu depind de voinţa părţilor (art.82 şi 310);
 
-a1) prin acordul scris al părţilor (art. 821);
+a¹) prin acordul scris al părţilor (art. 82¹);
 
 b) la iniţiativa uneia dintre părţi (art.85 şi 86).
 
@@ -1745,7 +1745,7 @@ c) constatare a nulităţii contractului prin hotărâre a instanţei de judecat
 
 d) retragere, de către autorităţile competente, a autorizaţiei (licenţei) de activitate a unităţii – de la data retragerii acesteia;
 
-d1) retragere, de către autoritățile competente, a autorizației (licenței), permisului, care îi acordă salariatului dreptul de a activa într-o anumită profesie, meserie sau de a efectua o anumită lucrare – de la data retragerii actului respectiv;
+d¹) retragere, de către autoritățile competente, a autorizației (licenței), permisului, care îi acordă salariatului dreptul de a activa într-o anumită profesie, meserie sau de a efectua o anumită lucrare – de la data retragerii actului respectiv;
 
 e) aplicare a pedepsei penale salariatului, prin hotărâre a instanţei de judecată, care exclude posibilitatea de a continua munca la unitate - de la data rămânerii definitive a hotărârii judecătoreşti;
 
@@ -1759,15 +1759,15 @@ i) atingere a vârstei de 65 de ani de către conducătorul unităţii de stat ,
 
 j) forţă majoră, confirmată în modul stabilit, care exclude posibilitatea continuării raporturilor de muncă;
 
-j1) restabilire la locul de muncă, conform hotărârii instanţei de judecată, a persoanei care a îndeplinit anterior munca respectivă, dacă transferul salariatului la o altă muncă conform prezentului cod nu este posibil;
+j¹) restabilire la locul de muncă, conform hotărârii instanţei de judecată, a persoanei care a îndeplinit anterior munca respectivă, dacă transferul salariatului la o altă muncă conform prezentului cod nu este posibil;
 
-j2) retragerea acordului părinților sau al reprezentanților legali, în cazul salariaților cu vârsta cuprinsă între 15 și 16 ani;
+j²) retragerea acordului părinților sau al reprezentanților legali, în cazul salariaților cu vârsta cuprinsă între 15 și 16 ani;
 
 k) alte temeiuri prevăzute la art.310.
 
 Notă: Persoanele eliberate din serviciu în temeiul lit. i) pot fi angajate pe o durată determinată conform art. 55 lit. f), în orice funcţie, alta decât cea de conducător de unitate de stat, inclusiv municipală, sau de unitate cu capital majoritar de stat.
 
-Articolul 821. Încetarea contractului individual
+Articolul 82¹. Încetarea contractului individual
 
                         de muncă prin acordul scris a părţilor
 
@@ -1785,7 +1785,7 @@ Articolul 83. Încetarea contractului individual
 
 (4) Dacă, la expirarea termenului contractului individual de muncă pe durată determinată, nici una dintre părţi nu a cerut încetarea lui şi raporturile de muncă continuă de fapt, contractul se consideră prelungit pe durată nedeterminată.
 
-(5) Contractul individual de muncă pe durată determinată poate înceta înainte de termen în cazurile prevăzute la art. 82, 821, 85 şi 86.
+(5) Contractul individual de muncă pe durată determinată poate înceta înainte de termen în cazurile prevăzute la art. 82, 82¹, 85 şi 86.
 
 Articolul 84. Nulitatea contractului individual
 
@@ -1805,19 +1805,19 @@ Articolul 84. Nulitatea contractului individual
 
 Articolul 85. Demisia
 
-(1) Salariatul are dreptul la demisie - desfacere a contractului individual de muncă, cu excepţia prevederii alin.(41), din proprie iniţiativă, anunțând despre aceasta angajatorul, prin cerere scrisă, cu 14 zile calendaristice înainte. Curgerea termenului menţionat începe în ziua imediat următoare zilei în care a fost înregistrată cererea.
+(1) Salariatul are dreptul la demisie - desfacere a contractului individual de muncă, cu excepţia prevederii alin.(4¹), din proprie iniţiativă, anunțând despre aceasta angajatorul, prin cerere scrisă, cu 14 zile calendaristice înainte. Curgerea termenului menţionat începe în ziua imediat următoare zilei în care a fost înregistrată cererea.
 
 (2) În caz de demisie a salariatului în legătură cu pensionarea, cu stabilirea gradului de dizabilitate, cu concediul pentru îngrijirea copilului, cu înmatricularea într-o instituţie de învățământ, cu trecerea cu traiul în altă localitate, cu îngrijirea copilului până la vârsta de 14 ani sau a copilului cu dizabilităţi, cu alegerea într-o funcţie electivă, cu angajarea prin concurs la o altă unitate, cu încălcarea de către angajator a contractului individual şi/sau colectiv de muncă, a legislaţiei muncii în vigoare, angajatorul este obligat să accepte demisia în termenul redus indicat în cererea depusă şi înregistrată, la care se anexează documentul respectiv ce confirmă acest drept.
 
-(3) După expirarea termenelor indicate la alin.(1), (2) și (41), salariatul are dreptul să înceteze lucrul, iar angajatorul este obligat să efectueze achitarea deplină a drepturilor salariale ce i se cuvin salariatului în termenele prevăzute la art.143 și să-i elibereze documentele legate de activitatea acestuia în unitate.
+(3) După expirarea termenelor indicate la alin.(1), (2) și (4¹), salariatul are dreptul să înceteze lucrul, iar angajatorul este obligat să efectueze achitarea deplină a drepturilor salariale ce i se cuvin salariatului în termenele prevăzute la art.143 și să-i elibereze documentele legate de activitatea acestuia în unitate.
 
-(31) Contractul individual de muncă poate fi desfăcut, prin acordul scris al părţilor, înainte de expirarea termenelor indicate la alin.(1), (2) şi (41).
+(3¹) Contractul individual de muncă poate fi desfăcut, prin acordul scris al părţilor, înainte de expirarea termenelor indicate la alin.(1), (2) şi (4¹).
 
 (4) Timp de 7 zile calendaristice de la data depunerii cererii de demisie, salariatul are dreptul să-şi retragă cererea sau să depună o nouă cerere, prin care să o anuleze pe prima. În acest caz, angajatorul este în drept să-l elibereze pe salariat numai dacă, până la retragerea (anularea) cererii depuse, a fost încheiat un contract individual de muncă cu un alt salariat în condiţiile prezentului cod.
 
-(41) Conducătorul unităţii (al filialei sau reprezentanței), adjuncţii lui şi contabilul-şef sunt în drept să demisioneze, anunțând despre aceasta angajatorul, prin cerere scrisă, cu o lună înainte.
+(4¹) Conducătorul unităţii (al filialei sau reprezentanței), adjuncţii lui şi contabilul-şef sunt în drept să demisioneze, anunțând despre aceasta angajatorul, prin cerere scrisă, cu o lună înainte.
 
-(5) Dacă, după expirarea termenelor indicate în alin.(1), (2) şi (41), salariatul nu a fost de fapt eliberat din funcţie şi el îşi continuă activitatea de muncă fără să-şi reafirme în scris dorinţa de a desface contractul individual de muncă, eliberarea acestuia nu se admite.
+(5) Dacă, după expirarea termenelor indicate în alin.(1), (2) şi (4¹), salariatul nu a fost de fapt eliberat din funcţie şi el îşi continuă activitatea de muncă fără să-şi reafirme în scris dorinţa de a desface contractul individual de muncă, eliberarea acestuia nu se admite.
 
 Articolul 86. Concedierea
 
@@ -1845,7 +1845,7 @@ j) săvârșirea unei contravenții sau infracțiuni contra patrimoniului unită
 
 k) comiterea de către salariatul care gestionează nemijlocit mijloace băneşti sau valori materiale ori care are acces la sistemele informaționale ale angajatorului (sisteme de colectare și gestiune a informației) sau la cele administrate de angajator a unor acţiuni culpabile, dacă aceste acţiuni pot servi drept temei pentru pierderea încrederii angajatorului faţă de salariatul respectiv;
 
-k1) încălcarea obligației prevăzute la art. 7 alin. (2) lit. a) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituţionale;
+k¹) încălcarea obligației prevăzute la art. 7 alin. (2) lit. a) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituţionale;
 
 l) încălcarea gravă repetată, pe parcursul unui an, a statutului instituţiei de învățământ de către un cadru didactic (art.301);
 
@@ -1871,11 +1871,11 @@ x) refuzul salariatului de a fi transferat la o altă muncă pentru motive de s�
 
 y) refuzului salariatului de a fi transferat în altă localitate în legătură cu mutarea unităţii în această localitate (art.74 alin.(1)); precum şi
 
-y1) deţinerea de către salariat a statutului de pensionar pentru limită de vârstă;
+y¹) deţinerea de către salariat a statutului de pensionar pentru limită de vârstă;
 
 z) pentru alte motive prevăzute de prezentul cod şi de alte acte legislative.
 
-Notă: Persoanele concediate în temeiul lit. y1) pot fi angajate pe o durată determinată conform art. 55 lit. f).
+Notă: Persoanele concediate în temeiul lit. y¹) pot fi angajate pe o durată determinată conform art. 55 lit. f).
 
 (2) Nu se admite concedierea salariatului în perioada aflării lui în concediu medical, în concediu de odihnă anual, în concediu de studii, în concediu de maternitate, în concediu paternal, în concediu parţial plătit pentru îngrijirea copilului până la vârsta de 3 ani, în concediu suplimentar neplătit pentru îngrijirea copilului în vârstă de la 3 la 4 ani, în concediu pentru îngrijirea unui membru bolnav al familiei, în concediu pentru îngrijirea copilului cu dizabilități, în perioada îndeplinirii obligaţiilor de stat sau obşteşti, precum şi în perioada detaşării, cu excepţia cazurilor de lichidare a unităţii.
 
@@ -1925,7 +1925,7 @@ i) - abrogată.
 
 (4) În caz de lichidare a unităţii, angajatorul este obligat să respecte procedura de concediere prevăzută la alin.(1) lit. a), b), f), g) şi i).
 
-Articolul 881. Procedura de concediere în legătură
+Articolul 88¹. Procedura de concediere în legătură
 
                          cu transferarea la o altă unitate
 
@@ -2099,7 +2099,7 @@ Articolul 97. Timpul de muncă parțial
 
 (3) Munca pe fracțiune de normă este retribuită proporţional timpului lucrat sau în funţie de volumul lucrului efectuat.
 
-Articolul 971. Garanții pentru salariații cu timp
+Articolul 97¹. Garanții pentru salariații cu timp
 
                          de muncă parțial
 
@@ -2123,7 +2123,7 @@ b) anunț public, plasat pe pagina web a unității, după caz; și/sau
 
 c) anunț public, afișat pe un panou informativ cu acces general la sediul unității și la fiecare dintre filialele sau reprezentanțele acesteia.
 
-Articolul 972. Regimul de activitate redusă
+Articolul 97². Regimul de activitate redusă
 
 (1) Angajatorul poate stabili regimul de activitate redusă, cu repartizarea timpului de muncă în cadrul săptămânii, la nivel de unitate, pentru cel puțin 25% din numărul salariaților din cadrul unității:
 
@@ -2163,7 +2163,7 @@ c) sunt angajați cu timp de muncă parțial.
 
 (10) Nu se admite solicitarea regimului de activitate redusă în cazul în care, la nivel de unitate, este declarată grevă.
 
-Articolul 973. Degrevarea salariatului de atribuțiile
+Articolul 97³. Degrevarea salariatului de atribuțiile
 
                         de la locul de muncă în perioada
 
@@ -2217,7 +2217,7 @@ Articolul 100. Durata zilnică a timpului de muncă
 
 (9) - abrogat.
 
-Articolul 1001. Formule flexibile de muncă
+Articolul 100¹. Formule flexibile de muncă
 
 (1) Formulele flexibile de muncă se instituie prin acordul dintre salariat şi angajator, la solicitarea salariatului sau a angajatorului, atât la momentul angajării, cât și după încheierea contractului individual de muncă, pe o durată determinată sau nedeterminată.
 
@@ -2251,7 +2251,7 @@ Articolul 101. Munca în schimburi
 
 (1) Munca în schimburi, adică lucrul în 2, 3 sau 4 schimburi, se aplică în cazurile când specificul activității instituției sau durata procesului de producţie depăşeşte durata admisă a zilei de muncă, precum şi în scopul utilizării mai eficiente a utilajului, sporirii volumului de producţie sau de servicii.
 
-(11) În funcție de specificul activității, pentru organele securității statului și organele afacerilor interne, durata zilnică a timpului de muncă în schimburi se stabilește prin act administrativ, cu respectarea duratei întreruperii în muncă între schimburi. Durata zilnică a timpului de muncă în schimburi nu poate depăși 24 de ore.
+(1¹) În funcție de specificul activității, pentru organele securității statului și organele afacerilor interne, durata zilnică a timpului de muncă în schimburi se stabilește prin act administrativ, cu respectarea duratei întreruperii în muncă între schimburi. Durata zilnică a timpului de muncă în schimburi nu poate depăși 24 de ore.
 
 (2) În condiţiile muncii în schimburi, fiecare grup de salariaţi prestează munca în limitele programului stabilit.
 
@@ -2279,27 +2279,27 @@ Articolul 103. Munca de noapte
 
 (1) Se consideră muncă de noapte munca prestată între orele 22.00 şi 6.00.
 
-(11) Durata normală a timpului de muncă a salariaților de noapte nu va depăși în medie 8 ore în decursul unei perioade de 24 de ore, calculată pe o perioadă de referință de 4 luni calendaristice, cu respectarea prevederilor legale privind repausul săptămânal.
+(1¹) Durata normală a timpului de muncă a salariaților de noapte nu va depăși în medie 8 ore în decursul unei perioade de 24 de ore, calculată pe o perioadă de referință de 4 luni calendaristice, cu respectarea prevederilor legale privind repausul săptămânal.
 
-(12) Salariații de noapte a căror muncă implică riscuri specifice sau un efort fizic ori  intelectual și psiho-emoțional sporit nu vor munci mai mult de 8 ore în decursul unei perioade de 24 de ore în care efectuează muncă de noapte.
+(1²) Salariații de noapte a căror muncă implică riscuri specifice sau un efort fizic ori  intelectual și psiho-emoțional sporit nu vor munci mai mult de 8 ore în decursul unei perioade de 24 de ore în care efectuează muncă de noapte.
 
 (2) Pentru salariații de noapte durata muncii (schimbului) de noapte se reduce cu o oră.
 
 (3) Durata muncii (schimbului) de noapte nu se reduce salariaţilor pentru care este stabilită durata redusă a timpului de muncă, dacă contractul colectiv de muncă nu prevede altfel.
 
-(31) Salariații care urmează să fie transferați la munca permanentă de noapte, înainte de transfer, sunt supuși unui examen medical din contul angajatorului.
+(3¹) Salariații care urmează să fie transferați la munca permanentă de noapte, înainte de transfer, sunt supuși unui examen medical din contul angajatorului.
 
 (4) Orice salariat care, într-o perioadă de 6 luni, prestează cel puţin 120 de ore de muncă de noapte va fi supus unui examen medical din contul angajatorului.
 
 (5) Nu se admite atragerea la munca de noapte a salariaţilor în vârstă de până la 18 ani şi a persoanelor cărora munca de noapte le este contraindicată conform certificatului medical. Salariații cu vârsta cuprinsă între 15 și 16 ani nu pot fi atrași la muncă în intervalul orelor 20.00–06.00.
 
-(51) Femeile gravide, femeile care au născut de curând și cele care alăptează pot să presteze munca de noapte doar din propria inițiativă, în baza unei cereri scrise, cu prezentarea concluziei medicale privind starea de sănătate, eliberată de instituția medico-sanitară pe a cărei listă sunt înregistrate, și de comun acord cu angajatorul. Dreptul la munca de noapte în condițiile prezentului alineat se realizează în strictă conformitate cu prevederile Legii securității și sănătății în muncă nr. 186/2008.
+(5¹) Femeile gravide, femeile care au născut de curând și cele care alăptează pot să presteze munca de noapte doar din propria inițiativă, în baza unei cereri scrise, cu prezentarea concluziei medicale privind starea de sănătate, eliberată de instituția medico-sanitară pe a cărei listă sunt înregistrate, și de comun acord cu angajatorul. Dreptul la munca de noapte în condițiile prezentului alineat se realizează în strictă conformitate cu prevederile Legii securității și sănătății în muncă nr. 186/2008.
 
 (6) Persoanele cu dizabilităţi severe şi accentuate, părinții singuri care au copii în vârstă de până la 16 ani, unul dintre părinţii (tutorele, curatorul) care au copii în vârstă de până la 4 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin.(2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav în baza certificatului medical pot presta muncă de noapte numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca de noapte.
 
 (7) Salariații cărora munca de noapte le este contraindicată conform certificatului medical urmează a fi transferați la o muncă de zi pentru care sunt calificați, cu respectarea prevederilor art. 74.
 
-(71) Femeile gravide, femeile care au născut de curând și cele care alăptează, prestând munca de noapte, urmează a fi transferate, la solicitare, în baza unei cereri scrise, la o muncă de zi pentru care sunt calificate.
+(7¹) Femeile gravide, femeile care au născut de curând și cele care alăptează, prestând munca de noapte, urmează a fi transferate, la solicitare, în baza unei cereri scrise, la o muncă de zi pentru care sunt calificate.
 
 Articolul 104. Munca suplimentară
 
@@ -2325,13 +2325,13 @@ d) pentru continuarea muncii în caz de neprezentare a lucrătorului de schimb, 
 
 (5) La solicitarea angajatorului, salariații pot presta munca în afara orelor de program în limita a 240 de ore într-un an calendaristic.
 
-(51) Durata maximă a timpului de muncă a salariaților nu poate depăși 48 de ore pe săptămână, inclusiv orele de muncă suplimentară. Ca excepție, durata timpului de muncă, ce include și orele de muncă suplimentară, poate fi prelungită peste 48 de ore pe săptămână cu condiția ca media orelor de muncă, calculate pe o perioadă de referință de 4 luni calendaristice, să nu depășească 48 de ore pe săptămână.
+(5¹) Durata maximă a timpului de muncă a salariaților nu poate depăși 48 de ore pe săptămână, inclusiv orele de muncă suplimentară. Ca excepție, durata timpului de muncă, ce include și orele de muncă suplimentară, poate fi prelungită peste 48 de ore pe săptămână cu condiția ca media orelor de muncă, calculate pe o perioadă de referință de 4 luni calendaristice, să nu depășească 48 de ore pe săptămână.
 
-(52) Prin contractul colectiv de muncă pot fi negociate anumite activități sau profesii pentru care perioada de referință stabilită la alin. (51) poate fi mai mare de 4 luni calendaristice, dar care nu va depăși 6 luni calendaristice.
+(5²) Prin contractul colectiv de muncă pot fi negociate anumite activități sau profesii pentru care perioada de referință stabilită la alin. (5¹) poate fi mai mare de 4 luni calendaristice, dar care nu va depăși 6 luni calendaristice.
 
-(53) Sub rezerva respectării reglementărilor privind protecția sănătății și a securității în muncă a salariaților, din motive obiective, tehnice sau privind organizarea muncii, contractele colective de muncă pot prevedea derogări de la perioada de referință stabilită la alin. (51) și (52), dar care în niciun caz nu vor depăși 12 luni calendaristice.
+(5³) Sub rezerva respectării reglementărilor privind protecția sănătății și a securității în muncă a salariaților, din motive obiective, tehnice sau privind organizarea muncii, contractele colective de muncă pot prevedea derogări de la perioada de referință stabilită la alin. (5¹) și (5²), dar care în niciun caz nu vor depăși 12 luni calendaristice.
 
-(54) La stabilirea perioadelor de referință conform alin. (52) și (53) nu se iau în calcul durata concediului de odihnă anual și situațiile de suspendare a contractului individual de muncă.
+(5⁴) La stabilirea perioadelor de referință conform alin. (5²) și (5³) nu se iau în calcul durata concediului de odihnă anual și situațiile de suspendare a contractului individual de muncă.
 
 (6) În cazul în care solicită prestarea muncii suplimentare, angajatorul este obligat să asigure salariaţilor condiţii normale de muncă, inclusiv cele privind securitatea şi sănătatea în muncă.
 
@@ -2339,7 +2339,7 @@ d) pentru continuarea muncii în caz de neprezentare a lucrătorului de schimb, 
 
 (8) Se admite ca în contractul colectiv de muncă sau în contractul individual de muncă să fie prevăzută posibilitatea de a compensa orele de muncă suplimentară cu ore libere plătite, cu acordul scris al părților. În acest caz, orele libere vor fi acordate în decurs de 30 de zile de la prestarea muncii suplimentare.
 
-(81) Salariatul își poate exprima acordul sau refuzul de a presta munca suplimentară în formă scrisă (pe suport de hârtie sau în format electronic), cu utilizarea semnăturii electronice avansate, până la atragerea lui efectivă la munca suplimentară.
+(8¹) Salariatul își poate exprima acordul sau refuzul de a presta munca suplimentară în formă scrisă (pe suport de hârtie sau în format electronic), cu utilizarea semnăturii electronice avansate, până la atragerea lui efectivă la munca suplimentară.
 
 Articolul 105. Limitarea muncii suplimentare
 
@@ -2399,7 +2399,7 @@ Articolul 110. Munca în zilele de repaus
 
 (3) Nu se admite atragerea la muncă în zilele de repaus a salariaţilor în vârstă de până la 18 ani.
 
-(31) Femeile gravide pot să presteze munca în zilele de repaus doar din propria inițiativă, în baza unei cereri scrise, cu prezentarea concluziei medicale privind starea de sănătate, eliberată de instituția medico-sanitară pe a cărei listă sunt înregistrate. Dreptul la munca în zilele de repaus în condițiile prezentului alineat se realizează în strictă conformitate cu Legea securității și sănătății în muncă nr. 186/2008
+(3¹) Femeile gravide pot să presteze munca în zilele de repaus doar din propria inițiativă, în baza unei cereri scrise, cu prezentarea concluziei medicale privind starea de sănătate, eliberată de instituția medico-sanitară pe a cărei listă sunt înregistrate. Dreptul la munca în zilele de repaus în condițiile prezentului alineat se realizează în strictă conformitate cu Legea securității și sănătății în muncă nr. 186/2008
 
 (4) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vârstă de până la 4 ani sau copii cu dizabilităţi persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin.(2) cu activitatea de munca şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în zilele de repaus numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în zilele de repaus.
 
@@ -2421,19 +2421,19 @@ f) 1 mai – Ziua internaţională a solidarităţii oamenilor muncii;
 
 g) 9 mai – Ziua Victoriei şi a comemorării eroilor căzuţi pentru independenţa Patriei;
 
-g1) 9 mai – Ziua Europei;
+g¹) 9 mai – Ziua Europei;
 
-g2) 1 iunie – Ziua Internațională a Copilului;
+g²) 1 iunie – Ziua Internațională a Copilului;
 
 h) 27 august – Ziua Independenţei;
 
 i) 31 august – sărbătoarea „Ziua Limbii Române”;
 
-i1) 25 decembrie – Naşterea lui Isus Hristos (Crăciunul pe stil nou);
+i¹) 25 decembrie – Naşterea lui Isus Hristos (Crăciunul pe stil nou);
 
 j) ziua Hramului bisericii din localitatea respectivă, declarată în modul stabilit de consiliul local al municipiului, oraşului, comunei, satului.
 
-(11) Salariaților remunerați în acord sau pe unitate de timp (oră sau zi), pentru zilele de sărbătoare nelucrătoare enumerate la alin. (1), în cazul în care zilele de sărbătoare nelucrătoare nu coincid cu zilele de repaus săptămânal, li se plătește salariul mediu.
+(1¹) Salariaților remunerați în acord sau pe unitate de timp (oră sau zi), pentru zilele de sărbătoare nelucrătoare enumerate la alin. (1), în cazul în care zilele de sărbătoare nelucrătoare nu coincid cu zilele de repaus săptămânal, li se plătește salariul mediu.
 
 În cazul în care zilele de sărbătoare nelucrătoare coincid cu zilele de repaus săptămânal, salariul mediu pentru aceste zile nu se plătește.
 
@@ -2441,7 +2441,7 @@ j) ziua Hramului bisericii din localitatea respectivă, declarată în modul sta
 
 (3) Nu se admite atragerea la muncă în zilele de sărbătoare nelucrătoare a salariaţilor în vârstă de până la 18 ani.
 
-(31) Femeile gravide pot să presteze munca în zilele de sărbătoare nelucrătoare doar din propria inițiativă, în baza unei cereri scrise, cu prezentarea concluziei medicale privind starea de sănătate, eliberată de instituția medico-sanitară pe a cărei listă sunt înregistrate. Dreptul la munca în zilele de sărbătoare nelucrătoare în condițiile prezentului alineat se realizează în strictă conformitate cu Legea securității și sănătății în muncă nr.186/2008.
+(3¹) Femeile gravide pot să presteze munca în zilele de sărbătoare nelucrătoare doar din propria inițiativă, în baza unei cereri scrise, cu prezentarea concluziei medicale privind starea de sănătate, eliberată de instituția medico-sanitară pe a cărei listă sunt înregistrate. Dreptul la munca în zilele de sărbătoare nelucrătoare în condițiile prezentului alineat se realizează în strictă conformitate cu Legea securității și sănătății în muncă nr.186/2008.
 
 (4) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vârstă de până la 4 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin. (2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în zilele de sărbătoare nelucrătoare numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în zilele de sărbătoare nelucrătoare.
 
@@ -2467,7 +2467,7 @@ Articolul 113. Durata concediului de odihnă anual
 
 (2) Pentru salariaţii din unele ramuri ale economiei naţionale (învățământ, ocrotirea sănătăţii, serviciul public etc.), prin lege organică, se poate stabili o altă durată a concediului de odihnă anual (calculată în zile calendaristice).
 
-Articolul 1131.  Anul de muncă pentru care se acordă
+Articolul 113¹.  Anul de muncă pentru care se acordă
 
                            concediul de odihnă anual
 
@@ -2489,7 +2489,7 @@ c) timpul absenţei forţate de la lucru – în cazul eliberării nelegitime di
 
 d) timpul când salariatul nu a lucrat de fapt, dar şi-a menţinut locul de muncă (funcţia) şi a primit diferite plăţi din bugetul asigurărilor sociale de stat, cu excepţia concediului parţial plătit pentru îngrijirea copilului până la vârsta de 3 ani;
 
-d1) perioada aflării în concediul neplătit pentru îngrijirea unei persoane care locuiește în aceeași locuință cu salariatul;
+d¹) perioada aflării în concediul neplătit pentru îngrijirea unei persoane care locuiește în aceeași locuință cu salariatul;
 
 e) alte perioade de timp prevăzute de convenţiile colective, de contractul colectiv sau de cel individual de muncă, de regulamentul intern al unității, dacă este elaborat și aprobat de angajator.
 
@@ -2503,7 +2503,7 @@ c) perioada aflării în concediu neplătit cu o durată mai mare de 14 zile cal
 
 d) perioada suspendării contractului individual de muncă, cu excepţia cazurilor prevăzute la art.76 lit. a)-d) şi la art.77 lit. b).
 
-Articolul 1141. - abrogat.
+Articolul 114¹. - abrogat.
 
 Articolul 115. Modul de acordare a concediului
 
@@ -2519,7 +2519,7 @@ b) salariaţilor în vârstă de până la 18 ani;
 
 c) altor salariaţi, conform legislaţiei în vigoare.
 
-(21) Concediul de odihnă pentru primul an de muncă poate fi acordat salariatului şi înainte de expirarea a 6 luni de muncă la unitate.
+(2¹) Concediul de odihnă pentru primul an de muncă poate fi acordat salariatului şi înainte de expirarea a 6 luni de muncă la unitate.
 
 (3) Salariaţilor transferaţi dintr-o unitate în alta concediul de odihnă anual li se poate acorda şi înainte de expirarea a 6 luni de muncă după transfer.
 
@@ -2537,7 +2537,7 @@ Articolul 116. Programarea concediilor de odihnă
 
 (2) La programarea concediilor de odihnă anuale se ţine cont atât de dorinţa salariaţilor, cât şi de necesitatea asigurării bunei funcţionări a unităţii.
 
-(21) Perioada și durata concediilor de odihnă anuale programate pot fi modificate la solicitarea salariatului, cu acordul angajatorului, ținând cont de funcționarea unității și necesitățile acesteia.
+(2¹) Perioada și durata concediilor de odihnă anuale programate pot fi modificate la solicitarea salariatului, cu acordul angajatorului, ținând cont de funcționarea unității și necesitățile acesteia.
 
 (3) Salariaţilor ale căror soţii se află în concediu de maternitate li se acordă, în baza unei cereri scrise, concediul de odihnă anual concomitent cu concediul soţiilor.
 
@@ -2571,11 +2571,11 @@ Articolul 118. Acordarea anuală a concediului
 
 (4) Este interzisă neacordarea concediului de odihnă anual timp de 2 ani consecutivi, precum şi neacordarea anuală a concediului de odihnă salariaţilor în vârstă de până la 18 ani şi salariaţilor care au dreptul la concediu suplimentar în legătură cu munca în condiţii vătămătoare.
 
-(41) În cazul în care salariatul, din motive întemeiate, confirmate documentar, nu își poate folosi concediul de odihnă anual la care avea dreptul în anul calendaristic corespunzător, cu acordul salariatului în cauză, angajatorul este obligat să-i acorde acestuia concediul de odihnă nefolosit în decurs de doi ani, începând cu anul următor celui în care i s-a acordat dreptul la concediul de odihnă anual.
+(4¹) În cazul în care salariatul, din motive întemeiate, confirmate documentar, nu își poate folosi concediul de odihnă anual la care avea dreptul în anul calendaristic corespunzător, cu acordul salariatului în cauză, angajatorul este obligat să-i acorde acestuia concediul de odihnă nefolosit în decurs de doi ani, începând cu anul următor celui în care i s-a acordat dreptul la concediul de odihnă anual.
 
 La finele fiecărui an calendaristic, angajatorul informează salariatul, în formă scrisă pe suport de hârtie sau în formă electronică, despre numărul zilelor de concediu de odihnă anual acumulate/nefolosite, termenul de expirare a acestora și dispune utilizarea zilelor de concediu de odihnă anual acumulate/nefolosite de către salariat, conform programării stabilite de comun acord. Refuzul neîntemeiat al salariatului privind utilizarea zilelor acumulate/nefolosite din concediul de odihnă anual, conform programării stabilite, este nul.
 
-(5) Nu se admite înlocuirea concediului de odihnă anual nefolosit printr-o compensaţie în bani, cu excepţia cazurilor de încetare a contractului individual de muncă al salariatului care nu şi-a folosit concediul, în condițiile alin. (41).
+(5) Nu se admite înlocuirea concediului de odihnă anual nefolosit printr-o compensaţie în bani, cu excepţia cazurilor de încetare a contractului individual de muncă al salariatului care nu şi-a folosit concediul, în condițiile alin. (4¹).
 
 (6) Durata concediilor medicale, a celor de maternitate şi de studii nu se include în durata concediului de odihnă anual. În caz de coincidenţă totală sau parţială a concediului cu unul din concediile menţionate, în baza unei cereri scrise a salariatului, concediul de odihnă anual nefolosit integral ori parţial se amână pe perioada convenită prin acordul scris al părţilor sau se prelungeşte, respectiv, cu numărul zilelor indicate în documentul, eliberat în modul stabilit, privitor la acordarea concediului corespunzător în cadrul aceluiaşi an calendaristic.
 
@@ -2619,7 +2619,7 @@ Articolul 122. Rechemarea din concediu
 
 (4) Folosirea de către salariat a părţii rămase a concediului de odihnă anual se efectuează în temeiul ordinului (dispoziţiei, deciziei, hotărârii) angajatorului.
 
-(5) Refuzul salariatului de a-şi folosi partea rămasă a concediului de odihnă anual este nul (art. 9 alin. (11) şi art.112 alin.(2)).
+(5) Refuzul salariatului de a-şi folosi partea rămasă a concediului de odihnă anual este nul (art. 9 alin. (1¹) şi art.112 alin.(2)).
 
 Capitolul IV
 
@@ -2631,7 +2631,7 @@ Articolul 123. Concediul medical
 
 (2) Modul de stabilire, calculare şi achitare a indemnizaţiilor din bugetul asigurărilor sociale de stat în legătură cu concediul medical este prevăzut de legislaţia în vigoare.
 
-Articolul 1231. Concediul neplătit pentru îngrijirea
+Articolul 123¹. Concediul neplătit pentru îngrijirea
 
                            unei persoane care locuiește în aceeași
 
@@ -2665,19 +2665,19 @@ Articolul 124. Concediul de maternitate şi concediul
 
 (6) Salariatul are dreptul la revenirea din concediul parțial plătit pentru îngrijirea copilului până la vârsta de 3 ani înainte de expirarea termenului stabilit în cererea indicată la alin. (2) sau (4), anunțând despre aceasta angajatorul, printr-o cerere scrisă, cu 15 zile lucrătoare înainte. Termenul respectiv poate fi redus prin acordul scris al părților.
 
-Articolul 1241. Concediul paternal
+Articolul 124¹. Concediul paternal
 
 (1) Concediul paternal se acordă în condiţiile prevăzute de prezentul articol pentru a asigura participarea efectivă a tatălui la îngrijirea copilului nou-născut sau adoptat.
 
-(2) Tatăl copilului nou-născut beneficiază de dreptul la concediu paternal până la 15 zile calendaristice. În cazul copiilor gemeni sau a mai multor copii născuți dintr-o singură sarcină, tatăl copiilor nou-născuți beneficiază de dreptul la concediu paternal până la 15 zile calendaristice pentru fiecare copil. Tatăl copilului adoptat beneficiază de dreptul la concediu paternal până la 15 zile calendaristice pentru fiecare copil adoptat, în temeiul alin. (22).
+(2) Tatăl copilului nou-născut beneficiază de dreptul la concediu paternal până la 15 zile calendaristice. În cazul copiilor gemeni sau a mai multor copii născuți dintr-o singură sarcină, tatăl copiilor nou-născuți beneficiază de dreptul la concediu paternal până la 15 zile calendaristice pentru fiecare copil. Tatăl copilului adoptat beneficiază de dreptul la concediu paternal până la 15 zile calendaristice pentru fiecare copil adoptat, în temeiul alin. (2²).
 
-(21) Concediul paternal poate fi acordat integral sau divizat în până la 3 fracțiuni, pe parcursul primelor 12 luni de la nașterea copilului. O fracțiune de concediu reprezintă cel puțin 5 zile calendaristice. Salariatul beneficiază de concediu paternal în baza cererii depuse cu cel puțin 5 zile înainte de fiecare fracțiune de concediu, cu excepția cazului în care perioadele fracțiunilor au fost stabilite în prealabil cu angajatorul.
+(2¹) Concediul paternal poate fi acordat integral sau divizat în până la 3 fracțiuni, pe parcursul primelor 12 luni de la nașterea copilului. O fracțiune de concediu reprezintă cel puțin 5 zile calendaristice. Salariatul beneficiază de concediu paternal în baza cererii depuse cu cel puțin 5 zile înainte de fiecare fracțiune de concediu, cu excepția cazului în care perioadele fracțiunilor au fost stabilite în prealabil cu angajatorul.
 
-(22) În cazul taților care au adoptat copii, concediul paternal se acordă în baza unei cereri scrise, în primele 12 luni din ziua încuviințării adopției. La cerere se anexează o copie a hotărârii instanței de judecată privind încuviințarea adopției și o copie a certificatului de naștere al copilului. În cazul în care a beneficiat de concediul plătit prevăzut la art. 127 alin. (2) lit. a), tatăl care a adoptat nu are dreptul la concediu paternal.
+(2²) În cazul taților care au adoptat copii, concediul paternal se acordă în baza unei cereri scrise, în primele 12 luni din ziua încuviințării adopției. La cerere se anexează o copie a hotărârii instanței de judecată privind încuviințarea adopției și o copie a certificatului de naștere al copilului. În cazul în care a beneficiat de concediul plătit prevăzut la art. 127 alin. (2) lit. a), tatăl care a adoptat nu are dreptul la concediu paternal.
 
 (3) Concediul paternal se acordă în baza unei cereri în formă scrisă, în primele 12 luni de la naşterea copilului. La cerere se anexează o copie a certificatului de naştere al copilului.
 
-(31) În caz de coincidență totală sau parțială a concediului paternal cu concediul medical, în baza unei cereri scrise a salariatului, concediul paternal nefolosit integral ori parțial se prelungește.
+(3¹) În caz de coincidență totală sau parțială a concediului paternal cu concediul medical, în baza unei cereri scrise a salariatului, concediul paternal nefolosit integral ori parțial se prelungește.
 
 (4) Pe perioada concediului paternal, salariatul beneficiază de o indemnizație paternală care nu poate fi mai mică decât venitul mediu lunar asigurat pentru perioada respectivă și care este achitată din bugetul asigurărilor sociale de stat.
 
@@ -2753,9 +2753,9 @@ Articolul 128. Salariul
 
 (2) La stabilirea şi achitarea salariului nu se admite nici o discriminare pe criterii de sex, vârstă, dizabilitate, origine socială, situaţie familială, apartenenţă la o etnie, rasă sau naţionalitate, opţiuni politice sau convingeri religioase, apartenenţă sau activitate sindicală.
 
-(21) Angajatorul este obligat să asigure egalitatea de remunerare între salariații de sex masculin și cei de sex feminin pentru o muncă egală sau o muncă de valoare egală.
+(2¹) Angajatorul este obligat să asigure egalitatea de remunerare între salariații de sex masculin și cei de sex feminin pentru o muncă egală sau o muncă de valoare egală.
 
-(22) Pentru a evalua dacă salariații prestează o muncă de valoare egală, angajatorul va lua în considerare aspectele de muncă ale salariatului, printre care:
+(2²) Pentru a evalua dacă salariații prestează o muncă de valoare egală, angajatorul va lua în considerare aspectele de muncă ale salariatului, printre care:
 
 a) gradul de răspundere;
 
@@ -2765,9 +2765,9 @@ c) efortul și natura sarcinilor implicate;
 
 d) condițiile de muncă.
 
-(23) Angajatorii întreprinderilor mijlocii și mari sunt obligați să informeze periodic, dar nu mai rar decât o dată pe an (cel târziu în primul semestru al anului următor celui de gestiune), salariații și/sau reprezentanții lor cu privire la diferența de gen de salarizare pe categorie de salariați și de funcții.
+(2³) Angajatorii întreprinderilor mijlocii și mari sunt obligați să informeze periodic, dar nu mai rar decât o dată pe an (cel târziu în primul semestru al anului următor celui de gestiune), salariații și/sau reprezentanții lor cu privire la diferența de gen de salarizare pe categorie de salariați și de funcții.
 
-(24) Angajatorul trebuie să pună la dispoziția salariaților, într-un mod ușor accesibil, informația privind criteriile utilizate pentru sistemul de evaluare și clasificare a funcțiilor pentru stabilirea nivelurilor de salarizare, aplicat în unitate.
+(2⁴) Angajatorul trebuie să pună la dispoziția salariaților, într-un mod ușor accesibil, informația privind criteriile utilizate pentru sistemul de evaluare și clasificare a funcțiilor pentru stabilirea nivelurilor de salarizare, aplicat în unitate.
 
 (3) Salariul este confidenţial şi garantat.
 
@@ -2851,7 +2851,7 @@ Articolul 136. Sistemul tarifar de salarizare
 
 (5) - abrogat.
 
-Articolul 1361. Sisteme netarifare de salarizare
+Articolul 136¹. Sisteme netarifare de salarizare
 
 (1) Sistemele netarifare de salarizare reprezintă modalităţi de diferenţiere a salariilor în dependenţă de performanţele individuale şi/sau colective şi funcţia deţinută de salariat.
 
@@ -2885,7 +2885,7 @@ Articolul 139. Retribuirea muncii prestate în condiţii
 
 (3) Listele lucrărilor şi locurilor de muncă cu condiţii grele şi deosebit de grele, vătămătoare şi deosebit de vătămătoare se aprobă de către Guvern după consultarea patronatelor şi sindicatelor.
 
-Articolul 1391. Retribuirea muncii prestate în condiții
+Articolul 139¹. Retribuirea muncii prestate în condiții
 
                           de risc sporit pentru sănătate
 
@@ -2943,7 +2943,7 @@ a) în caz de încetare a contractului individual de muncă cu un salariat care 
 
 b) în caz de încetare a contractului individual de muncă cu un salariat care nu lucrează până în ziua eliberării din serviciu (concediu medical, absenţă nemotivată de la serviciu, privaţiune de libertate etc.) – cel târziu în ziua imediat următoare zilei în care salariatul eliberat a cerut să i se facă achitările;
 
-c) în caz de încetare a contractului individual de muncă prin demisie, înainte de expirarea termenelor indicate la art. 85 alin. (1), (2) și (41) – în ziua eliberării sau la data agreată de părți, dar nu mai târziu de data achitării salariului pentru luna în care a încetat contractul individual de muncă.
+c) în caz de încetare a contractului individual de muncă prin demisie, înainte de expirarea termenelor indicate la art. 85 alin. (1), (2) și (4¹) – în ziua eliberării sau la data agreată de părți, dar nu mai târziu de data achitării salariului pentru luna în care a încetat contractul individual de muncă.
 
 (2) Dacă se contestă cuantumul sumelor ce se cuvin salariatului la eliberare din serviciu, angajatorul este obligat, în orice caz, să-i plătească, în termenele prevăzute la alin.(1), suma necontestată.
 
@@ -3091,9 +3091,9 @@ Articolul 157. Retribuirea muncii suplimentare
 
 (2) În cazul retribuirii muncii în acord cu aplicarea sistemului tarifar de salarizare, pentru munca suplimentară se plăteşte un adaos de cel puţin 50 la sută din salariul tarifar al salariatului de categoria respectivă, remunerat pe unitate de timp pentru primele 2 ore, şi în mărime de cel puţin 100 la sută din acest salariu tarifar – pentru orele următoare, iar cu aplicarea sistemelor netarifare de salarizare – de 50 la sută pentru primele 2 ore şi, respectiv, 100 la sută din salariul minim stabilit pe unitate de timp – pentru orele următoare.
 
-(21) - abrogat.
+(2¹) - abrogat.
 
-(22) Pentru munca suplimentară prestată în conformitate cu art. 104 alin. (8), salariatul primește plata ordinară stabilită pe unitate de timp și un număr de ore libere, remunerate conform salariului de bază, egal cu numărul de ore de muncă suplimentară prestată.
+(2²) Pentru munca suplimentară prestată în conformitate cu art. 104 alin. (8), salariatul primește plata ordinară stabilită pe unitate de timp și un număr de ore libere, remunerate conform salariului de bază, egal cu numărul de ore de muncă suplimentară prestată.
 
 (3) - abrogat.
 
@@ -3103,7 +3103,7 @@ Articolul 158. Compensaţia pentru munca prestată
 
                          sărbătoare nelucrătoare
 
-(1) Cu condiția plății salariului mediu pentru salariații specificați la art. 111 alin. (11), munca prestată în zilele de repaus şi în cele de sărbătoare nelucrătoare este retribuită:
+(1) Cu condiția plății salariului mediu pentru salariații specificați la art. 111 alin. (1¹), munca prestată în zilele de repaus şi în cele de sărbătoare nelucrătoare este retribuită:
 
 a) salariaţilor care lucrează în acord - cel puţin în mărime dublă a tarifului în acord;
 
@@ -3171,7 +3171,7 @@ Articolul 165. Salariul mediu
 
 (3) Modul de calculare a salariului mediu al salariatului este unic şi se stabileşte de Guvern.
 
-Articolul 1651. Ajutorul material
+Articolul 165¹. Ajutorul material
 
 Angajatorul este în drept să acorde anual salariaţilor ajutor material în modul şi condiţiile prevăzute de contractul colectiv de muncă, de alt act normativ la nivel de unitate şi/sau de actele normative în vigoare. Ajutorul material poate fi acordat salariatului, în baza cererii lui scrise, în orice timp al anului ori adăugat la indemnizaţia de concediu (art.117).
 
@@ -3341,7 +3341,7 @@ Articolul 178. Garanţii şi compensaţii acordate
 
 (1) Salariaților trimiși de către angajator la programe de studii acreditate în condițiile legii în cadrul învățământului profesional tehnic, superior de licență sau superior de master cu frecvență redusă li se stabilește durata redusă a timpului de muncă, li se acordă concedii suplimentare, cu menținerea integrală sau parțială a salariului mediu, și alte înlesniri, în modul stabilit de Guvern.
 
-(11) Salariaților care, din proprie inițiativă, s-au înmatriculat la programe de studii acreditate în condițiile legii în cadrul învățământului profesional tehnic, superior de licență sau superior de master cu frecvență redusă li se acordă anumite garanții și compensații în modul prevăzut de contractul colectiv sau de cel individual de muncă.
+(1¹) Salariaților care, din proprie inițiativă, s-au înmatriculat la programe de studii acreditate în condițiile legii în cadrul învățământului profesional tehnic, superior de licență sau superior de master cu frecvență redusă li se acordă anumite garanții și compensații în modul prevăzut de contractul colectiv sau de cel individual de muncă.
 
 (2) În contractul colectiv de muncă, în alt act normativ la nivel de unitate şi în convenţiile colective pentru salariaţii menţionaţi la alin.(1) pot fi prevăzute înlesniri suplimentare din contul mijloacelor unităţii.
 
@@ -3433,7 +3433,7 @@ a) cu 2 luni înainte – în caz de concediere în legătură cu lichidarea uni
 
 b) cu o lună înainte – în caz de concediere în legătură cu constatarea îndeplinirii nesatisfăcătoare, în mod repetat, pe parcursul unui an, a indicatorilor de performanță individuală, conform procedurii de evaluare implementate de către angajator în temeiul art. 86 alin. (1) lit. e);
 
-c) cu 14 zile calendaristice înainte – în caz de concediere din motivul deținerii de către salariat a statutului de pensionar pentru limită de vârstă (art. 86 alin. (1) lit. y1)).
+c) cu 14 zile calendaristice înainte – în caz de concediere din motivul deținerii de către salariat a statutului de pensionar pentru limită de vârstă (art. 86 alin. (1) lit. y¹)).
 
 (2) În perioadele prevăzute la alin.(1), salariatului i se acordă cel puţin o zi lucrătoare pe săptămână, cu menţinerea salariului mediu, pentru căutarea unui alt loc de muncă.
 
@@ -3449,7 +3449,7 @@ Articolul 185. Garanţii în cazul încetării contractului
 
 (2) Noul proprietar acordă persoanelor concediate conform alin.(1) câte o compensaţie suplimentară dacă acest lucru este prevăzut de contractul individual de muncă.
 
-Articolul 1851. Garanții în caz de concedieri colective
+Articolul 185¹. Garanții în caz de concedieri colective
 
 (1) Concedierile colective sunt concedierile efectuate de angajator din unul sau din mai multe motive neimputabile salariatului, dacă, într-o perioadă de 30 de zile, numărul concedierilor constituie:
 
@@ -3503,7 +3503,7 @@ Notă: În cazul plasării persoanei concediate în câmpul muncii pe parcursul 
 
 a) constatarea faptului că salariatul nu corespunde funcţiei deţinute sau muncii prestate din cauza stării de sănătate, în conformitate cu certificatul medical respectiv, sau ca urmare a calificării insuficiente confirmate prin hotărârea comisiei de atestare (art.86 alin.(1) lit. d) şi e));
 
-b) restabilirea la locul de muncă, conform hotărârii judecătoreşti, a salariatului care a îndeplinit anterior munca respectivă (art. 82 lit. j1));
+b) restabilirea la locul de muncă, conform hotărârii judecătoreşti, a salariatului care a îndeplinit anterior munca respectivă (art. 82 lit. j¹));
 
 c) refuzul salariatului de a fi transferat în altă localitate în legătură cu transferarea unităţii în această localitate (art.86 alin.(1) lit. y)).
 
@@ -3537,11 +3537,11 @@ b) participare ca membri ai echipelor voluntare de pompieri la lichidarea incend
 
 c) în cazurile îndeplinirii altor obligaţii de stat sau obşteşti prevăzute de legislaţia în vigoare.
 
-Articolul 1881. Garanții în cazul activității salariatului
+Articolul 188¹. Garanții în cazul activității salariatului
 
                           în cadrul organelor electorale
 
-(1) Pentru perioada activității în cadrul organelor electorale, salariații pot solicita degrevarea de la locul de muncă de bază în condițiile art. 973 din prezentul cod și ale Codului electoral.
+(1) Pentru perioada activității în cadrul organelor electorale, salariații pot solicita degrevarea de la locul de muncă de bază în condițiile art. 97³ din prezentul cod și ale Codului electoral.
 
 (2) Angajatorul, indiferent de forma juridică de organizare, are obligația de a permite salariaților să desfășoare activități în cadrul organelor electorale, inclusiv să participe la ședințele organelor electorale, dacă acestea se desfășoară în orele de program, în condițiile prezentului cod și ale Codului electoral. Temei pentru desfășurarea activităților în cadrul organelor electorale servesc hotărârile de constituire și de confirmare a componenței nominale a acestora, precum și, după caz, cele privind degrevarea salariaților.
 
@@ -3575,7 +3575,7 @@ Articolul 190. Garanţii acordate salariaţilor donatori
 
 (3) În caz de donare a sângelui sau a derivatelor de sânge în timpul concediului de odihnă anual, în zilele de repaus sau în cele de sărbătoare nelucrătoare, angajatorul este obligat să acorde salariatului donator de sânge o altă zi liberă plătită care, cu acordul scris al salariatului respectiv, poate fi alipită la concediul de odihnă anual.
 
-Articolul 1901. Garanții și compensații acordate
+Articolul 190¹. Garanții și compensații acordate
 
                            salariaților pentru implementarea
 
@@ -3641,7 +3641,7 @@ Articolul 197. Garanţii în domeniul asigurărilor
 
 Salariaţii sunt supuşi asigurării sociale de stat şi beneficiază de toate garanţiile, compensaţiile şi alte plăţi prevăzute de sistemul asigurărilor sociale de stat conform legislaţiei în vigoare.
 
-Articolul 1971. Garanții în caz de reorganizare a unității,
+Articolul 197¹. Garanții în caz de reorganizare a unității,
 
                            schimbare a tipului de proprietate sau a
 
@@ -3671,11 +3671,11 @@ b) anunț public, plasat pe pagina web a unității, după caz; și/sau
 
 c) anunț public, afișat pe un panou informativ cu acces general la sediul unității și la fiecare dintre filialele sau reprezentanțele acesteia.
 
-(6) În cazul în care cedentul și/sau cesionarul preconizează să întreprindă anumite măsuri cu privire la salariații lor, acestea urmează a fi consultate cu reprezentanții salariaților în conformitate cu prevederile art. 421.
+(6) În cazul în care cedentul și/sau cesionarul preconizează să întreprindă anumite măsuri cu privire la salariații lor, acestea urmează a fi consultate cu reprezentanții salariaților în conformitate cu prevederile art. 42¹.
 
 (7) Dacă în procesul de reorganizare a unității, de schimbare a tipului de proprietate sau a proprietarului acesteia sunt preconizate reduceri ale numărului ori statelor de personal, se vor aplica suplimentar prevederile art. 88.
 
-Articolul 1972. Garanții în cazul examenelor medicale
+Articolul 197². Garanții în cazul examenelor medicale
 
                           periodice
 
@@ -3845,7 +3845,7 @@ Articolul 211. Termenul de validitate şi efectele
 
 (3) În interiorul termenului de validitate a sancţiunii disciplinare, salariatului sancţionat nu i se pot aplica stimulări prevăzute la art.203.
 
-Articolul 2111. Încălcarea gravă a obligațiilor de muncă
+Articolul 211¹. Încălcarea gravă a obligațiilor de muncă
 
 Se consideră încălcare gravă a obligațiilor de muncă următoarele acţiuni ale salariatului:
 
@@ -3873,7 +3873,7 @@ EVALUAREA PERFORMANȚEI INDIVIDUALE
 
 A SALARIATULUI
 
-Articolul 2112. Domeniul de aplicare a evaluării
+Articolul 211². Domeniul de aplicare a evaluării
 
                           performanței individuale a salariatului
 
@@ -3883,7 +3883,7 @@ Articolul 2112. Domeniul de aplicare a evaluării
 
 (3) Emiterea ordinului de stabilire a perioadei de evaluare a performanței individuale, informarea salariatului și aprobarea listei evaluatorilor țin de atribuția angajatorului.
 
-Articolul 2113. Indicatorii de performanță individuală
+Articolul 211³. Indicatorii de performanță individuală
 
                           a salariatului
 
@@ -3899,7 +3899,7 @@ c) să reflecte termenele de îndeplinire;
 
 d) să fie realizabili – să poată fi îndepliniți în termenele de realizare prevăzute și cu resursele alocate.
 
-Articolul 2114. Evaluarea performanței individuale
+Articolul 211⁴. Evaluarea performanței individuale
 
                           a salariatului
 
@@ -3917,7 +3917,7 @@ Articolul 2114. Evaluarea performanței individuale
 
 (7) Salariatul are dreptul de a oferi explicații privind îndeplinirea indicatorilor de performanță individuală stabiliți.
 
-Articolul 2115. Rezultatele evaluării performanței
+Articolul 211⁵. Rezultatele evaluării performanței
 
                           individuale și contestarea rezultatelor
 
@@ -4237,19 +4237,19 @@ Articolul 252. Garanţii pentru persoanele care îngrijesc
 
 Garanţiile şi drepturile acordate femeilor cu copii în vârstă de până la 4 ani şi altor persoane care folosesc concediile pentru îngrijirea copilului, prevăzute la art.124, 126 şi 127 (limitarea muncii de noapte, a muncii suplimentare, atragerii la lucru în zilele de repaus şi a trimiterii în deplasare în interes de serviciu, acordarea concediilor suplimentare, stabilirea regimului de muncă privilegiat, alte garanţii şi înlesniri stabilite de legislaţia muncii), se extind, în afara rudelor menţionate la art.124 alin.(4), şi asupra altor persoane care îngrijesc realmente copii lipsiţi de grija maternă (în caz de deces, de decădere din drepturile părinteşti sau de aflare îndelungată a mamei într-o instituţie de tratament, în alte cazuri), precum şi asupra tutorilor (curatorilor) minorilor.
 
-Articolul 2521. Garanţii pentru persoanele care educă
+Articolul 252¹. Garanţii pentru persoanele care educă
 
                            un copil cu dizabilități
 
 Unuia dintre părinţii (tutorelui, curatorului) care educă un copil cu dizabilități i se va acorda suplimentar, în baza unei cereri scrise, o zi liberă pe lună, cu menţinerea salariului mediu din contul angajatorului.
 
-Articolul 2522. Servicii de îngrijire a copiilor cu vârsta
+Articolul 252². Servicii de îngrijire a copiilor cu vârsta
 
                           de până la 3 ani
 
 În vederea asigurării reconcilierii vieții profesionale cu cea de familie, angajatorul poate oferi salariaților servicii de îngrijire a copiilor cu vârsta de până la 3 ani, conform cadrului normativ aprobat de Guvern.
 
-Articolul 2523. Spații prietenoase pentru copii
+Articolul 252³. Spații prietenoase pentru copii
 
 În scopul facilitării echilibrului dintre viața profesională și cea familială, angajatorul poate amenaja spații prietenoase pentru copii în incinta unității, cu acces liber și gratuit, destinate copiilor salariaților cu vârsta de peste 3 ani, pentru frecventare ocazională. Activitățile desfășurate în aceste spații nu constituie servicii educaționale ori sociale autorizate, nu presupun în mod obligatoriu încadrarea de personal specializat și se derulează în conformitate cu recomandările metodologice aprobate de Ministerul Muncii și Protecției Sociale.
 
@@ -4611,23 +4611,23 @@ Articolul 292. Încetarea contractului individual de muncă
 
 Încetarea contractului individual de muncă încheiat cu salariaţii cu munca la domiciliu are loc în temeiurile generale prevăzute de prezentul cod.
 
-Capitolul IX1
+Capitolul IX¹
 
 MUNCA LA DISTANȚĂ
 
-Articolul 2921. Salariații ce prestează munca la distanță
+Articolul 292¹. Salariații ce prestează munca la distanță
 
 (1) Munca la distanță reprezintă forma de organizare a muncii în domeniile de activitate, prin care salariatul își îndeplinește atribuțiile specifice ocupației, funcției sau meseriei pe care o deține în alt loc decât cel organizat de angajator, folosind inclusiv mijloace din domeniul tehnologiei informaţiei şi comunicaţiilor.
 
 (2) Salariații cu munca la distanță sunt salariații care au încheiat un contract individual de muncă sau un acord suplimentar la contractul existent, care conțin clauze de muncă la distanță.
 
-Articolul 2922. Principiile organizării muncii la distanță
+Articolul 292². Principiile organizării muncii la distanță
 
 (1) Salariatul cu munca la distanță se bucură de toate drepturile și garanțiile prevăzute de lege, de contractul colectiv de muncă, de contractul individual de muncă sau de alt act normativ la nivel de unitate aplicabil salariaților al căror loc de muncă este organizat de angajator.
 
 (2) Particularitățile privind munca la distanță pot fi prevăzute în contractul individual de muncă, în contractul colectiv de muncă sau în regulamentul intern al unității, dacă este elaborat și aprobat de angajator, ori în alt act normativ la nivel de unitate.
 
-Articolul 2923. Încheierea, modificarea și conținutul
+Articolul 292³. Încheierea, modificarea și conținutul
 
                           contractului individual de muncă care
 
@@ -4647,13 +4647,13 @@ d) condițiile privind suportarea cheltuielilor aferente activității în regim
 
 e) alte condiții convenite de părți.
 
-Articolul 2924. Organizarea securității și sănătății în muncă
+Articolul 292⁴. Organizarea securității și sănătății în muncă
 
                            pentru salariații cu munca la distanță
 
 Angajatorul organizează securitatea şi sănătatea în muncă a salariaților cu munca la distanță în conformitate cu prevederile Legii securității și sănătății în muncă nr. 186/2008, precum şi ale altor acte normative din domeniul securității și sănătății în muncă.
 
-Articolul 2925. Încetarea contractului individual
+Articolul 292⁵. Încetarea contractului individual
 
                           de muncă privind munca la distanță
 
@@ -5027,11 +5027,11 @@ Articolul 326. Munca în cadrul gospodăriilor ţărăneşti
 
 (3) Activitatea de muncă a membrilor gospodăriilor ţărăneşti (de fermier) este reglementată de Legea privind gospodăriile ţărăneşti (de fermier) şi de alte acte normative.
 
-Capitolul XVI1
+Capitolul XVI¹
 
 MUNCA PRIN AGENT DE MUNCĂ TEMPORARĂ
 
-Articolul 3261. Dispoziții generale
+Articolul 326¹. Dispoziții generale
 
 (1) Munca prin agent de muncă temporară este munca prestată de un salariat temporar care a încheiat un contract individual de muncă cu un agent de muncă temporară și care este pus la dispoziția utilizatorului pentru a lucra temporar sub supravegherea și conducerea acestuia.
 
@@ -5047,7 +5047,7 @@ Articolul 3261. Dispoziții generale
 
 (7) Agentul de muncă temporară nu are dreptul să perceapă de la salariatul temporar niciun fel de plată, comision sau taxă pentru recrutare, angajare sau pentru desfășurarea unei misiuni de muncă temporară la utilizator.
 
-Articolul 3262. Notificarea privind desfășurarea activității
+Articolul 326². Notificarea privind desfășurarea activității
 
                            de agent de muncă temporară
 
@@ -5081,7 +5081,7 @@ b) conține date false cu privire la identitatea agentului de muncă temporară 
 
 (9) Persoanele vinovate de încălcarea regimului de notificare poartă răspundere în conformitate cu legislația.
 
-Articolul 3263. Misiunea de muncă temporară
+Articolul 326³. Misiunea de muncă temporară
 
 (1) Utilizatorul poate recurge la salariați temporari, puși la dispoziție de un agent de muncă temporară, pentru executarea unei sarcini determinate și cu caracter temporar în cadrul unei misiuni de muncă temporară.
 
@@ -5089,13 +5089,13 @@ Articolul 3263. Misiunea de muncă temporară
 
 (3) Misiunea de muncă temporară poate fi prelungită prin perioade succesive, cu condiția ca durata totală, inclusiv prelungirile, să nu depășească 24 de luni.
 
-(4) Condițiile de prelungire a unei misiuni de muncă temporară se stabilesc prin contractul individual de muncă sau printr-un acord adițional la acesta, precum și în corelare cu prevederile art. 3266.
+(4) Condițiile de prelungire a unei misiuni de muncă temporară se stabilesc prin contractul individual de muncă sau printr-un acord adițional la acesta, precum și în corelare cu prevederile art. 326⁶.
 
 (5) Utilizatorul nu poate recurge la mai mult de 3 misiuni succesive, realizate de același salariat temporar, pentru executarea aceleiași sarcini. În toate cazurile, durata totală a misiunilor de muncă temporară nu poate depăși termenul maxim prevăzut la alin. (3).
 
 (6) Agentul de muncă temporară are dreptul să verifice dacă sarcinile efectiv îndeplinite de salariații temporari corespund condițiilor de muncă prevăzute în contractele individuale de muncă ale acestora.
 
-Articolul 3264. Restricții de utilizare a muncii printr-un
+Articolul 326⁴. Restricții de utilizare a muncii printr-un
 
                           agent de muncă temporară
 
@@ -5111,7 +5111,7 @@ c) pe durata șomajului tehnic instituit de utilizator, dacă salariații tempor
 
 d) în scopul înlocuirii funcțiilor prevăzute în statele de personal ale utilizatorului, a căror ocupare este necesară pentru eliberarea unui act permisiv ori pentru dobândirea calității de membru într-o organizație profesională sau într-o autoritate de reglementare.
 
-Articolul 3265. Drepturi specifice ale salariatului
+Articolul 326⁵. Drepturi specifice ale salariatului
 
                            temporar
 
@@ -5119,7 +5119,7 @@ Articolul 3265. Drepturi specifice ale salariatului
 
 (2) Utilizatorul asigură salariatul temporar cu echipamente individuale de protecție și de lucru, cu excepția situației în care, prin contractul de punere la dispoziție a salariatului temporar, dotarea este în sarcina agentului de muncă temporară.
 
-(3) Salariatul temporar este informat de utilizator cu privire la existența locurilor de muncă vacante, pentru a putea candida la ocuparea unui loc de muncă permanent, conform prevederilor art. 421.
+(3) Salariatul temporar este informat de utilizator cu privire la existența locurilor de muncă vacante, pentru a putea candida la ocuparea unui loc de muncă permanent, conform prevederilor art. 42¹.
 
 (4) Salarizarea salariatului temporar se efectuează de către agentul de muncă temporară.
 
@@ -5137,7 +5137,7 @@ a) numărul salariaților temporari ce activează în unitate și durata misiuni
 
 b) funcțiile exercitate de salariații temporari și locul desfășurării activității acestora.
 
-Articolul 3266. Condiții suplimentare pentru
+Articolul 326⁶. Condiții suplimentare pentru
 
                            contractul individual de muncă
 
@@ -5163,7 +5163,7 @@ g) obligația salariatului temporar de a respecta prevederile actelor interne al
 
 (4) După finalizarea misiunii de muncă temporară, dacă contractul individual de muncă nu a încetat până la punerea la dispoziție pentru o nouă misiune de muncă temporară, salariatul temporar se află la dispoziția agentului de muncă temporară.
 
-Articolul 3267. Contractul de punere la dispoziție
+Articolul 326⁷. Contractul de punere la dispoziție
 
                             a salariatului temporar
 
@@ -5195,31 +5195,31 @@ k) alte clauze contractuale stabilite de prezentul cod.
 
 (3) Raporturile dintre agentul de muncă temporară și utilizator se reglementează în conformitate cu Codul civil.
 
-Articolul 3268. Angajarea salariatului temporar
+Articolul 326⁸. Angajarea salariatului temporar
 
                            de către utilizator
 
 (1) Până la finalizarea misiunii de muncă temporară, utilizatorul poate încheia un contract individual de muncă cu salariatul temporar. În acest caz, utilizatorul va achita agentului de muncă temporară o sumă negociată, stabilită prin contractul de punere la dispoziție a salariatului temporar, cu titlu de compensație pentru serviciile prestate.
 
-(2) La încetarea misiunii de muncă temporară, salariatul temporar poate încheia cu utilizatorul un contract individual de muncă în condiții generale. Orice clauză care interzice angajarea de către utilizator a salariatului temporar după finalizarea misiunii de muncă temporară este nulă, cu excepția cazului în care părțile negociază o clauză de neconcurență conform art. 531, respectând condițiile și limitele stabilite.
+(2) La încetarea misiunii de muncă temporară, salariatul temporar poate încheia cu utilizatorul un contract individual de muncă în condiții generale. Orice clauză care interzice angajarea de către utilizator a salariatului temporar după finalizarea misiunii de muncă temporară este nulă, cu excepția cazului în care părțile negociază o clauză de neconcurență conform art. 53¹, respectând condițiile și limitele stabilite.
 
 (3) În cazul în care utilizatorul angajează salariatul temporar, în aceeași funcție sau într-o funcție echivalentă, în termen de 30 de zile de la încetarea ultimei misiuni, activitatea desfășurată de salariat în cadrul misiunii temporare va fi luată în considerare ca vechime în muncă în cadrul unității, în scopul determinării drepturilor sale salariale, concediului de odihnă și a altor beneficii prevăzute de legislația muncii.
 
-Articolul 3269. Soluționarea litigiilor individuale
+Articolul 326⁹. Soluționarea litigiilor individuale
 
                            de muncă
 
 Litigiile individuale de muncă care nu au fost soluționate între salariatul temporar și agentul de muncă temporară pe cale amiabilă se soluționează de către instanța de judecată în condițiile prezentului cod (titlul XII).
 
-Capitolul XVI2
+Capitolul XVI²
 
 MUNCA CE IMPLICĂ CONTACT REGULAT CU COPIII
 
-Articolul 32610. Noțiunea de contact regulat cu copiii
+Articolul 326¹⁰. Noțiunea de contact regulat cu copiii
 
 Prin contact regulat cu copiii se înțelege interacțiunea directă cu unul sau mai mulți copii, în mod fizic sau prin intermediul tehnologiilor informaționale și al mijloacelor de comunicare, care decurge din atribuțiile funcției ori din natura activității desfășurate și implică, în mod obișnuit, îngrijirea, supravegherea, protecția, educarea, instruirea, evaluarea, tratamentul sau consilierea copiilor. Sunt asimilate contactului regulat cu copiii și situațiile în care exercitarea funcției sau desfășurarea activității oferă acces direct și nesupravegheat la copii ori presupune comunicarea individuală cu aceștia prin mijloace electronice, chiar dacă interacțiunea nu are caracter repetat. Aceste activități pot fi desfășurate în domenii precum educația, sănătatea, protecția socială, justiția, ordinea publică, sportul, cultura și activitățile recreative, fără a se limita însă la domeniile respective.
 
-Articolul 32611. Interdicții privind angajarea în funcții ce implică
+Articolul 326¹¹. Interdicții privind angajarea în funcții ce implică
 
                            contact regulat cu copiii
 
@@ -5231,7 +5231,7 @@ b) care au fost anterior condamnate printr-o hotărâre judecătorească definit
 
 (2) În cazul funcțiilor ce implică îngrijirea și educarea copilului în familia, la domiciliul sau reședința temporară a persoanei care urmează a fi angajată, interdicția de angajare poate fi aplicată numai dacă, în urma evaluării condițiilor de trai și a persoanelor care locuiesc în aceeași gospodărie, autoritatea tutelară constată existența unui risc actual, concret și semnificativ pentru siguranța, sănătatea, dezvoltarea sau bunăstarea copilului. Existența unei dizabilități, a unei măsuri de ocrotire judiciară sau a unei condiții de sănătate în privința unei persoane care locuiește în aceeași gospodărie nu constituie, în sine, temei pentru interzicerea angajării sau pentru refuzul plasamentului copilului, cu excepția cazului în care riscul constatat nu poate fi înlăturat prin măsuri rezonabile de sprijin, supraveghere sau protecție.
 
-Articolul 32612. Documentele necesare la angajarea într-o funcție
+Articolul 326¹². Documentele necesare la angajarea într-o funcție
 
                            ce implică contact regulat cu copiii
 
@@ -5239,11 +5239,11 @@ Articolul 32612. Documentele necesare la angajarea într-o funcție
 
 1) certificatul de cazier detaliat, care să ateste:
 
-a) lipsa antecedentelor penale pentru infracțiunea prevăzută la art. 32611 alin. (1) lit. b);
+a) lipsa antecedentelor penale pentru infracțiunea prevăzută la art. 326¹¹ alin. (1) lit. b);
 
 b) lipsa condamnării, printr-o hotărâre judecătorească definitivă, pentru infracțiuni cu caracter sexual asupra unui copil, indiferent de stingerea sau anularea antecedentelor penale pentru aceste infracțiuni;
 
-2) declarația pe propria răspundere privind lipsa calității de bănuit, învinuit sau inculpat într-o cauză penală pentru infracțiunea prevăzută la art. 32611 alin. (1) lit. b).
+2) declarația pe propria răspundere privind lipsa calității de bănuit, învinuit sau inculpat într-o cauză penală pentru infracțiunea prevăzută la art. 326¹¹ alin. (1) lit. b).
 
 (2) În cazul ocupării funcțiilor ce implică contact regulat cu copiii de către cetățeni străini sau apatrizi care domiciliază pe teritoriul Republicii Moldova o perioadă mai mică de 12 luni, certificatul de cazier detaliat, prevăzut la alin. (1), se prezintă de către aceștia inclusiv din țara în care au avut reședința obișnuită în ultimii 5 ani până la legalizarea șederii pe teritoriul Republicii Moldova.
 
@@ -5251,21 +5251,21 @@ b) lipsa condamnării, printr-o hotărâre judecătorească definitivă, pentru 
 
 (4) În lipsa documentelor prevăzute la alin. (1), angajarea persoanelor în funcții ce implică contact regulat cu copiii se interzice.
 
-Articolul 32613. Temeiuri suplimentare pentru suspendarea și/sau încetarea
+Articolul 326¹³. Temeiuri suplimentare pentru suspendarea și/sau încetarea
 
                             contractului individual de muncă încheiat cu salariatul
 
                             angajat într-o funcție ce implică contact regulat cu copiii
 
-(1) Suplimentar la cazurile de suspendare a contractului individual de muncă în temeiurile prevăzute de prezentul cod, contractul individual de muncă încheiat cu salariatul angajat într-o funcție ce implică contact regulat cu copiii se suspendă, în circumstanțe ce nu depind de voința părților, în cazul atribuirii în raport cu acesta a calității de bănuit, învinuit sau inculpat într-o cauză penală pentru infracțiunea prevăzută la art. 32611 alin. (1) lit. b). Suspendarea contractului individual de muncă intervine și în cazul atribuirii calității procesuale într-o cauză penală pentru infracțiunea prevăzută la art. 32611 alin. (1) lit. b) în raport cu un membru al familiei salariatului, dacă îngrijirea și educarea copilului se realizează, pentru o perioadă determinată, în familia sau la domiciliul salariatului respectiv.
+(1) Suplimentar la cazurile de suspendare a contractului individual de muncă în temeiurile prevăzute de prezentul cod, contractul individual de muncă încheiat cu salariatul angajat într-o funcție ce implică contact regulat cu copiii se suspendă, în circumstanțe ce nu depind de voința părților, în cazul atribuirii în raport cu acesta a calității de bănuit, învinuit sau inculpat într-o cauză penală pentru infracțiunea prevăzută la art. 326¹¹ alin. (1) lit. b). Suspendarea contractului individual de muncă intervine și în cazul atribuirii calității procesuale într-o cauză penală pentru infracțiunea prevăzută la art. 326¹¹ alin. (1) lit. b) în raport cu un membru al familiei salariatului, dacă îngrijirea și educarea copilului se realizează, pentru o perioadă determinată, în familia sau la domiciliul salariatului respectiv.
 
 (2) Suspendarea contractului individual de muncă în conformitate cu alin. (1) se realizează din ziua recepționării de către angajator a informației corespunzătoare, confirmată printr-un act procedural emis și expediat angajatorului de către organele abilitate cu atribuții de inițiere a cauzei penale.
 
 (3) Suspendarea încetează la retragerea calității procesuale, la scoaterea persoanei de sub urmărire penală, la încetarea procesului penal sau la pronunțarea unei hotărâri definitive de achitare. Angajatorul dispune reluarea raporturilor de muncă în termen de cel mult 3 zile lucrătoare de la primirea actului corespunzător.
 
-(4) În cazul săvârșirii cu intenție de către salariatul angajat într-o funcție ce implică contact regulat cu copiii a infracțiunii prevăzute la art. 32611 alin. (1) lit. b), stabilită prin hotărârea definitivă a instanței de judecată, contractul individual de muncă încheiat cu acesta încetează, în circumstanțe ce nu depind de voința părților, din ziua recepționării de către angajator a hotărârii respective.
+(4) În cazul săvârșirii cu intenție de către salariatul angajat într-o funcție ce implică contact regulat cu copiii a infracțiunii prevăzute la art. 326¹¹ alin. (1) lit. b), stabilită prin hotărârea definitivă a instanței de judecată, contractul individual de muncă încheiat cu acesta încetează, în circumstanțe ce nu depind de voința părților, din ziua recepționării de către angajator a hotărârii respective.
 
-Articolul 32614. Obligația de instruire a salariaților angajați în
+Articolul 326¹⁴. Obligația de instruire a salariaților angajați în
 
                             funcții ce implică contact regulat cu copiii
 
@@ -5351,7 +5351,7 @@ Articolul 331. Răspunderea materială a angajatorului
 
 (2) Prin acordul părţilor, prejudiciul material poate fi reparat în natură.
 
-Articolul 3311. Răspunderea materială a angajatorului
+Articolul 331¹. Răspunderea materială a angajatorului
 
                           pentru nerespectarea obligațiilor ce
 
@@ -5431,7 +5431,7 @@ Articolul 337. Răspunderea materială deplină
 
 (1) Răspunderea materială deplină a salariatului constă în obligaţia lui de a repara integral prejudiciul material cauzat.
 
-(2) Salariatul poate fi tras la răspundere materială deplină pentru prejudiciul material cauzat doar în cazurile prevăzute la art.338 și 3381.
+(2) Salariatul poate fi tras la răspundere materială deplină pentru prejudiciul material cauzat doar în cazurile prevăzute la art.338 și 338¹.
 
 (3) Salariaţii în vârstă de până la 18 ani poartă răspundere materială deplină doar pentru cauzarea intenţionată a prejudiciului material, precum şi pentru prejudiciul cauzat în stare de ebrietate alcoolică, în stare cauzată de substanțe stupefiante sau toxice, stabilită în modul prevăzut la art.76 lit. k), sau în urma comiterii unei infracţiuni.
 
@@ -5465,7 +5465,7 @@ c) ţinerii incorecte a evidenţei contabile sau al păstrării incorecte a valo
 
 d) altor circumstanţe, în cazurile prevăzute de legislaţia în vigoare.
 
-Articolul 3381. Răspunderea materială deplină
+Articolul 338¹. Răspunderea materială deplină
 
                           a salariaților pentru fapte de violență
 
@@ -5619,7 +5619,7 @@ a) concilierea intereselor divergente ale părţilor, ce decurg din raporturile 
 
 b) dreptul salariaţilor de a fi apăraţi de reprezentanţii lor;
 
-b1) dreptul angajatorilor de a fi apăraţi de patronate;
+b¹) dreptul angajatorilor de a fi apăraţi de patronate;
 
 c) scutirea salariaţilor şi a reprezentanţilor acestora de cheltuielile judiciare;
 
@@ -5929,7 +5929,7 @@ Articolul 372. Inspectoratul de Stat al Muncii
 
 (1) Inspectoratul de Stat al Muncii este autoritate administrativă, subordonată Ministerului Muncii și Protecției Sociale, care exercită controlul de stat asupra respectării actelor legislative şi a altor acte normative ce conţin norme ale dreptului muncii, securității și sănătății în muncă, a convenţiilor colective şi a contractelor colective de muncă la toate unităţile, de către angajatori persoane fizice, precum şi în autorităţile publice centrale şi locale.
 
-(11) Modul, condiţiile şi procedura efectuării la unităţi a controlului prevăzut la alin.(1) se stabilesc expres în lege.
+(1¹) Modul, condiţiile şi procedura efectuării la unităţi a controlului prevăzut la alin.(1) se stabilesc expres în lege.
 
 (2) Ministerul Apărării, Ministerul Afacerilor Interne, Serviciul de Informaţii şi Securitate, Serviciul de Protecţie şi Pază de Stat, Administrația Națională a Penitenciarelor, Centrul Naţional Anticorupţie organizează activităţi de inspecţie a muncii prin serviciile lor de specialitate, care au competenţă numai pentru structurile din subordine.
 
@@ -5995,7 +5995,7 @@ i) să conteste, în modul stabilit, actele normative care lezează drepturile d
 
 (4) La depistarea în unităţi a nerespectării cerinţelor de protecţie a muncii, a tăinuirii accidentelor de muncă şi a cazurilor de contractare a bolilor profesionale ori a cercetării neobiective a acestor fapte, sindicatele sunt în drept să ceară conducătorilor acestor unităţi, autorităţilor publice competente luarea unor măsuri urgente, inclusiv întreruperea lucrărilor şi suspendarea deciziilor angajatorului care contravin legislaţiei cu privire la protecţia muncii, tragerea persoanelor vinovate la răspundere în conformitate cu legislaţia în vigoare, cu convenţiile colective şi cu contractele colective de muncă.
 
-(41) La depistarea în unități a cazurilor de discriminare și de hărțuire sexuală la locul de muncă, precum și a condițiilor ce le favorizează, organele sindicale înaintează conducătorilor acestor unități și/sau autorităților publice competente, după caz, recomandări concrete de prevenire și combatere a acestora.
+(4¹) La depistarea în unități a cazurilor de discriminare și de hărțuire sexuală la locul de muncă, precum și a condițiilor ce le favorizează, organele sindicale înaintează conducătorilor acestor unități și/sau autorităților publice competente, după caz, recomandări concrete de prevenire și combatere a acestora.
 
 (5) Angajatorii sunt obligaţi să examineze, în termen de 7 zile lucrătoare de la data înaintării (înregistrării), cerinţele sindicatelor şi să informeze în scris organul sindical despre rezultatele examinării şi măsurile întreprinse pentru înlăturarea încălcărilor depistate.
 

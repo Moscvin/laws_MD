@@ -15,7 +15,7 @@ from pathlib import Path
 LEGI = Path(__file__).parent / "legi"
 MAX_BUCATA = 3500
 
-RE_ARTICOL = re.compile(r"^\s*Art(?:icolul|\.)\s*(\d+(?:[\^/]\d+)?)\s*[.\-–]?\s*(.*)$", re.M)
+RE_ARTICOL = re.compile(r"^\s*Art(?:icolul|\.)\s*(\d+[⁰¹²³⁴⁵⁶⁷⁸⁹]*)\s*[.\-–]?\s*(.*)$", re.M)
 CUVINTE_GOALE = set(
     "si sau de la in din pe cu care ce se sa nu a al ai ale este sunt fi fost pentru prin "
     "catre dupa mai cel cea cei cele lui unui unei un o ca daca acest aceasta acestei "

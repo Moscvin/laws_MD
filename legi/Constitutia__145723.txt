@@ -663,11 +663,11 @@ Protecţia mediului înconjurător
 
 Protecţia mediului înconjurător, conservarea şi ocrotirea monumentelor istorice şi culturale constituie o obligaţie a fiecărui cetăţean.
 
-Capitolul III1
+Capitolul III¹
 
 AVOCATUL  POPORULUI
 
-Articolul 591
+Articolul 59¹
 
 Statutul și rolul Avocatului Poporului
 
@@ -1175,7 +1175,7 @@ Actele Guvernului
 
 (2) Hotărârile se adoptă pentru organizarea executării legilor.
 
-(3) Ordonanţele se emit în condiţiile articolului 1062.
+(3) Ordonanţele se emit în condiţiile articolului 106².
 
 (4) Hotărârile şi ordonanţele adoptate de Guvern se semnează de Prim-ministru, se contrasemnează de miniştrii care au obligaţia punerii lor în executare şi se publică în Monitorul Oficial al Republicii Moldova.  Nepublicarea atrage inexistenţa hotărârii sau ordonanţei.
 
@@ -1219,7 +1219,7 @@ Exprimarea neîncrederii
 
 (2) Iniţiativa de exprimare a neîncrederii se examinează după 3 zile de la data prezentării în Parlament.
 
-Articolul 1061
+Articolul 106¹
 
 Angajarea răspunderii Guvernului
 
@@ -1229,7 +1229,7 @@ Angajarea răspunderii Guvernului
 
 (3) Dacă Guvernul nu a fost demis potrivit alineatului (2), proiectul de lege prezentat se consideră adoptat, iar programul sau declaraţia de politică generală devine obligatorie pentru Guvern.
 
-Articolul 1062
+Articolul 106²
 
 Delegarea legislativă
 
@@ -1361,7 +1361,7 @@ Statutul judecătorilor
 
 (5) Deciziile privind numirea judecătorilor și cariera acestora trebuie să fie adoptate în baza unor criterii obiective, bazate pe merit, și a unei proceduri transparente, în condițiile legii. Promovarea sau transferul judecătorilor se face doar cu acordul acestora.
 
-(51) Judecătorii au doar imunitate funcțională în condițiile legii.
+(5¹) Judecătorii au doar imunitate funcțională în condițiile legii.
 
 (6) Sancţionarea judecătorilor se face în conformitate cu legea.
 
@@ -1405,7 +1405,7 @@ judecătoreşti, indemnizaţia şi alte drepturi
 
 (1) Resursele financiare ale instanţelor judecătoreşti sunt aprobate de Parlament şi sunt incluse în bugetul de stat.
 
-(11) În procesul elaborării, aprobării și modificării bugetului instanțelor judecătorești se solicită avizul consultativ al Consiliului Superior al Magistraturii. Consiliul Superior al Magistraturii este în drept să prezinte Parlamentului propuneri la proiectul bugetului instanțelor judecătorești.
+(1¹) În procesul elaborării, aprobării și modificării bugetului instanțelor judecătorești se solicită avizul consultativ al Consiliului Superior al Magistraturii. Consiliul Superior al Magistraturii este în drept să prezinte Parlamentului propuneri la proiectul bugetului instanțelor judecătorești.
 
 (2) Indemnizaţiile şi alte drepturi ale judecătorilor sunt stabilite prin lege.
 
@@ -1415,7 +1415,7 @@ Secţiunea a 2-a
 
 Consiliul Superior al Magistraturii
 
-Articolul 1211
+Articolul 121¹
 
 Rolul
 
@@ -1467,7 +1467,7 @@ Procurorul
 
 (3) Numirea, transferarea, promovarea și demiterea procurorilor ierarhic inferiori se efectuează de către Procurorul General, la propunerea Consiliului Superior al Procurorilor.
 
-Articolul 1251
+Articolul 125¹
 
 Consiliul Superior al Procurorilor
 
@@ -1659,11 +1659,11 @@ Hotărârile Curţii Constituţionale
 
 (2) Hotărârile Curţii Constituţionale sunt definitive şi nu pot fi atacate.
 
-Titlul V1
+Titlul V¹
 
 INTEGRAREA ÎN UNIUNEA EUROPEANĂ
 
-Articolul 1401
+Articolul 140¹
 
 Aderarea la tratatele constitutive și la actele
 
