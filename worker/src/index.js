@@ -16,6 +16,12 @@ const SINONIME = {
   diminea: "noptii zilei",
   noapt: "noptii",
   seara: "noptii",
+  cumpar: "consumator vanzator",
+  magazin: "vanzator consumator",
+  stric: "neconformitate defect",
+  defect: "neconformitate",
+  frigider: "produs bun",
+  garan: "garantie",
   buletin: "identitate legitimare",
   pasaport: "identitate legitimare",
   acte: "identitate legitimare",
@@ -46,7 +52,8 @@ Reguli comune:
 - Fiecare afirmație trebuie să rezulte direct din textul articolului citat. Citează doar articole care chiar susțin afirmația; nu adăuga articole doar pentru că apar în fragmente.
 - Dacă legea nu spune explicit ceva (de ex. nu prevede nici dreptul, nici interdicția), spune „legea nu prevede expres” în loc să deduci.
 - Dacă fragmentele nu acoperă întrebarea, spune asta într-o propoziție. NU inventa articole, numere sau sume.
-- Fără formatare Markdown (fără **, #, tabele); doar text simplu.`;
+- Fără formatare Markdown (fără **, #, tabele); doar text simplu.
+- Scrie DOAR în limba română (sau rusă, dacă întrebarea e în rusă), cu alfabetul latin sau chirilic. Niciun alt alfabet.`;
 
 const SISTEM_SCURT = `${SISTEM}
 FORMAT SCURT (obligatoriu, maxim 600 de caractere în total):
@@ -441,7 +448,7 @@ async function cautaLegi(env, intrebare, intrebareAnterioara) {
 
   for (const termeniQ of interogari) {
     // Cuvintele care apar în sute de articole („Chișinău”, „locuri”) nu ajută și acoperă cuvintele rare.
-    let utili = termeniQ.filter((x) => dfs[x] > 0 && dfs[x] <= 400);
+    let utili = termeniQ.filter((x) => dfs[x] > 0 && dfs[x] <= 2000);
     if (!utili.length) {
       // Toți termenii sunt comuni: păstrăm cei mai rari dintre ei, ca să nu rămânem fără rezultate.
       utili = termeniQ.filter((x) => dfs[x] > 0).sort((a, b) => dfs[a] - dfs[b]).slice(0, 2);
@@ -452,6 +459,8 @@ async function cautaLegi(env, intrebare, intrebareAnterioara) {
       ...(await ia(utili.map((x) => `${x}*`).join(" OR "), 60)),
       // Articolele al căror titlu conține cuvintele cele mai rare (ex. „percheziție” -> art. 125-132 CPP).
       ...(await ia(`titlu : (${rari.map((x) => `${x}*`).join(" OR ")})`, 30)),
+      // Articolele al căror titlu conține oricare dintre cuvintele întrebării („Forma contractului individual de muncă”).
+      ...(await ia(`titlu : (${utili.map((x) => `${x}*`).join(" OR ")})`, 60)),
       // Articolele care conțin împreună cele mai rare două cuvinte.
       ...(rari.length >= 2 ? await ia(rari.slice(0, 2).map((x) => `${x}*`).join(" AND "), 30) : []),
     ];
