@@ -1,0 +1,580 @@
+TITLU: Legea nr. 1585/1998 cu privire la asigurarea obligatorie de asistență medicală
+SURSA: https://www.legis.md/cautare/getResults?doc_id=155334&lang=ro
+
+Republica Moldova
+
+											PARLAMENTUL
+
+											LEGE Nr.												1585
+din  27-02-1998
+
+											cu privire la asigurarea obligatorie
+
+de asistenţă medicală
+
+										Publicat : 30-04-1998
+												în  Monitorul Oficial												Nr.												38-39 art.												280
+
+										MODIFICAT
+
+LP127 din 02.07.26, MO305-308/14.07.26 art.322; în vigoare 14.08.26
+
+Parlamentul adoptă prezenta lege organică
+
+Capitolul I
+
+DISPOZIŢII GENERALE
+
+Articolul 1. Noțiunea de asigurare obligatorie
+
+                    de asistență medicală
+
+(1) Asigurarea obligatorie de asistență medicală reprezintă un sistem autonom garantat de stat de protecţie financiară a populaţiei în domeniul ocrotirii sănătăţii prin constituirea, pe principii de solidaritate, din contul primelor de asigurare a unor fonduri bănești destinate pentru acoperirea cheltuielilor de tratare a stărilor condiționate de survenirea evenimentelor asigurate (maladie sau afecțiune). Sistemul asigurării obligatorii de asistență medicală oferă cetățenilor Republicii Moldova posibilităţi egale în obţinerea asistenţei medicale oportune şi calitative.
+
+Articolul 2. Programul unic al asigurării obligatorii
+
+                    de asistență medicală
+
+(1) Volumul asistenței medicale, acordate în cadrul asigurării obligatorii de asistență medicală, se prevede în Programul unic al asigurării obligatorii de asistență medicală denumit în continuare Program unic, care este elaborat de Ministerul Sănătății și aprobat de Guvern.
+
+(2) Programul unic cuprinde lista maladiilor și stărilor ce necesită asistență medicală finanțată din mijloacele asigurării obligatorii de asistență medicală.
+
+Articolul 3. Obiectul asigurării
+
+Obiect al asigurării obligatorii de asistență medicală este riscul asigurat, legat de cheltuielile pentru acordarea volumului necesar de asistență medicală și farmaceutică, prevăzută în Programul unic.
+
+Articolul 4. Subiecții asigurării
+
+(1) Subiecți ai asigurării obligatorii de asistență medicală sunt:
+
+a) asiguratul;
+
+b) persoana asigurată;
+
+c) asigurătorul;
+
+d) prestator de servicii medicale şi farmaceutice;
+
+e) furnizorul de medicamente și dispozitive medicale.
+
+(2) Asiguratul este persoana fizică obligată prin lege să își asigure riscul propriu de a se îmbolnăvi sau Guvernul, pentru categoriile de persoane prevăzute la alin. (4).
+
+(3) Asigurat pentru persoanele angajate (salariaţi) este însăși persoana angajată, inclusiv persoana fizică, alta decât cea angajată prin contract individual de muncă.
+
+(4) Guvernul are calitatea de asigurat pentru următoarele categorii de persoane neangajate cu domiciliul în Republica Moldova şi aflate la evidenţa instituţiilor abilitate ale Republicii Moldova, specificate la alin.(9), cu excepţia persoanelor obligate prin lege să se asigure în mod individual:
+
+a) copiii cu vârsta de pînă la 18 ani;
+
+b) elevii şi studenții încadrați în sistemul de învățământ la nivelurile 3–8, conform art. 12 din Codul educaţiei al Republicii Moldova, cu frecvență, inclusiv cei care îşi fac studiile peste hotarele ţării;
+
+b¹) audienții cursurilor de formare inițială a candidaților la funcțiile de judecător și de procuror;
+
+c) - g) - abrogate;
+
+h) gravidele, parturientele, lăuzele și mamele care își îngrijesc copiii până la vârsta de 2 ani;
+
+i) persoanele cu dizabilităţi severe, accentuate sau medii;
+
+j) pensionari;
+
+k) șomerii beneficiari de indemnizație de șomaj, înregistrați la subdiviziunile teritoriale pentru ocuparea forței de muncă, pe perioada plății indemnizației de șomaj;
+
+l) persoanele care îngrijesc la domiciliu o persoană cu dizabilitate severă care necesită îngrijire şi/sau supraveghere permanentă din partea altei persoane;
+
+m) părintele, inclusiv adoptiv, care exercită în mod efectiv creșterea și educarea a patru și mai mulți copii, pentru perioada în care cel puțin un copil are vârsta de până la 18 ani;
+
+n) persoanele din familiile defavorizate care beneficiază de ajutor social conform Legii nr.133-XVI din 13 iunie 2008 cu privire la ajutorul social;
+
+o) beneficiarii de protecţie internaţională incluşi într-un program de integrare, pe perioada desfăşurării acestuia;
+
+p) donator de organe în viaţă;
+
+q) veteranii de război;
+
+r) participanții la lichidarea consecințelor avariei de la C.A.E. Cernobîl.
+
+(5) Calitatea de asigurat şi de plătitor al primelor de asigurare obligatorie de asistenţă medicală pentru persoanele neangajate, care nu sînt indicate la alin.(4), o au ele înseși.
+
+(6) Persoane asigurate pot fi atât cetăţenii Republicii Moldova, cît şi străinii, în condiţiile stabilite la art. 4 alin. (4) lit. o) şi la art. 9.
+
+(7) În sistemul asigurării obligatorii de asistență medicală asigurator este Compania Naţională de Asigurări În Medicină şi agenţiile ei teritoriale (ramurale).
+
+(8) Prestatorii de servicii medicale din sistemul asigurărilor obligatorii de asistenţă medicală, denumiţi în continuare prestatori de servicii medicale, sînt prestatorii de servicii medicale publici și privați care au încheiat contract de acordare a asistenței medicale (de prestare a serviciilor medicale) cu Compania Naţională de Asigurări în Medicină sau cu agenţiile ei teritoriale (ramurale).
+
+(8¹) Prestatorii de servicii farmaceutice din sistemul asigurării obligatorii de asistenţă medicală (denumiţi în continuare prestatori de servicii farmaceutice) sunt prestatorii de servicii farmaceutice publici şi privați care au încheiat cu asigurătorul un contract privind eliberarea medicamentelor și dispozitivelor medicale compensate din fondurile asigurării obligatorii de asistenţă medicală.
+
+(8²) Furnizori de medicamente și dispozitive medicale în sistemul asigurării obligatorii de asistență medicală (denumiți în continuare furnizori de medicamente și dispozitive medicale) sunt producătorii de medicamente și/sau dispozitive medicale și reprezentanții oficiali/autorizați ai producătorilor de medicamente și/sau dispozitive medicale, care se încadrează în sistemul asigurării obligatorii de asistență medicală prin încheierea cu asigurătorul a unui contract privind livrarea către prestatorii de servicii farmaceutice a medicamentelor și/sau a dispozitivelor medicale compensate din fondurile asigurării obligatorii de asistență medicală.
+
+(9) Evidenţa nominală a categoriilor de persoane asigurate de către Guvern, indicate la alin. (4), se ţine de următoarele instituţii abilitate ale Republicii Moldova:
+
+a) instituţiile de învățământ, indiferent de tipul de proprietate – pentru categoria indicată la alin. (4) lit. b) privind persoanele cu vârsta de la 18 ani;
+
+b) prestatorii de asistenţă medicală primară încadrați în sistemul de asigurare obligatorie de asistenţă medicală, indiferent de tipul de proprietate – pentru categoria indicată la alin. (4) lit. h);
+
+c) Casa Naţională de Asigurări Sociale – pentru categoriile indicate la alin. (4) lit. i)– k) şi pentru categoria indicată la alin. (4) lit. l) privind persoanele cu dizabilitate severă cu vârsta de pînă la 18 ani;
+
+d) agențiile teritoriale de asistență socială, structurile responsabile de asistența socială și protecția drepturilor copilului din municipiul Chișinău și din unitatea teritorială autonomă Găgăuzia – pentru categoria indicată la alin. (4) lit. l) privind persoanele cu dizabilitate severă cu vârsta de la 18 ani și pentru cele indicate la alin. (4) lit. n);
+
+e) - abrogată;
+
+f) Inspectoratul General pentru Migrație– pentru categoria indicată la alin. (4) lit. o);
+
+g) Agenţia de Transplant – pentru categoria indicată la alin. (4) lit. p);
+
+g¹) organele administrativ-militare teritoriale – pentru categoriile indicate la alin. (4) lit. q) și r);
+
+h) alte instituţii abilitate, în cazurile prevăzute de actele normative în vigoare.
+
+(9¹) Prin derogare de la prevederile alin. (4) și (9), acordarea/suspendarea statutului de persoană asigurată în sistemul asigurării obligatorii de asistență medicală se efectuează de către asigurător în baza:
+
+a) informației din Registrul de stat al populației – pentru persoanele asigurate menționate la alin. (4) lit. a);
+
+b) cererii și a documentelor confirmative – pentru persoanele asigurate menționate la alin. (4) lit. m), pentru elevii și studenții încadrați în sistemul de învățământ la nivelurile 3–8, conform art. 12 din Codul educației al Republicii Moldova, cu frecvență, care își fac studiile peste hotarele țării;
+
+c) cererii și documentelor confirmative – pentru persoanele asigurate menționate la alin. (4) lit. j) care au atins vârsta standard de pensionare conform legislației naționale, dar beneficiază de pensie din partea altui stat.
+
+ (9²) - abrogat.
+
+(10) În procesul ținerii evidenței persoanelor asigurate, asigurătorul poate utiliza în mod gratuit informația necesară din Registrul de stat al populației și Registrul de stat al unităților de drept.
+
+(11) Asigurătorul este în drept să acceseze, prin intermediul platformei guvernamentale de interoperabilitate, informaţii din bazele de date ale altor instituţii și ale altor autorităţi publice, necesare în scopul executării sarcinilor şi atribuţiilor sale legale.
+
+Capitolul II
+
+SISTEMUL ASIGURĂRII OBLIGATORII
+
+DE ASISTENŢĂ MEDICALĂ
+
+Articolul 5. Principiile de organizare a asigurării
+
+                    obligatorii de asistență medicală
+
+(1) Sistemul asigurării obligatorii de asistenţă medicală se organizează şi funcţionează având la bază următoarele principii:
+
+a) principiul unicităţii, potrivit căruia statul organizează şi garantează sistemul asigurării obligatorii de asistenţă medicală bazat pe aceleaşi norme de drept;
+
+b) principiul egalităţii, potrivit căruia tuturor participanţilor la sistemul de asigurare obligatorie de asistenţă medicală (plătitori de prime de asigurare obligatorie de asistenţă medicală, prestatori de servicii medicale și farmaceutice și beneficiari de asistență medicală și farmaceutică) li se asigură un tratament nediscriminatoriu în ceea ce priveşte drepturile şi obligaţiile prevăzute de lege;
+
+c) principiul solidarităţii, potrivit căruia plătitorii primelor de asigurare obligatorie de asistenţă medicală achită contribuţiile respective în funcţie de venit, iar persoanele asigurate beneficiază de asistenţă medicală şi farmaceutică în funcţie de necesităţi;
+
+d) principiul obligativităţii, potrivit căruia asiguratul are, conform legii, obligaţia de a participa la sistemul asigurării obligatorii de asistenţă medicală, iar drepturile de asigurări medicale se exercită corelativ cu îndeplinirea obligaţiilor;
+
+e) principiul contributivităţii, potrivit căruia fondurile de asigurări medicale se constituie pe baza primelor de asigurare achitate de către plătitorii stabiliţi de legislaţie;
+
+f) principiul repartiţiei, potrivit căruia fondurile de asigurări obligatorii de asistenţă medicală realizate se redistribuie pentru plata obligaţiilor ce revin sistemului asigurării obligatorii de asistenţă medicală, conform legii;
+
+g) principiul autonomiei, potrivit căruia sistemul asigurării obligatorii de asistenţă medicală se administrează de sine stătător, în baza legii, iar prestatorii de servicii medicale şi farmaceutice care acordă asistenţă medicală şi farmaceutică în sistemul respectiv activează pe principii de autofinanţare şi non-profit;
+
+h) principiul transparenţei, potrivit căruia fondurile de asigurări obligatorii de asistenţă medicală se gestionează transparent, prin informarea subiecților asigurării obligatorii de asistență medicală și a persoanelor interesate cu privire la executarea veniturilor și cheltuielilor.
+
+(2) Asigurarea obligatorie de asistenţă medicală a persoanelor angajate se efectuează din contul mijloacelor salariaţilor.
+
+(2¹) Asigurarea obligatorie de asistență medicală a angajaților rezidenților parcurilor pentru tehnologia informației se efectuează din contul sumelor repartizate la fondurile asigurării obligatorii de asistență medicală din încasările impozitului unic achitat de rezidenți conform Legii nr. 77/2016 cu privire la parcurile pentru tehnologia informației și cap. 1 titlul X din Codul fiscal.
+
+(3) Asigurarea obligatorie de asistenţă medicală a persoanelor neangajate enumerate la art.4 alin.(4) se realizează din contul bugetului de stat.
+
+(3¹) Asigurarea obligatorie de asistenţă medicală a persoanelor neangajate şi neasigurate din contul bugetului de stat se realizează în mod individual, prin achitarea primei de asigurare stabilite în sumă fixă, în mărimea, modul şi termenele prevăzute de legislaţie.
+
+(4) În cazul persoanelor neasigurate, cheltuielile pentru asistența medicală urgentă prespitalicească, asistența medicală primară, asistența medicală specializată de ambulatoriu și spitalicească în cazul maladiilor social-condiționate cu impact major asupra sănătății publice, conform listei stabilite de Ministerul Sănătății, precum și în cazul urgențelor obstetricale (naștere, iminență de avort/naștere, avort spontan, sarcină extrauterină), se acoperă din contul mijloacelor fondurilor asigurării obligatorii de asistență medicală.
+
+(5) Modul de compensare a medicamentelor și dispozitivelor medicale din fondurile asigurării obligatorii de asistență medicală este stabilit prin acte normative aprobate de Guvern.
+
+Articolul 6. Statutul de persoană asigurată
+
+                     în sistemul asigurării obligatorii
+
+                     de asistenţă medicală
+
+(1) Statutul de persoană asigurată se acordă de către asigurător ca urmare a achitării primei de asigurare obligatorie de asistenţă medicală în modul şi termenele prevăzute de legislaţie sau prin includerea în una dintre categoriile de persoane neangajate asigurate de către Guvern.
+
+(2) Statutul de persoană asigurată conferă dreptul de a beneficia de volumul integral de asistenţă medicală prevăzut în Programul unic al asigurării obligatorii de asistență medicală şi acordat de prestatorii de servicii medicale și farmaceutice contractați de Compania Naţională de Asigurări în Medicină.
+
+(3) Statutul de persoană asigurată se acordă de către asigurător în baza:
+
+a) informației aferente raporturilor de muncă pentru stabilirea drepturilor sociale şi medicale prezentate de angajatori Serviciului Fiscal de Stat, potrivit formei și modului aprobat de Ministerul Finanțelor;
+
+a¹) informației prezentate de Institutul Național al Justiției privind audienții cursurilor de formare inițială;
+
+b) informaţiei de evidenţă nominală a persoanelor neangajate asigurate de către Guvern, furnizată de instituţiile abilitate, inclusiv prin intermediul platformei guvernamentale de interoperabilitate;
+
+c) actelor de identitate şi a documentelor justificative/informaţiilor ce confirmă achitarea primei de asigurare în sumă fixă pentru anul respectiv de gestiune, inclusiv în baza informaţiei din sistemul guvernamental de plăţi electronice;
+
+d) actelor de identitate şi a documentelor ce certifică dreptul de atribuire la categoriile indicate la art. 4 alin. (4), conform prevederilor actelor normative în vigoare;
+
+e) informaţiei din Registrul de stat al populaţiei privind copiii cu vârsta de pînă la 18 ani, obţinută de către asigurător prin intermediul platformei guvernamentale de interoperabilitate.
+
+(4) Statutul de persoană asigurată se suspendă în cazul:
+
+a) încetării raporturilor de muncă;
+
+b) radierii persoanei asigurate din evidenţa nominală a persoanelor neangajate asigurate de către Guvern, conform legislaţiei în vigoare;
+
+c) atingerii vârstei de 18 ani;
+
+d) persoanelor care au achitat prima de asigurare în sumă fixă pentru anul de gestiune la data de 31 ianuarie a anului următor celui de gestiune, cu excepția cazurilor în care persoanele se află în concediu de maternitate sau în concediu parțial plătit pentru îngrijirea copilului până la vârsta de 3 ani;
+
+e) încorporării în serviciul militar în termen;
+
+f) expirării unui an de la data de achitare stabilită pentru prima de asigurare în formă de contribuţie procentuală la salariu şi la alte recompense şi/sau în cazul neachitării acesteia;
+
+g) neprezentării, conform legislaţiei în vigoare, a dărilor de seamă fiscale pe o perioadă ce depăşeşte un an;
+
+h) suspendării activităţii unităţii sau lichidării unității în temei legal;
+
+i) suspendării contractului individual de muncă, cu excepţia suspendării contractului individual de muncă în circumstanţe ce nu depind de voinţa părţilor, suspendării contractului individual de muncă din iniţiativa salariatului în caz de aflare în concediu pentru îngrijirea unui membru bolnav al familiei cu durata de pînă la doi ani, conform certificatului medical, şi în caz de aflare în concediu parţial plătit pentru îngrijirea copilului pînă la vârsta de 3 ani;
+
+j) decesului persoanei asigurate.
+
+(5) Statutul de asigurat al persoanelor care beneficiază de indemnizaţii de eliberare din serviciu, conform art. 186 din Codul muncii al Republicii Moldova, va fi activ pe perioada achitării indemnizaţiei de eliberare din serviciu.
+
+(6) Salariaţii al căror statut de persoană asigurată a fost suspendat conform alin. (4) lit. f) - i) se atribuie la categoria persoanelor care sînt obligate să se asigure în mod individual.
+
+Articolul 6¹. Evidenţa persoanelor fizice în sistemul
+
+                      asigurării obligatorii de asistenţă medicală
+
+(1) Evidenţa persoanelor fizice în sistemul asigurării obligatorii de asistenţă medicală se ţine de către Compania Naţională de Asigurări în Medicină.
+
+(2) Fiecărei persoane fizice i se atribuie un număr de asigurare obligatorie de asistenţă medicală.
+
+(3) Statutul persoanei fizice asigurate în sistemul asigurării obligatorii de asistenţă medicală se confirmă prin interogarea electronică a sistemului informaţional al Companiei Naţionale de Asigurări în Medicină, utilizând numărul de identificare de stat sau seria și numărul buletinului de identitate provizoriu pentru persoanele care nu dețin număr de identificare de stat.
+
+(4) Modalitatea de evidenţă a persoanelor fizice în sistemul asigurării obligatorii de asistenţă medicală se elaborează de către asigurător şi se aprobă de către Guvern.
+
+Articolul 7. Contractul de acordare a asistenței medicale
+
+                    (de prestare a serviciilor medicale) în cadrul
+
+                     asigurării obligatorii de asistență medicală
+
+(1) Între asigurător şi prestatorul de servicii medicale se încheie un contract de acordare a asistenţei medicale (de prestare a serviciilor medicale) în cadrul asigurării obligatorii de asistenţă medicală conform căruia prestatorul de servicii medicale se obligă să acorde persoanelor asigurate asistenţă medicală calificată în volumul şi termenele prevăzute în Programul unic iar asigurătorul se obligă să achite costul asistenței medicale acordate.
+
+(2) Modelul contractului-tip de acordare a asistenței medicale (de prestare a serviciilor medicale) în cadrul asigurării obligatorii de asistenţă medicală se aprobă de Guvern.
+
+Articolul 7¹. Contractul privind eliberarea medicamentelor
+
+                      și/sau a dispozitivelor medicale compensate
+
+                      din fondurile asigurării obligatorii de asistență
+
+                      medicală
+
+(1) Asigurătorul şi prestatorul de servicii farmaceutice încheie un contract privind eliberarea medicamentelor și/sau a dispozitivelor medicale compensate din fondurile asigurării obligatorii de asistenţă medicală, prin care prestatorul se obligă să elibereze persoanelor înregistrate la medicul de familie conform datelor din sistemul informațional al Companiei Naționale de Asigurări în Medicină medicamente și/sau dispozitive medicale compensate din fondurile asigurării obligatorii de asistenţă medicală, iar asigurătorul se obligă să achite costul medicamentelor și/sau al dispozitivelor respective.
+
+(2) Contractul-tip privind eliberarea medicamentelor și a dispozitivelor medicale compensate din fondurile asigurării obligatorii de asistenţă medicală se aprobă de către Guvern.
+
+Articolul 7². Contractul privind livrarea medicamentelor
+
+                      și/sau a dispozitivelor medicale compensate
+
+                      către prestatorii de servicii farmaceutice
+
+(1)  Asigurătorul şi furnizorul de medicamente și dispozitive medicale încheie un contract prin care furnizorul se obligă să asigure existența în stoc a medicamentelor și/sau a dispozitivelor medicale compensate, precum și livrarea acestora către prestatorii de servicii farmaceutice contractați de asigurător.
+
+(2) Contractul-tip privind livrarea medicamentelor și/sau a dispozitivelor medicale compensate către prestatorii de servicii farmaceutice se aprobă de Guvern.
+
+Articolul 7³. Contractul de partajare a riscurilor
+
+Asigurătorul încheie contracte de partajare a riscurilor cu producătorul, deținătorul autorizației de punere pe piață, reprezentantul autorizat al acestuia sau cu alt operator economic responsabil pentru tehnologia medicală evaluată în cadrul procesului de evaluare a tehnologiei medicale, acceptată spre finanțare în temeiul ordinului ministrului sănătății.
+
+[Art.7³introdus prin LP127 din 02.07.26, MO305-308/14.07.26 art.322; în vigoare 14.08.26]
+
+Articolul 8. Prestarea serviciilor medicale
+
+                     peste Programul unic
+
+(1) Volumul serviciilor medicale poate fi extins în temeiul condițiilor asigurării facultative de sănătate sau prin plăți directe către prestatorul de servicii medicale pentru serviciile prestate.
+
+(2) Prestatorii de servicii medicale acordă asistență în cadrul asigurărilor facultative de sănătate fără a aduce prejudicii volumului și calității asistenței medicale acordate în conformitate cu Programul unic.
+
+Articolul 9. Asigurarea obligatorie de asistenţă
+
+                    medicală a străinilor
+
+(1) Străinii specificaţi la art. 2 alin. (1) lit. a)–c) și lit. e) din Legea nr. 274/2011 privind integrarea străinilor în Republica Moldova, beneficiarii de protecție temporară și solicitanții de azil, încadraţi în muncă în Republica Moldova în baza unui contract individual de muncă, încheiat în temeiul legislației Republicii Moldova, străinii titulari ai dreptului de şedere permanentă în Republica Moldova, precum şi beneficiarii de protecţie internaţională au aceleaşi drepturi şi obligaţii în domeniul asigurării obligatorii de asistenţă medicală ca şi cetăţenii Republicii Moldova, în conformitate cu legislaţia în vigoare, dacă tratatele internaţionale nu prevăd altfel.
+
+(1¹) Străinii angajați în condițiile art.43¹⁷ din Legea nr.200/2010 privind regimul străinilor în Republica Moldova, pe perioada corespunderii acestor condiții, nu au obligația asigurării obligatorii de asistență medicală.
+
+(2) Străinii cărora li s-a acordat dreptul de şedere provizorie pe teritoriul Republicii Moldova pentru reîntregirea familiei, pentru studii, pentru activităţi umanitare, de voluntariat sau religioase, precum și în calitate de nomazi digitali au obligaţia de a se asigura în mod individual, achitând prima de asigurare obligatorie de asistenţă medicală similar cetăţenilor Republicii Moldova care achită prima de asigurare stabilită în sumă fixă, dacă tratatele internaţionale nu prevăd altfel.
+
+(3) Statutul de persoană asigurată şi drepturile de asigurare se suspendă odată cu anularea/revocarea dreptului de şedere în Republica Moldova, încetarea/anularea statutului de apatrid sau a formei de protecţie, în conformitate cu legislaţia în vigoare.
+
+Capitolul III
+
+DREPTURILE ȘI OBLIGAȚIILE SUBIECȚILOR
+
+ASIGURĂRII OBLIGATORII DE ASISTENȚĂ
+
+MEDICALĂ
+
+Articolul 10. Asiguratul
+
+(1) Asiguratul este în drept să obţină de la asigurător informaţii despre îndeplinirea de către acesta a obligaţiilor sale legale faţă de persoanele asigurate.
+
+(2) Asiguratul, inclusiv mediatorii, notarii, avocații, executorii judecătorești, experții judiciari care activează în cadrul unui birou de expertiză judiciară, interpreții și traducătorii, administratorii autorizați, este obligat:
+
+a) - abrogată;
+
+b) să achite primele de asigurare în mărimea, în modul şi în termenele stabilite de legislaţie;
+
+c) să nu împiedice realizarea măsurilor de depistare și studiere a factorilor cu influență nefavorabilă asupra sănătății contingentului care urmează să fie asigurat (sau este deja asigurat) și, în limitele competenței sale, să întreprindă măsuri de înlăturare a lor;
+
+d) să prezinte asigurătorului, utilizând metode automatizate de raportare electronică, prin intermediul instituţiilor abilitate, indicate la art. 4 alin. (9), listele de evidenţă nominală a persoanelor asigurate, conform modelului stabilit de asigurător, precum şi modificările survenite în acestea, pînă la data de 7 a lunii următoare celei în care au avut loc schimbările;
+
+e) - abrogată.
+
+(3) Angajatorul este obligat să prezinte Serviciului Fiscal de Stat informația aferentă raporturilor de muncă pentru stabilirea drepturilor sociale și medicale, potrivit formei și modului aprobate de Ministerul Finanțelor, în termen de până la 10 zile lucrătoare de la data angajării sau a modificării/încetării raporturilor de muncă, a emiterii ordinului de acordare a concediului de îngrijire a copilului sau a concediului paternal.
+
+Articolul 11. Persoana asigurată
+
+(1) Persoana asigurată are dreptul:
+
+a) să-și aleagă medicul de familie;
+
+b) să i se acorde asistenţă medicală şi farmaceutică pe întreg teritoriul Republicii Moldova;
+
+c) să beneficieze de servicii medicale şi farmaceutice în volumul și de calitatea prevăzute de Programul unic, indiferent de mărimea primelor de asigurare achitate;
+
+d) să intenteze acțiuni asiguratului, asiguratorului, prestatorului de servicii medicale şi farmaceutice inclusiv pentru a obține compensarea materială a prejudiciului cauzat din culpa acestora.
+
+(2) Persoana asigurată este obligată:
+
+a) să prezinte actul de identitate conform prevederilor actelor normative în vigoare, la momentul adresării către prestatorul de servicii medicale şi farmaceutice;
+
+b) să achite direct prestatorului de servicii medicale, la momentul acordării asistenței medicale, costul serviciilor medicale care i-au fost acordate peste volumul și condițiile prevăzute de Programul unic;
+
+b¹) să achite contribuția personală a diferenței dintre prețul de vânzare cu amănuntul al medicamentului compensat și suma compensată de asigurător;
+
+c) să fie înregistrată la un medic de familie.
+
+(3) - abrogat.
+
+Articolul 12. Compania Națională de Asigurări
+
+                       în Medicină
+
+(1) Compania Națională de Asigurări în Medicină este autoritatea administrativă centrală din subordinea Guvernului care administrează sistemul asigurării obligatorii de asistență medicală și gestionează fondurile asigurării obligatorii de asistență medicală.
+
+(1¹) Compania Națională de Asigurări în Medicină este condusă de un director general, numit în funcție și eliberat sau destituit din funcție, în condițiile legii, de către Guvern. În activitatea sa, directorul general este asistat de doi directori generali adjuncți, numiți în funcție și eliberați sau destituiți din funcție, în condițiile legii, de către Guvern.
+
+(1²) Activitatea Companiei Naționale de Asigurări în Medicină este supravegheată de către un consiliu compus din 11 membri. Președintele Consiliului este reprezentant al Ministerului Sănătății.
+
+(2) Compania Națională de Asigurări în Medicină este în drept:
+
+a) să încadreze în sistemul asigurării obligatorii de asistență medicală prestatorii de servicii medicale și farmaceutice prin încheierea contractelor de acordare a asistenței medicale (de prestare a serviciilor medicale) și de eliberare a medicamentelor și/sau a dispozitivelor medicale compensate din fondurile asigurării obligatorii de asistență medicală;
+
+b) să ia parte la elaborarea propunerilor de stabilire a tarifelor pentru serviciile medicale în cadrul asigurării obligatorii de asistență medicală;
+
+c) să înainteze acțiuni în justiție împotriva prestatorului de servicii medicale, lucrătorului medical sau prestatorului de servicii farmaceutice în scopul compensării materiale a prejudiciului cauzat sănătății persoanei asigurate din culpa acestora;
+
+d) să negocieze cu prestatorii de servicii medicale ofertele prezentate de aceștia pentru încadrarea în sistemul asigurării obligatorii de asistență medicală;
+
+e) să negocieze cu furnizorii de medicamente și dispozitive medicale prețul la medicamentele și/sau dispozitivele medicale compensate și să încheie cu aceștia contracte în modul stabilit de Guvern;
+
+e¹) - abrogată;
+
+f) să înainteze acțiuni în justiție împotriva angajatorilor și persoanelor juridice responsabile pentru gestiunea spațiilor publice închise sau semiînchise de la locurile de muncă care au admis fumatul, în vederea compensării cheltuielilor legate de tratamentul persoanelor bolnave a căror îmbolnăvire a fost cauzată de expunerea la fumul de tutun;
+
+g) să încheie contracte de partajare a riscurilor cu producătorii, deținătorii autorizației de punere pe piață, reprezentanții autorizați ai acestora sau cu alți operatori economici responsabili pentru tehnologiile medicale evaluate în cadrul procesului de evaluare a tehnologiilor medicale, acceptate spre finanțare în temeiul ordinului ministrului sănătății.
+
+[Art.12 al.(2), lit.g) introdusă prin LP127 din 02.07.26, MO305-308/14.07.26 art.322; în vigoare 14.08.26]
+
+(3) Compania Naţională de Asigurări în Medicină este obligată:
+
+a) să realizeze, conform legii, asigurarea obligatorie de asistenţă medicală a cetăţenilor Republicii Moldova şi a străinilor prevăzuţi de prezenta lege;
+
+a¹) să gestioneze mijloacele fondurilor stabilite de prezenta lege;
+
+b) să atribuie/să suspende persoanelor, în modul stabilit, statutul de persoană asigurată;
+
+c) să evalueze și să monitorizeze corespunderea cu clauzele contractului de acordare a asistenţei medicale (de prestare a serviciilor medicale) a volumului, termenelor, calităţii şi costului asistenţei medicale acordate persoanelor asigurate, precum şi gestionarea mijloacelor financiare provenite din fondurile asigurării obligatorii de asistenţă medicală, în limita serviciilor medicale contractate;
+
+c¹) să evalueze și să monitorizeze dacă livrarea medicamentelor și a dispozitivelor medicale compensate, modalitatea de aprovizionare, de eliberare şi de evidenţă a acestora, precum şi de raportare a mijloacelor financiare care urmează să fie achitate din fondurile asigurării obligatorii de asistenţă medicală corespund cu clauzele contractului privind eliberarea medicamentelor și/sau a dispozitivelor medicale compensate din fondurile asigurării obligatorii de asistenţă medicală;
+
+c²) să evalueze și să monitorizeze respectarea de către furnizorii de medicamente și dispozitive medicale a prevederilor contractelor încheiate cu asigurătorul;
+
+d) să apere interesele persoanelor asigurate;
+
+d¹) să pună la dispoziția persoanelor asigurate informații cu privire la serviciile medicale și farmaceutice acoperite de mijloacele fondurilor asigurării obligatorii de asistență medicală, la procedura și condițiile de acordare a acestora;
+
+e) - abrogată;
+
+f) să asigure transparența în procesul decizional în modul stabilit de Legea nr. 239/2008 privind transparența în procesul decizional;
+
+g) să publice pe pagina sa web oficială:
+
+– contractele de acordare a asistenței medicale (de prestare a serviciilor medicale), anexele la acestea şi acordurile adiționale, contractele privind eliberarea medicamentelor și dispozitivelor medicale compensate din fondurile asigurării obligatorii de asistenţă medicală și informația, pentru fiecare contract, privind achitarea sumelor compensate de către asigurător pentru anul precedent, precum și contractele încheiate din mijloacele financiare, altele decât cele din fondul pentru achitarea serviciilor medicale și farmaceutice, în termen de 15 zile lucrătoare de la data încheierii acestora;
+
+– rapoartele trimestriale privind mijloacele financiare achitate pentru medicamentele și dispozitivele medicale compensate, ce vor cuprinde informații privind toate medicamentele și dispozitivele medicale compensate eliberate de prestatorul de servicii farmaceutice în perioada de raportare, suma totală achitată de către asigurător, denumirile comune internaționale (DCI)/denumirile de dispozitive medicale, cu indicarea, pentru fiecare DCI/denumire de dispozitiv medical, a denumirii comerciale corespunzătoare, dozei, formei farmaceutice, a producătorului, a cantității compensate în unități nominale, a sumei compensate de către asigurător pentru fiecare unitate nominală, a sumei achitate de către pacient, precum și a numărului de beneficiari, până în data de 15 a lunii următoare trimestrului;
+
+– planurile de evaluare a prestatorilor de servicii medicale și farmaceutice încadrați în sistemul asigurării obligatorii de asistență medicală și rapoartele de evaluare, până la data de 10 a lunii următoare trimestrului de gestiune;
+
+– deciziile integrale ale Consiliului de administrație al Companiei, în termen de 15 zile lucrătoare de la data şedinţei Consiliului;
+
+– raportul anual privind executarea fondurilor asigurării obligatorii de asistenţă medicală, conform modelului aprobat de Guvern, în termen de 15 zile lucrătoare din data aprobării raportului de către Parlament;
+
+h) să-și exercite atribuțiile și responsabilitățile conform prevederilor prevăzute de Legea finanțelor publice și responsabilității bugetar-fiscale nr. 181/2014.
+
+Articolul 13. Prestatorii de servicii medicale
+
+                      și farmaceutice
+
+(1) În cadrul asigurării obligatorii de asistenţă medicală, asistența medicală și farmaceutică se acordă de către prestatorii de servicii medicale și farmaceutice, indiferent de tipul de proprietate şi formă juridică de organizare, care sunt autorizați sanitar, acreditați, incluși în Nomenclatorul prestatorilor publici de servicii medicale sau în Nomenclatorul prestatorilor privați de servicii de sănătate, conform Legii ocrotirii sănătății nr. 411/1995, și care activează în conformitate cu legislația.
+
+(1¹) La examinarea ofertelor prezentate de prestatorii de servicii medicale, Compania Națională de Asigurări în Medicină ține cont de:
+
+a) necesitatea de servicii medicale pentru persoanele încadrate în sistemul asigurării obligatorii de asistență medicală;
+
+b)  calitatea și eficiența formelor de diagnostic și tratament;
+
+c) performanța dispozitivelor medicale, calitatea consumabilelor și medicamentelor utilizate;
+
+d) acoperirea geografică cu servicii medicale a populației;
+
+e) disponibilitatea fondurilor asigurării obligatorii de asistență medicală;
+
+f) neexecutarea obligațiilor contractuale de către prestatorul de servicii medicale față de Compania Națională de Asigurări în Medicină, care a determinat rezoluțiunea contractului de acordare a asistenței medicale (de prestare a serviciilor medicale);
+
+g) calificarea personalului medical antrenat în prestarea serviciilor medicale;
+
+h) gradul de satisfacție a pacienților.
+
+(2) Prestatorii de servicii medicale şi farmaceutice sunt obligaţi să publice pe paginile lor web oficiale, iar în cazul în care nu dispun de pagină web oficială, să afișeze pe avizierul instituției, într-un loc vizibil și accesibil pentru public:
+
+a) contractele de acordare a asistenței medicale (de prestare a serviciilor medicale), anexele la acestea şi acordurile adiţionale, precum şi contractele privind eliberarea medicamentelor și/sau dispozitivelor medicale compensate din fondurile asigurării obligatorii de asistenţă medicală și informația privind achitarea sumelor compensate de către asigurător pentru anul precedent, în termen de 15 zile lucrătoare din data încheierii acestora;
+
+b) deciziile Consiliului de administrație al prestatorilor publici de servicii medicale și farmaceutice/organului suprem de deliberare și decizie al prestatorilor privați de servicii medicale și farmaceutice în partea ce ține de utilizarea mijloacelor financiare aferente contractelor de acordare a asistenței medicale (de prestare a serviciilor medicale), precum și contractelor privind eliberarea medicamentelor și/sau dispozitivelor medicale compensate din fondurile asigurării obligatorii de asistență medicală, în termen de 15 zile lucrătoare de la data ședinței Consiliului;
+
+c) darea de seamă privind utilizarea mijloacelor financiare obținute din fondurile asigurării obligatorii de asistență medicală, până la data de 1 aprilie a anului următor celui de gestiune.
+
+Articolul 14. Răspunderea subiecţilor sistemului
+
+                      asigurării  de asistenţă medicală
+
+(1) Pentru neplata, în termenul stabilit de legislaţie, a primei de asigurare obligatorie de asistenţă medicală, asiguratul plăteşte o penalitate, calculată în conformitate cu legislaţia, pentru perioada care începe după scadenţa primei de asigurare şi se încheie în ziua plăţii efective a acesteia.
+
+(2) Asigurătorul răspunde material faţă de persoana asigurată pentru prejudiciile cauzate vieţii şi sănătăţii acesteia ca rezultat al asistenţei medicale, prevăzute de Programul unic, acordate necalitativ sau insuficient.
+
+(3) Asigurătorul achită serviciile prestate de prestatorii de servicii medicale şi farmaceutice în modul şi în termenele prevăzute în contractele încheiate cu ele, dar nu mai târziu decât la expirarea unei luni de la data prezentării facturii fiscale electronice. Răspunderea pentru achitarea cu întârziere este stipulată în contract.
+
+(4) Prestatorii de servicii medicale răspund pentru serviciile medicale prestate contrar prevederilor legislației și clauzelor contractului de acordare a asistenței medicale (de prestare a serviciilor medicale) în cadrul asigurării obligatorii de asistență medicală, încheiat cu Compania Națională de Asigurări în Medicină, pentru refuzul de a acorda asistență medicală persoanelor asigurate, pentru gestionarea mijloacelor financiare provenite din fondurile asigurării obligatorii de asistență medicală contrar prevederilor clauzelor contractuale, precum și pentru împiedicarea monitorizării de către asigurător a executării contractului de acordare a asistenței medicale (de prestare a serviciilor medicale).
+
+(5) Nu se admite dezafectarea de către prestatorii de servicii medicale a sumelor provenite din fondurile asigurării obligatorii de asistenţă medicală pentru alte scopuri decât cele pentru care sînt stabilite conform legislaţiei şi contractului de acordare a asistenţei medicale (de prestare a serviciilor medicale) în cadrul asigurării obligatorii de asistenţă medicală. Pentru suma dezafectată depistată în urma evaluărilor efectuate, Compania Națională de Asigurări în Medicină va percepe suma dezafectată și o penalitate în mărime de 0,1% din suma depistată pentru fiecare zi de utilizare a mijloacelor fondurilor în alte scopuri decât cele stabilite de legislație.
+
+Articolul 15. Dreptul asigurătorului la acțiune
+
+                      în regres
+
+Compania Națională de Asigurări în Medicină şi agențiile ei teritoriale (ramurale) sunt în drept să ceară persoanelor juridice sau fizice responsabile pentru prejudiciul cauzat sănătății persoanelor recuperarea cheltuielilor pentru acordarea asistenței medicale acoperite din fondurile asigurării obligatorii de asistență medicală.
+
+Capitolul IV
+
+MIJLOACELE FINANCIARE ALE ASIGURĂRII
+
+OBLIGATORII DE ASISTENŢĂ MEDICALĂ
+
+ȘI MODUL LOR DE UTILIZARE
+
+Articolul 16. Fondurile asigurării obligatorii
+
+                       de asistență medicală
+
+(1) În scopul realizării asigurării obligatorii de asistenţă medicală, Compania Naţională de Asigurări în Medicină constituie, din contul mijloacelor totale acumulate, și gestionează următoarele fonduri:
+
+a) fondul pentru achitarea serviciilor medicale și farmaceutice (fondul de bază);
+
+b) fondul de rezervă al asigurării obligatorii de asistenţă medicală;
+
+c) fondul măsurilor de profilaxie;
+
+d) fondul de dezvoltare şi modernizare a prestatorilor publici de servicii medicale;
+
+e) fondul de administrare al sistemului de asigurări obligatorii de asistenţă medicală.
+
+(1¹) Fondurile asigurării obligatorii de asistență medicală fac parte integrantă din bugetul public național și se administrează independent de alte bugete componente ale bugetului public național.
+
+(1²) Fondurile asigurării obligatorii de asistență medicală se elaborează, se aprobă și se administrează în conformitate cu principiile, regulile și procedurile prevăzute de Legea finanțelor publice și responsabilității bugetar-fiscale nr. 181/2014.
+
+(2) Mijloacele temporar disponibile ale fondurilor asigurării obligatorii de asistență medicală pot fi plasate în depozite la Banca Națională a Moldovei și/sau în valori mobiliare de stat.
+
+(3) Mijloacele financiare ale fondurilor asigurării obligatorii de asistenţă medicală nu sînt supuse sechestrării şi impozitării.
+
+(4) Modul de constituire şi administrare a fondurilor asigurării obligatorii de asistenţă medicală se stabileşte printr-un regulament aprobat de Guvern.
+
+(5) - abrogat.
+
+(6) - abrogat.
+
+Articolul 17. Primele de asigurare obligatorie
+
+                       de asistență medicală
+
+(1) Prima de asigurare obligatorie de asistenţă medicală reprezintă o sumă fixă sau o contribuţie procentuală la salariu şi la alte recompense, pe care asiguratul este obligat să o plătească asigurătorului pentru preluarea riscului asigurat al persoanei, conform prevederilor legislaţiei.
+
+(2) Primele de asigurare obligatorie de asistenţă medicală se stabilesc ca contribuţii financiare în mărimi suficiente pentru îndeplinirea Programului unic şi desfăşurarea activităţii asigurătorului.
+
+(3) Mărimile primelor de asigurare în formă de sumă fixă și în formă de contribuție procentuală la salariu și la alte recompense se stabilesc anual în legea fondurilor asigurărilor obligatorii de asistență medicală.
+
+(4) Mărimea primei de asigurare în formă de sumă fixă se calculează prin aplicarea primei de asigurare în formă de contribuție procentuală la salariul mediu anual, prognozat pentru anul respectiv în baza indicatorilor macroeconomici.
+
+(5) Achitarea primelor pentru asigurarea obligatorie de asistenţă medicală a populației angajate se face din contul contribuţiilor angajatului.
+
+(5¹) Prin derogare de la prevederile alin. (1), veniturile salariale obținute de angajații rezidenților parcurilor pentru tehnologia informației, în baza legislației muncii și actelor normative ce conțin norme ale dreptului muncii, nu constituie obiect al impunerii cu prime de asigurare obligatorie de asistență medicală în formă de contribuție procentuală. Achitarea primelor pentru asigurarea obligatorie de asistență medicală a angajaților rezidenților parcurilor pentru tehnologia informației se face din contul impozitului unic achitat de rezidenți conform Legii nr. 77/2016 cu privire la parcurile pentru tehnologia informației și cap. 1 titlul X din Codul fiscal.
+
+(5²) Prin derogare de la prevederile alin. (1), veniturile antreprenorului independent nu constituie obiect al impunerii cu prime de asigurare obligatorie de asistență medicală în formă de contribuție procentuală. Achitarea primelor pentru asigurarea obligatorie de asistență medicală se efectuează din contul impozitului unic achitat de către antreprenorii independenți, conform art. 69²⁵ alin. (4) din Codul fiscal nr. 1163/1997, sau calculat suplimentar conform art. 69²⁶ alin. (2) din codul menționat.
+
+(6) Participarea angajatului la achitarea primei se determină diferenţiat, în funcţie de mărimea salariului lui, şi începe din momentul încheierii contractului de muncă.
+
+(7) Mărimea, modul şi termenele de achitare a primelor de asigurare se stabilesc prin lege.
+
+(8) - abrogat.
+
+Articolul 18. Achitarea serviciilor medicale
+
+                      și farmaceutice
+
+(1) Asigurătorul achită lunar sau trimestrial serviciile medicale, în funcție de mijloacele financiare disponibile, în baza facturilor fiscale electronice prezentate de prestatorii de servicii medicale, conform condițiilor stabilite în contract.
+
+(2) Asigurătorul achită lunar serviciile farmaceutice prestate, în baza facturilor fiscale electronice prezentate de prestatorii de servicii farmaceutice, însoțite de rapoartele generate de sistemul informațional din gestiunea Companiei Naționale de Asigurări în Medicină cu privire la medicamente și/sau dispozitive medicale compensate eliberate pacienților în perioada de gestiune.
+
+(3) Asigurătorul este în drept să efectueze plăți în avans pentru serviciile medicale, conform condițiilor stabilite în contract.
+
+(4) Modelele de registre și dări de seamă, modul de completare și termenul prezentării acestora se elaborează și se aprobă de către asigurător în comun cu Ministerul Sănătății.
+
+Articolul 20. Soluţionarea litigiilor
+
+Litigiile apărute în procesul realizării asigurării obligatorii de asistență medicală se soluționează de către instanțele judecătorești competente.
+
+Capitolul V
+
+DISPOZIŢII FINALE ŞI TRANZITORII
+
+Articolul 21.
+
+ (1) Prezenta lege se pune în aplicare de la data publicării pe etape:
+
+I etapă - anul 1998 - cuprinde pregătirea cadrului normativ necesar pentru realizarea Programului unic al asigurării obligatorii de asistenţă medicală, efectuându-se concomitent asigurări facultative de sănătate. Asigurării obligatorii de asistenţă medicală, la această etapă, vor fi supuşi numai cetățenii străini şi apatrizii aflaţi în Republica Moldova;
+
+a II - a etapă - din 1999 se prevede aplicarea integrală a prezentei legi. Persoanele neîncadrate în sistemul asigurării obligatorii de asistenţă medicală, pînă la aplicarea integrală a prezentei legi, vor beneficia de servicii medicale în conformitate cu legislaţia în vigoare.
+
+Articolul 22.
+
+Guvernul, în termen de 3 luni:
+
+a) va prezenta Parlamentului propuneri pentru aducerea legislaţiei în concordanţă cu prezenta lege;
+
+b) va aduce propriile acte normative în concordanţă cu prezenta lege;
+
+c) va aproba Programul unic al asigurării obligatorii de asistenţă medicală;
+
+d) va aproba statutul Companiei Naţionale de Asigurări în Medicină;
+
+e) va stabili structura, schema de încadrare şi plafonul cheltuielilor administrative ale Companiei Naţionale de Asigurări în Medicină;
+
+f) va asigura elaborarea şi va aproba condiţiile de asigurare obligatorie de asistenţă medicală a cetăţenilor străini şi apatrizilor aflaţi în Republica Moldova;
+
+g) va aproba Regulamentul cu privire la modul de constituire si administrare a fondurilor de asigurare obligatorie de asistenţă medicală şi alte documente în problemele asigurării obligatorii de asistenţă medicală.
+
+PREȘEDINTELE PARLAMENTULUI                                     Dumitru MOȚPAN
+
+Nr. 1585 - XIII. Chișinău, 27 februarie 1998.

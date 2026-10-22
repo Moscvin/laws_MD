@@ -429,10 +429,8 @@ async function cautaLegi(env, intrebare, intrebareAnterioara) {
     totiTermenii.map((x) => env.DB.prepare("SELECT count(*) n FROM fts WHERE fts MATCH ?").bind(`${x}*`)),
   );
   const N = 6417;
-  const idf = Object.fromEntries(totiTermenii.map((x, i) => {
-    const df = numarari[i].results[0].n;
-    return [x, df ? Math.log(1 + N / df) : 0];
-  }));
+  const dfs = Object.fromEntries(totiTermenii.map((x, i) => [x, numarari[i].results[0].n]));
+  const idf = Object.fromEntries(totiTermenii.map((x) => [x, dfs[x] ? Math.log(1 + N / dfs[x]) : 0]));
 
   const scor = new Map();
   const bucati = new Map();
@@ -442,7 +440,12 @@ async function cautaLegi(env, intrebare, intrebareAnterioara) {
   ).bind(fts).all()).results;
 
   for (const termeniQ of interogari) {
-    const utili = termeniQ.filter((x) => idf[x] > 0);
+    // Cuvintele care apar în sute de articole („Chișinău”, „locuri”) nu ajută și acoperă cuvintele rare.
+    let utili = termeniQ.filter((x) => dfs[x] > 0 && dfs[x] <= 400);
+    if (!utili.length) {
+      // Toți termenii sunt comuni: păstrăm cei mai rari dintre ei, ca să nu rămânem fără rezultate.
+      utili = termeniQ.filter((x) => dfs[x] > 0).sort((a, b) => dfs[a] - dfs[b]).slice(0, 2);
+    }
     if (!utili.length) continue;
     const rari = [...utili].sort((a, b) => idf[b] - idf[a]).slice(0, 3);
     const candidati = [

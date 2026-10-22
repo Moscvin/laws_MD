@@ -1,0 +1,2470 @@
+TITLU: HG nr. 808/2015 Reglementarea tehnică privind siguranța jucăriilor
+SURSA: https://www.legis.md/cautare/getResults?doc_id=147386&lang=ro
+
+Republica Moldova
+
+											GUVERNUL
+
+											HOTĂRÂRE Nr.												808
+din  29-10-2015
+
+											pentru aprobarea Reglementării tehnice
+
+privind siguranţa jucăriilor
+
+										Publicat : 13-11-2015
+												în  Monitorul Oficial												Nr.												306-310 art.												902
+
+										MODIFICAT
+
+HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25
+
+NOTĂ:
+
+Pe tot parcursul textului, cuvintele „agent economic”, la orice formă gramaticală, se substituie cu cuvintele „operator economic”, la forma gramaticală corespunzătoare prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25
+
+În temeiul prevederilor articolului 18 şi poziţiei 3 din anexa nr. 3 la Legea nr. 235 din 1 decembrie 2011 privind activităţile de acreditare şi de evaluare a conformităţii (Monitorul Oficial al Republicii Moldova, 2012, nr.46-47, art.136), Guvernul HOTĂRĂŞTE:
+
+1. Se aprobă Reglementarea tehnică privind siguranţa jucăriilor, conform anexei nr.1.
+
+2. Prezenta hotărîre intră în vigoare la 24 de luni de la data publicării în Monitorul Oficial al Republicii Moldova, cu excepţia:
+
+1) punctelor 53, 85, 88, 118, 121-122, 129¹ și 140-141⁴ din Reglementarea tehnică privind siguranţa jucăriilor, care vor intra în vigoare la data intrării în vigoare a legii de ratificare a Acordului privind evaluarea conformităţii şi acceptarea produselor industriale între Republica Moldova şi Uniunea Europeană;
+
+2) punctului 2 al secţiunii a II-a şi punctelor 2-5 ale secţiunii a III-a din anexa nr. 2 la Reglementarea tehnică privind siguranţa jucăriilor, care vor intra în vigoare odată cu intrarea în vigoare a legislaţiei naţionale privind clasificarea, etichetarea şi ambalarea substanţelor şi amestecurilor;
+
+3) punctului 10 al secţiunii a III-a din anexa nr. 2 la Reglementarea tehnică privind siguranţa jucăriilor, care va intra în vigoare odată cu intrarea în vigoare a legislaţiei naţionale cu privire la produsele cosmetice.
+
+3. Pînă la data intrării în vigoare a legii de ratificare a Acordului privind evaluarea conformităţii şi acceptarea produselor industriale între Republica Moldova şi Uniunea Europeană:
+
+1) se admite punerea la dispoziție pe piață a jucăriilor cu marcajul de conformitate SM, aplicat în conformitate cu prevederile Legii nr. 235/2011 privind activitățile de acreditare și de evaluare a conformității;
+
+2) producătorul sau reprezentantul autorizat al acestuia, persoană juridică cu sediul în Republica Moldova, aplică marcajul de conformitate SM și emite declarația de conformitate în situația în care evaluarea conformității jucăriilor destinate pieței naționale se realizează de către organismele de evaluare a conformității recunoscute de către Ministerul Dezvoltării Economice și Digitalizării, prin utilizarea procedurilor prevăzute la capitolul XIV din Reglementarea tehnică privind siguranța jucăriilor. Prezența marcajului CE pe jucărie exclude necesitatea aplicării pe aceeași jucărie a marcajului de conformitate SM;
+
+3) Ministerul Dezvoltării Economice și Digitalizării recunoaşte în vederea notificării organismele care efectuează evaluarea conformităţii jucăriilor destinate pieţei naţionale conform procedurilor prevăzute la capitolul XIV din Reglementarea tehnică privind siguranţa jucăriilor. Procedura de notificare se efectuează ca urmare a procedurii de recunoaștere specificată în capitolul IV¹din Legea nr. 235 din 1 decembrie 2011 privind activitățile de acreditare și evaluare a conformității.;
+
+4) cerinţele cu privire la organismele de evaluare a conformităţii notificate se aplică și organismelor de evaluare a conformităţii recunoscute, care au regim juridic similar, conform prevederilor Legii nr. 235 din 1 decembrie 2011 privind activitățile de acreditare și evaluare a conformității. La desfășurarea procedurilor de evaluare a conformității organismele de evaluare a conformităţii recunoscute care realizează evaluarea conformităţii jucăriilor vor întocmi certificate de examinare de tip;
+
+5)  - abrogat;
+
+6) lista ce cuprinde organismele de evaluare a conformității recunoscute, cu sarcinile specifice pentru care acestea au fost recunoscute, şi numerele lor de identificare se gestionează de Centrul Național de Acreditare „MOLDAC” și se publică pe pagina oficială web a acestuia;
+
+7) prevederile prezentei hotărâri referitoare la marcajul CE, examinarea CE de tip și declarația CE de conformitate se aplică în egală măsură și marcajului de conformitate SM, examinării de tip și declarației de conformitate, corespunzător.
+
+4. Obligațiile producătorului, reprezentantului său autorizat, importatorului sau distribuitorului, persoane juridice cu sediul în Republica Moldova, privind jucăriile puse la dispoziție pe piață cu marcajul de conformitate SM sînt similare cu cele prevăzute de prezenta hotărîre pentru jucăriile cu marcajul CE.
+
+5. La data intrării în vigoare a Reglementării tehnice privind siguranţa jucăriilor se abrogă unele hotărîri ale Guvernului, conform anexei nr.2.
+
+6. Controlul asupra executării prezentei hotărîri se pune în sarcina Ministerului Dezvoltării Economice și Digitalizării.
+
+PRIM-MINISTRU                                              Valeriu STRELEŢ
+
+Contrasemnează:
+
+Viceprim-ministru,
+
+ministrul economiei                                             Stephane Christophe Bridе
+
+Ministrul sănătăţii                                               Ruxanda Glavan
+
+Nr. 808. Chişinău, 29 octombrie 2015.
+
+Anexa nr.1
+
+la Hotărîrea Guvernului nr.808
+
+din 29 octombrie 2015
+
+REGLEMENTAREA TEHNICĂ
+
+privind siguranţa jucăriilor
+
+Reglementarea tehnică privind siguranța jucăriilor transpune Directiva 2009/48/CE a Parlamentului European și a Consiliului din 18 iunie 2009 privind siguranța jucăriilor, publicată în Jurnalul Oficial al Uniunii Europene L 170 din 30 iunie 2009, așa cum a fost modificată ultima dată prin Directiva (UE) 2021/903 a Comisiei din 3 iunie 2021 de modificare a Directivei 2009/48/CE a Parlamentului European și a Consiliului în ceea ce privește valorile-limită specifice pentru anilină în anumite jucării, publicată în Jurnalul Oficial al Uniunii Europene L 197 din 4 iunie 2021.
+
+I. DOMENIUL DE APLICARE
+
+1. Reglementarea tehnică privind siguranţa jucăriilor (în continuare – Reglementare tehnică) stabileşte condiţiile privind siguranța jucăriilor și libera circulație a acestora pe piața Republicii Moldova.
+
+2. Prezenta Reglementare tehnică se aplică produselor concepute sau destinate, în mod exclusiv sau neexclusiv, utilizării pentru joacă de către copiii cu o vîrstă mai mică de 14 ani (în continuare – jucării).
+
+3. Produsele enumerate în anexa nr.1 la prezenta Reglementare tehnică nu sînt considerate jucării în sensul prezentei Reglementări tehnice.
+
+4. Prezenta Reglementare tehnică nu se aplică următoarelor jucării:
+
+1) echipamentul pentru terenurile de joacă destinate uzului public;
+
+2) mașinile automate de divertisment care funcționează cu sau fără monede, destinate uzului public;
+
+3) vehiculele de jucărie echipate cu motor cu ardere internă;
+
+4) jucăriile cu motor cu aburi;
+
+5) praștiile și catapultele.
+
+II. NOŢIUNI
+
+5. În sensul prezentei Reglementări tehnice se utilizează următoarele definiții:
+
+punere la dispoziție pe piață – furnizarea unei jucării pentru distribuție, consum sau uz pe piața Republicii Moldova pe parcursul unei activități comerciale, contra cost sau gratuit;
+
+introducere pe piață – punerea la dispoziție pentru prima dată a unei jucării pe piața Republicii Moldova;
+
+producător – orice persoană fizică sau juridică care produce o jucărie sau pentru care se proiectează sau se produce o jucărie și care comercializează respectiva jucărie sub numele sau marca sa;
+
+reprezentant autorizat – orice persoană fizică sau juridică stabilită în Republica Moldova care a primit un mandat scris din partea unui producător de a acționa în numele acestuia în legătură cu sarcini specifice;
+
+importator – orice persoană fizică sau juridică stabilită în Republica Moldova, care introduce pe piața Republicii Moldova o jucărie dintr-o țară terță;
+
+distribuitor – orice persoană fizică sau juridică din lanțul de distribuție, alta decât producătorul sau importatorul, care pune la dispoziție o jucărie pe piață;
+
+operatori economici – producătorul, reprezentantul autorizat, importatorul și distribuitorul;
+
+standard armonizat – astfel cum este definit la art.2 din Legea nr.20/2016 cu privire la standardizarea națională;
+
+legislație comunitară de armonizare – orice legislație comunitară prin care se armonizează condițiile de comercializare a produselor;
+
+acreditare – astfel cum a fost definită la art.2 din Legea nr. 235/2011 privind activitățile de acreditare și de evaluare a conformității;
+
+evaluare a conformității – proces prin care se evaluează dacă s-a demonstrat că au fost îndeplinite cerințele specificate pentru o jucărie;
+
+organism de evaluare a conformității – organism care efectuează activități de evaluare a conformității, inclusiv etalonare, încercare, certificare și inspecție;
+
+rechemare – orice măsură cu scopul de a returna o jucărie care a fost pusă deja la dispoziția utilizatorului final;
+
+retragere – orice măsură cu scopul de a împiedica punerea la dispoziție pe piață a unei jucării în lanțul de distribuție;
+
+supravegherea pieței – activitățile desfășurate și măsurile luate de autoritățile de supraveghere a pieței pentru a se asigura că jucăriile sunt conforme cerințelor aplicabile sau că nu pun în pericol sănătatea, siguranța sau alte aspecte referitoare la protecția intereselor publice;
+
+marcaj CE – marcaj prin care producătorul indică faptul că jucăria respectă cerințele aplicabile stabilite în reglementările tehnice care prevăd aplicarea sa pe jucărie;
+
+produs funcțional – produs care are același rol și este utilizat în același mod ca un produs, aparat sau instalație destinate uzului de către adulți și care poate fi un model redus la scară al unui astfel de produs, aparat sau instalație;
+
+jucărie funcțională – jucărie care are același rol și este utilizată în același mod ca un produs, aparat sau instalație destinate uzului de către adulți și care poate fi un model redus la scară al unui astfel de produs, aparat sau instalație;
+
+jucărie acvatică – jucărie destinată utilizării în apă de adâncime mică, capabilă să ducă sau să susțină copilul în apă;
+
+viteza proiectată – viteza de funcționare normală, determinată prin proiectarea jucăriei;
+
+jucărie de activitate – jucărie destinată uzului domestic a cărei structură de sprijin este fixă pe parcursul activității și care este destinată efectuării următoarelor activități de către un copil: escaladare, sărire, legănare, alunecare, balansare, învârtire, mers târâș sau de-a bușilea sau orice combinație a acestora;
+
+jucărie chimică – jucărie destinată manevrării directe a substanțelor și amestecurilor chimice și care este utilizată într-un mod adecvat vârstei, sub supravegherea unui adult;
+
+joc de masa olfactiv – jucărie al cărei scop este să asiste un copil să recunoască diferite mirosuri sau arome;
+
+trusă cosmetică – jucărie al cărei scop este să ajute copilul să învețe să realizeze produse precum parfumuri, săpunuri, creme, șampoane, spume de baie, luciu de buze (glossuri), rujuri, alte produse de machiat, pastă de dinți și balsamuri;
+
+joc gustativ – jucărie al cărei scop este să permită copiilor să obțină dulciuri sau să realizeze rețete culinare care implică utilizarea unor ingrediente alimentare precum dulciuri, lichide, pudre și arome;
+
+vătămare – rănire fizică sau orice alt efect nefast pentru sănătate, inclusiv efectele pe termen lung asupra sănătății;
+
+pericol – o potențială sursă de vătămare;
+
+risc – probabilitatea ocurenței unui pericol de vătămare și gradul de severitate al vătămării;
+
+destinat uzului de către – înseamnă că un părinte sau tutore poate considera în mod rezonabil, în virtutea funcțiilor, dimensiunilor și caracteristicilor unei anumite jucării că aceasta este destinată uzului copiilor din categoria de vârstă indicată.
+
+[Pct.5 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+III. OBLIGAȚIILE PRODUCĂTORILOR
+
+6. La introducerea pe piaţă a jucăriilor, producătorii se asigură că acestea au fost proiectate şi fabricate în conformitate cu cerinţele esenţiale de siguranţă prevăzute în punctele 38 și 42 şi în anexa nr.2 la prezenta Reglementare tehnică.
+
+[Pct.6 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+7. Producătorii întocmesc documentaţia tehnică solicitată în conformitate cu capitolul XVI din prezenta Reglementare tehnică şi efectuează sau au efectuat procedura aplicabilă de evaluare a conformităţii prevăzută în capitolul XIV din prezenta Reglementare tehnică.
+
+În cazul în care s-a demonstrat conformitatea unei jucării cu cerinţele aplicabile prin procedura menţionată, producătorii întocmesc o declaraţie CE de conformitate şi aplică marcajul CE.
+
+8. Producătorii păstrează documentaţia tehnică şi declaraţia CE de conformitate pentru o perioadă de 10 ani după ce jucăria a fost introdusă pe piaţă.
+
+9. Producătorii asigură existenţa unor proceduri care să garanteze conformitatea continuă a producţiei de serie. Modificările în proiectarea sau caracteristicile jucăriei şi modificările standardelor armonizate la care se face trimitere pentru declararea conformităţii unei jucării se iau în considerare în mod corespunzător.
+
+Ori de cîte ori acest lucru este justificat de riscurile prezentate de o jucărie, producătorii, pentru a proteja sănătatea și siguranța consumatorilor, încearcă prin eșantionare jucăriile comercializate, investighează și păstrează un registru de reclamații pentru jucăriile neconforme și rechemările de jucării, precum și informează distribuitorii privind orice astfel de monitorizare.
+
+10. Producătorii asigură faptul că pe jucăriile lor sînt indicate tipul, lotul sau numărul de serie sau al modelului sau altui element de identificare. În cazul în care mărimea sau natura jucăriei nu permite acest lucru, producătorii se asigură că informaţia solicitată este prevăzută pe ambalaj sau într-un document care însoţeşte jucăria.
+
+11. Producătorii indică pe jucărie numele lor, denumirea comercială sau marca lor înregistrată, precum şi adresa la care pot fi contactaţi. Dacă acest lucru nu este posibil, producătorii indică aceste informaţii pe ambalaj sau într-un document care însoţeşte jucăria. Adresa trebuie să indice un singur punct de contact pentru producător.
+
+12. Producătorii se asigură că jucăria este însoţită de instrucţiuni şi informaţii de siguranţă traduse în limba română, pentru a fi înţelese de către consumatori.
+
+13. Producătorii care consideră sau au motive să creadă că o jucărie pe care au introdus-o pe piaţă nu respectă legislaţia în vigoare iau imediat măsurile corective necesare pentru ca jucăria să fie adusă în conformitate cu legislaţia ori ca aceasta să fie retrasă sau rechemată, după caz. În cazul în care jucăria prezintă un risc, producătorii informează imediat Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor, indicînd detaliile, în special cu privire la neconformitate şi la orice măsură corectivă luată.
+
+14. Producătorii, la cererea motivată a Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor, furnizează acestuia toate informaţiile şi documentaţia necesară pentru a demonstra conformitatea jucăriei, într-o limbă ușor de înțeles de acesta.
+
+Producătorii cooperează cu Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor, la cererea acestuia, cu privire la orice acţiune întreprinsă pentru eliminarea riscurilor prezentate de jucăriile introduse pe piaţă.
+
+[Pct.14 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+IV. OBLIGAȚIILE REPREZENTANȚILOR
+
+AUTORIZAȚI
+
+15. Un producător poate numi un reprezentant autorizat printr-un mandat scris.
+
+16. Obligaţiile producătorului stabilite în punctul 6 din prezenta Reglementare tehnică şi întocmirea documentaţiei tehnice nu sînt incluse în mandatul reprezentantului autorizat.
+
+17. Reprezentantul autorizat îndeplinește sarcinile prevăzute în mandatul primit de la producător. Mandatul permite reprezentantului autorizat să îndeplinească cel puţin următoarele:
+
+1) să mențină declarația CE de conformitate şi documentația tehnică la dispoziția Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare şi Protecția Consumatorilor pentru o perioadă de 10 ani după ce jucăria a fost introdusă pe piaţă;
+
+2) să furnizeze acestuia, la cererea motivată a Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare şi Protecția Consumatorilor, toate informațiile şi documentația necesară pentru a demonstra conformitatea unei jucării;
+
+3) să coopereze cu Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor, la cererea acestuia, cu privire la orice acțiune întreprinsă pentru eliminarea riscurilor prezentate de jucăriile pentru care deţin un mandat.
+
+[Pct.17 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+V. OBLIGAȚIILE IMPORTATORILOR
+
+18. Importatorii introduc pe piaţă numai jucării conforme cu cerinţele prezentei Reglementări tehnice.
+
+19. Înainte de introducerea unei jucării pe piaţă, importatorii se asigură că procedura corespunzătoare de evaluare a conformităţii a fost îndeplinită de către producător.
+
+20. Importatorii se asigură că producătorul a întocmit documentaţia tehnică, că jucăria poartă marcajul de conformitate cerut şi este însoţită de documentele prevăzute, precum şi că producătorul a respectat cerinţele prevăzute în punctele 10 şi 11 din prezenta Reglementare tehnică.
+
+21. Atunci cînd un importator consideră sau are motive să creadă că o jucărie nu respectă cerinţele esenţiale de siguranţă prevăzute în punctele 38 și 42 şi în anexa nr.2 la prezenta Reglementare tehnică, acesta nu introduce jucăria pe piaţă pînă cînd aceasta nu este adusă în conformitate cu cerinţele respective.
+
+În cazul în care jucăria prezintă un risc, importatorul informează producătorul şi Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor.
+
+[Pct.21 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+22. Importatorii indică pe jucărie numele lor, denumirea sau marca lor înregistrată, precum şi adresa la care pot fi contactaţi. Dacă acest lucru nu este posibil, aceste informaţii se indică pe ambalaj sau într-un document care însoţeşte jucăria.
+
+23. Importatorii se asigură că jucăria este însoţită de instrucţiuni şi informaţii de siguranţă traduse în limba română, pentru a fi înţelese de către consumatori.
+
+24. Importatorii asigură faptul că, atît timp cît o jucărie se află în responsabilitatea lor, condiţiile de depozitare sau transport nu periclitează conformitatea acesteia cu cerinţele prevăzute în punctele 38 și 42 şi anexa nr.2 la prezenta Reglementare tehnică.
+
+[Pct.24 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+25. În cazul în care acest lucru se consideră oportun în raport cu riscurile prezentate de o jucărie, pentru a proteja sănătatea și siguranța consumatorilor, importatorii încearcă prin eșantionare jucăriile comercializate, investighează și, dacă este cazul, păstrează un registru de reclamații pentru jucăriile neconforme și rechemările de jucării, precum și informează distribuitorii privind orice astfel de monitorizare.
+
+26. Importatorii care consideră sau au motive să creadă că o jucărie introdusă pe piaţă nu respectă legislaţia în vigoare iau imediat măsurile corective necesare pentru a înlătura neconformităţile, pentru a retrage sau pentru a rechema jucăria în cauză de pe piaţă. În cazul în care jucăria prezintă un risc, importatorii informează imediat Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor, indicînd detaliile, în special cu privire la neconformitate şi la orice măsură corectivă luată.
+
+27. Importatorii păstrează o copie a declaraţiei CE de conformitate la dispoziţia Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor pentru o perioadă de 10 ani după introducerea pe piaţă a jucăriei şi se asigură că documentaţia tehnică poate fi pusă la dispoziţia acestuia, la solicitare.
+
+28. Importatorii, la cererea motivată a Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor, furnizează toate informaţiile şi documentaţia necesară, pentru a demonstra conformitatea unei jucării într-o limbă ușor de înțeles de autoritate.
+
+Importatorii cooperează cu Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor, la cererea acestuia, cu privire la orice acţiune întreprinsă pentru eliminarea riscurilor prezentate de jucăriile puse la dispoziţie pe piaţă.
+
+[Pct.28 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+VI. OBLIGAȚIILE DISTRIBUITORILOR
+
+29. În cazul în care pun la dispoziţie o jucărie pe piaţă, distribuitorii acţionează cu responsabilitate în ceea ce priveşte cerinţele aplicabile.
+
+30. Înainte de a pune la dispoziţie o jucărie pe piaţă, distribuitorii verifică dacă jucăria are aplicat marcajul de conformitate cerut, este însoţită de documentele necesare, de instrucţiunile şi informaţiile de siguranţă traduse în limba română şi dacă producătorul şi importatorul au respectat cerinţele prevăzute în punctele 10, 11 şi 22.
+
+[Pct.30 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+31. Atunci cînd un distribuitor consideră sau are motive să creadă că o jucărie nu respectă cerinţele prevăzute în punctele 38 și 42 şi în anexa nr. 2 la prezenta Reglementare tehnică, acesta nu pune la dispoziţie jucăria pe piaţă pînă cînd aceasta nu este adusă în conformitate cu cerinţele respective. În cazul în care jucăria prezintă un risc, distribuitorul informează producătorul sau importatorul şi Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor.
+
+[Pct.31 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+32. Distribuitorii asigură faptul că, atît timp cît o jucărie se află în responsabilitatea lor, condiţiile de depozitare sau transport nu periclitează conformitatea cu cerinţele prevăzute în punctele 38 și 42 şi în anexa nr. 2 la prezenta Reglementare tehnică.
+
+[Pct.32 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+33. Distribuitorii care consideră sau au motive să creadă că o jucărie introdusă pe piaţă nu respectă legislaţia în vigoare se asigură că sînt luate măsurile corective necesare pentru a înlătura neconformităţile, pentru a retrage sau a rechema jucăria în cauză de pe piaţă. În cazul în care jucăria prezintă un risc, distribuitorii informează imediat despre acest lucru Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor, indicînd detaliile, în special cu privire la neconformitate şi la orice măsuri corective luate.
+
+34. Distribuitorii, la cererea motivată a Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor, furnizează toate informaţiile şi documentaţia necesară pentru a demonstra conformitatea unei jucării.
+
+Distribuitorii cooperează cu Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor, la cererea acestuia, cu privire la orice acţiune întreprinsă pentru eliminarea riscurilor prezentate de jucăriile puse la dispoziţie pe piaţă.
+
+[Pct.34 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+VII. IDENTIFICAREA  OPERATORILOR ECONOMICI
+
+35. Un importator sau un distribuitor este considerat producător în sensul prezentei Reglementări tehnice și îi revin obligațiile producătorului în temeiul capitolului III din prezenta Reglementare tehnică atunci cînd introduce pe piață o jucărie sub numele sau marca sa ori modifică o jucărie deja introdusă pe piață într-un mod care poate afecta respectarea de către aceasta a cerințelor aplicabile.
+
+36. Operatorii economici transmit, la cerere, Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor datele de identificare ale:
+
+1) oricărui operator economic care le-a furnizat o jucărie;
+
+2) oricărui operator economic căruia i-au furnizat o jucărie.
+
+[Pct.36 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+37. Operatorii economici trebuie să poată prezenta informațiile prevăzute la punctul 36 din prezenta Reglementare tehnică pentru o perioadă de 10 ani după introducerea pe piață a jucăriei, în cazul producătorului, și pentru o perioadă de 10 ani după ce le-a fost furnizată jucăria, în cazul altor operatori economici.
+
+VIII. CERINȚE ESENȚIALE DE SIGURANȚĂ
+
+ȘI LIBERĂ CIRCULAȚIE
+
+38. Jucăriile sînt introduse pe piață numai dacă respectă cerințele esențiale de siguranță stabilite, respectiv cerințele generale de siguranță prevăzute în punctele 39-42 și cerințele speciale de siguranță prevăzute în anexa nr. 2.
+
+[Pct.38 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+39. Jucăriile, inclusiv substanțele chimice pe care le conțin, nu trebuie să pună în pericol siguranța sau sănătatea utilizatorilor sau a părților terțe atunci cînd sînt utilizate în conformitate cu destinația lor sau atunci cînd sînt utilizate în mod previzibil, ținînd seama de comportamentul obișnuit al copiilor.
+
+40. Abilitatea utilizatorilor și, dacă este cazul, a supraveghetorilor acestora trebuie luată în considerare, în special, în cazul jucăriilor care sînt destinate utilizării de către copiii mai mici de 36 de luni sau altor grupe de vîrstă specifice.
+
+41. Etichetele aplicate în temeiul punctelor 47-49 din prezenta Reglementare tehnică și instrucțiunile de utilizare care însoțesc jucăriile atrag atenția utilizatorilor sau a supraveghetorilor acestora asupra pericolelor inerente și riscurilor de vătămare legate de utilizarea jucăriilor și asupra modului de a le evita.
+
+42. Jucăriile introduse pe piață trebuie să respecte cerințele esențiale de siguranță de-a lungul perioadei previzibile sau normale de utilizare.
+
+43. Punerea la dispoziţie pe piaţa naţională a jucăriilor care respectă prevederile prezentei Reglementări tehnice nu poate fi împiedicată.
+
+IX. AVERTISMENTE
+
+44. În vederea garantării unei utilizări în siguranță, avertismentele făcute în temeiul punctelor 39-41 din prezenta Reglementare tehnică specifică limitele utilizării adecvate, în conformitate cu partea A din anexa nr. 5 la prezenta Reglementare tehnică.
+
+45. Pentru categoriile de jucării enumerate în partea B din anexa nr.5, se iau în considerare avertismentele prevăzute în aceasta. Avertismentele prevăzute la punctele 2-10 ale părţii B din anexa nr. 5 la prezenta Reglementare tehnică se folosesc așa cum sînt formulate.
+
+46. Jucăriile nu sînt însoțite de unul sau mai multe dintre avertismentele specifice prevăzute în partea B din anexa nr. 5 la prezenta Reglementare tehnică în cazul în care avertismentele nu corespund utilizării prevăzute pentru jucăriile respective, ținînd seama de funcția, dimensiunea și caracteristicile acestora.
+
+47. Producătorul aplică avertismentele într-un mod vizibil și ușor lizibil, ușor de înțeles și precis pe jucărie, pe o etichetă aplicată sau pe ambalaj și, dacă este cazul, pe instrucțiunile de folosire care însoțesc jucăria. Jucăriile de dimensiuni mici vîndute fără ambalaj au aplicate pe ele avertismentele corespunzătoare.
+
+48. Avertismentele sînt precedate de cuvintele „Avertisment” sau „Avertismente”, după caz.
+
+49. Avertismentele care determină decizia de a cumpăra jucăria, cum ar fi cele care specifică vîrsta minimă și maximă a utilizatorului și celelalte avertismente aplicabile prevăzute în anexa nr. 5 la prezenta Reglementare tehnică, sînt indicate pe ambalajul de comercializare sau sînt vizibile în mod clar pentru consumator înainte de cumpărare, inclusiv atunci cînd cumpărarea se face pe internet.
+
+50. Avertismentele și instrucțiunile de siguranță trebuie să fie scrise în limba română, ușor de înțeles pentru consumatori.
+
+X. PREZUMȚIA DE CONFORMITATE
+
+51. Jucăriile care respectă, în întregime sau parţial, standardele armonizate referitoare la jucării ale căror referinţe au fost publicate în Jurnalul Oficial al Uniunii Europene, adoptate în calitate de standarde moldoveneşti, sunt considerate conforme cu cerinţele aflate sub incidența respectivelor standarde sau a unor părți ale acestora stabilite la punctele 38-42 şi în anexa nr. 2.
+
+[Pct.51 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+52. Lista standardelor armonizate, adoptate în calitate de standarde moldovenești referitoare la jucării se aprobă prin ordin al ministrului dezvoltării economice și digitalizării, se publică în Monitorul Oficial al Republicii Moldova și se actualizează ori de câte ori este necesar.
+
+53. În cazul în care se consideră că un standard armonizat nu îndeplinește în întregime cerințele aflate sub incidența acestuia și cerinţele care sînt prevăzute la punctele 38 și 42 și anexa nr.2 la prezenta Reglementare tehnică, Ministerul Dezvoltării Economice și Digitalizării informează Comisia Europeană în scopul aplicării procedurii de furnizare a informaţiilor în domeniul standardelor şi reglementărilor tehnice, înaintînd argumentele intervenţiei sale.
+
+[Pct.53 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+XI. DECLARAȚIA CE DE CONFORMITATE
+
+54. Declarația CE de conformitate atestă faptul că îndeplinirea cerințelor prevăzute la punctele 38 și 42 și în anexa nr. 2 la prezenta Reglementare tehnică a fost demonstrată.
+
+[Pct.54 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+55. Declarația CE de conformitate conține cel puțin elementele prevăzute în anexa nr. 3 şi în modulele relevante stabilite în anexa nr. 6 la prezenta Reglementare tehnică și se actualizează în permanență. Declarația CE de conformitate se redactează sau se traduce în limba română, în concordanță cu modelul prevăzut în anexa nr. 3 la prezenta Reglementare tehnică.
+
+56. Prin redactarea declarației CE de conformitate, producătorul își asumă responsabilitatea pentru conformitatea jucăriei.
+
+XII. PRINCIPII GENERALE ALE MARCAJULUI CE
+
+57. Jucăriile puse la dispoziție pe piață poartă marcajul CE.
+
+58. Marcajul CE se aplică doar de producător sau de reprezentatntul său autorizat pe jucăriile care cad sub incidenţa prezentei Reglementări tehnice.
+
+59. Prin faptul că a aplicat sau a cerut aplicarea marcajului CE, producătorul indică faptul că îşi asumă responsabilitatea pentru conformitatea jucăriilor cu toate cerinţele aplicabile prevăzute de prezenta Reglementare tehnică.
+
+60. Marcajul CE este singurul marcaj care atestă conformitatea jucăriilor cu cerinţele aplicabile prevăzute de prezenta Reglementare tehnică.
+
+61. Se interzice aplicarea pe produse a unor marcaje, însemne sau inscripţii care pot induce în eroare părţile terţe în ceea ce priveşte semnificaţia şi/sau forma marcajului CE. Pe jucării poate fi aplicat orice alt marcaj, cu condiţia ca prin acesta să nu fie afectate vizibilitatea, lizibilitatea şi semnificaţia marcajului CE.
+
+62. Se consideră că jucăriile pe care este aplicat marcajul CE respectă prezenta Reglementare tehnică.
+
+[Pct.62 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+63. Jucăriile care nu au aplicat marcajul CE sau care nu respectă într-un alt mod prevederile prezentei Reglementări tehnice pot fi prezentate, fără a fi expuse spre vînzare, în cadrul unor tîrguri sau expoziții, cu condiția să fie însoțite de un anunț care să indice clar faptul că jucăriile nu respectă prezenta Reglementare tehnică și că acestea nu vor fi puse la dispoziție pe piaţă înainte de îndeplinirea cerințelor de conformitate.
+
+XIII. NORME ȘI CONDIȚII PENTRU APLICAREA
+
+MARCAJULUI CE
+
+64. Marcajul CE se aplică în mod vizibil, lizibil și fără a putea fi șters fie pe jucărie, pe o etichetă aplicată, fie pe ambalaj.
+
+65. În cazul jucăriilor de dimensiuni mici și al jucăriilor compuse din părți mici, marcajul CE poate fi aplicat alternativ pe o etichetă sau pe un prospect însoțitor. Dacă acest lucru nu este posibil din motive tehnice, în cazul jucăriilor vîndute prin automate, și cu condiția ca automatul să fi fost folosit inițial ca ambalaj pentru jucării, marcajul CE este aplicat la vedere, pe automat.
+
+66. În cazul în care marcajul CE nu este vizibil din exteriorul ambalajului, dacă acesta există, trebuie aplicat cel puțin pe ambalaj.
+
+67. Marcajul CE se aplică înainte ca jucăria să fie introdusă pe piață. Acesta poate fi însoțit de o pictogramă sau orice alt însemn care indică un risc special sau o utilizare specială.
+
+XIV. PROCEDURI DE EVALUARE
+
+A CONFORMITĂȚII
+
+68. Înainte de a introduce pe piață o jucărie, producătorii efectuează o analiză a pericolelor de natură chimică, fizică, mecanică, electrică, inflamabilitate, igienă și radioactivitate pe care jucăria le poate prezenta și o evaluare a expunerii potențiale la acestea.
+
+69. Înainte de a introduce jucăriile pe piață, producătorii trebuie să utilizeze procedurile de evaluare a conformității menționate la punctele 70-71 din prezenta Reglementare tehnică, pentru a demonstra faptul că jucăriile respectă cerințele prevăzute la punctele 38 și 42 și în anexa nr.2 la prezenta Reglementare tehnică.
+
+[Pct.69 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+70. Dacă producătorul a aplicat standardele armonizate referitoare la jucării ale căror referinţe au fost publicate în Jurnalul Oficial al Uniunii Europene, adoptate în calitate de standarde moldovenești, sub incidența cărora se află toate cerințele relevante de siguranță pentru jucărie, acesta aplică procedura controlului intern al producției prevăzută în modulul A din anexa nr. 6 la prezenta Reglementare tehnică.
+
+71. Jucăria este supusă examinării CE de tip menționată la capitolul XV din prezenta Reglementare tehnică, combinată cu procedura conformității de tip prevăzută în modulul C din anexa nr. 6 la prezenta Reglementare tehnică, în următoarele cazuri:
+
+1) atunci cînd standardele armonizate ale căror referinţe au fost publicate în Jurnalul Oficial al Uniunii Europene, adoptate în calitate de standarde moldovenești, sub incidența cărora se află toate cerințele relevante de siguranță pentru jucărie nu există;
+
+2) atunci cînd standardele armonizate menționate la subpunctul 1) din prezentul punct există, însă producătorul nu le-a aplicat sau le-a aplicat doar parțial;
+
+3) atunci cînd standardele armonizate menționate la subpunctul 1) din prezentul punct sau oricare dintre acestea au fost publicate cu o restricție;
+
+4) atunci cînd producătorul consideră că natura, proiectarea, construcția sau scopul jucăriei necesită o verificare de către o parte terță.
+
+XV. EXAMINAREA CE DE TIP
+
+72. Prezentarea unei cereri pentru examinarea CE de tip, desfășurarea examinării și emiterea certificatului de examinare CE de tip se desfășoară în conformitate cu procedurile stabilite în modulul B din anexa nr.6 la prezenta Reglementare tehnică.
+
+73. Suplimentar la dispoziţiile prezentate în modulul B, se aplică cerințele stabilite la punctele 74-79 din prezenta Reglementare tehnică.
+
+74. Cererea pentru examinarea CE de tip include o descriere a jucăriei și o indicație a locului de producție, inclusiv adresa.
+
+75. În cazul în care un organism de evaluare a conformității notificat efectuează examinarea CE de tip, acesta evaluează, dacă este necesar, împreună cu producătorul, analiza pericolelor pe care jucăria le poate prezenta, efectuată de către producător în conformitate cu punctul 68 din prezenta Reglementare tehnică.
+
+76. Certificatul de examinare CE de tip include o trimitere la prezenta Reglementare tehnică, o imagine colorată și o descriere clară a jucăriei, inclusiv dimensiunile acesteia, și o listă a încercărilor efectuate, făcînd referință la raportul de încercări relevant.
+
+77. Certificatul de examinare CE de tip este revizuit ori de cîte ori este necesar, în special în cazul unei modificări a procesului de producție, a materiei prime sau a componentelor jucăriei, și, în orice caz, la fiecare 5 ani.
+
+78. Certificatul de examinare CE de tip este retras dacă jucăria nu îndeplinește cerințele stabilite la punctele 38 și 42 și în anexa nr. 2 la prezenta Reglementare tehnică.
+
+[Pct.78 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+79. Se interzice organismelor notificate să elibereze un certificat de examinare CE de tip pentru jucăriile cărora li s-a refuzat sau retras un certificat de examinare CE de tip de către un alt organism notificat.
+
+79¹. Documentaţia tehnică şi corespondenţa referitoare la procedurile de examinare CE de tip sunt întocmite în limba română sau într-o limbă acceptată de organismul notificat.
+
+[Pct.79¹ introdus prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+XVI. DOCUMENTAȚIA TEHNICĂ
+
+80. Documentația tehnică menționată la punctul 7 din prezenta Reglementare tehnică conține toate datele și detaliile relevante referitoare la mijloacele utilizate de producător pentru a garanta faptul că jucăriile respectă cerințele prevăzute la punctele 38 și 42 și în anexa nr. 2 la prezenta Reglementare tehnică și, în special, conține documentele enumerate în anexa nr. 4 la prezenta Reglementare tehnică.
+
+[Pct.80 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+81. Documentația tehnică este redactată conform cerințelor prevăzute la punctul 79¹.
+
+[Pct.81 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+82. La cererea motivată a Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor, producătorul oferă traducerea în limba română a părților relevante din documentația tehnică.
+
+83. Atunci cînd Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor solicită unui producător documentația tehnică sau traducerea unei părți a acesteia, acesta poate stabili un termen de 30 de zile pentru a răspunde cererii, dacă existența unui risc serios și imediat nu justifică stabilirea unui termen mai scurt.
+
+84. În cazul în care producătorul nu respectă obligaţiile prevăzute la punctele 80-83, Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor solicită acestuia să efectueze o încercare la un organism notificat, pe cheltuiala proprie, într-un termen determinat, în vederea verificării conformităţii cu standardele armonizate şi cu cerinţele esenţiale de siguranţă.
+
+[Pct.84 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+XVII. AUTORITĂȚILE DE NOTIFICARE
+
+85. Ministerul Dezvoltării Economice şi Digitalizării notifică Comisiei Europene organismele de evaluare a conformităţii desemnate să îndeplinească sarcini de evaluare a conformităţii ca părţi terţe, în temeiul capitolului XV.
+
+[Pct.85 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+86. Ministerul Dezvoltării Economice și Digitalizării este autoritatea de notificare responsabilă de instituirea și îndeplinirea procedurilor necesare pentru evaluarea și notificarea organismelor de evaluare a conformității în sensul prezentei Reglementări tehnice și pentru monitorizarea organismelor notificate, inclusiv în ceea ce privește respectarea prevederilor punctelor 109-112.
+
+87. Evaluarea și monitorizarea menționate la punctul 86 se realizează de către organismul național de acreditare, recunoscut conform art.7 din Legea nr.235/2011 privind activitățile de acreditare și de evaluare a conformității. Ministerul Dezvoltării Economice și Digitalizării își asumă întreaga răspundere pentru sarcinile îndeplinite de organismul național de acreditare.
+
+88. Ministerul Dezvoltării Economice și Digitalizării informează Comisia Europeană în legătură cu procedurile lor de recunoaştere și notificare a organismelor de evaluare a conformității și de monitorizare a organismelor notificate, precum și în legătură cu orice modificări ale acestora.
+
+XVIII. CERINȚE FAŢĂ DE AUTORITATEA
+
+DE REGLEMENTARE RESPONSABILĂ
+
+PENTRU NOTIFICAREA ORGANISMELOR
+
+DE EVALUARE A CONFORMITĂŢII
+
+89. Ministerul Dezvoltării Economice și Digitalizării notifică Comisiei Europene și statelor membre folosind instrumentul de notificare electronică dezvoltat și gestionat de Comisie.
+
+[Pct.89 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+90. Ministerul Dezvoltării Economice și Digitalizării:
+
+1) asigură obiectivitatea și imparțialitatea în luarea deciziilor cu privire la notificarea organismelor de evaluare a conformităţii și se asigură că nu apar conflicte de interese cu un organism de evaluare a conformității;
+
+2) asigură luarea deciziei cu privire la notificarea organismelor de evaluare a conformității de către o altă persoană decît cea care a participat la evaluarea organismelor de evaluare a conformităţii;
+
+3) nu oferă și nu prestează nici una dintre activitățile pe care le prestează organismele de evaluare a conformității, nici servicii de consultanță în condiții comerciale sau concurențiale;
+
+4) garantează confidențialitatea informațiilor obținute;
+
+5) are la dispoziție personal competent în vederea îndeplinirii corespunzătoare a sarcinilor acestora.
+
+XIX. CERINȚE CU PRIVIRE LA ORGANISMELE
+
+NOTIFICATE ȘI PREZUMȚIA DE CONFORMITATE
+
+A ACESTORA
+
+91. Pentru a fi notificat, un organism de evaluare a conformității îndeplinește cerințele prevăzute la punctele 92-107 din prezenta Reglementare tehnică.
+
+92. Organismele de evaluare a conformității sînt înființate în baza legislației naționale în vigoare și au personalitate juridică.
+
+93. Organismele de evaluare a conformității sînt organisme independente, imparţiale şi nu sînt direct interesate de organizaţia sau jucăria pe care o evaluează, evitînd conflictele de interese pe parcursul evaluării.
+
+94. Un organism care aparține unei asociații de întreprinderi sau unei federații profesionale care reprezintă întreprinderile implicate în proiectarea, fabricarea, furnizarea, asamblarea, utilizarea sau întreținerea jucăriilor pe care le evaluează poate fi considerat a fi un astfel de organism, cu condiția să se demonstreze că este independent și că nu există conflicte de interese.
+
+95. Organismul de evaluare a conformității, personalul din conducerea generală a acestuia și personalul responsabil de îndeplinirea sarcinilor de evaluare a conformității nu poate fi proiectantul, producătorul, furnizorul, instalatorul, cumpărătorul, proprietarul, utilizatorul sau operatorul de întreținere a jucăriilor pe care le evaluează, nici reprezentantul autorizat al vreuneia dintre acele părți. Acest lucru nu împiedică utilizarea jucăriilor evaluate care sînt necesare pentru operațiunile organismului de evaluare a conformității sau utilizarea acestor jucării în scopuri personale.
+
+96. Organismul de evaluare a conformității, personalul din conducerea generală a acestuia și personalul responsabil de îndeplinirea sarcinilor de evaluare a conformității nu pot fi direct implicați în proiectarea sau fabricarea, comercializarea, instalarea, utilizarea sau întreținerea jucăriilor respective și nu reprezintă părțile angajate în acele activități. Aceștia nu se implică în activități care le-ar putea afecta imparțialitatea sau integritatea în ceea ce privește activitățile de evaluare a conformității pentru care sînt notificați. Aceste dispoziții se aplică în special serviciilor de consultanță.
+
+97. Organismele de evaluare a conformității se asigură că activitățile filialelor sau ale subcontractanților lor nu afectează confidențialitatea, obiectivitatea sau imparțialitatea activităților acestora de evaluare a conformității.
+
+98. Organismele de evaluare a conformității și personalul acestora îndeplinesc activitățile de evaluare a conformității la cel mai înalt grad de integritate profesională și de competență tehnică necesară în domeniul respectiv și sînt liberi de orice presiuni și stimulente, îndeosebi financiare, care le-ar putea influența aprecierea sau rezultatele activităților lor de evaluare a conformității, în special în ceea ce privește persoanele sau grupurile de persoane interesate de rezultatele activităților în cauză.
+
+99. Organismele de evaluare a conformității sînt capabile să îndeplinească toate sarcinile de evaluare a conformității atribuite acestora și în legătură cu care a fost notificat, indiferent dacă sarcinile respective sînt îndeplinite chiar de către organismul de evaluare a conformității sau în numele și sub responsabilitatea acestuia.
+
+100. De fiecare dată și pentru fiecare procedură de evaluare a conformității și pentru fiecare tip sau categorie de jucărie pentru care este notificat, un organism de evaluare a conformității are la dispoziție:
+
+1) personalul necesar avînd cunoștințe tehnice și experiență suficientă și adecvată pentru a îndeplini sarcinile de evaluare a conformității;
+
+2) descrierile necesare ale procedurilor în conformitate cu care se realizează evaluarea conformității, asigurîndu-se transparența și posibilitatea de a reproduce procedurile în cauză. Acesta dispune de politici și proceduri adecvate, care fac o distincție între sarcinile îndeplinite ca organism notificat și orice alte activități;
+
+3) procedurile necesare pentru a-și desfășura activitățile ținînd seama în mod corespunzător de dimensiunea unei întreprinderi, domeniul de activitate și structura acesteia, de gradul de complexitate al tehnologiei utilizate pentru producerea jucăriei respective, precum și de caracterul de serie sau de masă al procesului de producție.
+
+101. Organismul de evaluare a conformității trebuie să dispună de mijloacele necesare pentru a îndeplini în mod corespunzător sarcinile tehnice și administrative legate de activitățile de evaluare a conformității și are acces la toate echipamentele sau facilitățile necesare.
+
+102. Personalul responsabil de îndeplinirea activităților de evaluare a conformității trebuie să îndeplinească următoarele condiţii:
+
+1) să aibă o pregătire tehnică și profesională care acoperă toate activitățile de evaluare a conformității pentru care organismul de evaluare a conformității a fost notificat;
+
+2) să deţină cunoștinţe satisfăcătoare privind cerințele evaluărilor pe care le efectuează și autoritatea corespunzătoare pentru realizarea acestor evaluări;
+
+3) să cunoască și să înțeleagă în mod corespunzător cerințele esențiale, standardele armonizate aplicabile și dispozițiile relevante din legislația naţională în vigoare;
+
+4) să aibă capacitatea necesară pentru întocmirea certificatelor, evidențelor și rapoartelor care să demonstreze că au fost realizate evaluări.
+
+103. Trebuie să fie asigurată imparțialitatea organismelor de evaluare a conformității, a personalului cu funcţie de conducere generală și a personalului de evaluare a acestora.
+
+[Pct.103 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+104. Remunerația personalului cu funcţie de conducere generală și a personalului de evaluare a unui organism de evaluare a conformității nu trebuie să depindă de numărul de evaluări realizate sau de rezultatele evaluărilor respective.
+
+[Pct.104 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+105. Organismele de evaluare a conformității trebuie să încheie o asigurare de răspundere civilă cu companiile de asigurare recunoscute legal pe teritoriul Republicii Moldova și să dețină polițe de asigurare pentru a repara prejudiciul care poate fi cauzat terțelor părți prin activitatea lor și față de care poartă răspundere în conformitate cu legislația cu privire la asigurări.
+
+106. Personalul unui organism de evaluare a conformităţii păstrează secretul profesional referitor la toate informaţiile obţinute în îndeplinirea sarcinilor de examinare CE de tip sau al oricărei prevederi din legislaţia naţională de punere în aplicare a acesteia, mai puţin faţă de autorităţile de reglementare. Drepturile de autor sunt protejate.
+
+[Pct.106 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+107. Organismele de evaluare a conformităţii participă la activităţile de standardizare relevante și la activitățile grupului de coordonare a organismelor notificate înființat de către Comisia Europeană sau se asigură că personalul responsabil de îndeplinirea sarcinilor de evaluare a conformității din cadrul lor este informat cu privire la aceste activități și pune în aplicare ca orientare generală deciziile și documentele administrative produse ca rezultat al activității grupului respectiv.
+
+[Pct.107 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+108. În cazul în care un organism de evaluare a conformităţii demonstrează conformitatea sa cu criteriile prevăzute în standardele de referinţă, care adoptă standardele armonizate relevante sau în părţi din acestea, ale căror mențiuni au fost publicate în Jurnalul Oficial al Uniunii Europene, se presupune că acesta se conformează cerinţelor prevăzute la punctele 92-107 în măsura în care aceste cerinţe sunt reglementate de standardele de referinţă aplicabile.
+
+[Pct.108 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+XX. FILIALE ALE ORGANISMELOR NOTIFICATE ȘI
+
+SUBCONTRACTAREA DE CĂTRE ORGANISMELE
+
+NOTIFICATE
+
+109. În cazul în care un organism notificat subcontractează anumite sarcini referitoare la evaluarea conformității sau recurge la o filială, acesta se asigură că subcontractantul sau filiala îndeplinește cerințele prevăzute în punctele 92-107 din prezenta Reglementare tehnică și informează Ministerul Dezvoltării Economice și Digitalizării în acest sens.
+
+[Pct.109 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+110. Organismele notificate preiau întreaga responsabilitate pentru sarcinile îndeplinite de subcontractanți sau filiale, oriunde ar fi acestea stabilite.
+
+111. Activitățile pot fi subcontractate sau îndeplinite de o filială doar cu acordul clientului.
+
+112. Organismele notificate pun la dispoziția Ministerului Dezvoltării Economice și Digitalizării documentele relevante privind evaluarea calificărilor subcontractantului sau ale filialei și privind activitățile îndeplinite de aceștia, în temeiul capitolului XV din prezenta Reglementare tehnică.
+
+XXI. PROCEDURA DE NOTIFICARE
+
+113. În scopul notificării pentru activitate în temeiul prezentei Reglementări tehnice, organismul de evaluare a conformității depune o cerere de notificare la Organismul Naţional de Acreditare.
+
+114. Organismul Naţional de Acreditare informează Ministerul Dezvoltării Economice și Digitalizării atunci cînd organismul de evaluare a conformităţii solicită notificarea şi după acordarea acreditării, transmite solicitarea însoţită de documente Ministerului Dezvoltării Economice și Digitalizării, în scop de a fi notificat.
+
+115. Cererea menționată la punctul 113 din prezenta Reglementare tehnică trebuie să fie însoțită de o descriere a activităților de evaluare a conformității, a modulului sau modulelor de evaluare a conformității și a jucăriei sau jucăriilor pentru care organismul se consideră a fi competent, precum și de certificatul de acreditare, eliberat de organismul național de acreditare, care să ateste că organismul de evaluare a conformității îndeplinește cerințele prevăzute în punctele 92-107 din prezenta Reglementare tehnică.
+
+[Pct.115 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+116. Ministerul Dezvoltării Economice și Digitalizării examinează documentele prezentate pentru recunoașterea în vederea notificării conform capitolului IV¹ din Legea nr. 235/2011 privind activitățile de acreditare și de evaluare a conformității.
+
+117. Notificarea organismelor de evaluare a conformităţii include detalii complete privind activitățile de evaluare a conformității, modulul sau modulele de evaluare a conformității și jucăria sau jucăriile în cauză, precum și atestarea competenței necesare.
+
+118. Organismul de evaluare a conformităţii poate îndeplini activitățile unui organism notificat numai în cazul în care nu există obiecții din partea Comisiei Europene, transmise în termen de două săptămîni de la notificare.
+
+XXI¹. MODIFICĂRILE ADUSE NOTIFICĂRILOR
+
+ȘI CONTESTAREA COMPETENȚEI ORGANISMELOR
+
+NOTIFICATE
+
+119. În cazul în care Ministerul Dezvoltării Economice și Digitalizării constată sau este informat că un organism notificat nu mai îndeplinește cerințele prevăzute în punctele 92-107 din prezenta Reglementare tehnică sau că acesta nu își îndeplinește obligațiile, Ministerul Dezvoltării Economice și Digitalizării ia măsurile necesare în scopul suspendării, restrîngerii sau retragerii notificării, după caz, în funcție de gravitatea încălcării cerințelor sau a neîndeplinirii obligațiilor, în conformitate cu procedura prevăzută de legislaţia naţională.
+
+[Pct.119 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+120. În caz de suspendare, restrîngere sau retragere a notificării sau în cazul în care organismul notificat și-a încetat activitatea, acesta trebuie să asigure predarea documentelor şi a înregistrărilor în legătură cu evaluările realizate ori în curs de realizare din perioada în care a fost notificat către un alt organism notificat din domeniu şi să informeze Ministerul Dezvoltării Economice și Digitalizării în legătură cu aceasta sau să le pună la dispoziţia Ministerului Dezvoltării Economice și Digitalizării şi a Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor, la cererea acestora.
+
+121. Ministerul Dezvoltării Economice și Digitalizării notifică Comisiei Europene orice modificări ulterioare notificării. La cererea Comisiei Europene, Ministerul Dezvoltării Economice și Digitalizării prezintă toate informaţiile care au stat la baza notificării sau la menţinerea competenţei organismului de evaluare a conformităţii.
+
+121¹. În cazurile în care Comisia Europeană investighează competența unui organism notificat sau continuarea îndeplinirii de către un organism notificat a cerințelor și a responsabilităților care îi revin, Ministerul Dezvoltării Economice și Digitalizării prezintă acesteia, la cerere, toate informațiile care au fundamentat notificarea sau menținerea competenței organismului în cauză.
+
+122. În cazul în care Comisia Europeană constată că un organism notificat nu îndeplineşte sau nu mai îndeplineşte cerinţele pentru a fi notificat, aceasta informează Ministerul Dezvoltării Economice și Digitalizării şi îi solicită să întreprindă măsurile corective necesare, inclusiv retragerea notificării, dacă este necesar.
+
+XXII. OBLIGAȚIILE ORGANISMELOR DE EVALUARE
+
+A CONFORMITĂŢII NOTIFICATE
+
+123. Organismele notificate realizează evaluări ale conformității în concordanţă cu procedurile de evaluare a conformității prevăzute în punctele 72-79 din prezenta Reglementare tehnică.
+
+[Pct.123 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+124. Evaluarea conformității se desfășoară în mod proporțional, evitînd sarcinile inutile pentru operatorii economici. Organismele de evaluare a conformității își desfășoară activitatea ținînd seama în mod corespunzător de dimensiunea unei întreprinderi, de domeniul de activitate și structura acesteia, de gradul de complexitate a tehnologiei folosite în cazul jucăriei în cauză, precum și de caracterul de serie sau de masă al procesului de producție.
+
+Procedînd astfel, organismele în cauză respectă totuși gradul de precizie și nivelul de protecție necesare pentru conformitatea jucăriei cu prezenta Reglementare tehnică.
+
+125. În cazul în care un organism notificat constată că producătorul nu îndeplinește cerințele prevăzute la punctele 38 și 42 și în anexa nr. 2 la prezenta Reglementare tehnică sau în standardele armonizate corespunzătoare, acesta solicită producătorului respectiv să adopte măsurile corective corespunzătoare și nu emite certificatul de examinare CE de tip.
+
+[Pct.125 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+126. În cazul în care, pe parcursul monitorizării conformității, ulterior emiterii unui certificat de examinare CE de tip, un organism notificat constată că o jucărie nu mai este conformă, acesta solicită producătorului să adopte măsurile corective corespunzătoare și suspendă sau retrage certificatul de examinare CE de tip, în funcție de necesitate.
+
+127. În cazul în care nu sînt adoptate măsuri corective sau acestea nu au efectul cerut, organismul notificat suspendă, restrînge sau retrage certificatul de examinare CE de tip, după caz.
+
+128. Organismele notificate informează Ministerul Dezvoltării Economice și Digitalizării în legătură cu:
+
+1) orice refuz, suspendare, restrîngere sau retragere a unui certificat de examinare CE de tip;
+
+2) toate circumstanțele care afectează domeniul de aplicare și condițiile notificării;
+
+3) orice cerere de informare cu privire la activitățile de evaluare a conformității primită de la Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor;
+
+4) la cerere, activitățile de evaluare a conformității realizate în limita domeniului de aplicare a notificării și în legătură cu orice altă activitate realizată, inclusiv activități transfrontaliere și subcontractare.
+
+129. Organismele notificate furnizează celorlalte organisme notificate care îndeplinesc activități similare de evaluare a conformității ce se referă la aceleași jucării informații relevante privind aspecte legate de rezultatele negative și, la cerere, rezultatele pozitive ale evaluării conformității.
+
+129¹. Organismele notificate participă, în mod direct sau prin intermediul unui reprezentant desemnat, la activitatea grupului sectorial al organismelor notificate, coordonat de către Comisia Europeană.
+
+[Pct.129¹ în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+129². În cazul în care Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor adoptă măsuri în conformitate cu prevederile prezentei Reglementări tehnice, în special a celor prevăzute la punctul 130, ia în considerare în mod corespunzător principiul precauției.
+
+[Pct.129² introdus prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+XXIII. ORGANIZAREA SUPRAVEGHERII PIEȚEI
+
+130. Pentru jucăriile care intră sub incidenţa prezentei Reglementări tehnice se aplică prevederile Legii nr.162/2023 privind supravegherea pieţei şi conformitatea produselor. Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor este autoritatea responsabilă de supravegherea pieţei în domeniul reglementat de prezenta Reglementare tehnică.
+
+[Pct.130 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+130¹. Orice măsură adoptată în temeiul prezentei Reglementări tehnice în vederea interzicerii, a restricționării introducerii pe piață, a retragerii de pe piață sau a rechemării unei jucării precizează motivele exacte care stau la baza măsurii respective.
+
+Aceste măsuri sunt notificate fără întârziere părții vizate, cu informarea privind căile de atac în conformitate cu Codul administrativ al Republicii Moldova nr. 116/2018. În caz de constatare a contravenției se aplică prevederile Codului contravențional al Republicii Moldova nr. 218/2008.
+
+131. Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor poate solicita unui organism notificat să furnizeze informații cu privire la orice certificat de examinare CE de tip pe care organismul respectiv l-a emis sau l-a retras ori cu privire la orice refuz de a emite un astfel de certificat, inclusiv rapoartele încercărilor și documentația tehnică.
+
+132. În cazul în care Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor constată că o jucărie nu îndeplinește cerințele prevăzute la punctele 38 și 42 și în anexa nr. 2 la prezenta Reglementare tehnică, acesta furnizează organismului notificat, dacă este cazul, instrucțiuni în vederea retragerii certificatului de examinare CE de tip pentru jucăria respectivă.
+
+[Pct.132 modificat prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+133. În funcție de necesități și în special în cazurile precizate la punctul 77 din prezenta Reglementare tehnică, Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor furnizează organismului notificat instrucțiuni în vederea revizuirii certificatului de examinare CE de tip.
+
+XXIV. PROCEDURA APLICABILĂ JUCĂRIILOR
+
+CARE PREZINTĂ UN RISC LA NIVEL NAȚIONAL
+
+134. În cazul în care Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor are motive suficiente să considere că o jucărie care face obiectul prezentei Reglementări tehnice prezintă un risc grav pentru sănătatea sau siguranța persoanelor, ce impune o intervenție rapidă, inclusiv un risc grav ale cărui efecte nu sînt imediate, acesta realizează o evaluare cu privire la jucăria în cauză, acoperind toate cerințele prevăzute în prezenta Reglementare tehnică. Operatorii economici relevanți cooperează cu Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor de cîte ori este necesar.
+
+135. În cazul în care, pe parcursul evaluării menţionate la punctul 134, Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor constată că jucăria nu respectă cerinţele prevăzute de prezenta Reglementare tehnică, acesta solicită fără întârziere operatorului economic relevant să întreprindă acţiunea corectivă adecvată pentru ca jucăria să se conformeze cerinţelor respective, să retragă jucăria de pe piaţă sau să o recheme în decursul unui termen rezonabil, proporţional cu natura riscului implicat, în conformitate cu dispoziţiile stabilite de Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor.
+
+[Pct.135 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+136. Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor informează organismul de evaluare a conformităţii notificat respectiv.
+
+137. În cazul în care Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor consideră că neconformitatea nu este limitată la teritoriul naţional, acesta informează Comisia Europeană, Ministerul Dezvoltării Economice și Digitalizării și statele membre ale Uniunii Europene cu privire la rezultatele evaluării şi la acţiunile solicitate să fie întreprinse de operatorul economic relevant.
+
+[Pct.137 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+138. Operatorul economic se asigură că sînt luate acțiunile corective adecvate pentru jucăriile pe care acesta le-a pus la dispoziție pe piaţă.
+
+139. În cazul în care operatorul economic nu întreprinde acțiunile corective adecvate în termen rezonabil, Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor ia măsurile provizorii corespunzătoare pentru a interzice sau a restricționa punerea la dispoziție a jucăriei pe piață, a retrage jucăria de pe piață sau a o rechema.
+
+140. Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor informează Comisia Europeană, Ministerul Dezvoltării Economice și Digitalizării și statele membre ale Uniunii Europene cu privire la respectivele măsuri.
+
+[Pct.140 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+141. Informaţiile menţionate la punctul 140 includ toate detaliile disponibile, în special datele necesare pentru identificarea jucăriei neconforme, originea acesteia, natura neconformităţii invocate şi riscul implicat, tipul şi durata măsurilor naţionale adoptate, precum şi argumentele prezentate de operatorul economic relevant. Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor indică, în special, dacă neconformitatea este cauzată de:
+
+1) neîndeplinirea cerinţelor privind sănătatea sau siguranţa persoanelor de către jucărie; sau
+
+2) deficienţele existente în standardele armonizate menţionate la punctul 51, care conferă prezumţia de conformitate.
+
+Atunci când autoritatea dintr-un stat membru al Uniunii Europene iniţiază procedura care prezintă un risc la nivel naţional, Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor informează fără întârziere Comisia Europeană şi statele membre cu privire la măsurile adoptate şi la informaţiile suplimentare deţinute referitoare la neconformitatea jucăriei în cauză şi, în caz de dezacord faţă de măsura notificată de statul membru, îşi prezintă obiecţiile.
+
+În cazul în care, în termen de 3 luni de la primirea informaţiilor prevăzute la punctul 139, Comisia Europeană nu a ridicat obiecţii cu privire la o măsură provizorie luată de Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor, măsura respectivă este considerată justificată.
+
+Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare şi Protecţia Consumatorilor se asigură că se iau fără întârziere măsurile restrictive adecvate, cum ar fi retragerea jucăriei de pe piaţă.
+
+[Pct.141 în redacția HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+XXIV¹. PROCEDURA DE SALVGARDARE
+
+141¹. În cazul în care, la finalizarea procedurii prevăzute la punctele 138 și 139, se ridică obiecții cu privire la măsurile luate sau în cazul în care Comisia Europeană consideră că o măsură națională contravine legislației Uniunii Europene, Ministerul Dezvoltării Economice și Digitalizării în comun cu Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor, la inițiativa Comisiei Europene, participă la consultări organizate de aceasta și evaluează măsura națională. Operatorii economici relevanți cooperează cu Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor în acest scop, dacă este necesar.
+
+141². În cazul în care măsura este considerată justificată, Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor întreprinde măsurile necesare pentru a se asigura că jucăria neconformă este retrasă de pe piață și informează în acest sens Ministerul Dezvoltării Economice și Digitalizării. La rândul său, Ministerul Dezvoltării Economice și Digitalizării informează Comisia Europeană privind măsurile luate.
+
+141³. În cazul în care măsura este considerată nejustificată, Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor retrage această măsură.
+
+141⁴. În cazul în care măsura națională este considerată justificată, iar neconformitatea jucăriei este atribuită unor deficiențe ale standardelor menționate la punctul 141, Ministerul Dezvoltării Economice și Digitalizării informează în acest sens Comisia Europeană.
+
+141⁵. În cazul în care o măsură menționată la punctele 139 și 140 reprezintă un tip de măsură pentru care, în temeiul art. 22 din Legea nr. 162/2023 privind supravegherea pieţei şi conformitatea produselor, se solicită notificarea prin intermediul sistemului de schimb rapid de informații, nu se impune efectuarea unei notificări separate, sub rezerva îndeplinirii următoarelor condiții:
+
+1) notificarea prin intermediul sistemului de schimb rapid de informații specifică faptul că notificarea măsurii este solicitată și de către prezenta Reglementare tehnică;
+
+2) documentele justificative menționate la punctul 141 sunt anexate la notificarea sistemului de schimb rapid de informații.
+
+[Pct.141⁵ introdus prin HG77 din 19.02.25, MO104-107/04.03.25 art.109; în vigoare 04.03.25]
+
+XXV. NECONFORMITATEA FORMALĂ
+
+142. Fără a aduce atingere capitolului XXIV din prezenta Reglementare tehnică, Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor solicită operatorului economic în cauză să elimine neconformitățile respective atunci cînd constată oricare dintre următoarele aspecte:
+
+1) marcajul CE a fost aplicat cu încălcarea prevederilor capitolelor XII şi XIII din prezenta Reglementare tehnică;
+
+2) marcajul CE nu a fost aplicat;
+
+3) declarația CE de conformitate nu a fost întocmită;
+
+4) declarația CE de conformitate nu a fost întocmită corect;
+
+5) documentația tehnică nu este disponibilă sau este incompletă.
+
+143. În cazul în care neconformitatea menționată la punctul 142 din prezenta Reglementare tehnică se menține, Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor ia măsurile adecvate pentru a restricționa sau a interzice punerea la dispoziție pe piață a jucăriei sau pentru a se asigura că aceasta este rechemată sau retrasă de pe piață.
+
+Anexa nr. 1
+
+la Reglementarea tehnică
+
+privind siguranţa jucăriilor
+
+LISTA
+
+produselor care nu sînt considerate
+
+în mod special jucării
+
+1. Obiectele decorative pentru festivități și ceremonii.
+
+2. Produsele destinate colecționarilor, cu condiția ca produsele respective sau ambalajul acestora să indice în mod clar și lizibil că sînt destinate colecționarilor în vîrstă de cel puțin 14 ani. Exemple din această categorie sînt următoarele:
+
+1) modelele detaliate și fidele la scară redusă;
+
+2) trusele de asamblare a modelelor detaliate și fidele la scară redusă;
+
+3) păpușile folclorice și decorative și alte articole similare;
+
+4) copiile istorice de jucării;
+
+5) reproduceri ale armelor de foc reale.
+
+3. Echipamentul sportiv, inclusiv patinele cu rotile, patinele cu role în linie și skateboardurile destinate uzului de către copiii cu o masă corporală de peste 20 kg.
+
+4. Bicicletele cu o înălțime maximă a șeii mai mare de 435 mm, măsurată ca distanță verticală de la sol la suprafața superioară a șeii, cu șaua în poziție orizontală și reglată în poziția cea mai joasă.
+
+5. Scuterele și alte mijloace de transport sportive sau care sînt destinate utilizării pentru deplasarea pe șosele sau drumuri publice.
+
+6. Vehiculele cu motor electric care sînt destinate utilizării pentru deplasarea pe șoselele sau drumurile publice sau pe trotuarul de pe marginea acestora.
+
+7. Echipamentul acvatic destinat utilizării în apă adîncă și dispozitivele destinate învățării înotului de către copii, precum scaunele pentru bazine de înot și accesoriile de facilitare a înotului.
+
+8. Puzzle-urile care conțin peste 500 de piese.
+
+9. Puștile și pistoalele cu gaz comprimat, cu excepția puștilor și a pistoalelor cu apă, precum și arcurile cu săgeți cu lungime mai mare de 120 cm.
+
+10. Artificiile, inclusiv capsele de percuție care nu sînt concepute în mod special pentru jucării.
+
+11. Produsele și jocurile care utilizează proiectile cu vîrf ascuțit, precum seturile de săgeți darts cu vîrf metalic.
+
+12. Produsele educative funcționale, cum ar fi cuptoarele electrice, fiarele de călcat sau alte produse funcționale alimentate la o tensiune nominală mai mare de 24 de volți, vîndute exclusiv în scopuri didactice și utilizate sub supravegherea adulților.
+
+13. Produsele destinate să fie utilizate în școli, în scopuri educative specifice sau în alte contexte pedagogice sub supravegherea unui instructor adult, cum ar fi echipamentele științifice.
+
+14. Echipamentele electronice, cum ar fi calculatoarele personale și consolele de jocuri, care sînt utilizate pentru accesarea programelor informatice interactive și perifericelor asociate acestora, în cazul în care echipamentele electronice sau perifericele asociate nu sînt special concepute pentru copii și destinate acestora și au valoare ludică în sine, cum ar fi calculatoarele personale, tastaturile, manetele sau volanele special concepute.
+
+15. Programele informatice interactive destinate activităților recreative și de divertisment, cum ar fi jocurile pe calculator și mediile lor de stocare, cum ar fi CD-urile sau stickurile de memorie USB.
+
+16. Suzetele pentru copii.
+
+17. Corpurile de iluminat atrăgătoare pentru copii.
+
+18. Transformatoarele electrice pentru jucării.
+
+19. Accesoriile de modă pentru copii care nu sînt destinate utilizării pentru joacă.
+
+Anexa nr. 2
+
+la Reglementarea tehnică
+
+privind siguranţa jucăriilor
+
+CERINȚE SPECIALE DE SIGURANȚĂ
+
+I. Proprietăți fizice și mecanice
+
+1. Jucăriile și părțile acestora, precum și elementele de fixare, în cazul jucăriilor montate, trebuie să aibă rezistență mecanică și, după caz, stabilitatea necesară pentru a rezista solicitărilor la care sînt supuse în timpul utilizării, fără a se distruge sau a se deforma cu riscul de a provoca răniri fizice.
+
+2. Muchiile, proeminențele, șnururile, cablurile și elementele de fixare accesibile ale jucăriilor trebuie să fie concepute și fabricate astfel încît pericolul unei răniri fizice să fie redus pe cît posibil la minimum la contactul cu acestea.
+
+3. Jucăriile trebuie proiectate și fabricate astfel încît să nu prezinte vreun risc sau doar riscuri minime inerente utilizării acestora, care ar putea fi cauzate de mișcarea părților componente ale acestora.
+
+4. a) Jucăriile și părțile lor componente nu trebuie să prezinte pericolul de strangulare.
+
+b) Jucăriile și părțile componente ale acestora nu trebuie să prezinte pericolul de asfixiere prin întreruperea fluxului de aer ca urmare a obstrucției externe a căilor respiratorii ale gurii și ale nasului.
+
+c) Jucăriile și părțile componente ale acestora trebuie să aibă dimensiuni care să nu prezinte nici un pericol de asfixiere prin întreruperea fluxului de aer ca urmare a obstrucției căilor respiratorii din cauza unor obiecte blocate în cavitatea bucală sau faringe sau la intrarea căilor respiratorii inferioare.
+
+d) Jucăriile destinate în mod evident copiilor mai mici de 36 de luni, părțile lor componente și orice parte detașabilă a acestora trebuie să aibă dimensiunile în așa fel încît să nu poată fi înghițite sau inhalate. Acest lucru se aplică și altor jucării destinate a fi introduse în cavitatea bucală, precum și părților componente și părților detașabile ale acestora.
+
+e) Ambalajele în care jucăriile sînt introduse în vederea vînzării cu amănuntul nu trebuie să prezinte pericolul de strangulare sau de asfixiere prin obstrucția externă a căilor respiratorii ale gurii și ale nasului.
+
+f) Jucăriile conţinute în produsele alimentare sau amestecate cu un produs alimentar trebuie să aibă propriul lor ambalaj. Acest ambalaj, așa cum se prezintă, trebuie să aibă dimensiunile în așa fel încît să împiedice înghițirea și/sau inhalarea acestuia.
+
+g)  Ambalajul jucăriilor menționat la literele e) și f) din prezentul punct, care este sferic, în forma unui ou sau elipsoidal, și orice parte detașabilă a acestuia sau a unui ambalaj cilindric cu capete rotunjite al unei jucării trebuie să aibă dimensiuni care să împiedice cauzarea obstrucției căilor respiratorii prin înțepenirea lui în cavitatea bucală sau faringe ori prin depunerea lui la intrarea în căile respiratorii inferioare.
+
+h) Jucăriile care fac corp comun cu un produs alimentar în momentul consumului astfel încît este indispensabilă consumarea produsului alimentar înainte de a avea acces direct la jucărie sînt interzise. Părțile jucăriilor atașate în mod direct la un produs alimentar îndeplinesc cerințele stabilite la literele c) și d) din prezentul punct.
+
+5. Jucăriile acvatice trebuie să fie proiectate și fabricate astfel încît să se reducă, pe cît posibil, atunci cînd sînt folosite conform instrucțiunilor de utilizare, pericolul de a-și pierde starea de plutire și sprijinul acordat copilului.
+
+6. Jucăriile în care se poate pătrunde și care constituie astfel un spațiu închis pentru ocupanți trebuie să aibă o ieșire pe care utilizatorul să o poată deschide cu ușurință acționînd din interior spre exterior.
+
+7. Jucăriile care conferă mobilitate utilizatorilor trebuie să fie dotate, pe cît posibil, cu un dispozitiv de frînare adecvat tipului de jucărie și energiei cinetice generate de aceasta. Dispozitivul de frînare trebuie să fie ușor de acționat de către utilizator și fără a produce căderi sau răniri fizice pentru utilizatori sau terți.
+
+Viteza maximă prin construcție a jucăriilor electrice prevăzute cu loc trebuie să fie limitată astfel încît să reducă la minimum riscul de răniri fizice.
+
+8. Forma, compoziția proiectilelor și energia cinetică pe care o pot genera în momentul lansării lor cu o jucărie concepută în acest scop trebuie să fie astfel încît să nu existe pericolul de rănire a utilizatorului jucăriei sau a terților, ținînd seama de natura jucăriei.
+
+9. Jucăriile trebuie să fie fabricate astfel încît să garanteze că:
+
+a) temperatura maximă și minimă a oricărei suprafețe accesibile nu provoacă pericolul unor vătămări corporale la atingere;
+
+b) lichidele, vaporii și gazul conținute în jucărie nu atinge temperaturi sau presiuni periculoase, astfel încît evacuarea acestora, cu excepția unor rațiuni indispensabile bunei funcționări a jucăriei, să poată provoca arsuri sau alte vătămări corporale.
+
+10. Jucăriile concepute să emită un sunet trebuie să fie concepute și fabricate în ceea ce privește valorile maxime ale zgomotului de impulsuri și ale zgomotului prelungit astfel încît sunetul pe care îl emit să nu poată afecta auzul copiilor.
+
+11. Jucăriile de activități sînt fabricate astfel încît să reducă, pe cît posibil, pericolul de strivire sau de prindere a părților corpului sau de prindere a hainelor, precum și pericolul de cădere, impact și înec. În special, orice suprafață a acestora la care au acces și unde se pot juca unul sau mai mulți copii este concepută pentru a le putea suporta greutatea.
+
+II. Inflamabilitatea
+
+1. Jucăriile nu trebuie să constituie un material inflamabil periculos pentru mediul înconjurător al copilului. În acest scop, ele trebuie să fie realizate din materiale care să îndeplinească cel puțin una dintre următoarele condiții:
+
+a) să nu ardă sub acțiunea directă a unei flăcări, scîntei sau a unei alte surse potențiale de foc;
+
+b) să nu fie ușor inflamabile (flacăra să se stingă imediat ce dispare cauza focului);
+
+c) dacă se aprind, trebuie să ardă încet și să prezinte o viteză mică de propagare a flăcării;
+
+d) jucăriile sînt concepute, oricare ar fi compoziția chimică a acestora, astfel încît să întîrzie mecanic procesul de ardere.
+
+Astfel de materiale inflamabile nu trebuie să prezinte pericolul ca focul să se propage la celelalte materiale folosite la realizarea acesteia.
+
+2. Jucăriile care, din rațiuni indispensabile funcționării lor, conțin substanțe sau amestecuri care îndeplinesc criteriile de clasificare prevăzute în legislaţia naţională referitoare la clasificarea, etichetarea şi ambalarea substanţelor şi amestecurilor, în special materiale și echipamente pentru experiențe chimice, asamblarea de machete, mulaje plastice sau ceramice, emailare, fotografiere sau alte activități similare, nu trebuie să conțină ca atare substanțe sau amestecuri care să poată deveni inflamabile în urma pierderii componenților volatili neinflamabili.
+
+3. Jucăriile, cu excepția capselor cu percuție, nu trebuie să fie explozibile sau să conțină elemente sau substanțe susceptibile să explodeze în caz de utilizare, în conformitate cu punctul 39 din prezenta Reglementare tehnică.
+
+4. Jucăriile și, în special, jocurile și jucăriile tip truse chimice nu trebuie să conțină ca atare substanțe sau amestecuri care:
+
+a) amestecate, pot exploda prin reacție chimică sau prin încălzire;
+
+b) amestecate cu substanțe oxidante pot exploda;
+
+c) conțin componente volatile inflamabile în aer care sînt capabile să formeze amestecuri de vapori/aer inflamabile sau explozibile.
+
+III. Proprietăți chimice
+
+1. Jucăriile sînt proiectate și fabricate astfel încît să nu existe riscul unor efecte nocive asupra sănătății umane, cauzate de expunerea la substanțe chimice sau preparate care intră în compoziția jucăriilor sau pe care acestea le conțin, atunci cînd utilizarea acestor jucării este cea descrisă la punctul 39 din prezenta Reglementare tehnică.
+
+Jucăriile respectă legislația naţională relevantă referitoare la anumite categorii de produse sau restricții referitoare la anumite substanțe și amestecuri.
+
+2. Jucăriile care constituie în sine substanțe sau amestecuri trebuie să respecte, de asemenea, prevederile legislaţiei naţionale referitoare la clasificarea, etichetarea şi ambalarea substanţelor şi amestecurilor.
+
+3. Fără a aduce atingere restricțiilor menționate la punctul 1 alineatul al doilea al secţiunii a III-a din prezenta anexă, substanțele clasificate drept cancerigene, mutagene sau toxice pentru reproducere (în continuare – CMR) din categoriile 1A, 1B sau 2, în conformitate cu legislaţia naţională referitoare la clasificarea, etichetarea şi ambalarea substanţelor şi amestecurilor, nu se utilizează în jucării, în compoziția părților componente ale jucăriilor sau în părțile componente ale acestora cu o microstructură distinctă.
+
+4. Prin derogare de la punctul 3, substanțele sau amestecurile clasificate ca CMR din categoriile 1A şi 1B, în conformitate cu legislaţia naţională referitoare la clasificarea, etichetarea şi ambalarea substanţelor şi amestecurilor, pot fi utilizate în jucării, în componente ale jucăriilor sau în părți microstructurale distincte ale jucăriilor, sub rezerva îndeplinirii uneia sau a mai multe dintre următoarele condiții:
+
+a) aceste substanțe și amestecuri sînt în concentrații individuale mai mici sau egale cu concentrațiile relevante stabilite în legislaţia naţională referitoare la clasificarea, etichetarea şi ambalarea substanţelor şi amestecurilor;
+
+b) aceste substanțe și amestecuri sînt inaccesibile, sub orice formă, copiilor, inclusiv prin inhalare, atunci cînd jucăria este utilizată în conformitate cu punctul 39 din prezenta Reglementare tehnică;
+
+c) a fost adoptată o decizie cu privire la autorizarea substanței sau a amestecului, precum și a utilizării acestora, iar substanța sau amestecul, precum și utilizările permise ale acestora au fost incluse în partea A a prezentei anexe.
+
+Decizia menţionată la litera c) poate fi adoptată dacă sînt îndeplinite următoarele condiții:
+
+a) utilizarea substanței sau amestecului a fost evaluată şi s-a constatat siguranța acestora, în special din punctul de vedere al expunerii;
+
+b) după cum s-a constatat din analiza soluțiilor alternative, nu există nici o altă substanță sau amestec corespunzător disponibil;
+
+c) substanța sau amestecul nu sînt interzise în temeiul legislaţiei naţionale privind înregistrarea, evaluarea, autorizarea şi restricţionarea substanţelor chimice.
+
+5. Prin derogare de la punctul 3 al prezentei secţiuni, substanțele sau amestecurile clasificate drept CMR din categoriile 2, în conformitate cu legislaţia naţională referitoare la clasificarea, etichetarea şi ambalarea substanţelor şi amestecurilor, pot fi utilizate în jucării, în componentele jucăriilor sau în părțile microstructurale distincte ale jucăriilor, în condiţiile îndeplinirii uneia dintre următoarele:
+
+a) aceste substanțe și amestecuri sînt în concentrații individuale mai mici sau egale cu concentrațiile relevante stabilite în legislaţia naţională referitoare la clasificarea, etichetarea şi ambalarea substanţelor şi amestecurilor;
+
+b) aceste substanțe și amestecuri sînt inaccesibile, în orice formă, copiilor, inclusiv prin inhalare, atunci cînd jucăria este utilizată în conformitate cu punctul 39 din prezenta Reglementare tehnică;
+
+c) a fost adoptată o decizie cu privire la autorizarea substanței sau a amestecului, precum și a utilizării acestora, iar substanța sau amestecul, precum și utilizările permise ale acestora au fost incluse în partea A a prezentei anexe.
+
+Decizia menţionată la litera c) poate fi adoptată dacă sînt îndeplinite următoarele condiții:
+
+a) utilizarea substanței sau a amestecului a fost evaluată şi s-a constatat siguranța acestora, în special din punctul de vedere al expunerii;
+
+b) substanța sau amestecul nu sînt interzise, în temeiul legislaţiei naţionale privind înregistrarea, evaluarea, autorizarea şi restricţionarea substanţelor chimice.
+
+6. Punctele 3, 4 și 5 ale prezentei secţiuni nu se aplică în cazul nichelului din oțel inoxidabil.
+
+7. Punctele 3, 4 și 5 ale prezentei secţiuni nu se aplică materialelor care respectă valorile-limită specifice stabilite în partea B a prezentei anexe, precum și materialelor care respectă și la care fac referire dispozițiile privind materialele şi obiectele care vin în contact cu produsele alimentare, în conformitate cu Regulamentul sanitar aprobat prin Hotărîrea Guvernului nr. 308 din 29 aprilie 2011 și măsurile specifice aferente privind materialele speciale.
+
+8. Fără a aduce atingere punerii în aplicare a punctelor 3 și 4 ale prezentei secţiuni, se interzice utilizarea nitrosaminelor și a substanțelor nitrozabile în jucăriile destinate uzului de către copiii mai mici de 36 de luni sau în alte jucării destinate a fi introduse în cavitatea bucală, dacă migrarea substanțelor este egală cu sau mai mare de 0,05 mg/kg pentru nitrosamine și 1 mg/kg pentru substanțele nitrozabile.
+
+9. Prezența substanțelor sau a materialelor periculoase în jucării sînt relatate în rapoartele autorităţilor de supraveghere a pieței.
+
+10. Produsele cosmetice de jucărie, cum ar fi cosmeticele pentru păpuși, respectă cerințele de compoziție și etichetare prevăzute de legislaţia naţională cu privire la produsele cosmetice.
+
+11. Jucăriile nu conțin următoarele substanțe de parfumare potențial alergene indicate în tabelul 1.
+
+Tabelul 1
+
+Substanţele de parfumare
+
+potenţial alergene nepermise în compoziţia jucăriilor
+
+Cu toate acestea, prezenţa urmelor acestor substanţe de parfumare este permisă, cu condiţia ca această prezenţă să fie tehnic inevitabilă, în conformitate cu bunele practici de fabricaţie, şi să nu depăşească 100 mg/kg.
+
+Denumirile următoarelor substanţe de parfumare potenţial alergene se enumeră pe jucărie, pe o etichetă aplicată, pe ambalaj sau într-un prospect care însoţeşte jucăria, dacă sînt adăugate unei jucării în concentraţii care depăşesc 100 mg/kg din jucărie sau din părţile componente ale acesteia. Denumirile acestor substanţe sînt indicate în tabelul 2.
+
+Tabelul 2
+
+Substanţele de parfumare potenţial alergene
+
+din componenţa jucăriilor
+
+			Nr.
+
+			crt.
+
+			Denumirea substanţei de
+
+			parfumare alergene
+
+			Numărul CAS
+
+			1.
+
+			Ulei de iarbă-mare (Inula helenium)
+
+			97676-35-2
+
+			2.
+
+			Alil-tioizocianat
+
+			57-06-7
+
+			3.
+
+			Cianură de benzil
+
+			140-29-4
+
+			4.
+
+			4-terţ-butilfenol
+
+			98-54-4
+
+			5.
+
+			Ulei de pelin
+
+			8006-99-3
+
+			6.
+
+			Alcool cyclamen
+
+			4756-19-8
+
+			7.
+
+			Maleat de dietil
+
+			141-05-9
+
+			8.
+
+			Dehidrocumarină
+
+			119-84-6
+
+			9.
+
+			2,4-dehidroxi-3-metilbenzaldehidă
+
+			6248-20-0
+
+			10.
+
+			3,7-dimetil-2-octen-1-ol (6,7-dihidrogeraniol)
+
+			40607-48-5
+
+			11.
+
+			4,6-dimetil-8-terţ-butilcumarină
+
+			17874-34-9
+
+			12.
+
+			Citraconat de dimetil
+
+			617-54-9
+
+			13.
+
+			7,11-dimetil-4,6,10-dodecatrien-3-onă
+
+			26651-96-7
+
+			14.
+
+			6,10-dimetil-3,50,9-undecatrien-2-onă
+
+			141-10-6
+
+			15.
+
+			Difenilamină
+
+			122-39-4
+
+			16.
+
+			Acrilat de etil
+
+			140-88-5
+
+			17.
+
+			Frunză de smochin, proaspătă şi preparată
+
+			68916-52-9
+
+			18.
+
+			trans-2-heptenal
+
+			18829-55-5
+
+			19.
+
+			trans-2-hexenal dietil acetal
+
+			67746-30-9
+
+			20.
+
+			trans-2-hexenal dimetil acetal
+
+			18318-83-7
+
+			21.
+
+			Alcool hidroabietilic
+
+			13393-93-6
+
+			22.
+
+			4-etoxifenol
+
+			622-62-8
+
+			23.
+
+			6-izopropil-2-decahidronaftalenol
+
+			34131-99-2
+
+			24.
+
+			7-metoxicumarină
+
+			531-59-9
+
+			25.
+
+			4-metoxifenol
+
+			150-76-5
+
+			26.
+
+			4-(p-metoxifenil)-3-buten-2-onă
+
+			943-88-4
+
+			27.
+
+			1-(p-metoxifenil)-1-penten-3-onă
+
+			104-27-8
+
+			28.
+
+			trans-2-butenoat de metil
+
+			623-43-8
+
+			29.
+
+			6-metilcumarină
+
+			92-48-8
+
+			30.
+
+			7-metilcumarină
+
+			2445-83-2
+
+			31.
+
+			5-metil-2,3-hexandionă
+
+			13706-86-0
+
+			32.
+
+			Ulei de rădăcină de costus (Saussurea lappa Clarke)
+
+			8023-88-9
+
+			33.
+
+			7-Etoxi-4-metilcumarină
+
+			87-05-8
+
+			34.
+
+			Hexahidrocumarină
+
+			700-82-3
+
+			35.
+
+			Balsam de Peru, brut (exudatul de Myroxylon pereirae (Royle)
+
+			8007-00-9
+
+			36.
+
+			2-pentiliden-ciclohexanonă
+
+			25677-40-1
+
+			37.
+
+			3,6,10-Trimetil-3,5,9-undecatrien-2-onă
+
+			1117-41-5
+
+			38.
+
+			Ulei de verbină (Lippia citriodora Kunth)
+
+			8024-12-2
+
+			39.
+
+			Ambră de mosc (4-terţ-butil-3-metoxi-2,6-dinitrotoluen)
+
+			83-66-9
+
+			40.
+
+			4-fenil-3-buten-2-onă
+
+			122-57-6
+
+			41.
+
+			Amil cinamal
+
+			122-40-7
+
+			42.
+
+			Alcool amilcinamalic
+
+			101-85-9
+
+			43.
+
+			Alcool benzilic
+
+			100-51-6
+
+			44.
+
+			Salicilat de benzil
+
+			118-58-1
+
+			45.
+
+			Alcool cinamalic
+
+			104-54-1
+
+			46.
+
+			Cinamal
+
+			104-55-2
+
+			47.
+
+			Citral
+
+			5392-40-5
+
+			48.
+
+			Cumarină
+
+			91-64-5
+
+			49.
+
+			Eugenol
+
+			97-53-0
+
+			50.
+
+			Geraniol
+
+			106-24-1
+
+			51.
+
+			Hidroxi-citronelal
+
+			107-75-5
+
+			52.
+
+			Hidroximetil-penticiclohexan carboxaldehidă
+
+			31906-04-4
+
+			53.
+
+			Izoeugenol
+
+			97-54-1
+
+			54.
+
+			Extract din muşchiul stejarului
+
+			90028-68-5
+
+			55.
+
+			Extract din muşchiul arborilor
+
+			90028-67-4
+
+			56.
+
+			Atranol (2,6-dihidroxi-4-metil-benzaldehidă)
+
+			526-37-4
+
+			57.
+
+			Cloroatranol (3-cloro-2,6-dihidroxi-4-metil-benzaldehidă)
+
+			57074-21-2
+
+			58.
+
+			Metil heptin carbonat
+
+			111-12-6
+
+12. Utilizarea substanţelor de parfumare menţionate la poziţia 41-55 din tabelul 1, precum şi a substanţelor de parfumare menţionate la pozițiile 1-11 din tabelul 2 este permisă în jocurile de masă olfactive, trusele cosmetice şi jocurile gustative, cu următoarele condiţii:
+
+a) substanţele de parfumare respective să fie clar indicate pe ambalaj, iar pe ambalaj să figureze avertismentul prevăzut la punctul 10 din anexa nr. 5 partea B;
+
+b) dacă este cazul, produsele realizate de copil conform instrucțiunilor să respecte cerințele din legislaţia naţională cu privire la produsele cosmetice;
+
+c) dacă este cazul, substanțele de parfumare să fie conforme cu legislația naţională referitoare la produsele alimentare.
+
+Este interzisă utilizarea jocurilor de masă olfactive, a truselor cosmetice și a jocurilor gustative de către copiii mai mici de 36 de luni. Aceste jocuri trebuie să respecte dispozițiile punctului 1din anexa nr. 5 partea B.
+
+13. Fără a aduce atingere punctelor 3-5 din prezenta secțiune, nu trebuie depășite următoarele limite de migrare ale jucăriilor sau ale părților componente ale jucăriilor indicate în tabelul 3.
+
+Tabelul 3
+
+Limitele de migrare ale jucăriilor sau
+
+ale părţilor componente ale jucăriilor
+
+			Nr.
+
+			crt.
+
+			Denumirea substanţei
+
+			de parfumare alergene
+
+			Numărul CAS
+
+			1.
+
+			Alcool anisic
+
+			105-13-5
+
+			2.
+
+			Benzil benzoat
+
+			120-51-4
+
+			3.
+
+			Cinamat de benzil
+
+			103-41-3
+
+			4.
+
+			Citronellol
+
+			106-22-9; 1117-61-9; 7540-51-4
+
+			5.
+
+			Farnesol
+
+			4602-84-0
+
+			6.
+
+			Hexil cinamaldehidă
+
+			101-86-0
+
+			7.
+
+			Lilial
+
+			80-54-6
+
+			8.
+
+			d-limonene
+
+			5989-27-5
+
+			9.
+
+			Linalol
+
+			78-70-6
+
+			11.
+
+			3-metil-4-(2,6,6-trimetil-2-ciclohexen-1-il)-3-buten-2-onă
+
+			127-51-5
+
+			12.
+
+			Acetilcedren
+
+			32388-55-9
+
+			13.
+
+			Salicilat de amil
+
+			2050-08-0
+
+			14.
+
+			trans-Anetol
+
+			4180-23-8
+
+			15.
+
+			Benzaldehidă
+
+			100-52-7
+
+			16.
+
+			Camfor
+
+			76-22-2; 464-49-3
+
+			17.
+
+			Carvonă
+
+			99-49-0; 6485-40-1; 2244-16-8
+
+			18.
+
+			beta-Cariofilen (oxid)
+
+			87-44-5
+
+			19.
+
+			Cetonă de trandafir -4 (damascenonă)
+
+			23696-85-7
+
+			20.
+
+			alfa-Damasconă (TMCHB)
+
+			43052-87-5; 23726-94-5
+
+			21.
+
+			cis-beta-Damasconă
+
+			23726-92-3
+
+			22.
+
+			delta-Damasconă
+
+			57378-68-4
+
+			23.
+
+			Acetat de dimetilbenzil carbinil (DMBCA)
+
+			151-05-3
+
+			24.
+
+			Hexadecanolactonă
+
+			109-29-5
+
+			25.
+
+			Hexametilindanopiran
+
+			1222-05-5
+
+			26.
+
+			(DL)-Limonenă
+
+			138-86-3
+
+			27.
+
+			Acetat de linalil
+
+			115-95-7
+
+			28.
+
+			Mentol
+
+			1490-04-6; 89-78-1; 2216-51-5
+
+			29.
+
+			Salicilat de metil
+
+			119-36-8
+
+			30.
+
+			3-metil-5-(2,2,3-trimetil-3-ciclopenten-1-il)pent-4-en-2-ol
+
+			67801-20-1
+
+			31.
+
+			alfa-Pinen
+
+			80-56-8
+
+			32.
+
+			beta-Pinen
+
+			127-91-3
+
+			33.
+
+			Propiliden ftalidă
+
+			17369-59-4
+
+			34.
+
+			Aldehidă salicilică
+
+			90-02-8
+
+			35.
+
+			alfa-Santalol
+
+			115-71-9
+
+			36.
+
+			beta-Santalol
+
+			77-42-9
+
+			37.
+
+			Sclareol
+
+			515-03-7
+
+			38.
+
+			alfa-Terpinol
+
+			10482-56-1; 98-55-5
+
+			39.
+
+			Terpineol (amestec de izomeri)
+
+			8000-41-7
+
+			40.
+
+			Terpinolenă
+
+			586-62-9
+
+			41.
+
+			Tetrametilacetiloctahidronaftalină
+
+			54464-57-2; 54464-59-4; 68155-66-8; 68155-67-9
+
+			42.
+
+			Trimetilbenzenpropanol (majantol)
+
+			103694-68-4
+
+			43.
+
+			Vanilină
+
+			121-33-5
+
+			44.
+
+			Cananga odorata și ulei de ylang-ylang
+
+			83863-30-3; 8006-81-3
+
+			45.
+
+			Ulei de scoarță de Cedrus atlantica
+
+			92201-55-3; 8000-27-9
+
+			46.
+
+			Ulei din frunză de Cinnamomum cassia
+
+			8007-80-5
+
+			47.
+
+			Ulei de scoarță de Cinnamomum zeylanicum
+
+			84649-98-9
+
+			48.
+
+			Ulei din flori de Citrus aurantium amara
+
+			8016-38-4
+
+			49.
+
+			Ulei de coajă de Citrus aurantium amara
+
+			72968-50-4
+
+			50.
+
+			Ulei de coajă stoarsă de Citrus berggamia
+
+			89957-91-5
+
+			51.
+
+			Ulei de coajă stoarsă de Citrus limonum
+
+			84929-31-7
+
+			52.
+
+			Ulei de coajă stoarsă de Citrus sinensis (sin.: Aurantium dulcis)
+
+			97766-30-8; 8028-48-6
+
+			53.
+
+			Uleiuri de Cymbopogon citratus/schoenanthus
+
+			89998-14-1; 8007-02-01; 89998-16-3
+
+			54.
+
+			Ulei din frunze de eucalipt spp.
+
+			92502-70-0; 8000-48-4
+
+			55.
+
+			Ulei din flori/frunze de Eugenia caryophyllus
+
+			8000-34-8
+
+			56.
+
+			Jasminum grandiflorum/officinale
+
+			84776-64-7; 90045-94-6; 8022-96-6
+
+			57.
+
+			Juniperus virginiana
+
+			8000-27-9; 85085-41-2
+
+			58.
+
+			Ulei din fructe de Laurus nobilis
+
+			8007-48-5
+
+			59.
+
+			Ulei din frunze de Laurus nobilis
+
+			8002-41-3
+
+			60.
+
+			Ulei din semințe de Laurus nobilis
+
+			84603-73-6
+
+			61.
+
+			Lavandula hybrida
+
+			91722-69-9
+
+			62.
+
+			Lavandula officinalis
+
+			84776-65-8
+
+			63.
+
+			Mentha piperita
+
+			8006-90-4; 84082-70-2
+
+			64.
+
+			Mentha spicata
+
+			84696-51-5
+
+			65.
+
+			Narcissus spp.
+
+			Diverse, inclusiv 90064-25-8
+
+			66.
+
+			Pelargonium graveolens
+
+			90082-51-2; 8000-46-2
+
+			67.
+
+			Pinus mugo
+
+			90082-72-7
+
+			68.
+
+			Pinus pumila
+
+			97676-05-6
+
+			69.
+
+			Pogostemon cablin
+
+			8014-09-3; 84238-39-1
+
+			70.
+
+			Ulei din flori de trandafir (Rosa spp.)
+
+			Diverse, inclusiv 8007-01-0, 93334-48-6, 84696-47-9, 84604-12-6, 90106-38-0, 84604-13-7, 92347-25-6
+
+			71.
+
+			Santalum album
+
+			84787-70-2; 8006-87-9
+
+			72.
+
+			Terebentină (ulei)
+
+			8006-64-2; 9005-90-7; 8052-14-0;
+
+Aceste valori-limită nu se aplică jucăriilor sau părților componente ale jucăriilor care, din cauza accesibilității, funcției, volumului sau masei, exclud orice risc cauzat prin aspirație, lingere, înghițire sau contact prelungit cu pielea, în cazul în care sînt utilizate în condițiile definite la punctul 39 din prezenta Reglementare tehnică.
+
+IV. Proprietăți electrice
+
+1. Jucăriile nu trebuie să fie alimentate la o sursă de energie a cărei tensiune nominală depășește 24 de volți curent continuu sau curent alternativ echivalent și nici un reper accesibil nu trebuie să depășească 24 de volți curent continuu sau curent alternativ echivalent.
+
+Tensiunile interne nu trebuie să depășească 24 de volți curent continuu sau curent alternativ echivalent, cu excepția cazului în care se garantează că tensiunea și combinația actuală generată nu comportă nici un risc de șoc electric vătămător, chiar dacă jucăria este distrusă.
+
+2. Piesele jucăriilor care sînt în contact sau care pot fi în contact cu o sursă de electricitate capabilă să provoace șocuri electrice, precum și cablurile sau alte fire conductoare prin care trece electricitatea către aceste piese trebuie să fie bine izolate și protejate din punct de vedere mecanic, astfel încît să se prevină pericolul unor asemenea șocuri.
+
+3. Jucăriile electrice trebuie proiectate și fabricate astfel încît să garanteze că temperaturile maxime atinse de toate suprafețele direct accesibile să nu producă arsuri la atingerea lor.
+
+4. În condiții previzibile de defectare, jucăriile trebuie să asigure protecție împotriva riscurilor legate de electricitate, generate de o sursă de energie electrică.
+
+5. Jucăriile electrice trebuie să asigure o protecție adecvată împotriva riscurilor de incendiu.
+
+6. Jucăriile electrice trebuie să fie proiectate și fabricate astfel încît cîmpurile electrice, magnetice și electromagnetice, precum și alte radiații generate de echipament să fie limitate în măsura necesară pentru funcționarea jucăriei și trebuie să funcționeze la un nivel de siguranță, în conformitate cu tehnologia general recunoscută, ținînd seama de măsurile specifice.
+
+7. Jucăriile dotate cu un sistem de comandă electronic trebuie să fie proiectate și fabricate astfel încît să funcționeze în deplină siguranță, chiar și în caz de nefuncționare a sistemului electronic din cauza unei defecțiuni a sistemului în sine sau a unui factor extern.
+
+8. Jucăriile trebuie proiectate și fabricate astfel încît să nu prezinte nici un pericol pentru sănătate și nici un pericol de vătămare a ochilor sau a pielii prin lasere, diode emițătoare de lumină (LED-uri) sau orice alt tip de radiație.
+
+9. Transformatorul electric pentru jucării nu face parte integrantă din jucărie.
+
+V. Igienă
+
+1. Jucăriile trebuie proiectate și fabricate astfel încît să respecte cerințele de igienă și de curățenie, pentru a se evita orice pericol de infectare, îmbolnăvire sau contaminare.
+
+2. O jucărie destinată utilizării de către copiii mai mici de 36 de luni trebuie să fie proiectată și fabricată astfel încît să poată fi curățată. O jucărie textilă trebuie, în acest scop, să fie lavabilă, cu excepția cazului în care conține un mecanism care ar putea fi deteriorat dacă se îmbibă cu apă la spălare. Jucăria trebuie să continue să îndeplinească cerințele de siguranță și după ce a fost curățată în conformitate cu prezentul punct și cu instrucțiunile fabricantului.
+
+VI. Radioactivitate
+
+Jucăriile nu trebuie să conţină elemente sau substanţe radioactive în forme sau proporţii care să pună în pericol sănătatea copiilor.
+
+În vederea respectării prevederilor alineatului precedent sînt aplicabile următoarele acte naţionale:
+
+Legea nr. 132 din 8 iunie 2012 privind desfăşurarea în siguranţă a activităţilor nucleare şi radiologice;
+
+Normele fundamentale de radioprotecţie. Cerinţele şi regulile igienice nr. 06.5.3.34 din 27 februarie 2001 (Monitorul Oficial al Republicii Moldova, 2001, nr.40-41, art.111).
+
+Partea A
+
+LISTA
+
+substanțelor cancerigene, mutagene sau toxice pentru
+
+reproducere (CMR) și a utilizărilor permise ale acestora,
+
+în conformitate cu punctele 4-6 din secținea a III-a
+
+din prezenta anexă
+
+			Nr.
+
+			crt.
+
+			Denumirea elementului
+
+			mg/kg
+
+			în materialul uscat, friabil, sfărîmicios sau flexibil al jucăriei
+
+			mg/kg
+
+			în materialul lichid sau lipicios al jucăriei
+
+			mg/kg
+
+			material răzuit al jucăriei
+
+			1.
+
+			Aluminiu
+
+			2250
+
+			560
+
+			28130
+
+			2.
+
+			Antimoniu
+
+			45
+
+			11,3
+
+			560
+
+			3.
+
+			Arsenic
+
+			3,8
+
+			0,9
+
+			47
+
+			4.
+
+			Bariu
+
+			1500
+
+			375
+
+			18750
+
+			5.
+
+			Bor
+
+			1200
+
+			300
+
+			15000
+
+			6.
+
+			Cadmiu
+
+			1,3
+
+			0,3
+
+			17
+
+			7.
+
+			Crom (III)
+
+			37,5
+
+			9,4
+
+			460
+
+			8.
+
+			Crom (IV)
+
+			0,02
+
+			0,005
+
+			0,053
+
+			9.
+
+			Cobalt
+
+			10,5
+
+			2,6
+
+			130
+
+			10.
+
+			Cupru
+
+			622,5
+
+			156
+
+			7700
+
+			11.
+
+			Plumb
+
+			2,0
+
+			0,5
+
+			23
+
+			12.
+
+			Mangan
+
+			1200
+
+			300
+
+			15000
+
+			13.
+
+			Mercur
+
+			7,5
+
+			1,9
+
+			94
+
+			14.
+
+			Nichel
+
+			75
+
+			18,8
+
+			930
+
+			15.
+
+			Seleniu
+
+			37,5
+
+			9,4
+
+			460
+
+			16.
+
+			Stronţiu
+
+			4500
+
+			1125
+
+			56000
+
+			17.
+
+			Staniu
+
+			15000
+
+			3750
+
+			180000
+
+			18.
+
+			Staniu organic
+
+			0,9
+
+			0,2
+
+			12
+
+			19.
+
+			Zinc
+
+			3750
+
+			938
+
+			46000
+
+Partea B
+
+Valori-limită specifice pentru substanțele chimice
+
+utilizate în jucăriile destinate utilizării de către copiii
+
+mai mici de 36 de luni sau în alte jucării concepute
+
+pentru a fi introduse în cavitatea bucală
+
+			Denumirea substanţei
+
+			Clasificarea
+
+			Utilizarea permisă
+
+			Nichel
+
+			CMR 2
+
+			În jucării și componente ale jucăriilor confecționate din oțel inoxidabil.
+
+			În componente ale jucăriilor destinate a fi conductoare de curent electric
+
+Anexa nr. 3
+
+la Reglementarea tehnică
+
+privind siguranţa jucăriilor
+
+DECLARAȚIA CE DE CONFORMITATE
+
+1. Nr. … [numărul unic de identificare a jucăriei (jucăriilor)] _______________________
+
+2. Denumirea și adresa producătorului sau a reprezentantului său autorizat.
+
+_________________________________________________
+
+3. Declarația CE de conformitate este emisă pe răspunderea exclusivă a producătorului.
+
+_________________________________________________
+
+4. Obiectul declarației (identificare a jucăriei permițînd trasabilitatea). Include o imagine colorată, suficient de clară pentru a permite identificarea jucăriei.
+
+_________________________________________________
+
+5. Obiectul declarației descris la punctul 4 este în conformitate cu cerinţele din Reglementarea tehnică.
+
+_________________________________________________
+
+6. Se declară trimiterile la standardele de armonizare relevante adoptate ca naţionale, folosite sau trimiterile la specificațiile în legătură cu care se declară conformitatea.
+
+_________________________________________________
+
+7. Acolo unde este cazul, organismul notificat (denumirea, numărul) …  a efectuat … (descrierea intervenției) … și a emis certificatul.
+
+__________________________________________________
+
+8. Informații suplimentare
+
+__________________________________________________
+
+Semnat pentru și în numele:
+
+(locul și data emiterii)
+
+(numele, funcția) (semnătura)
+
+Anexa nr. 4
+
+la Reglementarea tehnică
+
+privind siguranţa jucăriilor
+
+DOCUMENTAȚIA TEHNICĂ
+
+Documentația tehnică include, în special, în măsura în care sînt relevante pentru evaluare:
+
+1) descrierea detaliată a proiectării și fabricației, inclusiv lista componentelor și materialelor utilizate în jucării, precum și fișa tehnică de securitate privind substanțele chimice folosite, care urmează a fi obținută de la furnizorii de produse chimice;
+
+2) evaluarea (evaluările) privind siguranța, efectuată(e) în conformitate cu punctul 68 din prezenta Reglementare tehnică;
+
+3) descrierea procedurii urmate de evaluare a conformității;
+
+4) copia declarației CE de conformitate;
+
+5) adresa locurilor de fabricare și depozitare;
+
+6) copiile documentelor pe care producătorul le-a înaintat organismului notificat, în cazul în care acesta este implicat;
+
+7) rapoartele încercărilor și descrierea mijloacelor prin care producătorul garantează conformitatea producției cu standardele armonizate, dacă acest producător a urmat procedura de control intern al producției menționate în anexa nr. 6 din prezenta Reglementare tehnică;
+
+8) copia certificatului de examinare CE de tip, descrierea mijloacelor prin care producătorul garantează conformitatea producției cu tipul de produs descris în certificatul de examinare CE de tip și copiile documentelor pe care producătorul le-a înaintat organismului notificat, dacă producătorul a supus jucăria examinării CE de tip și a urmat procedura conformității CE de tip menționată la anexa nr. 6 din prezenta Reglementare tehnică.
+
+Anexa nr. 5
+
+la Reglementarea tehnică
+
+privind siguranţa jucăriilor
+
+Partea A
+
+AVERTISMENTE GENERALE
+
+Restricțiile privind utilizatorul menționate la punctul 44 din prezenta Reglementare tehnică includ cel puțin vîrsta minimă sau maximă a utilizatorului și, dacă este cazul, capacitatea utilizatorilor jucăriei, greutatea minimă sau maximă a utilizatorilor și necesitatea de a se asigura că jucăria este utilizată numai sub supravegherea unui adult.
+
+Partea B
+
+AVERTISMENTE SPECIFICE ȘI INDICAȚII
+
+PRIVIND PRECAUȚIILE DE UTILIZARE PENTRU
+
+ANUMITE CATEGORII DE JUCĂRII
+
+1. Jucării care nu sînt destinate uzului de către copiii mai mici de 36 de luni
+
+Jucăriile care pot fi periculoase pentru copiii mai mici de 36 de luni sînt însoțite de un avertisment, de exemplu: „Contraindicat copiilor mai mici de 36 de luni” sau „Contraindicat copiilor mai mici de trei ani” sau de un avertisment cu următoarea reprezentare grafică:
+
+Aceste avertismente sînt însoţite de o scurtă indicaţie, care poate figura în instrucţiunile de utilizare, asupra pericolelor specifice ce determină această precauţie.
+
+Prezentul punct nu se aplică jucăriilor care, prin funcţii, dimensiuni, caracteristici, proprietăţi sau prin alte elemente incontestabile, sînt în mod evident necorespunzătoare pentru copiii mai mici de 36 luni.
+
+2. Jucării de activitate
+
+Jucăriile de activitate sînt însoțite de următorul avertisment:
+
+„Numai pentru uz domestic.”
+
+Jucăriile de activitate montate pe o traversă, precum și alte jucării de activitate, acolo unde este cazul, sînt însoțite de instrucțiuni de utilizare, care atrag atenția asupra necesității verificării și întreținerii periodice a părților principale (elemente de susținere, fixare, ancorare etc.) și precizează că, dacă aceste verificări nu sînt efectuate, jucăria poate cauza căderea sau răsturnarea involuntară a copilului.
+
+De asemenea, acest tip de jucării trebuie să fie însoțit de instrucțiuni referitoare la modul corect de asamblare, indicîndu-se acele părți care pot prezenta pericole, dacă sînt incorect asamblate. Sînt furnizate informații specifice cu privire la suprafața adecvată de amplasare a jucăriei.
+
+3. Jucării funcționale
+
+Jucăriile funcționale sînt însoțite de următorul avertisment:
+
+„A se folosi sub directa supraveghere a unei persoane adulte.”
+
+În plus, acest tip de jucării trebuie să fie însoțit de instrucțiunile de utilizare, precum și de măsurile de precauție pe care trebuie să le ia utilizatorul, care, dacă nu sînt respectate, reprezintă pericole ce vor fi specificate, în special, pentru jucăriile care reprezintă un model la scară redusă sau imitația unui aparat. Este, de asemenea, indicat ca acest tip de jucărie să nu fie lăsat la îndemîna copiilor mai mici de o anumită vîrstă, care urmează a fi specificată de către producător.
+
+4. Jucării chimice
+
+Fără a aduce atingere aplicării dispozițiilor menționate de legislația naţională cu privire la clasificarea, ambalarea și etichetarea anumitor substanțe și amestecuri, instrucțiunile de utilizare a jucăriilor care conțin aceste substanțe sau amestecuri periculoase vor avea înscris un avertisment asupra pericolelor pe care le reprezintă substanțele sau amestecurile din jucării și indicații asupra precauțiilor ce trebuie luate de utilizator pentru a evita pericolele respective, care trebuie menționate concis, în funcție de tipul de jucărie. Mai mult decît atît, instrucțiunile trebuie să cuprindă informații referitoare la primul ajutor în eventualitatea unor accidente grave rezultate din utilizarea acestui tip de jucărie. Se precizează, de asemenea, faptul că aceste jucării nu trebuie lăsate la îndemîna copiilor mai mici de o anumită vîrstă, care urmează a fi specificată de către producător.
+
+În afară de indicațiile menționate în prima secţiune, jucăriile chimice poartă pe ambalaj următorul avertisment:
+
+„Contraindicat copiilor mai mici de … (vîrsta urmează a fi specificată de către producător) ani. A se utiliza sub supravegherea unei persoane adulte.”
+
+Jucării chimice sînt considerate următoarele tipuri de jucării: trusele pentru experiențe chimice, cutiile cu interior de plastic, atelierele miniaturale de ceramică, de emailare, de fotografie și jucăriile similare care provoacă o reacție chimică sau o modificare similară a substanței în cursul utilizării.
+
+5. Patine, patine cu rotile, patine cu role în linie, skateboarduri, trotinete și biciclete de jucărie pentru copii
+
+În cazul în care sînt prezentate spre vînzare ca jucării, acestea sînt însoțite de următorul avertisment:
+
+„A se utiliza cu echipament de protecție. A nu se utiliza în trafic.”
+
+În plus, instrucțiunile de utilizare trebuie să conțină mențiuni asupra faptului că jucăria trebuie să fie folosită cu prudență de către utilizator sau terți, pentru că aceasta necesită îndemînare în utilizare, în vederea evitării accidentelor prin cădere sau coliziune. De asemenea, trebuie să existe recomandări referitoare la echipamentul de protecție necesar (cască, mănuși, genunchiere, cotiere etc.).
+
+6. Jucării acvatice
+
+Jucăriile acvatice sînt însoțite de următorul avertisment:
+
+„A se utiliza numai acolo unde copilul poate sta în picioare în apă și este sub supraveghere.”
+
+7. Jucării prezente în produsele alimentare
+
+Jucăriile prezente în produsele alimentare sau amestecate cu un produs alimentar sînt însoțite de următorul avertisment:
+
+„Conține o jucărie. Se recomandă supravegherea unui adult.”
+
+8. Imitațiile de măști și căști de protecție
+
+Imitațiile de măști și căști de protecție sînt însoțite de următorul avertisment:
+
+„Această jucărie nu oferă protecție.”
+
+9. Jucăriile destinate suspendării deasupra unui leagăn, a unui pătuț sau a unui landou cu ajutorul sforilor, al corzilor, al elasticelor sau al curelelor
+
+Jucăriile destinate suspendării deasupra unui leagăn, a unui pătuț sau a unui landou cu ajutorul sforilor, al corzilor, al elasticelor sau al curelelor poartă următorul avertisment pe ambalaj, aplicat în mod permanent pe jucărie:
+
+„Pentru a evita orice risc de rănire din cauza agățării, îndepărtați această jucărie de îndată ce copilul este capabil să se ridice în mîini și genunchi în poziție de-a bușilea.”
+
+10. Ambalajul substanțelor de parfumare în jocurile de masă olfactive, trusele cosmetice și jocurile gustative
+
+Ambalajul substanțelor de parfumare din jocurile de masă olfactive, trusele cosmetice și jocurile gustative care conțin substanțele de parfumare stabilite la poziţiile 41-55 ale tabelului 1 din anexa nr.2 la prezenta  Reglementare tehnică, precum și ambalajul substanțelor de parfumare stabilite la poziţiile 1-11 ale tabelului 2 din anexa nr. 2 la prezenta Reglementare tehnică include următorul avertisment:
+
+„Conține substanțe de parfumare care ar putea provoca alergii.”
+
+Anexa nr. 6
+
+la Reglementarea tehnică
+
+privind siguranţa jucăriilor
+
+Modulul A
+
+CONTROLUL INTERN AL PRODUCŢIEI
+
+1. Controlul intern al producției este procedura de evaluare a conformității prin care producătorul îndeplinește obligațiile prevăzute la punctele 2-4 din prezentul modul și asigură și declară pe proprie răspundere că jucăriile în cauză satisfac cerințele aplicabile ale prezentei Reglementări tehnice.
+
+2. Documentația tehnică
+
+Producătorul întocmește documentația tehnică. Documentația tehnică permite evaluarea jucăriilor din punctul de vedere al conformității cu cerințele relevante și include o analiză adecvată și o evaluare a riscului (riscurilor). Documentația tehnică specifică cerințele aplicabile și acoperă, în măsura în care acest lucru este relevant pentru evaluarea, proiectarea, fabricarea și exploatarea jucăriilor.
+
+Documentația tehnică cuprinde, unde este cazul, cel puțin următoarele elemente:
+
+1) descrierea generală a jucăriei;
+
+2) proiectul de concepție, desenele de fabricație și schemele componentelor, subansamblelor, circuitelor etc.;
+
+3) descrierile și explicațiile necesare pentru înțelegerea acelor desene și scheme și a funcționării jucăriilor;
+
+4) lista standardelor armonizate și/sau a altor documente normative relevante ale căror referințe au fost publicate în Jurnalul Oficial al Uniunii Europene, adoptate în calitate de standarde moldovene și aplicate în totalitate sau parțial, și descrierile soluțiilor adoptate pentru a satisface cerințele esențiale ale prezentei Reglementări tehnice, în cazul în care aceste standarde armonizate nu au fost aplicate. În situația unor standarde armonizate aplicate parțial, documentația tehnică menționează acele părți care au fost aplicate;
+
+5) rezultatele calculelor de proiectare realizate, ale examinărilor efectuate etc.;
+
+6) rapoartele de încercări.
+
+3. Fabricația
+
+Producătorul ia toate măsurile necesare pentru ca procesul de fabricație și monitorizarea acestuia să asigure conformitatea jucăriilor fabricate cu documentația tehnică menționată la punctul 2 din prezentul modul și cu cerințele aplicabile ale prezentei Reglementări tehnice.
+
+4. Marcajul CE și declarația CE de conformitate
+
+1) Producătorul aplică marcajul CE impus, prevăzut în prezenta Reglementare tehnică, pe fiecare jucărie care satisface cerințele aplicabile ale prezentei Reglementări tehnice.
+
+2) Producătorul întocmește o declarație CE de conformitate scrisă pentru un model de jucărie și o păstrează împreună cu documentația tehnică la dispoziția Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor pe o perioadă de 10 ani după introducerea pe piață a jucăriei. Declarația CE de conformitate identifică jucăria pentru care a fost întocmită.
+
+O copie a declarației CE de conformitate este pusă la dispoziția Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor, la cerere.
+
+5. Reprezentantul autorizat
+
+Obligațiile producătorului cuprinse la punctul 4 din prezentul modul pot fi îndeplinite de către reprezentantul său autorizat, în numele său și pe răspunderea sa, cu condiția ca acestea să fie menționate în mandat.
+
+Modulul B
+
+EXAMINAREA CE DE TIP
+
+1. Examinarea CE de tip este acea parte a procedurii de evaluare a conformității prin care un organism notificat examinează desenul tehnic al jucăriei, verifică și atestă dacă desenul tehnic al jucăriei corespunde cerințelor aplicabile ale prezentei Reglementări tehnice.
+
+2. Examinarea CE de tip se realizează prin evaluarea caracterului adecvat al desenului tehnic al jucăriei prin examinarea documentației tehnice și a dovezilor suplimentare menționate la punctul 3 din prezentul modul, inclusiv prin examinarea modelelor, reprezentative pentru producția luată în considerare, a uneia sau mai multor părți esențiale ale jucăriei (combinație de tip de producție și tip de proiect);
+
+3. Producătorul depune o cerere pentru examinare CE de tip la un singur organism notificat ales de acesta.
+
+Cererea include:
+
+1) denumirea și adresa producătorului și, în cazul în care cererea este depusă de către reprezentantul autorizat, se precizează numele și adresa acestuia;
+
+2) declarația scrisă, potrivit căreia aceeași cerere nu a fost depusă și la un alt organism notificat;
+
+3) documentația tehnică. Documentația tehnică permite evaluarea jucăriei din punctul de vedere al conformității cu cerințele aplicabile ale prezentei Reglementări tehnice și include o analiză adecvată și o evaluare a riscului (riscurilor). Documentația tehnică specifică cerințele aplicabile și acoperă, în măsura în care acest lucru este relevant pentru evaluare, proiectarea, fabricarea și exploatarea jucăriei.
+
+Documentația tehnică cuprinde, unde este cazul, cel puțin următoarele elemente:
+
+a) descrierea generală a jucăriei;
+
+b) proiectul de concepție, desenele de fabricație și schemele componentelor, subansamblelor, circuitelor etc.;
+
+c) descrierile și explicațiile necesare pentru înțelegerea acelor desene și scheme și a funcționării jucăriei;
+
+d) lista standardelor armonizate și/sau a altor documente normative relevante ale căror referințe au fost publicate în Jurnalul Oficial al Uniunii Europene, adoptate în calitate de standarde moldovene și aplicate în totalitate sau parțial, precum și descrierile soluțiilor adoptate pentru a satisface cerințele esențiale ale prezentei Reglementări tehnice, în cazul în care aceste standarde armonizate nu au fost aplicate.
+
+În situația unor standarde armonizate aplicate parțial, documentația tehnică menționează acele părți care au fost aplicate;
+
+- rezultatele calculelor de proiectare realizate, ale examinărilor efectuate etc.;
+
+- rapoartele de încercări;
+
+- modelele reprezentative pentru producția preconizată. Organismul notificat poate solicita modele suplimentare, în cazul în care acest lucru este necesar pentru realizarea programului de încercări;
+
+- dovezile suplimentare privind caracterul adecvat al soluției desenului tehnic. Aceste dovezi suplimentare menționează orice document care a fost utilizat, în special atunci cînd standardele armonizate și/sau documentele normative nu au fost aplicate în întregime. Dovezile suplimentare includ, în cazul în care este necesar, rezultatele încercărilor efectuate în numele său ori pe răspunderea sa de laboratorul corespunzător al producătorului sau de un alt laborator de încercări.
+
+4. Organismul notificat:
+
+- Pentru jucărie:
+
+1) examinează documentația tehnică și dovezile suplimentare pentru a evalua caracterul adecvat al desenului tehnic al jucăriei;
+
+- Pentru model(e):
+
+2) verifică dacă modelul (modelele) a (au) fost fabricat(e) în conformitate cu documentația tehnică și identifică elementele care au fost proiectate în conformitate cu cerințele aplicabile din standardele armonizate și/sau din documentele normative, precum și elementele care au fost proiectate fără a aplica cerințele relevante ale acestor standarde;
+
+3) efectuează examinările și încercările corespunzătoare sau dispune efectuarea lor, pentru a verifica, în cazul în care producătorul a ales să aplice soluțiile din standardele armonizate și/sau din documentele normative relevante, dacă acestea au fost aplicate corect;
+
+4) efectuează examinările și încercările corespunzătoare sau dispune efectuarea lor, pentru a verifica, în cazul în care nu au fost aplicate soluțiile din standardele armonizate și/sau din documentele normative relevante, dacă soluțiile adoptate de către producător satisfac cerințele esențiale corespunzătoare ale prezentei Reglementări tehnice;
+
+5) stabilește de comun acord cu producătorul locul unde vor fi efectuate examinările și încercările.
+
+5. Organismul notificat întocmește un raport de evaluare care evidențiază activitățile întreprinse, conform punctului 4 din prezentul modul, precum și rezultatele acestora. Fără a aduce atingere obligațiilor sale față de Ministerul Dezvoltării Economice și Digitalizării, organismul transmite conținutul acestui raport, în întregime sau parțial, numai cu acordul producătorului.
+
+6. În cazul în care tipul satisface cerințele aplicabile ale prezentei Reglementări tehnice, organismul notificat emite pentru producător un certificat de examinare CE de tip. Certificatul conține denumirea și adresa producătorului, concluziile examinării, condițiile (dacă există) pentru valabilitatea certificatului și datele necesare pentru identificarea tipului aprobat. Certificatul poate avea atașată una sau mai multe anexe.
+
+Certificatul și anexele acestuia conțin toate informațiile relevante care permit evaluarea conformității cu tipul examinat al jucăriilor fabricate și care permit controlul în utilizare.
+
+În cazul în care tipul nu satisface cerințele aplicabile ale prezentei Reglementări tehnice, organismul notificat refuză emiterea unui certificat de examinare CE de tip și informează solicitantul în consecință, precizînd în detaliu motivele refuzului.
+
+7. Organismul notificat se va informa permanent în legătură cu orice modificări ale tehnologiei general recunoscute care indică faptul că tipul aprobat poate să nu mai fie conform cu cerințele aplicabile ale prezentei Reglementări tehnice și stabilește dacă aceste modificări necesită investigații aprofundate. În acest caz, organismul notificat informează în consecință producătorul.
+
+Producătorul informează organismul notificat care deține documentația tehnică referitoare la certificatul de examinare CE de tip în legătură cu toate modificările tipului aprobat care ar putea afecta conformitatea jucăriei cu cerințele esențiale ale prezentei Reglementări tehnice sau condițiile de valabilitate a certificatului. Aceste modificări necesită o aprobare suplimentară, sub forma unui supliment la certificatul original de examinare CE de tip.
+
+8. Fiecare organism notificat informează Ministerul Dezvoltării Economice și Digitalizării în legătură cu certificatele de examinare CE de tip și/sau cu orice suplimente la acestea pe care le-a emis sau retras și, în mod periodic sau la cerere, pune la dispoziția Ministerului Dezvoltării Economice și Digitalizării lista certificatelor și/sau a oricăror suplimente la acestea refuzate, suspendate sau restrînse în alt mod.
+
+Fiecare organism notificat informează celelalte organisme notificate în legătură cu certificatele de examinare CE de tip și/sau orice suplimente la acestea pe care le-a refuzat, retras, suspendat sau restrîns în alt mod și, pe baza unei cereri, în legătură cu certificatele și/sau suplimentele la acestea pe care le-a emis.
+
+Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor și alte organisme notificate, pe baza unei cereri, pot obține o copie a certificatelor de examinare CE de tip și/sau a suplimentelor acestora. Pe baza unei cereri, Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor poate obține o copie a documentației tehnice și a rezultatelor examinărilor efectuate de organismul notificat. Organismul notificat păstrează un exemplar al certificatului de examinare CE de tip, al anexelor și suplimentelor acestuia, precum și dosarul tehnic incluzînd documentația depusă de producător pînă la expirarea valabilității certificatului.
+
+9. Producătorul păstrează la dispoziția Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor un exemplar al certificatului de examinare CE de tip, al anexelor și al suplimentelor acestuia, împreună cu documentația tehnică, pe o perioadă de 10 ani după introducerea pe piață a jucăriei.
+
+10. Reprezentantul autorizat al producătorului poate depune cererea menționată la punctul 3 din prezentul modul și poate îndeplini obligațiile menționate la punctele 7 și 9 din prezentul modul, cu condiția ca acestea să fie menționate în mandat.
+
+Modulul C
+
+CONFORMITATEA CU TIPUL BAZATĂ
+
+PE CONTROLUL INTERN AL PRODUCȚIEI
+
+1. Conformitatea cu tipul bazată pe controlul intern al producției este acea parte din procedura de evaluare a conformității prin care producătorul îndeplinește obligațiile prevăzute la punctele 2 și 3 din prezentul modul, garantează și declară că jucăriile în cauză sînt în conformitate cu tipul descris în certificatul de examinare CE de tip și satisfac cerințele aplicabile ale prezentei Reglementări tehnice.
+
+2. Fabricația
+
+Producătorul ia toate măsurile necesare pentru ca procesul de fabricație și monitorizarea acestuia să asigure conformitatea jucăriilor fabricate cu tipul aprobat, așa cum este descris în certificatul de examinare CE de tip, și cu cerințele aplicabile ale prezentei Reglementări tehnice.
+
+3. Marcajul CE și declarația CE de conformitate
+
+1) Producătorul aplică marcajul CE impus, astfel cum este stabilit în prezenta Reglementare tehnică, pe fiecare jucărie în parte care este în conformitate cu tipul descris în certificatul de examinare CE de tip și care satisface cerințele aplicabile ale prezentei Reglementări tehnice.
+
+2) Producătorul întocmește o declarație  CE de conformitate scrisă pentru un model de produs și o păstrează la dispoziția Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor pe o perioadă de 10 ani după introducerea pe piață a jucăriei. Declarația CE de conformitate identifică modelul jucăriei pentru care a fost întocmită.
+
+O copie a declarației CE de conformitate este pusă la dispoziția Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor, la cerere.
+
+4. Reprezentantul autorizat
+
+Obligațiile producătorului cuprinse la punctul 3 din prezentul modul pot fi îndeplinite de către reprezentantul său autorizat, în numele său și pe răspunderea sa, cu condiția ca acestea să fie menționate în mandat.
+
+Anexa nr.2
+
+la Hotărîrea Guvernului nr. 808
+
+din 29 octombrie 2015
+
+LISTA
+
+hotărîrilor de Guvern care se abrogă
+
+1. Hotărîrea Guvernului nr.83 din 31 ianuarie 2008 „Cu privire la aprobarea Reglementării tehnice „Jucării. Cerințe de securitate” (Monitorul Oficial al Republicii Moldova, 2008, nr.32-33, art.175).
+
+2. Punctul 26 din anexa nr.3 la Hotărîrea Guvernului nr.384 din 12 mai 2010 „Cu privire la Serviciul de Supraveghere de Stat a Sănătății Publice” (Monitorul Oficial al Republicii Moldova, 2010, nr.78-80, art.455).
+
+3. Hotărîrea Guvernului nr.399 din 8 iunie 2011 „Cu privire la modificarea și completarea Reglementării tehnice „Jucării. Cerințe de securitate”, aprobate prin Hotărîrea Guvernului nr.83 din 31 ianuarie 2008 (Monitorul Oficial al Republicii Moldova, 2011, nr.99-101, art.465).
+
+4. Punctul 10 din anexa nr.3 la Hotărîrea Guvernului nr.936 din 9 decembrie 2011 „Privind crearea Agenției pentru Protecția Consumatorilor și Supravegherea Pieței și aprobarea Regulamentului, structurii și efectivului-limită ale acesteia” (Monitorul Oficial al Republicii Moldova, 2011, nr.222-226, art.1022).
+
+			Nr.
+
+			crt.
+
+			Denumirea substanţei
+
+			Nr. CAS
+
+			Valoarea limită
+
+			1.
+
+			TCEP
+
+			115-96-8
+
+			5 mg/kg (limita conţinutului)
+
+			2.
+
+			TCPP
+
+			13674-84-5
+
+			5 mg/kg (limita conţinutului)
+
+			3.
+
+			TDCP
+
+			13674-87-8
+
+			5 mg/kg (limita conţinutului)
+
+			4.
+
+			Bisfenol A
+
+			80-05-7
+
+			0,1 mg/l (limita de migrare), în conformitate cu metodele stabilite în standardele SM SR EN 71-10 și SM SR EN 71-11
+
+			5.
+
+			Formamidă
+
+			75-12-7
+
+			20 μg/m³ (limită de emisie) după maximum 28 de zile de la începerea analizării emisiilor materialelor din spumă ale jucăriei care conține mai mult de 200 mg/kg (valoarea-limită bazată pe conținut)
+
+			6.
+
+			1,2-benzizotiazol-3(2H)-onă
+
+			2634-33-5
+
+			5 mg/kg (conținut-limită) în soluțiile apoase pentru joacă, în conformitate cu metodele stabilite în standardele  EN 71-10:2005 și SM EN 71-11:2005
+
+			7.
+
+			O masă de reacție de: 5-cloro-2-metil-4-izotiazolin-3-onă [CE nr. 247-500-7] și 2-metil-2H-isotiazol-3-onă [CE nr. 220-239-6] (3:1)
+
+			55965-84-9
+
+			1 mg/kg (conținut-limită) în soluțiile apoase pentru joacă
+
+			8.
+
+			5-cloro-2-metilizotiazolin-3(2H)-onă
+
+			26172-55-4
+
+			0,75 mg/kg (conținut-limită) în soluțiile apoase pentru joacă
+
+			9.
+
+			2-metilizotiazolin-3(2H)-onă
+
+			2682-20-4
+
+			0,25 mg/kg (conținut-limită) în soluțiile apoase pentru joacă
+
+			10.
+
+			Fenol
+
+			108-95-2
+
+			limita de migrare de 5 mg/l în materialele polimerice trebuie determinată în conformitate cu metodele stabilite în SM EN 71-10:2005 și SM EN 71-11:2005;
+
+			conținutul-limită de 10 mg/kg la conservanți trebuie determinată în conformitate cu metodele stabilite în SM EN 71-10:2005 și SM EN 71-11:2005
+
+			11.
+
+			Formaldehidă
+
+			50-00-0
+
+			1,5 mg/l (limită de migrare) în materialele polimerice utilizate la fabricarea jucăriilor;
+
+			0,1 ml/m³ (limita de emisii) în materialele de lemn lipit cu rășină utilizate la fabricarea jucăriilor;
+
+			30 mg/kg (conținut-limită) în materialele textile utilizate la fabricarea jucăriilor;
+
+			30 mg/kg (conținut-limită) în pielea utilizată la fabricarea jucăriilor;
+
+			30 mg/kg (conținut-limită) în hârtia utilizată la fabricarea jucăriilor;
+
+			10 mg/kg (conținut-limită) în materialele pe bază de apă utilizate la fabricarea jucăriilor
+
+			12.
+
+			Anilină
+
+			62-53-3
+
+			30 mg/kg după scindare reductivă în materialele din jucării din materiale textile și din piele;
+
+			10 mg/kg ca anilină liberă în vopselele aplicabile cu degetele;
+
+			30 mg/kg după scindare reductivă în vopselele aplicabile cu degetele.

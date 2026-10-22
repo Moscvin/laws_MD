@@ -1,0 +1,808 @@
+TITLU: Legea nr. 196/2025 privind siguranța generală a produselor
+SURSA: https://www.legis.md/cautare/getResults?doc_id=150669&lang=ro
+
+Republica Moldova
+
+											PARLAMENTUL
+
+											LEGE Nr.												196
+din  10-07-2025
+
+											privind siguranța generală a produselor
+
+										Publicat : 11-09-2025
+												în  Monitorul Oficial												Nr.												478-481 art.												637
+
+										UE
+
+Parlamentul adoptă prezenta lege organică.
+
+Prezenta lege transpune parțial Regulamentul (UE) 2023/988 al Parlamentului European și al Consiliului din 10 mai 2023 privind siguranța generală a produselor, de modificare a Regulamentului (UE) nr. 1025/2012 al Parlamentului European și al Consiliului și a Directivei (UE) 2020/1828 a Parlamentului European și a Consiliului și de abrogare a Directivei 2001/95/CE a Parlamentului European și a Consiliului și a Directivei 87/357/CEE a Consiliului, publicat în Jurnalul Oficial al Uniunii Europene L 135 din 23 mai 2023, CELEX: 32023R0988.
+
+Capitolul I
+
+DISPOZIȚII GENERALE
+
+Articolul 1. Scopul și obiectul legii
+
+(1) Scopul prezentei legi este de a îmbunătăți funcționarea pieței, asigurând totodată un nivel sporit de protecție a consumatorilor.
+
+(2) Prezenta lege stabilește normele de bază privind siguranța produselor de consum introduse sau puse la dispoziție pe piață.
+
+Articolul 2. Domeniul de aplicare
+
+(1) Prezenta lege se aplică produselor care sunt introduse sau puse la dispoziție pe piață, în măsura în care nu există alte norme speciale având același obiectiv în reglementările cu caracter tehnic ce transpun legislația Uniunii Europene (în continuare – reglementări tehnice) și care reglementează siguranța produselor respective.
+
+(2) În cazul în care produsele fac obiectul unor cerințe de siguranță specifice impuse de reglementările tehnice, prezenta lege se aplică doar acelor aspecte și riscuri sau categorii de riscuri care nu sunt acoperite de cerințele respective.
+
+(3) În ceea ce privește produsele care fac obiectul cerințelor de siguranță specifice impuse de reglementările tehnice prevăzute la alin. (1):
+
+a) prevederile capitolului II nu se aplică în măsura în care sunt vizate riscurile sau categoriile de riscuri care cad sub incidența Legii nr. 162/2023 privind supravegherea pieței și conformitatea produselor, precum și a oricărui act normativ care armonizează condițiile de comercializare a produselor cărora li se aplică prevederile legii respective;
+
+b) prevederile capitolului III secțiunea 1 și ale capitolelor IV și IX nu se aplică.
+
+(4) Prezenta lege nu se aplică:
+
+a) medicamentelor de uz uman sau veterinar;
+
+b) produselor alimentare;
+
+c) furajelor;
+
+d) plantelor și animalelor vii, organismelor modificate genetic și microorganismelor modificate genetic utilizate în condiții de izolare, precum și produselor de origine vegetală și animală direct legate de reproducerea viitoare a acestora;
+
+e) subproduselor de origine animală și produselor derivate;
+
+f) produselor de protecție a plantelor;
+
+g) echipamentelor utilizate pentru deplasarea sau călătoria consumatorilor, în cazul în care echipamentele respective sunt exploatate direct de un furnizor de servicii în contextul unui serviciu de transport furnizat consumatorilor și nu sunt exploatate de consumatorii înșiși;
+
+h) aeronavelor care implică un risc scăzut pentru siguranța aviației;
+
+i) antichităților.
+
+(5) Prezenta lege se aplică produselor care sunt introduse sau puse la dispoziție pe piață, indiferent dacă sunt noi, utilizate, reparate sau recondiționate.
+
+(6) Prezenta lege nu se aplică produselor care necesită să fie reparate sau recondiționate înainte de utilizare, dacă acestea sunt introduse sau puse la dispoziție pe piață și sunt marcate în modul corespunzător.
+
+(7) Prezenta lege nu aduce atingere cadrului normativ privind protecția consumatorilor.
+
+(8) Prezenta lege este pusă în aplicare în conformitate cu principiul precauției.
+
+(9) Prezenta lege stabilește normele generale privind funcționarea sistemului informațional național denumit „Sistemul informațional de schimb rapid de informații pentru produsele periculoase” (în continuare – SI SRIPP).
+
+Articolul 3. Noțiuni principale
+
+În sensul prezentei legi, următoarele noțiuni semnifică:
+
+1. antichități – produse precum obiecte de colecție sau opere de artă, în privința cărora consumatorii nu se pot aștepta, în mod rezonabil, ca acestea să respecte standardele de siguranță de ultimă generație;
+
+2. autoritate de supraveghere a pieței – autoritate indicată în coloana a 3-a din tabelul de la anexa nr. 1 la Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor;
+
+3. comerciant – cu sensul definit la art. 1 din Legea nr. 105/2003 privind protecția consumatorilor;
+
+4. consumator – cu sensul definit la art. 1 din Legea nr. 105/2003 privind protecția consumatorilor;
+
+5. contract la distanță – contract încheiat între comerciant și consumator în cadrul unui sistem organizat de vânzări sau de prestare de servicii la distanță, fără prezența fizică simultană a comerciantului și a consumatorului, cu utilizarea exclusivă a unuia sau a mai multor mijloace de comunicare la distanță, până la încheierea contractului și în momentul încheierii acestuia;
+
+6. distribuitor – persoană fizică sau juridică care face parte din lanțul de aprovizionare, alta decât producătorul sau importatorul, care pune produse la dispoziție pe piață;
+
+7. furnizor al unei piețe online – furnizor al unui serviciu intermediar care pune la dispoziție o interfață online ce le permite consumatorilor să încheie contracte la distanță cu comercianții pentru vânzarea de produse;
+
+8. furnizor de servicii de logistică – cu sensul definit la art. 3 din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor;
+
+9. importator – persoană fizică sau juridică, înregistrată în Republica Moldova, care introduce produse din alte state pe piața Republicii Moldova;
+
+10. interfață online – cu sensul definit la art. 3 din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor;
+
+11. introducere pe piață – punerea la dispoziție pentru prima dată a unui produs pe piața Republicii Moldova;
+
+12. legislația de armonizare a Uniunii Europene – cadrul normativ de reglementare aplicabil produselor specificate în anexele nr. 1 și 2 la Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor, precum și orice act normativ al Uniunii Europene care armonizează condițiile de comercializare a produselor cărora li se aplică prevederile legii menționate;
+
+13. operator economic – producător, reprezentant autorizat, importator, distribuitor, furnizor de servicii de logistică sau orice altă persoană fizică sau juridică care face obiectul obligațiilor referitoare la fabricarea produselor sau la punerea la dispoziție pe piață a acestora, în conformitate cu prezenta lege;
+
+14. organizație de standardizare europeană – cu sensul definit la art. 2 din Legea nr. 20/2016 cu privire la standardizarea națională;
+
+15. producător – persoană fizică sau juridică care produce produse ori comandă proiectarea sau fabricarea unui produs și care comercializează produsul respectiv sub numele sau marca proprie;
+
+16. produs – articol, fie că este sau nu interconectat cu alte articole, furnizat sau pus la dispoziție, cu titlu oneros sau gratuit, inclusiv în contextul furnizării unui serviciu, care este destinat consumatorilor sau care este susceptibil, în condiții previzibile în mod rezonabil, să fie utilizat de consumatori, chiar dacă nu le este destinat;
+
+17. produs periculos – produs care nu întrunește condițiile unui „produs sigur”;
+
+18. produs sigur – produs care, în condiții normale de utilizare sau previzibile în mod rezonabil, include durata efectivă de utilizare, nu prezintă niciun risc sau prezintă doar riscuri minime, compatibile cu utilizarea produsului, considerate ca fiind acceptabile și corespunzătoare unui nivel sporit de protecție a siguranței și a sănătății consumatorilor;
+
+19. punere la dispoziție pe piață – furnizare a unor produse pentru distribuție, consum sau utilizare pe piața Republicii Moldova, în cadrul unei activități comerciale, fie în schimbul unei plăți, fie în mod gratuit;
+
+20. reprezentant autorizat – persoană fizică sau juridică, înregistrată în Republica Moldova, care a fost împuternicită printr-un mandat în formă scrisă de către un producător pentru a acționa în numele acestuia pentru îndeplinirea unor sarcini specifice privind obligațiile ce îi revin în temeiul prezentei legi;
+
+21. rechemare – măsură care vizează returnarea unui produs ce a fost deja pus la dispoziția consumatorului;
+
+22. retragere – măsură care împiedică punerea la dispoziție pe piață a unui produs ce se regăsește în lanțul de aprovizionare;
+
+23. risc – combinația dintre probabilitatea apariției unui pericol de vătămare și gravitatea vătămării respective;
+
+24. risc grav – risc care, în baza unei evaluări a riscurilor și luând în considerare utilizarea normală și previzibilă a produsului, se consideră că necesită o intervenție rapidă din partea autorităților de supraveghere a pieței, inclusiv în cazul în care efectele riscului nu sunt imediate;
+
+25. standard european – cu sensul definit la art. 2 din Legea nr. 20/2016 cu privire la standardizarea națională;
+
+26. standard internațional – cu sensul definit la art. 2 din Legea nr. 20/2016 cu privire la standardizarea națională;
+
+27. standard moldovenesc – cu sensul definit la art. 2 din Legea nr. 20/2016 cu privire la standardizarea națională;
+
+28. supraveghere a pieței – cu sensul definit la art. 3 din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor.
+
+Articolul 4. Vânzările la distanță
+
+Produsele oferite spre vânzare online sau prin alte mijloace de vânzare la distanță sunt considerate puse la dispoziție pe piață dacă oferta este destinată consumatorilor din Republica Moldova. O ofertă de vânzare este considerată destinată consumatorilor din Republica Moldova dacă operatorul economic relevant își direcționează activitățile, prin orice mijloace, către piața Republicii Moldova.
+
+Capitolul II
+
+CERINȚE DE SIGURANȚĂ
+
+Articolul 5. Cerința generală de siguranță
+
+Operatorii economici introduc sau pun la dispoziție pe piață doar produse sigure.
+
+Articolul 6. Aspecte luate în considerare la evaluarea
+
+                    siguranței produselor
+
+(1) În cazul în care se evaluează dacă un produs este un produs sigur, se iau în considerare, în special, următoarele aspecte:
+
+a) caracteristicile produsului, inclusiv concepția, caracteristicile tehnice, compoziția, ambalajul, instrucțiunile de asamblare și, după caz, instrucțiunile de instalare, de utilizare și de întreținere;
+
+b) efectul produsului asupra altor produse, în cazul în care acesta este previzibil, în mod rezonabil, incluzând situația în care produsul este utilizat împreună cu alte produse, inclusiv prin interconectarea produselor respective;
+
+c) efectul pe care alte produse l-ar putea avea asupra produsului care urmează să fie evaluat, în cazul în care acesta este previzibil, în mod rezonabil, incluzând situația în care alte produse sunt utilizate împreună cu produsul respectiv, precum și efectul articolelor neîncorporate menite să determine, să modifice sau să completeze modul de funcționare a produsului care urmează să fie evaluat, efect ce trebuie luat în considerare la evaluarea siguranței produsului care urmează să fie evaluat;
+
+d) prezentarea produsului și etichetarea acestuia, inclusiv etichetarea privind caracterul adecvat pentru copii în funcție de vârstă, orice avertismente și instrucțiuni referitoare la utilizarea și eliminarea produsului în condiții de siguranță, precum și orice altă mențiune sau informație referitoare la produs;
+
+e) categoriile de consumatori care utilizează produsul, în special evaluând riscurile pentru consumatorii vulnerabili, precum copiii, persoanele în vârstă și persoanele cu dizabilități, inclusiv impactul diferențelor de gen asupra sănătății și siguranței;
+
+f) aspectul exterior al produsului, în cazul în care acesta este susceptibil să determine consumatorii să utilizeze produsul respectiv într-un mod diferit de cel pentru care a fost conceput, în special:
+
+(i) dacă un produs, deși nu este un produs alimentar, se aseamănă cu un produs alimentar și este susceptibil să fie confundat cu acesta din cauza formei, a mirosului, a culorii, a aspectului, a ambalajului, a etichetării, a volumului, a dimensiunii sau a altor caracteristici ale acestuia și, prin urmare, ar putea fi introdus în gură, supt sau înghițit de către consumatori, în special de către copii;
+
+(ii) dacă un produs, deși nu este conceput pentru a fi utilizat de copii și nici destinat utilizării de către aceștia, este susceptibil să fie utilizat de copii sau se aseamănă cu un obiect recunoscut, în general, ca fiind atrăgător pentru copii ori destinat utilizării de către aceștia, ca urmare a concepției, a ambalajului sau a caracteristicilor acestuia;
+
+g) caracteristicile adecvate de securitate cibernetică, în cazul în care natura produsului impune acest lucru, necesare pentru a proteja produsul împotriva influențelor externe, inclusiv a părților terțe răuvoitoare, dacă o astfel de influență ar putea avea un impact asupra siguranței produsului, inclusiv prin posibila pierdere a interconectării;
+
+h) funcționalitățile evolutive, de învățare și predictive ale produsului, în cazul în care natura produsului impune acest lucru.
+
+(2) Posibilitatea obținerii unor niveluri mai sporite de siguranță sau disponibilitatea altor produse care prezintă un grad mai mic de risc nu constituie motive pentru a considera un produs ca fiind produs periculos.
+
+Articolul 7. Prezumția de conformitate cu cerința
+
+                     generală de siguranță
+
+(1) În sensul prezentei legi, un produs este considerat conform cu cerința generală de siguranță prevăzută la art. 5 în următoarele cazuri:
+
+a) produsul respectă standardele moldovenești adoptate, care transpun integral sau parțial standardele europene relevante, în ceea ce privește riscurile și categoriile de risc acoperite de standardele respective, ale căror referințe au fost publicate în Jurnalul Oficial al Uniunii Europene, în conformitate cu normele privind standardizarea europeană;
+
+b) în absența unor standarde moldovenești adoptate care transpun standardele europene relevante, astfel cum sunt menționate la lit. a), produsul respectă cerințele naționale în ceea ce privește riscurile și categoriile de risc acoperite de cerințele de sănătate și de siguranță prevăzute de legislație.
+
+(2) Guvernul adoptă acte normative de punere în aplicare a prezentei legi, prin care stabilește cerințele specifice de siguranță acoperite de standardele moldovenești care transpun standarde europene pentru a se asigura că produsele care sunt conforme cu standardele respective îndeplinesc cerința generală de siguranță prevăzută la art. 5.
+
+(3) Prezumția de conformitate cu cerința generală în materie de siguranță prevăzută la alin. (1) nu împiedică autoritățile de supraveghere a pieței să întreprindă toate măsurile adecvate în temeiul prezentei legi în cazul în care există dovezi că, contrar prezumției respective, produsul este un produs periculos.
+
+Articolul 8. Elemente suplimentare privind evaluarea
+
+                     siguranței produselor
+
+În cazul în care se evaluează dacă un produs este un produs sigur în sensul art. 6 și în situația în care nu se aplică prezumția de siguranță prevăzută la art. 7, se iau în considerare, în special, următoarele aspecte, dacă sunt disponibile:
+
+a) standardele moldovenești adoptate care transpun standarde europene, altele decât cele ale căror referințe au fost publicate în Jurnalul Oficial al Uniunii Europene în conformitate cu normele privind standardizarea europeană;
+
+b) standardele moldovenești adoptate care transpun standarde internaționale;
+
+c) acordurile internaționale ratificate;
+
+d) sistemele de certificare voluntare sau schemele similare de evaluare a conformității ale altor state;
+
+e) recomandările sau orientările Comisiei Europene referitoare la evaluarea siguranței produselor;
+
+f) standardele moldovenești elaborate de către comitetele tehnice de standardizare;
+
+g) stadiul de dezvoltare a tehnicii și tehnologiei, inclusiv avizul organismelor științifice și al comitetelor de experți recunoscute;
+
+h) codurile de bune practici în vigoare în sectorul respectiv;
+
+i) așteptările rezonabile ale consumatorilor cu privire la siguranță;
+
+j) cerințele de siguranță adoptate în conformitate cu art. 7 alin. (2).
+
+Capitolul III
+
+OBLIGAȚIILE OPERATORILOR ECONOMICI
+
+ȘI ALE FURNIZORILOR DE PIEȚE ONLINE
+
+Secțiunea 1
+
+Obligații generale
+
+Articolul 9. Obligațiile producătorilor
+
+(1) În cazul introducerii produselor pe piață, producătorii se asigură că produsele respective au fost proiectate și fabricate în conformitate cu cerința generală de siguranță prevăzută la art. 5.
+
+(2) Înainte de a introduce pe piață un produs, producătorii efectuează o analiză internă a riscurilor și întocmesc documentația tehnică, care să conțină cel puțin descrierea generală a produsului și a caracteristicilor esențiale relevante pentru evaluarea siguranței acestuia.
+
+(3) Dacă se consideră necesar, în ceea ce privește posibilele riscuri legate de produs, documentația tehnică menționată la alin. (2) conține, după caz, și:
+
+a) analiza riscurilor legate de produs și acțiunile întreprinse pentru eliminarea sau reducerea riscurilor respective, inclusiv rezultatele tuturor rapoartelor privind testele efectuate de producător sau de alte părți în numele acestuia; și
+
+b) lista tuturor standardelor moldovenești relevante, menționate la art. 7 alin. (1) lit. a), sau a celorlalte elemente, menționate la art. 7 alin. (1) lit. b) ori la art. 8, aplicate pentru îndeplinirea cerinței generale de siguranță prevăzute la art. 5.
+
+(4) În cazul în care standardele moldovenești, cerințele de sănătate și siguranță sau elementele menționate la art. 7 alin. (1) ori la art. 8 au fost aplicate doar parțial, producătorii trebuie să indice părțile care au fost aplicate.
+
+(5) Producătorii se asigură că documentația tehnică menționată la alin. (2) este actualizată. Producătorii păstrează documentația respectivă, pentru a o pune la dispoziția autorităților de supraveghere a pieței, pentru o perioadă de 10 ani de la data introducerii pe piață a produsului respectiv și, la cerere, pun documentația în cauză la dispoziția autorităților indicate.
+
+(6) Producătorii se asigură că sunt aplicate proceduri care permit ca produsele care sunt fabricate în serie să rămână conforme cu cerința generală de siguranță prevăzută la art. 5.
+
+(7) Producătorii se asigură că pe produsele acestora sunt indicate numărul tipului, numărul lotului sau numărul de serie ori alt element care să permită identificarea produsului și care să poată fi văzut și citit cu ușurință de către consumatori sau, dacă dimensiunile ori natura produsului nu permite acest lucru, că informațiile necesare sunt furnizate pe ambalaj sau într-un document care însoțește produsul.
+
+(8) Producătorii își indică pe produs numele, denumirea comercială înregistrată sau marca înregistrată, adresa poștală și adresa de poștă electronică, precum și adresa poștală și adresa de poștă electronică ale punctului unic de contact la care pot fi contactați, în cazul în care acestea sunt diferite de cele ale producătorului. Informațiile respective se indică pe produs sau, dacă acest lucru nu este posibil, pe ambalajul acestuia sau într-un document care însoțește produsul.
+
+(9) Producătorii se asigură că produsul este însoțit de instrucțiuni clare și de informații privind siguranța produsului în limba română. Cerința în cauză nu se aplică în situația în care produsul poate fi utilizat în condiții de siguranță și conform destinației prevăzute de producător în lipsa unor astfel de instrucțiuni și informații privind siguranța.
+
+(10) În cazul în care producătorul consideră sau are motive să creadă, în baza informațiilor pe care le deține, că un produs pe care l-a introdus pe piață este un produs periculos, producătorul respectiv întreprinde fără întârziere următoarele acțiuni:
+
+a) dispune măsurile corective necesare pentru a asigura, în mod eficient, conformitatea produsului, inclusiv retragerea sau, după caz, rechemarea produsului;
+
+b) informează consumatorii cu privire la aceasta în conformitate cu art. 31 și/sau cu art. 32;
+
+c) informează cu privire la aceasta, prin intermediul SI SRIPP, autoritatea de supraveghere a pieței competentă.
+
+(11) În sensul alin. (10) lit. b) și c), producătorul furnizează informații detaliate, în special, privind riscurile pentru sănătatea și siguranța consumatorilor, măsurile corective întreprinse și, dacă este disponibilă, cantitatea de produse care se află în liberă circulație.
+
+(12) Punctul național de contact menționat la art. 22 alin. (2) se asigură că informațiile privind alertele consumatorilor sunt furnizate de producători prin intermediul SI SRIPP și sunt puse la dispoziția consumatorilor pe interfața SI SRIPP, fără întârzieri nejustificate.
+
+(13) Producătorii se asigură că alți operatori economici, alte persoane responsabile și alți furnizori de piețe online care fac parte din lanțul de aprovizionare în cauză sunt informați în timp util cu privire la orice problemă de siguranță pe care au identificat-o.
+
+(14) Producătorii pun la dispoziția publicului larg canale de comunicare, precum numărul de telefon, adresa de poștă electronică sau o secțiune specială pe site-urile lor web, ținând seama de nevoile de accesibilitate ale persoanelor cu dizabilități, care să permită consumatorilor să depună reclamații și să informeze producătorii cu privire la orice accident sau problemă de siguranță legată de un produs cu care s-au confruntat.
+
+(15) Producătorii examinează reclamațiile depuse și informațiile primite cu privire la accidentele care se referă la siguranța produselor pe care le-au pus la dispoziție pe piață și care au fost considerate periculoase de către consumatori. Producătorii țin un registru intern cu privire la reclamațiile respective, la rechemările de produse și la măsurile corective întreprinse pentru a asigura conformitatea produsului.
+
+(16) În registrul intern de reclamații sunt înregistrate doar datele cu caracter personal care sunt necesare producătorului pentru a examina reclamația cu privire la un presupus produs periculos. Datele respective se păstrează doar pe durata necesară desfășurării investigației și nu mai mult de cinci ani de la data înregistrării datelor.
+
+Articolul 10. Obligațiile reprezentanților autorizați
+
+(1) Un producător poate împuternici, prin mandat în formă scrisă, un reprezentant autorizat.
+
+(2) Reprezentantul autorizat îndeplinește atribuțiile prevăzute de mandatul primit de la producător. La cerere, reprezentantul autorizat pune la dispoziția autorităților de supraveghere a pieței o copie de pe mandat. Mandatul trebuie să permită reprezentantului autorizat să îndeplinească cel puțin următoarele:
+
+a) să furnizeze unei autorități de supraveghere a pieței, la cererea motivată a acesteia, toate informațiile și documentația necesare pentru a demonstra siguranța produsului, în limba română;
+
+b) în cazul în care reprezentantul autorizat consideră sau are motive să creadă că produsul în cauză este un produs periculos, să informeze producătorul cu privire la aceasta;
+
+c) în cazul în care informațiile nu au fost furnizate de producător sau în urma instrucțiunilor producătorului, să notifice autoritățile de supraveghere a pieței, prin intermediul SI SRIPP, cu privire la orice acțiune întreprinsă pentru eliminarea riscurilor pe care le prezintă produsele care fac obiectul mandatului reprezentantului respectiv;
+
+d) să coopereze cu autoritățile de supraveghere a pieței, la cererea acestora, cu privire la orice acțiune întreprinsă pentru eliminarea în mod eficient a riscurilor pe care le prezintă produsele care fac obiectul mandatului reprezentantului respectiv.
+
+Articolul 11. Obligațiile importatorilor
+
+(1) Înainte de a introduce pe piață un produs, importatorii se asigură că produsul este conform cu cerința generală de siguranță prevăzută la art. 5 și că producătorul a respectat cerințele prevăzute la art. 9 alin. (2), (7) și (8).
+
+(2) În cazul în care importatorul consideră sau are motive să creadă, în baza informațiilor pe care le deține, că un produs nu este conform cu cerința generală de siguranță prevăzută la art. 5 și cu prevederile art. 9 alin. (2), (7) și (8), importatorul nu introduce produsul respectiv pe piață înainte de a asigura conformitatea acestuia. În cazul în care produsul este un produs periculos, importatorul informează, fără întârziere, cu privire la aceasta producătorul și se asigură că autoritățile de supraveghere a pieței sunt informate, în acest sens, prin intermediul SI SRIPP.
+
+(3) Importatorii își indică pe produs numele, denumirea comercială înregistrată sau marca înregistrată, adresa poștală și adresa de poștă electronică, precum și adresa poștală și adresa de poștă electronică ale punctului unic de contact la care pot fi contactați, în cazul în care acestea sunt diferite. Informațiile respective se indică pe produs sau, dacă acest lucru nu este posibil, pe ambalajul acestuia sau într-un document care însoțește produsul. Importatorii se asigură că nicio etichetă suplimentară aplicată nu acoperă informațiile, prevăzute de cadrul normativ relevant, indicate pe eticheta aplicată de către producător.
+
+(4) Importatorii se asigură că produsul pe care l-au importat este însoțit de instrucțiuni clare și de informații privind siguranța produsului în limba română, cu excepția cazului în care produsul poate fi utilizat în condiții de siguranță și conform destinației prevăzute de producător în lipsa unor astfel de instrucțiuni și informații privind siguranța.
+
+(5) Importatorii se asigură că, pe durata aflării unui produs în responsabilitatea lor, condițiile de depozitare sau de transport nu periclitează conformitatea acestuia cu cerința generală de siguranță prevăzută la art. 5 și cu prevederile art. 9 alin. (7) și (8).
+
+(6) Importatorii păstrează copii de pe documentația tehnică menționată la art. 9 alin. (2) pentru o perioadă de 10 ani de la data introducerii pe piață a produsului, pentru a o pune la dispoziția autorităților de supraveghere a pieței, și se asigură că, la cererea acestora, documentele menționate la art. 9 alin. (2), după caz, pot fi puse la dispoziția autorităților respective.
+
+(7) Importatorii cooperează cu autoritățile de supraveghere a pieței și cu producătorul pentru a se asigura că produsul este un produs sigur.
+
+(8) În cazul în care importatorul consideră sau are motive să creadă, în baza informațiilor pe care le deține, că un produs pe care l-a introdus pe piață este un produs periculos, importatorul întreprinde, fără întârziere, următoarele acțiuni:
+
+a) informează producătorul în acest sens;
+
+b) se asigură că sunt întreprinse măsurile corective necesare pentru a asigura, în mod eficient, conformitatea produsului, inclusiv retragerea sau, după caz, rechemarea produsului. În cazul în care nu au fost luate astfel de măsuri, importatorul întreprinde, fără întârziere, măsurile respective;
+
+c) se asigură că consumatorii sunt informați, fără întârziere, în acest sens în conformitate cu art. 31 și/sau cu art. 32; și
+
+d) informează în acest sens autoritățile de supraveghere a pieței, prin intermediul SI SRIPP.
+
+(9) În sensul alin. (8) lit. c) și d), importatorii furnizează informații detaliate, în special, privind riscurile pentru sănătatea și siguranța consumatorilor, măsurile corective întreprinse și, dacă este disponibilă, cantitatea de produse care se află în liberă circulație.
+
+(10) Importatorii verifică dacă canalele de comunicare prevăzute la art. 9 alin. (14) sunt puse la dispoziția publicului larg, permițând astfel consumatorilor să depună reclamații și să comunice orice accident sau problemă de siguranță legată de produsul cu care s-au confruntat. În cazul în care astfel de canale nu sunt disponibile, importatorii le instituie, ținând seama de nevoile de accesibilitate ale persoanelor cu dizabilități.
+
+(11) Importatorii examinează reclamațiile depuse și informațiile primite cu privire la accidente care se referă la siguranța produselor pe care le-au pus la dispoziție pe piață și care au fost considerate periculoase de către consumatori. Importatorii înregistrează reclamațiile respective, precum și rechemările de produse și toate măsurile corective întreprinse pentru a asigura conformitatea produsului în registrul menționat la art. 9 alin. (15) sau în propriul registru intern. Importatorii informează în timp util producătorul, distribuitorii și, după caz, furnizorii de servicii de logistică și furnizorii de piețe online cu privire la examinarea efectuată și la rezultatele acesteia.
+
+(12) În registrul intern de reclamații sunt înregistrate doar datele cu caracter personal care sunt necesare importatorului pentru a examina reclamația cu privire la un presupus produs periculos. Datele respective se păstrează doar pe durata necesară desfășurării investigației și nu mai mult de cinci ani de la data înregistrării datelor.
+
+Articolul 12. Obligațiile distribuitorilor
+
+(1) Înainte de a pune la dispoziție pe piață un produs, distribuitorii verifică dacă producătorul și, după caz, importatorul au respectat cerințele prevăzute la art. 9 alin. (7)–(9) și la art. 11 alin. (3) și (4).
+
+(2) Distribuitorii se asigură că, pe durata aflării unui produs în responsabilitatea lor, condițiile de depozitare sau de transport nu periclitează conformitatea acestuia cu cerința generală de siguranță prevăzută la art. 5 și cu prevederile art. 9 alin. (7)–(9) și ale art. 11 alin. (3) și (4), după caz.
+
+(3) În cazul în care distribuitorul consideră sau are motive să creadă, în baza informațiilor pe care le deține, că un produs nu este conform cu cerința generală de siguranță prevăzută la art. 5, cu prevederile art. 9 alin. (7)–(9) și ale art. 11 alin. (3) și (4), după caz, distribuitorul pune produsul la dispoziție pe piață doar dacă a asigurat conformitatea produsului.
+
+(4) În cazul în care distribuitorul consideră sau are motive să creadă, în baza informațiilor pe care le deține, că un produs pe care l-a pus la dispoziție pe piață este un produs periculos sau, după caz, nu este conform cu prevederilor art. 9 alin. (7)–(9) și ale art. 11 alin. (3) și (4), distribuitorul:
+
+a) informează fără întârziere producătorul sau, după caz, importatorul cu privire la aceasta;
+
+b) se asigură că sunt întreprinse măsurile corective necesare pentru a asigura, în mod eficient, conformitatea produsului, inclusiv retragerea sau, după caz, rechemarea produsului;
+
+c) se asigură că autoritățile de supraveghere a pieței sunt informate, fără întârziere, în acest sens prin intermediul SI SRIPP.
+
+(5) În sensul alin. (4) lit. b) și c), distribuitorul furnizează informații detaliate privind riscurile pentru sănătatea și siguranța consumatorilor, numărul de produse implicate și măsurile corective întreprinse.
+
+Articolul 13. Cazurile în care obligațiile producătorilor
+
+                       se aplică altor persoane
+
+(1) În sensul prezentei legi, o persoană fizică sau juridică este considerată producător și este supusă obligațiilor producătorului prevăzute la art. 9 dacă introduce pe piață un produs sub numele sau marca persoanei fizice sau juridice respective.
+
+(2) În sensul prezentei legi, o persoană fizică sau juridică, alta decât producătorul, care modifică în mod substanțial produsul este considerată producător și este supusă obligațiilor producătorului prevăzute la art. 9 pentru partea din produs afectată de modificare sau pentru întreg produsul în cazul în care modificarea substanțială are un impact asupra siguranței sale.
+
+(3) Se consideră că o modificare a unui produs, efectuată prin mijloace fizice sau electronice, este substanțială în cazul în care aceasta are un impact asupra siguranței produsului și sunt îndeplinite următoarele criterii:
+
+a) modificarea schimbă produsul într-un mod care nu a fost prevăzut în evaluarea inițială a riscurilor produsului;
+
+b) natura pericolului s-a schimbat, a fost generat un nou pericol sau nivelul de risc a sporit din cauza modificării; și
+
+c) modificarea nu a fost efectuată de către consumator sau în numele acestuia pentru uzul personal.
+
+Articolul 14. Procesele interne pentru siguranța
+
+                       produselor
+
+Operatorii economici se asigură că dispun de procese interne privind siguranța produselor, care le permit să respecte cerințele aplicabile din prezenta lege.
+
+Articolul 15. Cooperarea operatorilor economici
+
+                       cu autoritățile de supraveghere a pieței
+
+(1) Operatorii economici cooperează cu autoritățile de supraveghere a pieței în ceea ce privește acțiunile care pot elimina sau reduce riscurile prezentate de produsele care au fost puse la dispoziție pe piață.
+
+(2) La cererea unei autorități de supraveghere a pieței, operatorul economic furnizează toate informațiile necesare, în special:
+
+a) descrierea completă a riscului pe care îl prezintă produsul, a reclamațiilor aferente și a accidentelor cunoscute; și
+
+b) descrierea tuturor măsurilor corective adoptate pentru combaterea riscului.
+
+(3) La cererea unei autorități de supraveghere a pieței, operatorul economic identifică și comunică următoarele informații relevante privind trasabilitatea produsului, în special privind:
+
+a) orice operator economic care i-a furnizat produsul sau o piesă, o componentă sau orice software încorporat în produs;
+
+b) orice operator economic căruia i-a furnizat produsul.
+
+(4) Operatorii economici trebuie să fie în măsură să prezinte informațiile prevăzute la alin. (2) pentru o perioadă de 10 ani de la data la care le-a fost furnizat produsul sau de la data la care au furnizat produsul, după caz.
+
+(5) Operatorii economici trebuie să fie în măsură să prezinte informațiile prevăzute la alin. (3) pentru o perioadă de șase ani de la data la care le-a fost furnizat produsul sau o piesă, o componentă sau orice software încorporat în produs, ori de la data la care au furnizat produsul, după caz.
+
+(6) Autoritățile de supraveghere a pieței pot solicita operatorilor economici să prezinte periodic rapoartele privind progresele înregistrate și pot decide dacă măsura corectivă poate fi considerată finalizată și/sau pot stabili data de la care se consideră că aceasta este finalizată.
+
+Articolul 16. Persoana responsabilă pentru
+
+                        produsele introduse pe piață
+
+(1) Un produs care cade sub incidența prezentei legi poate fi introdus pe piață doar dacă există un operator economic înregistrat în Republica Moldova care este responsabil de sarcinile prevăzute la art. 5 alin. (3) din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor, cu privire la produsul respectiv. Prevederile art. 5 alin. (2) și (3) din Legea nr. 162/2023 se aplică în mod corespunzător produselor reglementate de prezenta lege.
+
+(2) Fără a aduce atingere obligațiilor operatorilor economici în temeiul prezentei legi, suplimentar față de sarcinile prevăzute la art. 5 alin. (3) din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor și pentru a asigura siguranța produsului care îi revine, după caz, în ceea ce privește posibilele riscuri legate de un produs, operatorul economic menționat la alin. (1) din prezentul articol verifică periodic dacă:
+
+a) produsul este conform cu documentația tehnică prevăzută la art. 9 alin. (2);
+
+b) produsul respectă cerințele prevăzute la art. 9 alin. (7)–(9).
+
+(3) Operatorul economic menționat la alin. (1) furnizează, la cererea autorităților de supraveghere a pieței, dovezi documentate ale verificărilor efectuate.
+
+(4) Pe produs sau pe ambalajul acestuia, pe colet sau într-un document de însoțire se indică numele, denumirea comercială înregistrată sau marca înregistrată, precum și datele de contact, inclusiv adresa poștală și adresa de poștă electronică ale operatorului economic menționat la alin. (1).
+
+Articolul 17. Informarea operatorilor economici
+
+Autoritățile de supraveghere a pieței furnizează operatorilor economici, la cererea acestora și în mod gratuit, informații specifice cu privire la punerea în aplicare a prezentei legi și a normelor privind siguranța produselor aplicabile produselor reglementate de prezenta lege, în conformitate cu art. 9 alin. (1) și (3) din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor.
+
+Secțiunea a 2-a
+
+Obligații specifice
+
+Articolul 18. Obligațiile operatorilor economici
+
+                       în cazul vânzărilor la distanță
+
+În cazul în care operatorii economici pun la dispoziție produse pe piață online sau prin alte mijloace de vânzare la distanță, oferta privind produsele respective indică în mod clar și vizibil cel puțin următoarele:
+
+a) numele, denumirea comercială înregistrată sau marca înregistrată a producătorului, precum și adresa poștală și adresa de poștă electronică la care poate fi contactat;
+
+b) în cazul în care producătorul nu este înregistrat în Republica Moldova, numele, adresa poștală și adresa de poștă electronică ale persoanei responsabile în sensul art. 16 alin. (1) din prezenta lege sau al art. 5 alin. (1) din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor;
+
+c) informații care permit identificarea produsului, inclusiv o imagine a acestuia, tipul și orice alt identificator al produsului;
+
+d) orice avertisment sau informație privind siguranța care trebuie aplicată pe produs, pe ambalaj sau inclusă într-un document de însoțire în conformitate cu prezenta lege sau cu reglementarea tehnică aplicabilă, în limba română.
+
+Articolul 19. Obligațiile operatorilor economici
+
+                       în cazul accidentelor legate
+
+                       de siguranța produselor
+
+(1) Producătorul se asigură că autoritatea de supraveghere a pieței competentă este notificată, prin intermediul SI SRIPP, cu privire la accidentul cauzat de un produs introdus sau pus la dispoziție pe piață, fără întârzieri nejustificate, din momentul în care producătorul a luat cunoștință de accidentul respectiv.
+
+(2) Notificarea include tipul și numărul de identificare al produsului, precum și circumstanțele accidentului, dacă sunt cunoscute. La cererea autorităților competente de supraveghere a pieței, producătorul furnizează și alte informații relevante.
+
+(3) În sensul alin. (1) și (2), producătorul notifică autoritatea de supraveghere a pieței competentă cu privire la cazurile legate de utilizarea unui produs care au provocat decesul unei persoane sau efecte adverse grave, permanente sau temporare, asupra sănătății și siguranței persoanei respective, inclusiv vătămări, alte leziuni corporale, boli și efecte cronice asupra sănătății.
+
+(4) Importatorii și distribuitorii care dețin informații despre accidentul cauzat de un produs pe care l-au introdus sau l-au pus la dispoziție pe piață informează, fără întârzieri nejustificate, producătorul cu privire la aceasta.
+
+(5) Producătorul efectuează notificarea în conformitate cu alin. (1) sau solicită importatorului sau unuia dintre distribuitori să efectueze notificarea.
+
+(6) În cazul în care producătorul nu este înregistrat în Republica Moldova, persoana responsabilă, în sensul art. 16 alin. (1) din prezenta lege sau în sensul art. 5 alin. (1) din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor, care deține informații despre accidentul în cauză se asigură că notificarea a fost efectuată.
+
+Articolul 20. Informațiile prezentate în formă
+
+                      electronică
+
+(1) Fără a aduce atingere art. 9 alin. (7)–(9), art. 11 alin. (3) și art. 16 alin. (4), precum și normelor relevante din reglementările tehnice, operatorii economici pot, de asemenea, să pună la dispoziție informațiile menționate în normele respective în formă electronică, prin intermediul unor soluții tehnice electronice, vizibile în mod clar pe produs sau, dacă acest lucru nu este posibil, pe ambalajul acestuia ori într-un document care însoțește produsul.
+
+(2) Informațiile prevăzute la alin. (1) trebuie să fie prezentate în limba română, inclusiv într-un mod ușor accesibile pentru persoanele cu dizabilități.
+
+Secțiunea a 3-a
+
+Furnizorii de piețe online
+
+Articolul 21. Obligațiile specifice ale furnizorilor
+
+                       de piețe online legate de siguranța
+
+                       produselor
+
+(1) Fără a aduce atingere obligațiilor generale prevăzute de legislația privind serviciile digitale în ceea ce privește punctele de contact, furnizorii de piețe online desemnează un punct unic de contact care să permită comunicarea directă, prin mijloace electronice, cu autoritățile de supraveghere a pieței în legătură cu aspectele legate de siguranța produselor, în special în scopul notificării ordinelor emise în temeiul alin. (4). Furnizorii de piețe online se înregistrează în SI SRIPP și indică informațiile privind punctul lor unic de contact.
+
+(2) Fără a aduce atingere obligațiilor generale prevăzute de legislația privind serviciile digitale, în ceea ce privește punctele de contact pentru destinatarii serviciului, furnizorii de piețe online desemnează un punct unic de contact care să permită consumatorilor să comunice direct și fără întârziere cu aceștia în legătură cu aspectele legate de siguranța produselor.
+
+(3) Furnizorii de piețe online se asigură că dispun de procese interne privind siguranța produselor pentru a se conforma, fără întârzieri nejustificate, cerințelor aplicabile din prezenta lege.
+
+(4) În ceea ce privește conținutul specific care se referă la o ofertă de produs periculos, autoritățile de supraveghere a pieței au competența de a emite ordine prin care solicită furnizorilor de piețe online să elimine un astfel de conținut din interfața online a acestora, să blocheze accesul la conținutul respectiv sau să afișeze un avertisment explicit.
+
+(5) Ordinul prevăzut la alin. (4) se emite în conformitate cu condițiile minime prevăzute de legislația privind serviciile digitale împotriva unui conținut ilegal.
+
+(6) Furnizorii de piețe online întreprind măsurile necesare pentru a primi și a executa ordinele emise în temeiul alin. (4) și acționează, fără întârzieri nejustificate, în termen de două zile lucrătoare de la data recepționării ordinului.
+
+(7) Furnizorii de piețe online informează, prin mijloace electronice, autoritatea de supraveghere a pieței emitentă cu privire la măsurile întreprinse în contextul deciziei acesteia, utilizând datele de contact ale autorității de supraveghere a pieței publicate prin intermediul SI SRIPP.
+
+(8) Ordinele emise în temeiul alin. (4) pot impune furnizorului unei piețe online, pentru perioada prevăzută, să elimine din interfața sa online tot conținutul identic care se referă la  oferta produsului periculos în cauză, să blocheze accesul la conținutul respectiv sau să afișeze un avertisment explicit, cu condiția ca căutarea conținutului în cauză să se limiteze la informațiile identificate în ordin și să nu solicite furnizorului unei piețe online să efectueze o evaluare independentă a conținutului respectiv, precum și ca căutarea și eliminarea să poată fi efectuate în mod proporțional, folosind instrumente automate fiabile.
+
+(9) Furnizorii de piețe online iau în considerare informațiile periodice privind produsele periculoase, notificate de autoritățile de supraveghere a pieței în conformitate cu art. 26, primite prin intermediul SI SRIPP, în scopul aplicării măsurilor voluntare ale acestora menite să detecteze, să identifice, să elimine sau să blocheze accesul la conținutul referitor la ofertele de produse periculoase pe piețele lor, după caz, inclusiv prin utilizarea interfeței interoperabile a SI SRIPP. Furnizorii de piețe online informează autoritatea de supraveghere a pieței care a notificat cu privire la  acțiunile întreprinse, utilizând datele de contact ale autorității de supraveghere a pieței publicate prin intermediul SI SRIPP.
+
+(10) În ceea ce privește siguranța produselor, furnizorii de piețe online utilizează cel puțin SI SRIPP pentru a verifica, în mod aleatoriu, dacă produsele sau serviciile oferite de către comercianți prin intermediul platformelor online respective au fost identificate ca fiind ilegale.
+
+(11) Furnizorii de piețe online prelucrează notificările referitoare la problemele legate de siguranța produselor, în ceea ce privește produsele oferite spre vânzare online prin intermediul serviciilor acestora, fără întârzieri nejustificate și în termen de trei zile lucrătoare de la data primirii acestora.
+
+(12) În ceea ce privește informațiile referitoare la siguranța produselor, furnizorii de piețe online își proiectează și își organizează interfața online într-un mod care să permită comercianților, care oferă produsul, să furnizeze pentru fiecare produs oferit cel puțin următoarele informații și care să garanteze că informațiile respective sunt afișate sau puse la dispoziție într-un mod ușor accesibil consumatorilor în lista de produse:
+
+a) numele, denumirea comercială înregistrată sau marca înregistrată a producătorului, precum și adresa poștală și adresa de poștă electronică la care producătorul poate fi contactat;
+
+b) în cazul în care producătorul nu este înregistrat în Republica Moldova, numele, adresa poștală și adresa de poștă electronică ale persoanei responsabile în sensul art. 16 alin. (1) din prezenta lege sau al art. 5 alin. (1) din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor;
+
+c) informațiile care permit identificarea produsului, inclusiv o imagine a acestuia, tipul și orice alt identificator al produsului;
+
+d) orice avertisment sau informație privind siguranța care trebuie aplicată pe produs sau inclusă într-un document care însoțește produsul, în conformitate cu prezenta lege sau cu reglementarea tehnică aplicabilă, în limba română.
+
+(13) Procesele interne menționate la alin. (3) includ mecanisme care permit comercianților să furnizeze:
+
+a) informații în conformitate cu alin. (12), inclusiv informații privind producătorul înregistrat în Republica Moldova sau, după caz, persoana responsabilă în sensul art. 16 alin. (1) din prezenta lege sau al art. 5 alin. (1) din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor; și
+
+b) autocertificarea, prin care se angajează să ofere doar produse care sunt conforme cu prezenta lege.
+
+(14) În ceea ce privește siguranța produselor, furnizorii de piețe online suspendă, pentru o perioadă rezonabilă și după emiterea unui avertisment prealabil, furnizarea serviciilor lor comercianților care oferă în mod frecvent produse care nu sunt conforme cu prezenta lege.
+
+(15) Furnizorii de piețe online cooperează cu autoritățile de supraveghere a pieței, cu comercianții și cu operatorii economici relevanți pentru a facilita orice acțiune întreprinsă în vederea eliminării sau, dacă acest lucru nu este posibil, a reducerii riscurilor pe care le prezintă un produs care este sau a fost oferit în regim online prin intermediul serviciilor lor. În special, furnizorii de piețe online:
+
+a) se asigură că furnizează consumatorilor informații adecvate și în timp util, inclusiv prin:
+
+(i) notificarea directă a tuturor consumatorilor afectați care au achiziționat produsul în cauză, prin interfețele online ale acestora, în cazul unei rechemări a produsului despre care dețin informații efective sau în cazul în care anumite informații trebuie aduse la cunoștința consumatorilor pentru a asigura utilizarea în siguranță a unui produs („avertisment privind siguranța”), în conformitate cu art. 31 și/sau cu art. 32;
+
+(ii) publicarea informațiilor privind siguranța produselor pe interfețele online ale acestora;
+
+b) informează operatorul economic relevant cu privire la decizia de a elimina sau de a bloca accesul la conținutul referitor la oferta pentru produsul periculos;
+
+c) cooperează cu autoritățile de supraveghere a pieței și cu operatorii economici relevanți pentru a asigura rechemarea efectivă a produselor, inclusiv prin abținerea de la crearea obstacolelor în calea rechemării produselor;
+
+d) informează, fără întârziere, prin intermediul SI SRIPP, autoritățile de supraveghere a pieței cu privire la produsele periculoase care au fost oferite pe interfețele online ale acestora, despre care dețin informații efective, furnizând informații detaliate privind riscurile pentru sănătatea și siguranța consumatorilor, cantitatea de produse care se află în liberă circulație, dacă aceste informații sunt disponibile, precum și toate măsurile corective care, reieșind din informațiile deținute de aceștia, au fost deja întreprinse;
+
+e) cooperează în legătură cu accidentele care le-au fost notificate, inclusiv prin:
+
+(i) informarea, fără întârziere, a comercianților și a operatorilor economici relevanți cu privire la informațiile primite referitoare la accidente sau probleme de siguranță, în cazul în care dețin informații că produsul în cauză a fost oferit de comercianții respectivi prin intermediul interfețelor acestora;
+
+(ii) notificarea, fără întârzieri nejustificate, prin intermediul SI SRIPP, cu privire la orice accident despre care au fost informați, având ca rezultat un risc grav sau un prejudiciu real pentru sănătatea sau siguranța unui consumator, cauzat de un produs pus la dispoziție pe piața lor online, precum și informarea producătorului în acest sens;
+
+f) cooperează cu autoritățile de supraveghere a pieței și cu Centrul Național Anticorupție, în calitate de punct principal de contact pentru Oficiul European de Luptă Antifraudă (OLAF), prin schimbul periodic și structurat de informații privind ofertele care au fost eliminate în temeiul prezentului articol de către furnizorii de piețe online;
+
+g) permit accesul la interfețele lor pentru instrumentele online utilizate de autoritățile de supraveghere a pieței în scopul identificării produselor periculoase;
+
+h) cooperează pentru a identifica, în măsura posibilului, lanțul de aprovizionare cu produse periculoase, răspunzând solicitărilor de date în cazul în care informațiile relevante nu sunt puse la dispoziția publicului;
+
+i) la cererea motivată a autorităților de supraveghere a pieței, în cazul în care furnizorii de piețe online sau vânzătorii online au pus în aplicare obstacole tehnice în calea extragerii datelor din interfețele online ale acestora, permit eliminarea datelor respective doar în scopul siguranței produselor, în baza parametrilor de identificare furnizați de autoritățile de supraveghere a pieței solicitante.
+
+Capitolul IV
+
+SUPRAVEGHEREA PIEȚEI
+
+Articolul 22. Cadrul instituțional privind siguranța
+
+                       generală a produselor
+
+(1) Ministerul Dezvoltării Economice și Digitalizării este autoritatea de coordonare privind siguranța generală a produselor (în continuare – autoritate coordonatoare).
+
+(2) Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor este autoritatea de supraveghere a pieței competentă pentru toate produsele prevăzute de prezenta lege, precum și punctul național de contact pentru produsele periculoase.
+
+(3) Fără a aduce atingere alin. (2), în cazul în care o autoritate de supraveghere a pieței este competentă pentru un anumit grup de produse și pentru riscurile reglementate de Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor, aceasta este competentă și pentru riscurile aferente grupului de produse respectiv care nu sunt reglementate de legislația de armonizare a Uniunii Europene și care, prin urmare, cad sub incidența prezentei legi.
+
+Articolul 23. Supravegherea pieței
+
+(1) În vederea realizării unității și coerenței rețelei de supraveghere a pieței, prevederile art. 11–18, ale art. 20–22 și ale art. 25 și 26 din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor se aplică produselor reglementate de prezenta lege.
+
+(2) În cazul în care a fost identificat un produs periculos, autoritățile de supraveghere a pieței pot solicita producătorului informații cu privire la alte produse, care sunt produse prin aceeași procedură, care conțin aceleași componente sau fac parte din același lot de producție și care sunt afectate de același risc.
+
+Capitolul V
+
+SISTEMUL DE ALERTĂ RAPIDĂ
+
+„SAFETY GATE”
+
+Articolul 24. Sistemul de alertă rapidă „Safety Gate”
+
+(1) Republica Moldova va avea acces la Sistemul de alertă rapidă al Uniunii Europene „Safety Gate” în baza unui acord internațional ratificat.
+
+(2) Pentru atingerea scopului indicat la alin. (1), Inspectoratul de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor este desemnat în calitate de punct național de contact, care este responsabil de verificarea caracterului complet al notificărilor naționale și de transmiterea acestora în vederea validării de către Comisia Europeană, precum și de comunicarea cu Comisia Europeană cu privire la sarcinile prevăzute la alin. (3)–(8).
+
+(3) Punctul național de contact notifică, prin intermediul Sistemului de alertă rapidă „Safety Gate”, măsurile corective întreprinse de autoritățile naționale de supraveghere a pieței sau de operatorii economici, în baza:
+
+a) prevederilor prezentei legi, cu privire la produsele periculoase care prezintă un risc grav pentru sănătatea și siguranța consumatorilor; și
+
+b) prevederilor art.22 din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor.
+
+(4) Punctul național de contact poate, de asemenea, să notifice, prin intermediul Sistemului de alertă rapidă „Safety Gate”, măsurile corective preconizate pentru produsele care prezintă un risc grav, în cazul în care consideră că acest lucru este necesar, luând în considerare caracterul urgent al riscului pentru sănătatea și siguranța consumatorilor.
+
+(5) Fără a aduce atingere alin. (3), punctul național de contact notifică Comisia Europeană cu privire la măsurile corective întreprinse de autoritățile de supraveghere a pieței sau de operatorii economici din Republica Moldova, în temeiul prezentei legi. Comisia Europeană transmite informațiile respective statelor membre ale Uniunii Europene. În acest scop, statele membre ale Uniunii Europene pot notifica, prin intermediul Sistemului de alertă rapidă „Safety Gate”, măsurile corective întreprinse de autoritățile statelor respective sau de operatorii economici, în temeiul normelor relevante ale legislației Uniunii Europene, pentru produsele care prezintă un risc mai puțin grav.
+
+(6) Punctul național de contact notifică, prin intermediul Sistemului de alertă rapidă „Safety Gate”, fără întârziere și în termen de patru zile lucrătoare de la data întreprinderii măsurii corective.
+
+(7) În termen de patru zile lucrătoare de la data primirii unei notificări complete, Comisia Europeană verifică dacă aceasta respectă normele și cerințele aplicabile privind funcționarea Sistemului de alertă rapidă „Safety Gate” definit de Comisia Europeană. În cazul în care notificarea respectă cerințele prevăzute, Comisia Europeană o transmite statelor membre ale Uniunii Europene.
+
+(8) Punctul național de contact notifică, fără întârzieri nejustificate, prin intermediul Sistemului de alertă rapidă „Safety Gate”, orice actualizare, modificare sau retragere a măsurilor corective prevăzute la alin. (3)–(5).
+
+(9) În cazul în care punctul național de contact notifică măsurile corective întreprinse pentru produsele care prezintă un risc grav, statele membre ale Uniunii Europene notifică, prin intermediul Sistemului de alertă rapidă „Safety Gate”, măsurile corective sau alte acțiuni întreprinse ulterior în legătură cu aceleași produse, precum și orice alte informații relevante, inclusiv rezultatele testelor sau ale analizelor efectuate, fără întârzieri nejustificate și în termen de cel mult patru zile lucrătoare de la data întreprinderii măsurilor sau acțiunilor respective.
+
+(10) În cazul în care Comisia Europeană identifică, inclusiv în baza informațiilor primite de la consumatori sau de la organizațiile de consumatori, produsele care sunt susceptibile să prezinte un risc grav și pentru care statele membre ale Uniunii Europene nu au transmis o notificare prin intermediul Sistemului de alertă rapidă „Safety Gate”, aceasta informează statele membre cu privire la situația în cauză. Statele membre ale Uniunii Europene efectuează verificările corespunzătoare și, în cazul în care dispun măsuri corective, le notifică prin intermediul Sistemului de alertă rapidă „Safety Gate”, în conformitate cu alin. (3).
+
+Capitolul VI
+
+SISTEMUL INFORMAȚIONAL DE SCHIMB RAPID
+
+DE INFORMAȚII PENTRU PRODUSELE PERICULOASE
+
+Articolul 25. Sistemul informațional de schimb
+
+                      rapid de informații pentru produsele
+
+                      periculoase
+
+(1) Punctul național de contact gestionează sistemul informațional național denumit „Sistemul informațional de schimb rapid de informații pentru produsele periculoase (SI SRIPP)”, care permite schimbul de informații între autoritățile de supraveghere a pieței și Serviciul Vamal, oferind publicului larg acces gratuit și liber la informațiile selectate, notificate în conformitate cu art. 26.
+
+(2) SI SRIPP include două portaluri destinate contactului cu publicul larg, operatorii economici și furnizorii de piețe online, astfel cum este menționat la art. 27 și 28.
+
+(3) SI SRIPP este instituit de Guvern.
+
+(4) Conceptul Sistemului informațional de schimb rapid de informații pentru produsele periculoase și regulamentul resursei informaționale aferente acestuia se aprobă de Guvern.
+
+Articolul 26. Notificarea produselor periculoase
+
+                      prin intermediului SI SRIPP
+
+(1) Punctul național de contact notifică, prin intermediul SI SRIPP, măsurile corective întreprinse de autoritățile de supraveghere a pieței sau de operatorii economici, în temeiul prevederilor prezentei legi și/sau ale art. 22 din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor.
+
+(2) Punctul național de contact poate, de asemenea, să notifice, prin intermediul SI SRIPP, măsurile corective  preconizate pentru produsele care prezintă un risc grav, în cazul în care consideră că acest lucru este necesar, luând în considerare caracterul urgent al riscului pentru sănătatea și siguranța consumatorilor.
+
+(3) Fără a aduce atingere alin. (1), punctul național de contact notifică autoritatea coordonatoare cu privire la măsurile corective întreprinse de autoritățile de supraveghere a pieței sau de operatorii economici în temeiul prezentei legi.
+
+(4) Autoritățile de supraveghere a pieței notifică, prin intermediul SI SRIPP, fără întârziere și în termen de patru zile lucrătoare de la data întreprinderii măsurii corective.
+
+(5) În termen de patru zile lucrătoare de la data primirii unei notificări complete, punctul național de contact verifică dacă aceasta respectă normele și cerințele aplicabile privind funcționarea SI SRIPP și informează cu privire la validarea acesteia.
+
+(6) Punctul național de contact notifică, fără întârzieri nejustificate, prin intermediul SI SRIPP, orice actualizare, modificare sau retragere a măsurilor corective prevăzute la alin. (1)–(3).
+
+(7) În cazul în care autoritatea coordonatoare identifică, inclusiv în baza informațiilor primite de la consumatori sau de la organizațiile de consumatori, produse care sunt susceptibile să prezinte un risc grav și pentru care autoritățile de supraveghere a pieței nu au transmis o notificare prin intermediul SI SRIPP, aceasta informează autoritățile de supraveghere a pieței cu privire la situația în cauză. Autoritățile de supraveghere a pieței efectuează verificările corespunzătoare și, în cazul în care dispun măsuri corective, le notifică prin intermediul SI SRIPP, în conformitate cu alin. (1).
+
+Articolul 27. Portalul privind schimbul rapid
+
+                      de informații pentru produsele
+
+                      periculoase
+
+(1) În sensul art. 9 alin. (12), al art. 19, 21, al art. 29 alin. (4) și al art. 30 alin. (1) și (2), punctul național de contact gestionează portalul privind schimbul rapid de informații pentru produsele periculoase, parte a SI SRIPP, care conține rezumate ale notificărilor primite, oferind publicului larg acces gratuit și liber la informațiile selectate, notificate în conformitate cu art. 26.
+
+(2) Portalul privind schimbul rapid de informații pentru produsele periculoase are o interfață intuitivă pentru utilizatori, iar informațiile furnizate sunt ușor accesibile publicului, inclusiv persoanelor cu dizabilități.
+
+(3) Consumatorii și alte părți interesate au posibilitatea de a informa punctul național de contact cu privire la produsele care ar putea prezenta un risc pentru sănătatea și siguranța consumatorilor, prin intermediul unei secțiuni separate a portalului privind schimbul rapid de informații pentru produsele periculoase.
+
+(4) Punctul național de contact acordă atenția cuvenită informațiilor primite și, după verificarea exactității acestora, transmite, fără întârzieri nejustificate, informațiile respective autorităților de supraveghere a pieței competente pentru a se asigura că sunt întreprinse măsuri subsecvente adecvate. Punctul național de contact informează consumatorii și alte părți interesate cu privire la acțiunea sa.
+
+Articolul 28. Portalul de comunicare privind siguranța
+
+                       produselor destinat mediului de afaceri
+
+Punctul național de contact gestionează portalul de comunicare privind siguranța produselor care permite operatorilor economici și furnizorilor de piețe online să furnizeze, într-un mod facil, autorităților de supraveghere a pieței și consumatorilor informațiile menționate la art. 9 alin. (10) și (12), la art. 10 alin. (2) lit. c), la art. 11 alin. (2) și (8), la art. 12 alin. (4), precum și la art. 19 și 21.
+
+Capitolul VII
+
+ACTIVITĂȚI COMUNE
+
+Articolul 29. Activități comune privind siguranța
+
+                      produselor
+
+(1) Autoritățile de supraveghere a pieței, împreună cu alte autorități competente, asociații profesionale sectoriale sau asociații publice de consumatori, desfășoară activități menite să asigure siguranța și protecția sănătății consumatorilor în ceea ce privește anumite categorii de produse puse la dispoziție pe piață, în special categoriile de produse despre care se constată frecvent că prezintă un risc grav pentru sănătatea și siguranța consumatorilor.
+
+(2) Autoritățile de supraveghere a pieței și părțile interesate menționate la alin. (1) se asigură că acordul privind activitățile comune nu duce la o concurență neloială între operatorii economici și nu afectează obiectivitatea, independența și imparțialitatea părților.
+
+(3) Autoritățile de supraveghere a pieței pot utiliza orice informații rezultate din activitățile comune desfășurate în cadrul oricărei investigații privind siguranța produselor.
+
+(4) Autoritățile de supraveghere a pieței pun la dispoziția publicului acordul privind activitățile comune, inclusiv numele părților implicate, prin publicarea acestuia pe site-ul web oficial al autorității de supraveghere a pieței participante, și includ acordul respectiv în Sistemul de informare și comunicare pentru supravegherea pieței menționat la art. 23 din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor.
+
+Capitolul VIII
+
+DREPTUL LA INFORMARE ȘI LA MĂSURILE
+
+REPARATORII
+
+Articolul 30. Schimbul de informații dintre autorități
+
+                      și publicul larg
+
+(1) Informațiile aflate la dispoziția autorităților de supraveghere a pieței cu privire la măsurile întreprinse pentru produsele care prezintă riscuri pentru sănătatea și siguranța consumatorilor sunt, în general, puse la dispoziția publicului în conformitate cu cerințele de transparență și fără a aduce atingere restricțiilor necesare pentru activitățile de monitorizare și investigare.
+
+(2) Publicul are acces la informațiile privind identificarea produsului, natura riscului și măsurile întreprinse. Informațiile respective sunt furnizate într-un mod ușor accesibil pentru persoanele cu dizabilități.
+
+(3) Autoritățile de supraveghere a pieței întreprind măsurile necesare pentru a asigura că funcționarii care activează în cadrul acestora sunt obligați să protejeze informațiile obținute în sensul prezentei legi. Informațiile respective sunt tratate ca fiind confidențiale, în conformitate cu legislația.
+
+(4) Protejarea secretului profesional nu poate împiedica transmiterea de către autoritățile competente a informațiilor relevante pentru asigurarea eficacității activităților de monitorizare și supraveghere a pieței. Autoritățile care primesc astfel de informații care fac obiectul secretului profesional asigură protecția acestora în conformitate cu legislația.
+
+(5) Consumatorii și alte părți interesate pot înainta autorităților abilitate cu funcții de protecție a consumatorilor reclamații privind siguranța produselor, activitățile de supraveghere și control legate de anumite produse, precum și cazurile în care măsurile reparatorii oferite acestora în contextul rechemării produselor nu sunt satisfăcătoare. În urma unor astfel de reclamații se întreprind măsurile corespunzătoare. Autoritatea responsabilă de examinarea reclamației furnizează consumatorului sau părții interesate informații adecvate cu privire la măsurile întreprinse, în conformitate cu legislația.
+
+Articolul 31. Informațiile transmise consumatorilor
+
+                      de operatorii economici și de furnizorii
+
+                      de piețe online cu privire la siguranța
+
+                      produselor
+
+(1) În cazul unei rechemări din motive de siguranță a produsului sau în cazul în care anumite informații trebuie aduse la cunoștința consumatorilor pentru a asigura utilizarea în condiții de siguranță a unui produs („avertisment privind siguranța”), operatorii economici, în conformitate cu obligațiile care le revin, astfel cum sunt prevăzute la art. 9–12, și furnizorii de piețe online, în conformitate cu obligațiile care le revin, astfel cum sunt prevăzute la art. 21 alin. (15), se asigură că toți consumatorii afectați care pot fi identificați sunt informați direct și fără întârzieri nejustificate. Operatorii economici și, după caz, furnizorii de piețe online care colectează datele cu caracter personal ale clienților lor utilizează informațiile respective pentru rechemări și pentru avertismente privind siguranța.
+
+(2) În cazul în care operatorii economici și furnizorii de piețe online dispun de sisteme de înregistrare a produselor sau de programe de fidelizare a clienților care permit identificarea produselor achiziționate de consumatori în alte scopuri decât contactarea clienților lor pentru a le transmite informații privind siguranța produselor, aceștia oferă clienților lor posibilitatea de a furniza date de contact separate, utilizate exclusiv în scopuri legate de siguranță. Datele cu caracter personal colectate în acest scop sunt limitate la minimul necesar și sunt utilizate numai pentru a contacta consumatorii în cazul unei rechemări sau al unui avertisment privind siguranța.
+
+(3) Dacă nu toți consumatorii afectați pot fi contactați în temeiul alin. (1), operatorii economici și furnizorii de piețe online, în conformitate cu responsabilitățile care le revin, difuzează un anunț de rechemare sau un avertisment privind siguranța, clar și vizibil, prin intermediul altor canale adecvate, asigurând o acoperire cât mai largă posibil, inclusiv, dacă sunt disponibile, prin intermediul site-ului web oficial al companiei, al canalelor de comunicare socială, al buletinelor informative și al punctelor de vânzare cu amănuntul și, după caz, al anunțurilor în mass-media și al altor canale de comunicare. Informațiile trebuie să fie accesibile persoanelor cu dizabilități.
+
+Articolul 32. Anunțul de rechemare
+
+(1) În cazul în care informațiile privind rechemarea produselor din motive de siguranță sunt furnizate consumatorilor în formă scrisă, în conformitate cu art. 31 alin. (1) și (3), acestea sunt transmise sub forma unui anunț de rechemare.
+
+(2) Anunțul de rechemare trebuie să fie ușor de înțeles de către consumatori, să fie disponibil în limba română și să includă următoarele elemente:
+
+a) denumirea, formată din cuvintele „Rechemare din motive de siguranță a unui produs”;
+
+b) descrierea clară a produsului rechemat, inclusiv:
+
+(i) imaginea, denumirea și marca produsului;
+
+(ii) numerele de identificare ale produsului, precum numărul lotului sau numărul de serie și, după caz, indicarea grafică a locului în care acestea pot fi găsite pe produs; și
+
+(iii) informații privind data și locul în care a fost vândut produsul și de către cine, dacă informațiile respective sunt disponibile;
+
+c) descrierea clară a pericolului asociat produsului rechemat, evitând orice element care poate reduce percepția consumatorilor asupra riscului, precum este utilizarea unor termeni și expresii ca „voluntar”, „preventiv”, „discreționar”, „în situații rare” sau „în situații specifice”, sau indicarea faptului că nu s-au raportat accidente;
+
+d) descrierea clară a acțiunii pe care consumatorii ar trebui să o întreprindă, inclusiv o instrucțiune de a înceta imediat utilizarea produsului rechemat;
+
+e) descrierea clară a măsurilor corective aflate la dispoziția consumatorilor, în conformitate cu art. 33;
+
+f) un număr de telefon pentru apel gratuit sau un serviciu online interactiv, prin intermediul căruia consumatorii pot obține informații suplimentare; și
+
+g) îndemnul de a disemina informațiile cu privire la rechemare cu alte persoane, după caz.
+
+Articolul 33. Măsurile reparatorii în cazul unei
+
+                       rechemări din motive de siguranță
+
+                       a unui produs
+
+(1) Fără a aduce atingere prevederilor Legii nr. 105/2003 privind protecția consumatorilor și ale Legii nr. 247/2024 privind contractele de furnizare de conținut digital și de servicii digitale, în cazul unei rechemări din motive de siguranță a unui produs, inițiate de un operator economic sau dispuse de o autoritate de supraveghere a pieței competentă, operatorul economic responsabil oferă consumatorului o măsură reparatorie eficientă, gratuită și în timp util.
+
+(2) Fără a aduce atingere oricărei alte măsuri reparatorii pe care operatorul economic responsabil de rechemare o poate oferi consumatorului, operatorul economic oferă consumatorului posibilitatea de a alege între cel puțin două dintre următoarele măsuri reparatorii:
+
+a) repararea produsului rechemat;
+
+b) înlocuirea produsului rechemat cu un produs sigur de același tip și de cel puțin aceeași valoare și calitate; sau
+
+c) rambursarea adecvată a valorii produsului rechemat, cu condiția ca valoarea rambursării să fie cel puțin egală cu prețul plătit de consumator.
+
+(3) Prin derogare de la alin. (2), operatorul economic poate oferi consumatorului o singură măsură reparatorie în cazul în care celelalte măsuri reparatorii sunt imposibile sau, în comparație cu măsura reparatorie propusă, ar impune costuri disproporționate pentru operatorul economic responsabil de rechemarea produsului din motive de siguranță, ținând seama de toate circumstanțele, inclusiv de posibilitatea furnizării unei măsuri reparatorii alternative fără inconveniente semnificative pentru consumator. Consumatorul are întotdeauna dreptul la restituirea contravalorii produsului în cazul în care operatorul economic responsabil de rechemarea produsului din motive de siguranță nu finalizează repararea sau înlocuirea într-un termen rezonabil și fără inconveniente semnificative pentru consumator.
+
+(4) Repararea efectuată de către consumator este considerată o măsură reparatorie eficientă doar în cazul în care poate fi realizată cu ușurință și în condiții de siguranță și în cazul în care este prevăzută în notificarea de rechemare. În astfel de cazuri, operatorul economic responsabil de rechemarea produsului din motive de siguranță pune la dispoziția consumatorilor instrucțiunile necesare, piesele de schimb gratuite sau actualizările software-ului.
+
+(5) Repararea efectuată de către consumator nu îl privează pe consumator de drepturile prevăzute în normele privind anumite aspecte referitoare la contractele de furnizare de conținut digital și de servicii digitale, precum și la contractele privind vânzarea de bunuri.
+
+(6) Eliminarea produsului de către consumatori este inclusă în acțiunile care trebuie întreprinse de consumatori în temeiul art. 32 alin. (2) lit. d), în cazul în care o astfel de eliminare poate fi efectuată cu ușurință și în condiții de siguranță de către consumator și nu aduce atingere dreptului consumatorului de a primi rambursarea sau de a înlocui produsul rechemat, în conformitate cu alin. (1).
+
+(7) Măsura reparatorie nu trebuie să implice inconveniente semnificative pentru consumator.
+
+(8) Consumatorul nu suportă costurile de expediere sau de returnare a produsului prin alte mijloace.
+
+(9) Pentru produsele care, prin natura lor, nu sunt portabile, operatorul economic întreprinde măsurile necesare pentru colectarea produsului.
+
+Articolul 34. Acorduri de colaborare
+
+(1) Autoritățile de supraveghere a pieței pot promova acorduri de colaborare cu operatorii economici sau cu furnizorii de piețe online, precum și cu organizațiile care reprezintă consumatorii sau operatorii economici, în vederea asumării angajamentelor voluntare pentru îmbunătățirea siguranței produselor.
+
+(2) Angajamentele voluntare în temeiul unor astfel de acorduri de colaborare nu aduc atingere obligațiilor operatorilor economici și ale furnizorilor de piețe online prevăzute de prezenta lege și de alte acte normative relevante.
+
+Articolul 35. Acțiuni în reprezentare
+
+Legea nr. 80/2025 privind acțiunile în reprezentare pentru protecția intereselor colective ale consumatorilor se aplică acțiunilor în reprezentare introduse împotriva încălcării prevederilor prezentei legi de către operatorii economici și furnizorii de piețe online, în cazul în care încălcările respective aduc atingere sau pot dăuna intereselor colective ale consumatorilor.
+
+Capitolul IX
+
+COOPERAREA INTERNAȚIONALĂ
+
+Articolul 36. Cooperarea internațională
+
+(1) Pentru a îmbunătăți nivelul general de siguranță a produselor puse la dispoziție pe piață și pentru a asigura condiții de concurență echitabile la nivel internațional, autoritățile de supraveghere a pieței competente din Republica Moldova pot coopera, inclusiv prin schimbul de informații, cu autoritățile omoloage din alte state sau cu organizațiile internaționale în domeniul aplicării prezentei legi.
+
+(2) Cooperarea indicată la alin. (1) se bazează pe reciprocitate, include dispoziții privind confidențialitatea corespunzătoare celor aplicabile în Republica Moldova și asigură că schimbul de informații are loc în conformitate cu normele aplicabile.
+
+(3) Cooperarea sau schimbul de informații se poate referi, alături de alte aspecte, la următoarele:
+
+a) activități de asigurare a aplicării legii și măsuri legate de siguranța produselor, inclusiv în vederea prevenirii circulației produselor periculoase, precum și supravegherea pieței;
+
+b) metode de evaluare a riscurilor și testarea produselor;
+
+c) rechemări coordonate ale produselor și alte acțiuni similare;
+
+d) chestiuni științifice, tehnice și de reglementare, cu scopul de a contribui la îmbunătățirea siguranței produselor și de a dezvolta priorități și abordări comune la nivel internațional;
+
+e) probleme emergente cu relevanță semnificativă pentru sănătate și siguranță;
+
+f) utilizarea noilor tehnologii pentru a îmbunătăți siguranța produselor și a crește trasabilitatea în lanțul de aprovizionare;
+
+g) activități legate de standardizare;
+
+h) schimbul de funcționari și programe de formare.
+
+(4) Biroul unic de legătură, instituit prin art. 14 din Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor, poate furniza altor țări sau organizațiilor internaționale informații selectate din SI SRIPP, precum și poate primi informații relevante privind siguranța produselor și măsurile preventive, restrictive și corective întreprinse de țările sau organizațiile internaționale respective.
+
+(5) Schimbul de informații menționat la alin. (4) poate avea forma:
+
+a) unui schimb nesistematic, în cazuri justificate și specifice; sau
+
+b) unui schimb sistematic, bazat pe un acord administrativ care specifică tipul de informații ce urmează să facă obiectul schimbului și modalitățile de realizare a schimbului.
+
+(6) Orice schimb de informații în temeiul prezentului articol se efectuează, în măsura în care implică date cu caracter personal, în conformitate cu normele de protecție a datelor.
+
+(7) Datele cu caracter personal sunt transferate numai în măsura în care un astfel de schimb este necesar exclusiv în scopul protecției sănătății sau siguranței consumatorilor.
+
+(8) Schimbul de informații în temeiul prezentului articol are loc exclusiv în scopul protecției sănătății sau a siguranței consumatorilor.
+
+Capitolul X
+
+DISPOZIȚII FINALE
+
+Articolul 37. Dispoziții finale
+
+(1) Prezenta lege intră în vigoare la expirarea a 6 luni de la data publicării în Monitorul Oficial al Republicii Moldova și se abrogă la data intrării în vigoare a tratatului de aderare a Republicii Moldova la Uniunea Europeană.
+
+(2) Prin derogare de la alin. (1), prevederile art. 24 se pun în aplicare de la data ratificării acordului internațional privind accesul la Sistemul de alertă rapidă al Uniunii Europene „Safety Gate”.
+
+(3) Guvernul, în termen de 6 luni de la data publicării prezentei legi, va aduce actele sale normative în conformitate cu prezenta lege.
+
+(4) Guvernul și autoritatea competentă, până la 1 ianuarie 2027, vor asigura, în limitele competențelor, instituirea și aprobarea resurselor informaționale prevăzute de prezenta lege, precum și adoptarea conceptelor și a regulamentelor de funcționare ale acestora.
+
+(5) La data intrării în vigoare a prezentei legi se abrogă Legea nr. 422/2006 privind securitatea generală a produselor (Monitorul Oficial al Republicii Moldova, 2007, nr. 36–38, art. 145), cu modificările ulterioare.
+
+PREȘEDINTELE PARLAMENTULUI                                        Igor  GROSU
+
+Nr. 196. Chișinău, 10 iulie 2025.

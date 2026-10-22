@@ -34,6 +34,20 @@ Acte incluse (descărcate de pe legis.md, versiunea din 22.10.2026):
 | Codul familiei nr. 1316/2000 | 156321 |
 | Legea nr. 1260/2002 cu privire la avocatură | 153429 |
 | Legea nr. 105/2003 privind protecţia consumatorilor | 150997 |
+| Codul transporturilor rutiere nr. 150/2014 | 152943 |
+| Legea nr. 196/2025 privind siguranța generală a produselor | 150669 |
+| Legea nr. 306/2018 privind siguranța alimentelor | 152512 |
+| Legea nr. 1553/1998 (asigurarea RCA a transportatorilor) | 128795 |
+| Legea nr. 153/2025 cu privire la medicamente | 155340 |
+| Legea nr. 411/1995 ocrotirea sănătății | 155335 |
+| HG nr. 1207/2016 Regulamentul sanitar privind produsele cosmetice | 153820 |
+| HG nr. 808/2015 Reglementarea tehnică privind siguranța jucăriilor | 147386 |
+| Legea nr. 156/1998 privind sistemul public de pensii | 156676 |
+| Legea nr. 1585/1998 cu privire la asigurarea obligatorie de asistență medicală | 155334 |
+| Legea nr. 158/2008 cu privire la funcția publică | 156075 |
+| Codul educației nr. 152/2014 | 156379 |
+| Legea nr. 133/2011 privind protecția datelor cu caracter personal | 148996 |
+| Codul de executare nr. 443/2004 | 156325 |
 
 ## Structura
 

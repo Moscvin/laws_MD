@@ -1,0 +1,784 @@
+TITLU: HG nr. 1207/2016 Regulamentul sanitar privind produsele cosmetice
+SURSA: https://www.legis.md/cautare/getResults?doc_id=153820&lang=ro
+
+Republica Moldova
+
+											GUVERNUL
+
+											HOTĂRÂRE Nr.												1207
+din  02-11-2016
+
+											pentru aprobarea Regulamentului sanitar
+
+privind produsele cosmetice
+
+										Publicat : 11-11-2016
+												în  Monitorul Oficial												Nr.												388-398 art.												1308
+
+										MODIFICAT
+
+HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27
+
+În temeiul art.6 alin.(2) din Legea nr.10-XVI din 3 februarie 2009 privind supravegherea de stat a sănătăţii publice (Monitorul Oficial al Republicii Moldova, 2009, nr.67, art.183), cu modificările și completările ulterioare, Guvernul HOTĂRĂŞTE:
+
+[Clauza de adoptare modificată prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+1. Se aprobă Regulamentul sanitar privind produsele cosmetice (se anexează).
+
+2. Prezenta hotărîre intră în vigoare la 24 de luni de la data publicării în Monitorul Oficial al Republicii Moldova.
+
+3. Controlul asupra executării prezentei hotărîri se pune în sarcina Ministerul Sănătății.
+
+PRIM-MINISTRU                                                      Pavel FILIP
+
+Contrasemnează:
+
+Viceprim-ministru,
+
+ministrul afacerilor externe
+
+şi integrării europene                                                  Andrei Galbur
+
+Viceprim-ministru,
+
+ministrul economiei                                                     Octavian Calmîc
+
+Ministrul sănătăţii                                                       Ruxanda Glavan
+
+Ministrul agriculturii
+
+şi industriei alimentare                                                Eduard Grama
+
+Ministrul justiţiei                                                         Vladimir Cebotari
+
+Nr. 1207. Chișinău, 2 noiembrie 2016.
+
+Anexă
+
+la Hotărârea Guvernului nr.1207
+
+din 2 noiembrie 2016
+
+REGULAMENT SANITAR
+
+privind produsele cosmetice
+
+Regulamentul sanitar privind produsele cosmetice transpune parțial Regulamentul (CE) nr.1223/2009 al Parlamentului European și al Consiliului din 30 noiembrie 2009 privind produsele cosmetice (CELEX: 32009R1223), publicat în Jurnalul Oficial al Uniunii Europene L 342 din 22 decembrie 2009, astfel cum a fost modificat ultima oară prin Regulamentul (UE) 2024/996 al Comisiei din 3 aprilie 2024.
+
+I. DISPOZIŢII GENERALE
+
+1. Regulamentul sanitar privind produsele cosmetice (în continuare –Regulament) stabileşte regulile şi normele privind plasarea pe piaţă a produselor cosmetice, pentru a garanta funcţionarea pieţei interne şi a asigura protecţia sănătăţii umane.
+
+2. Prezentul Regulament se referă doar la produsele cosmetice, dar nu la medicamente, dispozitive medicale sau produse biocide. Delimitarea rezultă, în special, din definiţia detaliată a produselor cosmetice, care se referă atât la zona de aplicare, cât şi la scopul în care sânt folosite aceste produse.
+
+Nu sânt considerate produse cosmetice substanţele sau amestecurile destinate a fi ingerate, inhalate, injectate sau implantate în corpul uman.
+
+3. În sensul prezentului Regulament se folosesc următoarele noţiuni şi definiţii:
+
+produs cosmetic – substanţă sau amestec destinat punerii în contact cu părţile externe ale corpului uman (epidermă, zonele cu păr, unghii, buze şi organe genitale externe) sau cu dinţii şi mucoasele cavităţii orale, în scopul exclusiv sau principal de a le curăţa, de a le parfuma, de a schimba aspectul acestora, de a le proteja, de a le menţine în condiţii bune sau de a corecta mirosurile corpului;
+
+produs cosmetic finit –  produs cosmetic în formula sa finală, astfel cum a fost introdus pe piaţă şi pus la dispoziţia utilizatorului final, sau prototipul acestuia;
+
+prototip – prim model sau proiect care nu a fost încă produs în serie şi după care produsul cosmetic finit este replicat sau dezvoltat;
+
+substanţă – element chimic şi compuşii săi, în stare naturală sau obţinut prin orice proces de fabricare, inclusiv orice aditiv necesar pentru păstrarea stabilităţii şi orice impuritate care derivă din procesul utilizat, cu excepţia oricărui solvent care poate fi separat fără a influenţa stabilitatea substanţei sau fără a-i schimba compoziţia;
+
+amestec – amestec sau  soluţie compusă din două sau mai multe substanţe;
+
+ingredient – substanţă sau amestec utilizat în produsul cosmetic în procesul de fabricaţie;
+
+producător – persoană fizică sau juridică care produce un produs cosmetic sau dispune proiectarea sau fabricarea unui astfel de produs şi îl comercializează sub numele său sau sub marca sa;
+
+distribuitor – persoană fizică sau juridică din lanţul de distribuţie, alta decât producătorul sau importatorul, care plasează pe piaţă un produs cosmetic;
+
+utilizator final – consumator sau profesionist care utilizează produsul cosmetic;
+
+introducere pe piaţă – punere la dispoziţie pe piaţă pentru prima dată a unui produs cosmetic;
+
+importator – persoană fizică sau juridică care introduce pe piaţă un produs cosmetic provenind dintr-o ţară terţă;
+
+nanomaterial – material insolubil sau biopersistent, produs în mod intenționat cu una sau mai multe dimensiuni externe sau cu o structură internă, la o scară de la 1 la 100 nm;
+
+conservant – substanţă care este exclusiv sau în principal destinată pentru a inhiba dezvoltarea microorganismelor în produsul cosmetic;
+
+colorant – substanţă care este exclusiv sau în principal destinată pentru a colora produsul cosmetic, întregul corp sau anumite părţi ale acestuia, prin absorbţie sau reflecţie a luminii vizibile; de asemenea, precursorul colorantului oxidant pentru păr este considerat colorant;
+
+filtru UV – substanţă care este exclusiv sau în principal destinată pentru a proteja pielea împotriva anumitor radiaţii ultraviolete, absorbind, reflectând sau dispersând aceste radiaţii;
+
+efect nedorit – reacţie adversă pentru sănătatea umană atribuită utilizării normale sau raţional previzibile a unui produs cosmetic;
+
+efect nedorit grav – efect nedorit care produce o incapacitate funcţională temporară sau permanentă, un handicap, o spitalizare, anomalii congenitale, un risc vital imediat sau un deces;
+
+retragere – măsură aplicată în lanţul de distribuţie care are drept scop împiedicarea punerii la dispoziţie pe piaţă a unui produs cosmetic;
+
+rechemare – măsură care are drept scop returnarea unui produs cosmetic care a fost deja pus la dispoziţia utilizatorului final;
+
+formulare-cadru – formulare care menţionează categoria sau funcţia ingredientelor şi concentraţia maximă a acestora în produsul cosmetic ori oferă informaţii cantitative şi calitative atunci când un produs cosmetic nu este acoperit sau este doar parţial acoperit de o astfel de formulare;
+
+produs care se îndepărtează prin clătire – produs cosmetic destinat să fie înlăturat după aplicarea lui pe piele, păr sau mucoase;
+
+produs fără clătire – produs cosmetic destinat să rămână în contact prelungit cu pielea, părul sau mucoasele;
+
+produs pentru păr – produs cosmetic destinat să fie aplicat pe părul de pe cap sau pe părul de pe faţă, cu excepţia genelor;
+
+produs pentru piele – produs cosmetic destinat să fie aplicat pe piele;
+
+produs pentru buze – produs cosmetic destinat să fie aplicat pe buze;
+
+produs pentru faţă – produs cosmetic destinat să fie aplicat pe pielea feţei;
+
+produs pentru unghii – produs cosmetic destinat să fie aplicat pe unghii;
+
+produs pentru cavitatea orală – produs cosmetic destinat să fie aplicat pe dinţi sau pe mucoasele cavităţii orale;
+
+produs aplicat pe mucoase – produs cosmetic destinat să fie aplicat pe mucoasele cavităţii orale, pe conturul ochilor sau ale organelor genitale externe;
+
+produs pentru ochi – produs cosmetic destinat să fie aplicat în apropierea ochilor;
+
+uz profesional – aplicare şi utilizare a produselor cosmetice de către persoane în exerciţiul activităţii lor profesionale;
+
+săruri – săruri ale cationilor sodiu, potasiu, calciu, magneziu, amoniu şi etanolamine; săruri ale anionilor clorură, bromură, sulfat, acetat;
+
+esteri – esteri de metil, etil, propil, izopropil, butil, izobutil, fenil;
+
+denumiri comune internaţionale:
+
+denumirea comună internaţională (DCI) (Nonproprietary Names – INN) pentru produsele farmaceutice recomandate de Organizaţia Mondială a Sănătăţii (OMS), Geneva, august 1975);
+
+numerele CAS (Chemical Abstracts Service);
+
+numărul CE – corespunde fie numerelor din Inventarul european al substanţelor chimice existente introduse pe piaţă (European Inventory of Existing Commercial chemical Substances – EINECS) sau numerelor din Lista europeană a substanţelor chimice notificate (European List of Notified Chemical Substances – ELINCS) sau numărului de înregistrare furnizat în conformitate cu Regulamentul (CE) nr.1907/2006;
+
+XAN – denumirea aprobată de o anumită ţară (X), de exemplu USAN care corespunde denumirii aprobate în SUA;
+
+denumirea din Glosarul denumirilor comune ale ingredientelor – Nomenclatorul Internaţional al Ingredientelor Cosmetice (INCI);
+
+standard armonizat – standard adoptat de către un organism european de standardizare, în baza unei solicitări emise de către Comisia Europeană, a cărui aplicare conferă prezumția de conformitate cu cerințele prezentului Regulament.
+
+[Pct.3 noțiunea introdusă prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+3¹. Ținând cont de diferite definiții ale nanomaterialelor publicate de diferite organisme și de progresul tehnic și științific continuu în domeniul nanotehnologiilor, Ministerul Sănătății va ajusta și va adapta noțiunea de nanomaterial la progresul tehnic și științific și la definițiile agreate la nivel internațional.
+
+3². Autoritatea competentă poate, fie din proprie inițiativă, fie la cererea unei părți interesate, să adopte măsurile necesare pentru a determina dacă un anumit produs sau un grup de produse intră în definiția unui produs cosmetic în conformitate cu prezentul Regulament.
+
+[Pct.3² introdus prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+4. Lista cuprinzând categoriile de produse cosmetice, aşa cum sânt definite în cuprinsul punctului 3 din prezentul Regulament, este prevăzută, dar nu limitatată, în anexa nr. 1 la prezentul Regulament.
+
+II. SIGURANŢĂ, RESPONSABILITATE
+
+5. Un produs cosmetic  pus pe piaţă trebuie să fie sigur pentru sănătatea umană atunci când este utilizat în condiţii de folosire normale sau raţional previzibile, ţinând seama, în special, de următoarele elemente:
+
+1) prezentare (formă, miros, culoare, aspect, ambalaj, volum sau dimensiune), respectând cerința obligatorie de a fi concepute și ambalate într-un mod care să evite orice confuzie a consumătorilor, în special a copiilor, cu produsele alimentare și, în consecință, fiind introduse în gură, supte sau înghițite, ar putea implica riscuri precum sufocare, intoxicare, perforare sau obturare a tubului digestiv;
+
+2) etichetare, cu indicarea fără crearea unor confuzii referitor la data de minimă durabilitate, urmată de data de utilizare;
+
+3) instrucţiuni de utilizare şi eliminare;
+
+4) orice altă indicație sau informație furnizată de persoana responsabilă definită la punctul 7.
+
+6. Prevederile referitoare la avertismente nu absolvă persoanele definite la punctele 3 şi 7 din prezentul Regulament de respectarea celorlalte obligaţii prevăzute de prezentul Regulament.
+
+7. Doar produsele cosmetice pentru care este desemnată o persoană responsabilă, persoană juridică sau fizică stabilită în Republica Moldova pot fi introduse pe piață.
+
+[Pct.7 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+7¹. Pentru fiecare produs cosmetic introdus pe piață, persoana responsabilă asigură conformitatea cu obligațiile stabilite în Regulament.
+
+7². Pentru produsele cosmetice fabricate în Republica Moldova, producătorul stabilit în Republica Moldova este persoana responsabilă. Producătorul poate desemna, prin mandat scris, o altă persoană stabilită în Republica Moldova ca fiind persoana responsabilă, cu acordul scris al acesteia.
+
+7³. În cazul în care un produs cosmetic este fabricat în Republica Moldova și nu este ulterior exportat și reimportat în Republica Moldova, iar producătorul nu este stabilit în Republica Moldova, producătorul desemnează, prin mandat scris, o persoană stabilită în Republica Moldova drept persoană responsabilă, care confirmă în scris acceptul respectiv.
+
+[Pct.7³ în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+7⁴. Pentru un produs cosmetic importat, fiecare importator este persoana responsabilă pentru produsul cosmetic specific pe care îl introduce pe piață. Importatorul poate desemna, prin mandat scris, o altă persoană stabilită în Republica Moldova ca fiind persoana responsabilă, cu acordul scris al acesteia.
+
+7⁵. Distribuitorul este persoana responsabilă în cazul în care introduce pe piață un produs cosmetic sub numele sau marca sa ori modifică un produs deja introdus pe piață, astfel încât poate fi afectată conformitatea cu cerințele Regulamentului.
+
+8. Traducerea informaţiilor în limba română pentru un produs cosmetic deja introdus pe piaţă nu este considerată drept o modificare a respectivului produs în măsură să afecteze conformitatea cu cerinţele aplicabile ale prezentului Regulament.
+
+8¹. Agenția Națională pentru Sănătate Publică verifică autenticitatea/veridicitatea/corectitudinea informațiilor care însoțesc produsul, traduse din alte limbi de către persoana responsabilă.
+
+9. - abrogat.
+
+10. Persoana responsabilă este obligată:
+
+1) să asigure  conformitatea produselor cosmetice cu punctele 5, 6, 13, 15-23, 25, 26, 27, 29, 30, 32-52, 55, 57- 60, 63-69 și 80³din prezentul Regulament;
+
+[Pct.10 subpct.1) modificat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+2) dacă consideră sau are motive să creadă că un produs cosmetic care a fost  introdus pe piaţă nu este conform prezentului Regulament, în termen de 24 de ore, ia măsurile corective necesare pentru ca produsul să fie conform prezentului Regulament, inclusiv retragerea sau rechemarea produsului;
+
+3) în cazul în care produsul cosmetic prezintă un risc pentru sănătatea umană, să informeze, în termen de 24 de ore, Agenția Națională pentru Sănătate Publică şi autorităţile competente din statul în care dosarul cu informaţii despre produs este accesibil, indicînd, în special, detalii cu privire la neconformitate şi la măsurile corective întreprinse;
+
+4) să coopereze cu autorităţile indicate în subpunctul 3) din prezentul punct, la cererea celor din urmă, cu privire la orice acţiune de eliminare a riscurilor generate de produsele cosmetice pe care le-au pus la dispoziţie pe piaţă, în special, să furnizeze Agenției Naționale pentru Sănătate Publică, în urma unei cereri motivate din partea acestuia, toate informaţiile şi documentaţia prevăzută de prezentul Regulament pentru a demonstra conformitatea unor aspecte specifice ale produsului, în limba română.
+
+11. Obligaţiile distribuitorilor sânt:
+
+1) să respecte cerinţele aplicabile produselor cosmetice puse la dispoziţie pe piaţă;
+
+2) înainte de a fi pus la dispoziţie pe piaţă un produs cosmetic, să verifice dacă:
+
+a) sânt prezente informaţiile de etichetare prevăzute la punctul 52 subpunctele 1, 5, 6 şi punctele 54 şi 55 din prezentul Regulament;
+
+b) sânt îndeplinite cerinţele lingvistice prevăzute la punctele 56 şi 57 din prezentul Regulament;
+
+c) nu este depăşită data de minimă durabilitate specificată, atunci când este aplicabil punctul 52 din prezentul Regulament;
+
+3) în cazul în care consideră sau au motive să creadă că:
+
+a) un produs cosmetic nu este conform cerinţelor prevăzute în prezentul Regulament, distribuitorii pun la dispoziţie  pe piaţă produsul doar după ce acesta devine conform cu cerinţele aplicabile;
+
+b) un produs cosmetic pe care l-au pus la dispoziţie pe piaţă nu este conform prezentului Regulament, se asigură că s-au întreprins toate măsurile corective necesare pentru ca produsul să devină conform, să fie retras sau rechemat, după caz;
+
+4) în cazul în care produsul cosmetic prezintă un risc pentru sănătatea umană, să informeze, imediat, persoana responsabilă şi Agenția Națională pentru Sănătate Publică indicând detaliile cu privire la neconformitate şi la măsurile corective întreprinse;
+
+[Pct.11 subpct.4) modificat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+5) să se asigure că, pe toată perioada în care un produs se află în responsabilitatea lor, condiţiile de depozitare sau transport nu afectează conformitatea cu cerinţele stabilite în prezentul Regulament;
+
+6) să coopereze cu Agenția Națională pentru Sănătate Publică, la cererea a celuia din urmă, cu privire la orice acţiune de eliminare a riscurilor generate de produsele pe care le-au pus pe piaţă, în special ca urmare unei cereri motivate din partea Agenției Naționale pentru Sănătate Publică, distribuitorii furnizează acestuia toate informaţiile şi documentaţia prevăzută de prezentul Regulament, pentru a demonstra conformitatea produsului cu cerinţele menţionate la subpunctul 2) din prezentul punct,  în limba română sau într-o limbă de circulaţie internaţională.
+
+12. În cadrul lanţului de distribuţie, la cererea Agenției Naționale pentru Sănătate Publică:
+
+1) persoana responsabilă identifică distribuitorii cărora le furnizează produsul cosmetic;
+
+2) distribuitorul identifică distribuitorul sau persoana responsabilă de la care și distribuitorii către care a fost furnizat produsul cosmetic;
+
+[Pct.12 subpct.2) în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+3) obligaţiile prevăzute la subpunctele 1) şi 2) din prezentul punct necesită a fi respectate pentru o perioadă de 3 ani de la data la care ultimul lot al produsului cosmetic a fost pus la dispoziția distribuitorului.
+
+13. Fabricarea produselor cosmetice respectă bunele practici de fabricaţie în vederea asigurării obiectivelor punctului 1 din prezentul Regulament. Respectarea bunelor practici de fabricaţie presupune că fabricarea este în conformitate cu standardele armonizate relevante, ale căror referinţe sânt publicate în Jurnalul Oficial al Uniunii Europene, şi care sânt adoptate în calitate de standarde moldovenești.
+
+14. Autorităţile naţionale nu pot refuza libera circulaţie, interzice sau restricţiona punerea la dispoziţie pe piaţă a produselor cosmetice care îndeplinesc cerinţele prezentului Regulament.
+
+III. EVALUAREA SIGURANŢEI.
+
+DOSARUL CU INFORMAŢII DESPRE PRODUS,
+
+NOTIFICAREA
+
+Secţiunea 1
+
+Evaluarea siguranţei
+
+15. Pentru a demonstra conformitatea produsului cosmetic cu dispoziţiile punctului 5 din prezentul Regulament, înainte de a  introduce un produs cosmetic pe piaţă, persoana responsabilă se asigură că acesta a făcut obiectul unei evaluări a siguranţei pe baza informaţiilor relevante şi că a fost elaborat un Raport privind siguranţa produsului cosmetic, în conformitate cu anexa nr. 2 la prezentul Regulament.
+
+16. Persoana responsabilă se asigură că:
+
+1) în cadrul evaluării siguranţei, se iau în considerare utilizarea preconizată a produsului cosmetic şi expunerea sistemică anticipată la ingredientele individuale care se regăsesc în formula finală;
+
+2) în cadrul evaluării siguranţei, prin revizuirea datelor din toate sursele existente, se foloseşte o abordare adecvată privind forţa probantă a dovezilor;
+
+3) Raportul privind siguranța produsului cosmetic se menține actualizat în lumina oricărei informații suplimentare relevante generate după ce produsul cosmetic a fost introdus pe piață.
+
+[Pct.16 subpct.3) în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Pct.17 abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+18. Evaluarea siguranței produsului cosmetic, astfel cum este prevăzută în capitolul II din anexa nr. 2, se efectuează de către o persoană care deține o diplomă sau alte dovezi ale calificărilor formale obținute la finalizarea unui curs universitar de studii teoretice și practice în domeniul farmaciei, toxicologiei, medicinii sau o disciplină similară ori o calificare echivalentă.
+
+[Pct.18 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Pct.18¹ abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Pct.18² abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+Secţiunea a 2-a
+
+Dosarul cu informaţii despre produs
+
+19. Atunci când un produs cosmetic este introdus pe piaţă, persoana responsabilă păstrează un dosar cu informaţii despre produs.
+
+20. Dosarul cu informaţii despre produs trebuie păstrat pe o perioadă de zece ani de la data la care ultimul lot al produsului cosmetic a fost introdus pe piaţă.
+
+21. Dosarul cu informaţii despre produs conţine următoarele informaţii şi date, care sânt actualizate ori de câte ori este necesar:
+
+1) descrierea produsului cosmetic, care permite stabilirea unei legături clare între dosarul cu informaţii despre produs şi produsul cosmetic în cauză;
+
+2) Raportul privind siguranţa produsului cosmetic menţionat la punctul 15 din prezentul Regulament;
+
+3) descrierea metodei de fabricaţie şi declaraţia de conformitate cu bunele practici de fabricaţie menţionate la punctul 13 din prezentul Regulament;
+
+4) dovada efectului declarat al produsului cosmetic, în cazul în care aceasta este justificată de natura sau efectul produsului cosmetic;
+
+5) datele privind orice test efectuat pe animale de către producător, agenţii sau furnizorii acestuia, în fazele de dezvoltare sau de evaluare a siguranţei produsului cosmetic sau a ingredientelor sale, inclusiv testările pe animale efectuate în vederea îndeplinirii cerinţelor din actele şi normele administrative ale ţărilor terţe.
+
+22. Persoana responsabilă se asigură că autoritatea competentă din statul în care este păstrat dosarul cu informaţii despre produs are acces uşor la acest dosar, în format electronic sau în alt format, la adresa sa indicată pe etichetă.
+
+23. Informaţiile care figurează în dosarul cu informaţii despre produs sânt accesibile obligatoriu în limba română, fără a exclude prezentarea şi într-o limbă acceptată de autorităţile competente.
+
+24. - abrogat.
+
+Secţiunea a 3-a
+
+Eşantionare şi analiză
+
+25. Eșantionarea și analiza produselor cosmetice se efectuează într-un mod fiabil și reproductibil în conformitate cu cerințele specificate în anexa nr.10.
+
+26. În lipsa unei legislații naționale aplicabile, se prezumă îndeplinirea condițiilor de fiabilitate și de reproductibilitate dacă metoda utilizată respectă standardele armonizate relevante, ale căror trimiteri au fost publicate în Jurnalul Oficial al Uniunii Europene şi care sunt aprobate în calitate de standarde moldovenești.
+
+27. Studiile de siguranță nonclinice, menționate în evaluarea siguranței prevăzută la punctele 15 și 16 și efectuate în scopul evaluării siguranței unui produs cosmetic, trebuie să respecte principiile bunei practici de laborator, aplicabile la momentul efectuării studiului, sau alte standarde echivalente recunoscute la nivel internațional.
+
+[Pct.27 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+Secţiunea a 4-a
+
+Notificarea
+
+[Secțiunea a 4-a denumirea în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Pct.28 abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+29. Înainte de a introduce produsul cosmetic pe piață, persoana responsabilă notifică Agenției Naționale pentru Sănătate Publică, prin mijloace electronice, următoarele informații:
+
+1) categoria produsului cosmetic și denumirea sau denumirile acestuia, care permit identificarea sa specifică;
+
+2) numele și adresa persoanei responsabile care păstrează disponibil dosarul cu informații despre produs;
+
+3) țara de origine, în cazul importului;
+
+4) coordonatele unei persoane fizice care poate fi contactată în caz de necesitate;
+
+5) prezența substanțelor sub formă de nanomateriale și:
+
+a) identificarea acestora, inclusiv denumirea chimică și alți descriptori specificați prin ordin al ministrului sănătății;
+
+b) condițiile de expunere rațional previzibile;
+
+6) denumirea și numărul CAS sau CE al substanțelor clasificate drept cancerigene, mutagene sau toxice pentru reproducere (CMR), din categoriile 1A sau 1B, în conformitate cu cerințele privind clasificarea, etichetarea și ambalarea substanțelor și amestecurilor, aprobate de către Guvern;
+
+7) formularea-cadru, care permite tratamentul medical prompt și adecvat în situațiile dificile.
+
+[Pct.29 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Pct.29¹ abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+30. Atunci când produsul cosmetic este introdus pe piaţă, persoana responsabilă transmite, prin mijloace electronice, Agenției Naționale pentru Sănătate Publică etichetarea originală şi, în cazul unei lizibilităţi rezonabile, prezintă o fotografie a ambalajului corespunzător.
+
+[Pct.31 abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Pct.31¹ abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+32. Agenția Națională pentru Sănătate Publică pune la dispoziţia tuturor autorităţilor competente, la solicitare, în termenii stabiliţi de legislaţia privind accesul la informaţie, inclusiv şi pe cale electronică, informaţiile menţionate. Aceste informaţii pot fi folosite doar în scopuri de supraveghere în cadrul pieţei, de analiză a pieţei, evaluare şi informare a consumatorilor în contextul punctelor 69-77 din prezentul Regulament.
+
+33. În cazul în care informațiile menționate la punctul 29 se modifică, persoana responsabilă transmite fără întârziere, prin mijloace electronice, Agenției Naționale pentru Sănătate Publică o actualizare.
+
+[Pct.33 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+34. Informaţiile menţionate la punctele 29 şi 30 din prezentul Regulament pot fi puse şi la dispoziţia centrelor toxicologice sau structurilor similare, care, ulterior, vor putea fi folosite doar în scopuri de tratament medical.
+
+IV. RESTRICŢII PENTRU ANUMITE SUBSTANŢE
+
+Secţiunea 1
+
+Restricții pentru substanțele utilizate
+
+în compoziția produselor cosmetice
+
+35. Ministrul sănătății, având la bază reglementările Uniunii Europene, aprobă:
+
+1) Lista substanțelor interzise în produsele cosmetice;
+
+2) Lista substanțelor restricționate în produsele cosmetice;
+
+3) Lista coloranților permiși în produsele cosmetice;
+
+4) Lista conservanților permiși în produsele cosmetice;
+
+5) Lista filtrelor UV premise în produsele cosmetice.
+
+[Pct.35 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+36. Produsele pentru colorarea părului nu trebuie să conțină alți coloranți destinați colorării părului decât cei enumerați în lista coloranților permiși în produsele cosmetice, aprobată prin ordin al ministrului sănătății, și cei destinați colorării părului care sunt enumerați, dar care nu sunt utilizați în conformitate cu condițiile stabilite în respectiva listă.
+
+[Pct.36 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+37. Se interzice utilizarea în compoziția produselor cosmetice a substanțelor clasificate drept substanțe cancerigene, mutagene sau toxice pentru reproducere (CMR), în conformitate cu cerințele privind clasificarea, etichetarea și ambalarea substanțelor și amestecurilor, aprobate de către Guvern.
+
+[Pct.37 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Pct.38 abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+39. Pentru a se evita utilizarea incorectă a produsului cosmetic, se asigură o etichetare specifică în conformitate cu punctul 5 din prezentul Regulament, luând în considerare riscurile eventuale legate de prezenţa substanţelor periculoase şi de căile de expunere.
+
+39¹. Agenția Națională pentru Sănătatea Publică, pe baza reglementărilor Uniunii Europene fundamentate pe rezultatele evaluărilor și avizelor Comitetului ştiinţific pentru siguranţa consumatorilor (CSSC) privind siguranța produselor cosmetice, preia toate informațiile referitoare la prezența anumitor substanțe chimice și înaintează Ministerului Sănătății propuneri de modificare a anexelor din ordinul ministrului sănătății.
+
+[Pct.39¹ în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Pct.39² abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Pct.39³ abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+Secţiunea a 2-a
+
+Nanomaterialele
+
+40. Pentru fiecare produs cosmetic care conţine nanomateriale, trebuie să se asigure protecţia sănătăţii umane.
+
+41. Dispoziţiile prezentului punct nu se aplică nanomaterialelor utilizate drept coloranţi, filtre UV sau conservanţi, reglementate în temeiul punctului 35 din prezentul Regulament, cu excepţia cazului în care se specifică în mod explicit acest lucru.
+
+42. Pe lângă notificarea menționată la punctul 29, produsele cosmetice care conțin nanomateriale sunt notificate de către persoana responsabilă Agenției Naționale pentru Sănătate Publică, prin mijloace electronice, cu șase luni înainte de introducerea pe piață.
+
+[Pct.42 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+43. Cerința de notificare prealabilă prevăzută la punctul 42 nu se aplică produselor cosmetice care conțin nanomateriale ce respectă condițiile și restricțiile stabilite prin ordin al ministrului sănătății.
+
+[Pct.43 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+44. Informaţiile notificate Agenției Naționale pentru Sănătate Publică conţin cel puţin următoarele:
+
+1) identificarea nanomaterialului, inclusiv denumirea sa chimică (conform International Union of Pure Applied Chemistry) şi alţi descriptori specificaţi prin ordin al ministrului sănătății;
+
+[Pct.44 subpct.1) modificat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+2) specificaţia nanomaterialului, inclusiv dimensiunea particulelor, proprietăţile fizice şi chimice;
+
+3) estimarea cantităţii de nanomaterial conţinut în produsele cosmetice, destinate a fi introduse pe piaţă anual;
+
+4) profilul toxicologic al nanomaterialului;
+
+5) datele referitoare la siguranţa nanomaterialului în relaţie cu categoria de produse cosmetice în care este utilizat;
+
+6) condiţiile de expunere.
+
+45. Persoana responsabilă poate desemna altă persoană juridică sau fizică, prin mandat scris, pentru notificarea în legătură cu nanomaterialele şi informează Agenția Națională pentru Sănătate Publică în această privinţă.
+
+46. Agenția Națională pentru Sănătate Publică furnizează un număr de referinţă pentru prezentarea profilului toxicologic care poate înlocui informaţiile ce urmează a fi notificate în conformitate cu punctul 44 subpunctul 4 din prezentul Regulament.
+
+[Pct.47 abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Pct.47¹ abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+47². Agenția Națională pentru Sănătatea Publică, pe baza reglementărilor Uniunii Europene, fundamentate pe rezultatele evaluărilor și avizelor CSSC privind siguranța produselor cosmetice, preia toate informațiile referitoare la nanomaterialele utilizate în produsele cosmetice introduse pe piață, inclusiv cele utilizate drept coloranți, filtre UV, conservanți și înaintează propuneri de modificare a ordinului ministrului sănătății.
+
+[Pct.47² în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+48. Prezenţa neintenţionată a unei mici cantităţi de substanţă interzise, provenind din impurităţile componentelor naturale sau sintetice, din procesul de fabricare, depozitare, migrare din ambalare, care este tehnic inevitabilă în condiţii de bune practici de fabricaţie, este admisă numai în cazul în care această prezenţă este în conformitate cu punctul 5 din prezentul Regulament.
+
+V. TESTAREA PE ANIMALE
+
+49. Fără a aduce atingere obligaţiilor generale care decurg din punctul 5 din prezentul Regulament, se interzice:
+
+1) introducerea pe piaţă a produselor cosmetice a căror formulă finală, pentru a îndeplini cerinţele prezentului Regulament, a făcut obiectul testării pe animale printr-o altă metodă decât una alternativă, după ce o asemenea metodă alternativă a fost validată şi adoptată la nivel naţional;
+
+2) introducerea pe piaţă a produselor cosmetice care conţin ingrediente sau combinaţii de ingrediente care, pentru a îndeplini cerinţele prezentului Regulament, au făcut obiectul testării pe animale printr-o altă metodă decât una alternativă prevăzută în anexa nr.9 la prezentul Regulament sau după ce o asemenea metodă alternativă a fost validată şi adoptată la nivel naţional;
+
+3) efectuarea în ţară a testării pe animale a produselor cosmetice finite pentru a îndeplini cerinţele prezentului Regulament;
+
+4) efectuarea în ţară a testării pe animale a ingredientelor sau a combinaţiilor de ingrediente pentru a îndeplini cerinţele prezentului Regulament, după data la care asemenea teste trebuie înlocuite cu una sau mai multe metode alternative validate enumerate în anexa nr. 9 la prezentul Regulament.
+
+[Pct.50 abrogat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+VI. INFORMAREA CONSUMATORILOR
+
+Secţiunea 1
+
+Etichetare
+
+51. Fără a aduce atingere celorlalte dispoziţii ale prezentului punct, produsele cosmetice sânt puse la dispoziţie pe piaţă doar dacă pe recipientul şi pe ambalajul produselor cosmetice sânt inscripţionate următoarele informaţii cu caractere vizibile, de neşters şi uşor lizibile:
+
+1) numele sau denumirea comercială și adresa persoanei responsabile. Informațiile de acest tip pot fi prescurtate astfel încât abrevierea să facă posibilă identificarea persoanei responsabile și a adresei acesteia. În cazul în care sunt indicate mai multe adrese, este evidențiată acea adresă la care persoana responsabilă pune la dispoziție, cu promptitudine, dosarul cu informații despre produs. Pentru produsele cosmetice importate se specifică țara de origine;
+
+[Pct.51 subpct.1) în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+2) conţinutul nominal la data ambalării, exprimat în greutate sau în volum, cu excepţia cazurilor în care ambalajele conţin mai puţin de 5 grame sau 5 mililitri, a mostrelor gratuite şi a ambalajelor conţinând produse pentru o singură folosire; la produsele preambalate vândute, de obicei, ca un număr de articole pentru care indicarea greutăţii sau a volumului nu este semnificativă, nu este necesară precizarea conţinutului, cu condiţia ca numărul de articole să apară pe ambalaj. Nu este necesară precizarea acestei informaţii în cazul în care numărul de articole este uşor de determinat din exterior sau în cazul în care produsul este comercializat la bucată;
+
+3) data până la care produsul cosmetic, depozitat în condiţii corespunzătoare, îndeplineşte funcţia sa iniţială şi, în special, rămâne în conformitate cu punctul 5 din prezentul Regulament („data de minimă durabilitate”):
+
+a) data în sine sau detaliile privind locul în care aceasta este inscripţionată pe ambalaj sânt precedate de simbolul care figurează la punctul 3 din anexa nr. 8 la prezentul Regulament sau de menţiunea: „a se folosi preferabil înainte de”;
+
+b) data de minimă durabilitate este exprimată clar şi indică fie luna şi anul, fie ziua, luna şi anul, în această ordine. Aceste informaţii sânt completate de indicarea condiţiilor care trebuie satisfăcute pentru a garanta data de minimă durabilitate menţionată;
+
+c) indicarea datei de minimă durabilitate nu este obligatorie pentru produsele cosmetice cu o durabilitate mai mare de 30 de luni. Asemenea produse sânt însoţite de indicarea duratei de utilizare după deschidere pentru care produsul este sigur şi poate fi folosit fără a avea efecte nocive asupra consumatorului. Această informaţie se indică, cu excepţia cazului în care conceptul de durabilitate după deschidere este irelevant, prin simbolul care figurează la punctul 2 din anexa nr.8 la prezentul Regulament, urmat de durata de utilizare (în luni şi/sau ani);
+
+4) precauţiile speciale care trebuie respectate la utilizare şi cel puţin cele menţionate în ordinul ministrului sănătății, precum şi orice informaţie specială referitoare la precauţiile privind produsele cosmetice pentru uz profesional;
+
+[Pct.51 subpct.4) modificat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+5) numărul de lot al produsului sau numărul de referinţă pentru identificarea produsului cosmetic. În cazul în care, din motive de ordin practic, acest lucru este imposibil din cauza dimensiunii prea mici a produselor cosmetice, astfel de informaţii trebuie să apară numai pe ambalaj;
+
+6) funcţia produsului cosmetic, în cazul în care aceasta nu reiese clar din prezentarea sa;
+
+7) lista ingredientelor. Această informaţie poate fi indicată numai pe ambalaj. Lista este precedată de termenul „ingrediente”. Nu sânt considerate ingrediente:
+
+a) impurităţile din materiile prime folosite;
+
+b) substanţele tehnice subsidiare folosite în amestec, dar care nu se regăsesc în produsul finit;
+
+8) referirile la compoziţiile parfumante şi aromatice şi materiile lor prime se fac prin termenii „parfum” sau „aromă”. În plus, prezenţa substanţelor a căror menţionare este prevăzută în coloana „altele” din ordinul ministrului sănătății este cuprinsă în lista ingredientelor pe lângă termenii „parfum” sau „aromă”;
+
+[Pct.51 subpct.8) modificat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+9) lista ingredientelor se stabileşte în ordinea descrescătoare a greutăţii acestora, la momentul încorporării lor în produsul cosmetic. Ingredientele cu o concentraţie mai mică de 1% pot fi enumerate în orice ordine după cele cu o concentraţie mai mare de 1%;
+
+10) toate ingredientele prezente sub formă de nanomateriale trebuie specificate în mod clar în lista ingredientelor. Denumirile acestor ingrediente sânt urmate de cuvântul „nano” între paranteze;
+
+11) coloranţii, alţii decât coloranţii destinaţi colorării părului, pot fi enumeraţi în orice ordine după celelalte ingrediente cosmetice. Pentru produsele cosmetice decorative comercializate în nuanţe diferite, poate fi enumerată întreaga gamă de coloranţi, alţii decât coloranţii destinaţi colorării părului, cu condiţia de a adăuga cuvintele „poate conţine” sau simbolul „+/-”. Se utilizează Indexul culorilor (CI).
+
+52. În cazul în care, din motive practice, este imposibilă specificarea pe etichetă a informaţiilor menţionate la punctul 51 subpunctele 4 şi 6 din prezentul Regulament, se aplică următoarele:
+
+1) informaţiile se menţionează pe un fluturaş, etichetă, marcaj, bandă sau card inclus sau ataşat produsului;
+
+2) se face referire la aceste informaţii fie printr-o indicaţie abreviată, fie prin simbolul prevăzut la punctul 1 din anexa nr. 8 la prezentul Regulament, care trebuie să apară pe recipient sau pe ambalaj, pentru informaţiile menţionate la punctul 52 subpunctul 4, şi pe ambalaj, pentru informaţiile menţionate la punctul 52 subpunctul 6 din prezentul Regulament.
+
+53. În cazul săpunului, perlelor de baie sau altor produse mici, unde din motive practice informaţiile de la punctul 51 subpunctul 6 din prezentul Regulament nu pot apărea pe o etichetă, marcaj, bandă, card sau pe un fluturaş inclus, aceste informaţii apar pe un pliant în imediata apropiere a recipientului în care este expus pentru vânzare produsul cosmetic.
+
+54. Pentru produsele cosmetice care nu sânt preambalate, sânt ambalate la punctul de vânzare la cererea cumpărătorului ori preambalate pentru vânzare imediată, indicarea informaţiilor menţionate la punctul 51 din prezentul Regulament se va face în conformitate cu prevederile punctului 53 din prezentul Regulament.
+
+55. Informaţiile menţionate la punctul 51 subpunctele 2,3,4 şi 6 din prezentul Regulament sânt expuse în limba română.
+
+56. Informaţiile menţionate la punctul 51 subpunctul 5 din prezentul Regulament se indică prin utilizarea denumirii comune a ingredientului, stabilită în glosarul prevăzut la punctul 82 din prezentul Regulament. În absenţa unei denumiri comune a ingredientului, se utilizează un termen care figurează într-o nomenclatură acceptată la nivel internaţional.
+
+Secţiunea a 2-a
+
+Declaraţii referitoare la produs
+
+57. La etichetare, la punerea la dispoziţie pe piaţă şi în reclamele pentru produsele cosmetice nu se folosesc texte, nume, mărci, poze şi semne figurative sau alte semne care sugerează faptul că aceste produse au caracteristici sau funcţii pe care nu le posedă.
+
+58. Persoana responsabilă poate menţiona, pe ambalajul produsului sau în orice document, notă, etichetă, inel sau banderolă care însoţeşte produsul cosmetic sau face trimitere la el, că nu au fost efectuate teste pe animale numai în cazul în care producătorul şi furnizorii săi nu au efectuat sau nu au comandat efectuarea testării pe animale a produsului cosmetic finit sau a prototipului acestuia sau a oricăruia dintre ingredientele pe care le conţine sau nu au folosit nici unul din ingredientele care au fost testate pe animale de alte persoane în scopul realizării de noi produse cosmetice.
+
+58¹. Se admite aplicarea declarațiilor justificate, conform anexei nr.18, sub formă de texte, denumiri, mărci, imagini și semne figurative sau de alt tip, care transmit în mod explicit sau implicit caracteristici sau funcții ale produsului și care sunt utilizate în etichetarea, punerea la dispoziție pe piață și în publicitatea produselor cosmetice. Se aplică oricărei declarații, indiferent de calea de comunicare sau de tipul instrumentului de comercializare utilizat de funcțiile declarate ale produsului și de publicul-țintă.
+
+[Pct.58¹ introdus prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+58². Persoana responsabilă menționată la punctul 7 se asigură că formularea declarației referitoare la un produs cosmetic este în conformitate cu criteriile comune prevăzute în anexa nr. 18 și cu documentația care demonstrează efectele declarate ale produsului cosmetic în dosarul cu informații despre produs, menționat la punctul 21.
+
+[Pct.58² introdus prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+Secţiunea a 3-a
+
+Accesul publicului la informaţii
+
+59. Fără a aduce atingere protecţiei, în special, a secretului comercial şi a drepturilor de proprietate intelectuală, persoana responsabilă se asigură că prin orice mijloace pertinente pot fi accesate uşor de către public informaţiile privind compoziţia calitativă şi cantitativă a produsului cosmetic, numele şi numărul de cod ale compoziţiilor parfumante şi aromatice, identitatea furnizorului acestora, precum şi datele existente privind efectele nedorite şi efectele nedorite grave care rezultă din utilizarea produsului cosmetic.
+
+60. Informaţiile cantitative privind compoziţia produsului cosmetic care trebuie puse la dispoziţia publicului se limitează la substanţele periculoase, în conformitate cu Legea nr. 277/2018 privind substanțele chimice.
+
+[Pct.60 modificat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+VII. SUPRAVEGHEREA PIEŢEI
+
+Secţiunea 1
+
+Controlul pe piaţă
+
+61. Controlul asupra produselor cosmetice se efectuează de către Agenția Națională pentru Sănătatea Publică conform dispozițiilor indicate la punctul 62 din prezentul Regulament, în conformitate cu Legea nr.131/2012 privind controlul de stat, Legea nr.10/2009 privind supravegherea de stat a sănătăţii publice și Legea nr. 162/2023 privind supravegherea pieței și conformitatea produselor.
+
+61¹. Activitatea Agenției Naționale pentru Sănătatea Publică de supraveghere a produselor cosmetice reprezintă o componentă a Programului sectorial de supraveghere a pieței, care prevede exercitarea controlului asupra tuturor activităților de plasare pe piață a produselor cosmetice desfășurate de persoane juridice și/sau fizice în domeniul producerii, importului, distribuției, depozitării, comercializării și publicității produselor menționate.
+
+61². În cadrul Programului sectorial de supraveghere a pieței, Agenția Națională pentru Sănătatea Publică exercită următoarele atribuții:
+
+1) efectuarea controalelor la fața locului pentru a identifica riscurile de îmbolnăvire a populației care utilizează produsele cosmetice;
+
+2) prelevarea probelor;
+
+3) analiza probelor, verificarea compoziției produselor cosmetice;
+
+4) publicarea rapoartelor.
+
+62. În cadrul controalelor efectuate asupra produselor cosmetice plasate pe piață, Agenția Națională pentru Sănătatea Publică, utilizând liste de verificare, verifică:
+
+1) confirmarea notificării produsului cosmetic în Republica Moldova;
+
+2) conformitatea procesului de fabricație cu principiile practicilor de bună fabricație;
+
+3) respectarea prevederilor referitoare la etichetarea produselor cosmetice și corespunderea compoziției cu informațiile de pe etichetă;
+
+4) respectarea prevederilor punctelor 35-39;
+
+5) utilizarea în produsele cosmetice a substanțelor clasificate drept substanțe cancerigene, mutagene sau toxice pentru reproducere, categoriile 1A sau 1B, în conformitate cu legislația națională referitoare la clasificarea, etichetarea şi ambalarea substanțelor şi amestecurilor;
+
+6) condițiile de plasare a declarațiilor despre produs, inclusiv veridicitatea informațiilor prezentate consumatorilor, precum şi precauțiile necesare înainte de utilizare, pentru a asigura siguranța produselor cosmetice.
+
+Secţiunea a 2-a
+
+Comunicarea efectelor nedorite grave
+
+63. În situaţia producerii de efecte grave nedorite, persoana responsabilă şi distribuitorii notifică, imediat, Agenția Națională pentru Sănătate Publică următoarele informaţii:
+
+[Pct.63 modificat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+1) toate efectele nedorite grave pe care le cunosc sau despre care se presupune în mod rezonabil că ar trebui să le cunoască;
+
+2) denumirea produsului cosmetic în cauză, care permite identificarea concretă a acestuia;
+
+3) măsurile corective întreprinse de către aceştia.
+
+64. În cazul în care persoana responsabilă raportează efecte nedorite grave Agenției Naționale pentru Sănătate Publică, aceasta transmite imediat informațiile prevăzute la punctul 63 autorităților competente din țările în care produsul a fost disponibil pe piață.
+
+[Pct.64 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+65. În cazul în care distribuitorii raportează efecte nedorite grave Agenției Naționale pentru Sănătate Publică, aceasta transmite imediat informațiile prevăzute la punctul 63 persoanei responsabile și autorităților competente din țările în care produsul cosmetic a fost disponibil pe piață.
+
+[Pct.65 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+66. În cazul în care utilizatorii finali sau profesioniștii din domeniul sănătății raportează efecte nedorite grave Agenției Naționale pentru Sănătate Publică, atunci când efectul s-a produs pe teritoriul Republicii Moldova, Agenția Națională pentru Sănătate Publică transmite imediat autorităților competente din țările în care produsul a fost fabricat sau exportat și persoanei responsabile informațiile referitoare la acel produs cosmetic.
+
+[Pct.66 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+67. Agenția Națională pentru Sănătate Publică poate utiliza informaţiile menţionate la punctul 66 din prezentul Regulament în scopul supravegherii sănătăţii publice, analizei pieţei, al evaluării şi informării consumatorului în contextul punctelor 70-78 din prezentul Regulament.
+
+Secţiunea a 3-a
+
+Informaţii privind substanţele
+
+68. În cazul unor informaţii neargumentate din punct de vedere ştiinţific privind siguranţa oricărei substanţe conţinute în produsele cosmetice, autoritatea competentă, printr-o cerere motivată, solicită persoanei responsabile să prezinte o listă a tuturor produselor cosmetice de care aceasta este responsabilă şi care conţin substanţa respectivă. Lista indică concentraţia acestei substanţe în produsele cosmetice.
+
+69. Ministerul Sănătăţii, Agenția Națională pentru Sănătate Publică pot utiliza informaţiile menţionate la punctul 68 din prezentul Regulament în scopul supravegherii sănătăţii publice, analizei siguranţei produselor cosmetice, al evaluării şi informării consumatorului în contextul punctelor 70-78 din prezentul Regulament.
+
+VIII. NERESPECTAREA CONFORMITĂŢII,
+
+CLAUZĂ DE SALVGARDARE
+
+Secţiunea 1
+
+Nerespectarea conformităţii de către
+
+persoana responsabilă
+
+70. Fără a aduce atingere punctului 72 din prezentul Regulament, Agenția Națională pentru Sănătate Publică, solicită persoanei responsabile să întreprindă toate măsurile adecvate, inclusiv acţiuni corective pentru asigurarea conformităţii produsului, retragerea produsului de pe piaţă sau rechemarea acestuia într-un termen menţionat explicit, proporţional cu natura riscului, în cazul în care se constată o neconformitate cu oricare dintre următoarele elemente:
+
+1) bunele practici de fabricaţie, menţionate la punctul 13 din prezentul Regulament;
+
+2) evaluarea siguranţei, menţionată la punctele 15-18 din prezentul Regulament;
+
+3) cerinţele referitoare la dosarul cu informaţii despre produs, menţionate la punctele 19-24 din prezentul Regulament;
+
+4) dispoziţiile privind eşantionarea şi analiza, menţionate la punctele 25-27 din prezentul Regulament;
+
+5) cerinţele în materie de notificare, menţionate la punctele 29-34 și 40-47² din prezentul Regulament;
+
+[Pct.70 subpct.5) modificat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+6) restricţiile privind substanţele, menţionate la punctele 35-39 şi 48 din prezentul Regulament;
+
+7) cerinţele privind testarea pe animale, menţionate la punctul 49 din prezentul Regulament;
+
+[Pct.70 subpct.7) modificat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+8) cerinţele de etichetare, menţionate la punctul  52 subpunctele 1), 2), 5) şi 6) din prezentul Regulament;
+
+9) cerinţele legate de declaraţiile referitoare la produs, prevăzute la punctele 57 şi 58 din prezentul Regulament;
+
+10) accesul publicului la informaţii, menţionat la punctele 59 şi 60 din prezentul Regulament;
+
+11) comunicarea efectelor nedorite grave, menţionate la punctele 63-67 din prezentul Regulament;
+
+12)  cerinţele referitoare la informare în cazul substanţelor, menţionate la punctele 68 şi 69 din prezentul Regulament.
+
+70¹. În cazul în care persoana responsabilă nu întreprinde măsurile de asigurare a conformității specificate la punctul 70, Agenția Națională pentru Sănătatea Publică informează autoritățile competente ale statelor în care este stabilită persoana responsabilă cu privire la măsurile impuse acesteia, în vederea aplicării lor.
+
+71. Persoana responsabilă se asigură că măsurile menţionate la punctul 70 din prezentul Regulament se întreprind pentru toate produsele în cauză puse pe piaţă.
+
+72. În cazul unor riscuri grave pentru sănătatea umană, atunci când Agenția Națională pentru Sănătate Publică consideră că neconformitatea nu se limitează la teritoriul ţării unde produsul cosmetic este pus pe piaţă, aceasta informează respectivele ţări cu privire la măsurile impuse persoanei responsabile.
+
+73. Agenția Națională pentru Sănătatea Publică întreprinde toate măsurile legale pentru a interzice sau a restricţiona punerea la dispoziţie pe piaţă a produsului cosmetic sau pentru a retrage produsul de pe piaţă sau pentru a-l rechema în următoarele cazuri:
+
+1) atunci când este necesară o acţiune urgentă în cazul unui risc grav pentru sănătatea umană; sau
+
+2) atunci când persoana responsabilă şi/sau distribuitorul nu ia toate măsurile adecvate în termenul prevăzut la punctul 73 subpunctul 1) din prezentul Regulament.
+
+73¹. În absența unui risc grav pentru sănătatea umană, în cazul în care persoana responsabilă nu întreprinde toate măsurile corespunzătoare, Agenția Națională pentru Sănătatea Publică informează fără întârziere autoritățile competente ale altor state în care este stabilită persoana responsabilă cu privire la măsurile întreprinse.
+
+73². În sensul punctelor 72 și 73, se utilizează sistemul de schimb de informații, prevăzut la articolul 25 din Legea nr.196/2025 privind siguranța generală a produselor.
+
+[Pct.73² modificat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+74. În cazul în care constată o neconformitate cu obligaţiile prevăzute la punctul 11 din prezentul Regulament, Agenția Națională pentru Sănătate Publică solicită distribuitorilor să întreprindă toate măsurile adecvate, inclusiv acţiuni corective pentru asigurarea conformităţii produsului cosmetic, retragerea produsului de pe piaţă sau rechemarea acestuia într-un termen rezonabil, proporţional cu natura riscului.
+
+Secţiunea a 2-a
+
+Clauză de salvgardare
+
+75. În cazul produselor care îndeplinesc cerinţele enumerate la punctul 70 din prezentul Regulament, atunci când Agenția Națională pentru Sănătate Publică constată sau are motive întemeiate de suspiciune că un produs sau mai multe produse cosmetice puse la dispoziţie pe piaţă prezintă sau ar putea să prezinte un risc grav pentru sănătatea umană, aceasta impune toate măsurile provizorii adecvate pentru a se asigura că produsul sau produsele în cauză sânt retrase, rechemate sau că disponibilitatea acestora este restricţionată într-un alt mod.
+
+76. În cazul riscului prezenţei produselor menţionate la punctul 75 din prezentul Regulament pe teritoriul altor state decât teritoriul Republicii Moldova, Agenția Națională pentru Sănătate Publică notifică măsurile întreprinse Inspectoratului de Stat pentru Supravegherea Produselor Nealimentare și Protecția Consumatorilor care este punctul de contract naţional al sistemului de schimb rapid de informaţii privind produsele periculoase, în conformitate cu Legea nr. 196/2025 privind siguranța generală a produselor.
+
+[Pct.76 modificat prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+77. În cazul în care măsurile menţionate la punctul 75 din prezentul Regulament nu sânt justificate, Agenția Națională pentru Sănătate Publică abrogă măsurile respective.
+
+Secţiunea a 3-a
+
+Bune practici administrative
+
+78. Orice decizie luată în temeiul punctelor 70-77 din prezentul Regulament indică motivele exacte pe care se bazează. Aceasta este notificată de către Agenția Națională pentru Sănătate Publică persoanei responsabile sau distribuitorului, care este informat, în acelaşi timp, cu privire la căile de atac disponibile în temeiul legislaţiei în cauză şi cu privire la termenele aplicabile acestor căi de atac.
+
+79. Cu excepţia cazului în care este necesară o acţiune imediată din cauza unui risc de declanşare a unei urgenţe de sănătate publică, persoana responsabilă are posibilitatea de a-şi prezenta punctul de vedere înainte de luarea unei decizii.
+
+80. Dispoziţiile menţionate la punctele 78 şi 79 din prezentul Regulament se aplică în ceea ce priveşte distribuitorul pentru orice decizie adoptată în conformitate cu punctele 74-77 din prezentul Regulament.
+
+80¹. Agenția Națională pentru Sănătate Publică cooperează cu autoritățile competente ale statelor membre ale Uniunii Europene pentru asigurarea aplicării adecvate și pentru respectarea corespunzătoare a legislației privind produsele cosmetice și face schimb de informații necesare pentru aplicarea uniformă a acesteia.
+
+[Pct.80¹ în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; prevederile în vigoare la data aderării Republicii Moldova la Uniunea Europeană]
+
+80². În scopul verificării conformității produselor cosmetice:
+
+1) în cazul în care un produs cosmetic este pus la dispoziție pe piața națională, Agenția Naționale pentru Sănătate Publică poate solicita autorității competente din statul membru al Uniunii Europene în care este disponibil dosarul cu informații despre produs să verifice dacă dosarul îndeplinește cerințele legale și dacă informațiile conținute în acesta demonstrează siguranța produsului cosmetic;
+
+2) solicitarea prevăzută la subpunctul 1) se motivează corespunzător;
+
+3) în cazul primirii unei solicitări din partea unei autorități competente a unui stat membru al Uniunii Europene, Agenția Națională pentru Sănătate Publică efectuează verificarea în cel mai scurt termen posibil, ținând seama de gradul de urgență, și comunică solicitantului concluziile verificării;
+
+4) cooperarea prevăzută la prezentul punct se realizează în conformitate cu angajamentele internaționale asumate de Republica Moldova și operează pe deplin în cadrul sistemului de cooperare al Uniunii Europene.
+
+[Pct.80² în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; prevederile în vigoare la data aderării Republicii Moldova la Uniunea Europeană]
+
+80³. Prevederile punctelor 15, 19-23 se aplică și produselor cosmetice avizate sanitar înainte de intrarea în vigoare a modificărilor operate la prezentul Regulament.
+
+IX. DISPOZIŢII FINALE
+
+81. Agenția Națională pentru Sănătate Publică se conduce în activitatea de reglementare de Nomenclatorul Internaţional al Ingredientelor Cosmetice, elaborat de Comisia Europeană.
+
+82. În acest scop, Agenția Națională pentru Sănătate Publică ia în considerare nomenclatoarele recunoscute internaţional, inclusiv Glosarul denumirilor comune ale îngredientelor. Ultimul nu reprezintă o listă de substanţe autorizate pentru a fi utilizate în produsele cosmetice.
+
+83. Denumirea comună a ingredientelor se aplică în scopul etichetării produselor cosmetice introduse pe piață în cel mult 12 luni de la publicarea Glosarului, conform ordinului ministrului sănătății.
+
+[Pct.83 în redacția HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+83¹. Agenția Națională pentru Sănătatea Publică este autoritatea competentă pentru supravegherea pieței produselor cosmetice, inclusiv evaluarea siguranței produselor cosmetice.
+
+84. Persoanele fizice şi juridice care nu respectă prevederile prezentului Regulament poartă răspundere conform articolului 80 alineatele (1) şi (3) şi articolului 84 din Codul contravenţional al Republicii Moldova nr.218-XVI din 24 octombrie 2008.
+
+anexa nr.1
+
+anexa nr.2
+
+anexa nr.2¹
+
+[Anexa nr.2¹ introdusă prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Anexa nr.3 abrogată prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Anexa nr.4 abrogată prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Anexa nr.5 abrogată prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Anexa nr.6 abrogată prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+[Anexa nr.7 abrogată prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+anexa nr.8
+
+anexa nr.9
+
+anexa nr.10
+
+anexa nr.11
+
+anexa nr.12
+
+anexa nr.13
+
+anexa nr.14
+
+anexa nr.15
+
+anexa nr.16
+
+[Anexa nr.17 abrogată prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]
+
+anexa nr.18
+
+[Anexa nr.18 introdusă prin HG151 din 01.04.26, MO152-155/08.04.26 art.162; în vigoare 01.01.27]

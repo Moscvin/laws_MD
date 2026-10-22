@@ -1,0 +1,942 @@
+TITLU: Legea nr. 306/2018 privind siguranța alimentelor
+SURSA: https://www.legis.md/cautare/getResults?doc_id=152512&lang=ro
+
+Republica Moldova
+
+											PARLAMENTUL
+
+											LEGE Nr.												306
+din  30-11-2018
+
+											privind siguranța alimentelor
+
+										Publicat : 22-02-2019
+												în  Monitorul Oficial												Nr.												59-65 art.												120
+
+										MODIFICAT
+
+LP330 din 29.12.25, MO662-664/31.12.25 art.810; în vigoare 31.12.25
+
+LP317 din 29.12.25, MO646-650/30.12.25 art.787; în vigoare 31.12.25
+
+Parlamentul adoptă prezenta lege organică.
+
+Prezenta lege transpune în legislația națională prevederile:
+
+– Regulamentului (CE) nr. 178/2002 al Parlamentului European și al Consiliului UE din 28 ianuarie 2002 de stabilire a principiilor și a cerințelor generale ale legislației alimentare, de instituire a Autorității Europene pentru Siguranța Alimentară și de stabilire a procedurilor în domeniul siguranței produselor alimentare, publicat în Jurnalul Oficial al Uniunii Europene L 31 din 1 februarie 2002, astfel cum a fost modificat ultima dată prin Regulamentul (UE) 2017/745; și
+
+– Regulamentului de punere în aplicare (UE) nr. 931/2011 al Comisiei Europene din 19 septembrie 2011 privind cerințele în materie de trasabilitate a alimentelor de origine animală stabilite în Regulamentul (CE) nr. 178/2002 al Parlamentului European și al Consiliului UE, publicat în Jurnalul Oficial L 242 din 20 septembrie 2011.
+
+Capitolul I
+
+DISPOZIȚII GENERALE
+
+Articolul 1. Scopul, obiectivele și domeniile
+
+                     de aplicare ale prezentei legi
+
+(1) Prezenta lege are drept scop atingerea unui înalt nivel de protecție a sănătății umane și a intereselor consumatorului în legătură cu siguranța alimentelor, ținând cont de diversitatea aprovizionării cu produse alimentare, inclusiv produse tradiționale, asigurând funcționarea eficientă a pieței naționale.
+
+(2) Pentru atingerea scopului prevăzut la alin. (1), prezenta lege:
+
+a) stabilește principiile generale de reglementare a domeniului produselor alimentare și al hranei pentru animale, în general, și a siguranței acestora, în special;
+
+b) stabilește și definește domeniile de competență ale Agenției Naționale pentru Siguranța Alimentelor privind siguranța alimentelor și a hranei pentru animale pe întregul lanț alimentar;
+
+c) stabilește și definește domeniile de competență ale Ministerului Sănătății privind sănătatea publică și supravegherea unor categorii de produse alimentare cu impact asupra sănătății populației, în limita competențelor stabilite de prezenta lege;
+
+d) stabilește drepturile și obligațiile operatorilor din domeniul alimentar implicați în producerea, procesarea, depozitarea, transportul, distribuirea și comercializarea alimentelor și a hranei pentru animale;
+
+e) consolidează cadrul juridic și instituțional privind siguranța alimentelor și a hranei pentru animale.
+
+(3) Principalele obiective ale legislației din domeniul alimentar sunt:
+
+a) protecția vieții și a sănătății umane, a intereselor consumatorului, prevenirea practicilor frauduloase sau înșelătoare, de falsificare a produselor alimentare;
+
+b) aplicarea principiului de bază al politicii privind siguranța alimentelor – „de la furcă la furculiță”;
+
+c) asigurarea unor practici corecte în comerțul alimentar, luând-se în considerare sănătatea și bunăstarea animalelor, sănătatea plantelor și protecția mediului înconjurător;
+
+d) facilitarea comerțului dintre Republica Moldova și alte țări cu produse alimentare care corespund cerințelor prezentei legi.
+
+(4) Prevederile prezentei legi se aplică la toate etapele lanțului alimentar.
+
+(5) Prezenta lege se aplică tuturor produselor alimentare, inclusiv celor fortificate, suplimentelor alimentare și altor tipuri de produse alimentare destinate introducerii pe piața internă.
+
+(6) Prin derogare de la alin. (4) și (5), prezenta lege nu se aplică producției primare destinate consumului casnic sau alimentelor care sunt preparate, manipulate ori depozitate pentru consumul casnic.
+
+Articolul 2.   Noțiuni principale
+
+În scopul aplicării prezentei legi, se definesc următoarele noțiuni principale:
+
+aditiv alimentar – orice substanţă care, în mod normal, nu se consumă ca aliment în sine şi nu se utilizează ca ingredient alimentar caracteristic, având sau nu valoare nutritivă, a cărei adăugare deliberată, în scop tehnologic, în alimente în procesul de producție a acestora are ca rezultat sau se consideră în mod rezonabil că ar putea avea ca rezultat transformarea sa ori transformarea produselor sale secundare, în mod direct sau indirect, într-o componentă a alimentelor în cauză;
+
+alimente nesigure – alimente care, în condiții obișnuite de preparare și/sau utilizare, sunt periculoase și pot dăuna sănătății umane, daună manifestată prin contaminare biologică, fizică, chimică sau alergeni nedeclarați, luându-se în considerare sensibilitatea alimentară a unei anumite categorii de consumatori;
+
+alimente de origine animală – produsele alimentare ce constau din sau conțin aproape în exclusivitate produse de origine animală (materie primă și produse obținute de la animale, păsări, pești, albine și hidrobionți);
+
+alimente de origine nonanimală – vegetalele și produsele vegetale destinate consumului uman, precum legumele proaspete și conservate, inclusiv cartofii și sfecla de zahăr, fructele proaspete și conservate, semințele de leguminoase și de oleaginoase, cerealele boabe, produsele din cereale, condimentele, grăsimile și uleiurile de origine vegetală, dulciurile, băuturile alcoolice și nealcoolice, guma de mestecat, alimentele procesate, altele decât cele de origine animală, suplimentele alimentare și nutritive;
+
+alimente provenite din organisme modificate genetic și/sau organisme modificate genetic – produsele alimentare care conțin o combinație nouă de material genetic, obținut prin tehnici de biotehnologie, și/sau organismele în care materialul genetic a fost modificat printr-un proces ce nu are loc în mod natural, prin împerechere și/sau recombinare naturală;
+
+analiza riscurilor – proces care cuprinde trei componente interconectate: evaluarea riscurilor, gestiunea riscurilor și comunicarea riscurilor;
+
+arome – produsele care:
+
+a) nu sunt destinate consumului sub această formă, fiind adăugate produselor alimentare pentru a le da sau a le modifica mirosul şi/sau gustul;
+
+b) sunt compuse sau formate din substanţe aromatizante, preparate aromatizante, arome obţinute prin tratament termic, precursori de arome, alte arome sau amestecuri ale acestora;
+
+certificat de calitate – document emis de producător, prin care se garantează corespunderea calității și siguranței loturilor livrate de produse alimentare cu cerințele stabilite în legislația din domeniul alimentar;
+
+certificat de înregistrare în domeniul siguranței alimentelor – act permisiv emis de Agenția Națională pentru Siguranța Alimentelor, care atestă că activitățile de producție, procesare și depozitare, import și export corespund legislației din domeniul alimentar;
+
+comunicarea riscurilor – schimbul interactiv de informații și opinii, pe întreaga durată a procesului de analiză a riscurilor, cu privire la pericole și riscuri, factorii corelați riscurilor și percepția riscurilor între evaluatorii riscurilor, gestionarii riscurilor, întreprinderile din domeniul alimentar și al hranei pentru animale, consumatori, mediul academic și alte părți interesate, inclusiv explicarea rezultatelor evaluărilor de risc și a temeiurilor deciziilor luate în materie de gestiune a riscurilor;
+
+contaminant – orice substanță care nimerește neintenționat în alimente sau care este prezentă în acestea ca urmare a producerii (inclusiv a activităților de creștere a plantelor și animalelor și a practicii veterinare), fabricării, prelucrării, preparării, tratării, ambalării, preambalării, etichetării, transportului, depozitării, manipulării sau distribuirii acestora ori ca urmare a contaminării mediului;
+
+enzimă alimentară – produs obţinut din organisme vegetale, animale sau microorganisme ori din produsele derivate din acestea, inclusiv din produsele obţinute printr-un proces de fermentare, folosind microorganisme, care:
+
+a) conţine una sau mai multe enzime ce pot cataliza o reacţie biochimică specifică; şi
+
+b) se adaugă unui produs alimentar în vederea îndeplinirii unei funcţii tehnologice la orice etapă a procesului de fabricare, prelucrare, preparare, tratare, ambalare, transport sau depozitare a acestuia;
+
+evaluarea riscurilor – proces bazat pe date științifice, constând din 4 etape: identificarea pericolelor, caracterizarea pericolelor, evaluarea expunerii și caracterizarea riscurilor;
+
+gestiunea riscurilor – proces, diferit de evaluarea riscurilor, de apreciere a politicilor alternative prin consultarea părților interesate, luîndu-se în considerare evaluarea riscurilor și alți factori legitimi și, dacă este necesar, selectîndu-se opțiunile de prevenire și de control adecvate;
+
+hrană pentru animale – orice substanță sau produs, inclusiv aditivii, indiferent dacă este procesat, parțial procesat sau neprocesat, destinat utilizării în nutriția animalelor;
+
+identificarea produselor alimentare și a materialelor care vin în contact cu produsele alimentare – activitatea de stabilire a corespunderii produselor alimentare și a materialelor care vin în contact cu produsele alimentare cu cerințele prevăzute de legislația din domeniul alimentar, precum și cu informația referitoare la aceste produse și materiale, cuprinsă în documentele anexate și pe etichete;
+
+introducere pe piață – deținerea produselor alimentare sau a hranei pentru animale în scopul comercializării, inclusiv oferirea spre vânzare sau orice altă formă de transfer, indiferent dacă este gratuit sau nu, comercializarea, distribuirea și alte forme de transfer;
+
+întreprindere din domeniul hranei pentru animale – orice întreprindere, indiferent de forma de proprietate, care își desfășoară activitatea în domeniul hranei pentru animale la toate etapele lanțului alimentar în condițiile prezentei legi;
+
+întreprindere din domeniul alimentar – orice întreprindere, indiferent de forma de proprietate, care își desfășoară activitatea în domeniul alimentar la toate etapele lanțului alimentar în condițiile prezentei legi;
+
+lanț alimentar – toate etapele procesului de producție a unui aliment sau a unei hrane pentru animale, începând de la producția primară până la și incluzând depozitarea, transportul, distribuirea, importul, exportul, vânzarea și furnizarea acesteia către consumatorul final;
+
+materiale care vin în contact cu produsele alimentare – materialele și articolele care se folosesc la producerea și distribuirea produselor alimentare, inclusiv utilajele tehnologice, aparatele și comunicațiile, ambalajul, vasele, vesela, ustensilele aflate în contact cu produsele alimentare, și care sunt destinate acestui scop;
+
+materie primă alimentară – materia primă de origine animală, vegetală sau de alt gen, inclusiv apa, folosită la producerea produselor alimentare;
+
+nutrimente şi/sau suplimente alimentare – substanţe nutritive, cum ar fi proteinele, lipidele, glucidele, vitaminele, elementele minerale, aminoacizii esenţiali şi/sau preparatele produse sub formă de tablete, capsule, drajeuri, pulberi sau lichide, care au în componenţa lor macro- şi micronutrimente şi/sau alte substanţe comestibile şi sunt consumate în cantităţi definite, suplimentar la raţia alimentară obişnuită. Nutrimentele şi/sau suplimentele alimentare nu se consideră medicamente;
+
+operator din domeniul alimentar – persoana fizică sau juridică responsabilă de respectarea legislației din domeniul alimentar în cadrul întreprinderii din domeniul alimentar aflată sub controlul său;
+
+operator din domeniul hranei pentru animale – persoana fizică sau juridică responsabilă de respectarea legislației din domeniul alimentar în cadrul întreprinderii din domeniul hranei pentru animale aflată sub controlul său;
+
+pericol – agentul biologic, chimic sau fizic aflat în alimente sau în hrana pentru animale sau o stare a acestora, având potențialul de a cauza un efect negativ asupra sănătății;
+
+plan de autocontrol – document elaborat și implementat de către operatorul din domeniul alimentar, care presupune controlul propriu asupra activității sale, realizat prin întreprinderea tuturor măsurilor necesare care să verifice siguranța produsului alimentar și corespunderea acestuia cu legislația din domeniul alimentar, inclusiv prin prelevări de probe în vederea efectuării investigațiilor de laborator acreditat sau atestat;
+
+proces de producție – procesul integral sau parțial de obținere, manipulare, prelucrare, preparare, tratare, fabricare, ambalare, preambalare, etichetare, depozitare sau transport al produselor alimentare, inclusiv de combinare a acestora cu alte produse;
+
+producție primară – producerea, creșterea sau cultivarea produselor primare, incluzând recoltarea, mulsul și producția de animale de crescătorie înainte de sacrificare, de asemenea vânătoarea și pescuitul, precum și colectarea produselor de la animale și plante sălbatice;
+
+produs alimentar sau aliment – orice substanță sau produs, indiferent dacă este prelucrat, parțial prelucrat sau neprelucrat, destinat sau prevăzut în mod rezonabil să fie ingerat de oameni. Produsele alimentare includ băuturile, guma de mestecat și orice substanță, inclusiv apa, încorporată în mod intenționat în produse alimentare în timpul producerii, preparării sau tratării lor. Acestea includ apa în punctul de conformitate după cum urmează:
+
+1) în cazul apei furnizate printr-o rețea de distribuție, în punctul din interiorul unei incinte sau al unei unități în care aceasta curge din robinetele folosite în mod normal pentru consumul uman;
+
+2) în cazul apei furnizate dintr-un rezervor, în punctul în care aceasta curge din rezervor;
+
+3) în cazul apei îmbuteliate în sticle sau recipiente destinate comercializării, în punctul în care aceasta este îmbuteliată în sticle sau recipiente;
+
+4) în cazul apei folosite într-o întreprindere alimentară, în punctul în care apa este utilizată în întreprindere.
+
+Noțiunea de „produs alimentar” nu include:
+
+a) hrana pentru animale;
+
+b) animalele vii;
+
+c) plantele înainte de a fi recoltate;
+
+d) medicamentele;
+
+e) cosmeticele;
+
+f) tutunul și produsele din tutun;
+
+g) substanțele stupefiante sau psihotrope;
+
+h) reziduurile și substanțele contaminante;
+
+i) produsele obținute prin utilizarea dispozitivelor medicale;
+
+produse alimentare falsificate – produsele alimentare care au fost modificate intenționat sau neintenționat, astfel încât ar putea prezenta riscuri pentru sănătatea umană, ar putea leza interesele consumatorului sau l-ar putea informa greșit, și ale căror componență, caracteristici și proprietăți nu corespund celor stipulate în legislația din domeniul alimentar, dar care, prin aspect, etichetare, prezentare și publicitate, pretind a fi astfel de produse;
+
+produse compuse – produse alimentare care conțin atât produse prelucrate de origine vegetală, cât și produse prelucrate de origine animală;
+
+rechemare – orice măsură care are drept scop realizarea returnării unui produs alimentar ce nu prezintă siguranță (nesigur) și care a fost deja furnizat sau pus la dispoziția consumatorilor de către producător, distribuitor, comerciant;
+
+legislația din domeniul alimentar – acte normative, reguli, cerințe, norme sanitar-veterinare și fitosanitare, standarde și alte documente normative pertinente care stabilesc cerințele de siguranță și calitate referitoare la produsele alimentare și materialele care vin în contact cu acestea pe întreg lanț alimentar și cele referitoare la hrana pentru animale produsă ori folosită pentru hrănirea animalelor de la care se obțin produse alimentare;
+
+retragere – orice măsură care are drept scop prevenirea distribuției, expunerii și oferirii către consumatori a unui produs alimentar neconform legislației din domeniul alimentar;
+
+risc – o funcție a probabilității și gravității unui efect negativ asupra sănătății, determinat de prezența unui pericol;
+
+siguranța (inofensivitatea) alimentelor – certitudine argumentată a faptului că, în condiții obișnuite de preparare și/sau utilizare, produsele alimentare nu sunt periculoase și nu prezintă riscuri pentru sănătatea generației actuale și a celei viitoare;
+
+trasabilitate – capacitatea de a depista și a urmări un anumit produs alimentar, o anumită hrană pentru animale, un animal de la care se obțin produse alimentare sau o substanță destinată încorporării ori care este de așteptat să fie încorporată într-un anumit produs alimentar sau într-o hrană pentru animale pe parcursul întregului lanț alimentar;
+
+utilizare condiționată – întrebuințare a produselor alimentare neconforme legislației din domeniul alimentar în alte scopuri decât consumul uman, în calitate de hrană pentru animale sau valorificare energetică prin transformarea în compost, biogaz sau prin incinerare.
+
+Capitolul II
+
+PRINCIPIILE GENERALE PRIVIND SIGURANȚA
+
+ALIMENTELOR
+
+Articolul 3. Principiul analizei riscurilor
+
+(1) Legislația din domeniul alimentar se bazează pe analiza riscurilor, cu excepția cazurilor în care această abordare nu este adecvată circumstanțelor sau naturii măsurii aplicate.
+
+(2) Evaluarea riscurilor se bazează pe informațiile științifice disponibile și se realizează în mod independent, obiectiv și transparent.
+
+(3) Gestiunea riscurilor ia în considerare rezultatele evaluării riscurilor și, în special, avizele instituțiilor naționale și internaționale din domeniul siguranței alimentelor, alți factori legitimi în domeniu, precum și principiul precauției.
+
+Articolul 4. Principiul precauției
+
+(1) În împrejurări specifice în care, în urma unei evaluări a informațiilor disponibile, este identificată posibilitatea unor efecte dăunătoare asupra sănătății, dar persistă incertitudinea științifică, vor fi adoptate măsuri provizorii de gestiune a riscurilor, necesare pentru asigurarea unui nivel înalt de protecție a sănătății consumatorului, până la apariția unor noi informații științifice pentru o evaluare mai cuprinzătoare a riscurilor.
+
+(2) Măsurile adoptate în temeiul alin. (1) trebuie să fie proporționale și să nu limiteze comerțul mai mult decât este necesar pentru a atinge un nivel înalt de protecție a sănătății, acordîndu-se atenție fezabilității tehnice și economice, precum și altor factori considerați legitimi pentru problema respectivă. Măsurile se revizuiesc în funcție de natura riscurilor identificate la adresa vieții sau sănătății și de tipul informațiilor științifice necesare pentru clarificarea incertitudinii științifice și pentru realizarea unei evaluări mai cuprinzătoare a riscurilor.
+
+Articolul 5.  Protecția intereselor consumatorului
+
+Legislația din domeniul alimentar are drept obiectiv protejarea intereselor consumatorilor și le oferă o bază care le permite să facă alegeri în cunoștință de cauză privind alimentele pe care le consumă; aceasta are drept scop prevenirea:
+
+a) practicilor comerciale incorecte;
+
+b) contrafacerii produselor alimentare;
+
+c) oricăror alte practici care pot induce în eroare consumatorul.
+
+Articolul 6.  Principiul transparenței
+
+(1) Societatea civilă este consultată în mod deschis și transparent, direct sau prin organismele sale reprezentative, în timpul pregătirii, evaluării și revizuirii legislației din domeniul alimentar.
+
+(2) Organul de control informează societatea civilă despre identificarea produselor alimentare sau a hranei pentru animale ce pot prezenta riscuri pentru sănătatea umană sau pentru sănătatea animală, despre măsurile luate ori pe cale de a fi luate pentru a preveni, a reduce sau a elimina aceste riscuri, în funcție de natura, gravitatea și de dimensiunile riscurilor respective și fără a aduce atingere dispozițiilor privind accesul la informație, aprobate prin Legea nr. 982/2000.
+
+Capitolul III
+
+CERINȚELE GENERALE PRIVIND
+
+SIGURANȚA ALIMENTELOR ȘI A
+
+HRANEI PENTRU ANIMALE
+
+Articolul 7. Cerințele generale privind siguranța
+
+                       alimentelor
+
+(1) Siguranța produselor alimentare și a materialelor care vin în contact cu produsele alimentare se asigură prin:
+
+a) reglementarea și controlul de stat în domeniul asigurării inofensivității acestora;
+
+b) luarea de către operatorii din domeniul alimentar a unor măsuri organizatorice, agrochimice, veterinare, tehnologice, sanitar-antiepidemice și fitosanitare în vederea respectării legislației din domeniul alimentar;
+
+c) controlul inofensivității produselor alimentare și a materialelor care vin în contact cu produsele alimentare, efectuat de către operatorii din domeniul alimentar pe tot lanțul alimentar, inclusiv prin aplicarea principiilor de analiză a riscurilor în punctele critice de control (HACCP – Hazard Analysis and Critical Control Points).
+
+(2) Cerințele privind asigurarea inofensivității produselor alimentare sunt impuse prin Acordul privind aplicarea de măsuri sanitare și fitosanitare (SPS) al Organizației Mondiale a Comerțului, la care Republica Moldova este parte. Acestea sunt stabilite în baza evaluării riscurilor pentru sănătatea umană și sunt executorii.
+
+(3) Cerințele menționate la alin. (2) se bazează pe rezultatele cercetărilor științifice privind particularitățile de alimentație și nutriție și starea de sănătate a populației, pe identificarea și estimarea inofensivității și a pericolelor pe care le pot prezenta produsele alimentare și materialele care vin în contact cu produsele alimentare, pe evaluarea și analiza riscurilor de a periclita sănătatea umană ca urmare a consumului acestora, pe estimarea consecințelor sociale și economice ale consumului de produse alimentare periculoase și/sau nesigure.
+
+(4) Produsele alimentare și materialele care vin în contact cu produsele alimentare ce respectă legislația din domeniul alimentar se consideră că nu prezintă riscuri pentru sănătatea umană.
+
+(5) Conformitatea unui produs alimentar cu cerințele specifice aplicabile acelui produs alimentar nu împiedică organul de control abilitat să restricționeze introducerea lui pe piață ori să solicite retragerea lui de pe piață în cazul în care există suspiciuni că, în pofida acestei conformități, produsul alimentar respectiv nu prezintă siguranță.
+
+(6) Se interzice producerea și/sau introducerea pe piață a produselor alimentare și a materialelor care vin în contact cu produsele alimentare care:
+
+a) nu corespund legislației din domeniul alimentar;
+
+b) sunt periculoase și pot afecta sănătatea umană în condiții normale de folosire a acestora de către consumator, ținând cont de informația cuprinsă în etichetă sau pusă la dispoziția consumatorului în alt mod;
+
+c) sunt improprii consumului uman, fiind contaminate și/sau impure, sau prezentând semne de alterare;
+
+d) sunt falsificate;
+
+e) nu au inclusă pe ambalaj sau pe etichetă informația prevăzută la art. 8 din Legea nr.279/2017 privind informarea consumatorului cu privire la produsele alimentare sau informația induce în eroare consumatorii;
+
+f) au termenul de valabilitate expirat;
+
+g) nu permit să le fie determinată originea și nu asigură trasabilitatea acestora;
+
+h) nu corespund cerințelor de comercializare cu amănuntul, aprobate de către Guvern;
+
+i) sunt fabricate în unități care nu au fost autorizate sanitar veterinar și/sau nu au fost înregistrate în domeniul siguranței alimentelor.
+
+(7) Produsele alimentare și materialele care vin în contact cu produsele alimentare prevăzute la alin. (6), care se consideră neconforme legislației din domeniul alimentar, sunt supuse utilizării condiționate sau nimicirii.
+
+(8) Atunci când se determină dacă un aliment prezintă sau nu siguranță, trebuie să se aibă în vedere:
+
+a) condițiile de folosire a alimentului de către consumator și la fiecare etapă a lanțului alimentar;
+
+b) informațiile furnizate consumatorului, inclusiv cele de pe etichetă sau alte informații general disponibile pentru consumator în vederea evitării unor anumite efecte negative asupra sănătății ale alimentului respectiv sau ale categoriei respective de alimente.
+
+(9) Atunci când se determină dacă un aliment dăunează sănătății, trebuie să se ia în considerare:
+
+a) efectul probabil imediat și/sau de scurtă durată, și/sau de lungă durată al acestuia atât asupra persoanei care îl consumă, cât și asupra generațiilor viitoare;
+
+b) efectele toxice cumulative probabile ale acestuia;
+
+c) sensibilitatea alimentară a unei anumite categorii de consumatori, în cazul în care alimentul respectiv îi este destinat.
+
+(9¹) Laboratoarele de încercări ale produselor alimentare informează Agenția Națională pentru Siguranța Alimentelor cu privire la fiecare caz de identificare a produselor alimentare neconforme legislației din domeniul alimentar în urma încercărilor de laborator efectuate la solicitarea operatorilor din domeniul alimentar.
+
+(10) Produsele alimentare trebuie să satisfacă necesitățile fiziologice ale omului în substanțe nutritive și în energie, să fie inofensive, să nu conțină contaminanți, microorganisme și alte organisme ori substanțe biologice în cantități care să depășească valorile-limită stabilite în legislația din domeniul alimentar, să nu prezinte în alt mod pericol pentru om, să fie produse și introduse pe piață în condiții de igienă conform prevederilor Legii nr. 296/2017 privind cerințele generale de igienă a produselor alimentare.
+
+(11) Producerea, transportul, depozitarea și introducerea pe piață a produselor alimentare și a materialelor care vin în contact cu produsele alimentare se efectuează în spații și în condiții ce corespund cerințelor prezentei legi, iar operatorii din domeniul alimentar dețin autorizații sanitar-veterinare de funcționare eliberate în conformitate cu art.18 din Legea nr. 221/2007 privind activitatea sanitar-veterinară sau dețin certificate de înregistrare în domeniul siguranței alimentelor eliberate în conformitate cu art. 31¹ din prezenta lege.
+
+(12) Operatorii din domeniul alimentar vor întreprinde măsurile de rigoare pentru a elimina riscul de contaminare sau de deteriorare a alimentelor și de transformare a acestora în produse periculoase pentru consumatori.
+
+ (13) În cazul în care un produs alimentar care nu prezintă siguranță face parte dintr-un transport, dintr-un lot sau dintr-o livrare de mărfuri alimentare de la o sursă sau din aceeași clasă ori având aceeași descriere, se presupune că toate produsele alimentare din respectivul transport, lot sau din respectiva livrare nu prezintă siguranță, cu excepția cazurilor în care se constată, în urma unei evaluări detaliate, că nu s-a identificat nicio dovadă care să indice că restul transportului, lotului sau al livrării nu prezintă siguranță.
+
+(14) Întreprinderile din domeniul alimentar, identificate în calitate de furnizori de servicii în conformitate cu Legea nr.48/2023 privind securitatea cibernetică, sunt responsabile de îndeplinirea obligațiilor privind asigurarea securității cibernetice prevăzute de legea respectivă.
+
+Articolul 8.  Responsabilități privind siguranța alimentelor
+
+(1) Operatorii din domeniul alimentar și operatorii din domeniul hranei pentru animale sunt responsabili pe întregul lanț alimentar de respectarea legislației din domeniul alimentar.
+
+(2) În cazul în care consideră sau are motive întemeiate să considere că un produs alimentar pe care l-a importat, produs, procesat, fabricat sau distribuit nu satisface cerințele de siguranță, operatorul din domeniul alimentar inițiază imediat procedurile de retragere a produsului alimentar de pe piață și, în termen de cel mult 24 de ore din momentul inițierii procedurii de retragere, informează în acest sens Agenția Națională pentru Siguranța Alimentelor.
+
+(2¹) În cazul în care există posibilitatea ca produsul să fi ajuns la consumator, operatorul informează, în mod eficient și precis, consumatorul în legătură cu motivul retragerii produsului alimentar și recheamă de la consumator produsele deja livrate atunci când alte măsuri sunt insuficiente pentru a atinge un nivel ridicat de protecție a sănătății. Consumatorii sunt informați cât mai curând posibil atât la punctul de comercializare a produselor, cât și prin orice mijloace eficiente de comunicare la distanță.
+
+(2²) Agenția Națională pentru Siguranța Alimentelor aprobă, prin ordinul directorului general, procedura și formularele necesare pentru supravegherea eficientă a procesului de retragere/rechemare a produselor neconforme legislației din domeniul alimentar.
+
+(3) Operatorul din domeniul alimentar informează imediat organul de control abilitat cu privire la acțiunile întreprinse pentru prevenirea riscurilor asupra consumatorului final și nu împiedică ori descurajează orice persoană să coopereze cu autoritățile administrației publice în cazul în care aceasta ar putea preveni, reduce sau elimina un risc prezentat de un produs alimentar.
+
+(4) Operatorii din domeniul alimentar cooperează cu organul de control abilitat la acțiunile întreprinse pentru evitarea sau reducerea riscurilor prezentate de un produs alimentar introdus pe piață.
+
+(5) Controlul de stat privind asigurarea inofensivității și a calității produselor alimentare și ale materialelor care vin în contact cu produsele alimentare aflate în uz la toate etapele lanțului alimentar se efectuează de către Agenția Națională pentru Siguranța Alimentelor. În acest scop, agenția nominalizată monitorizează și verifică respectarea cerințelor prevăzute în legislația din domeniul alimentar de către operatorii din domeniul alimentar și operatorii din domeniul hranei pentru animale pe întregul lanț alimentar.
+
+(6) Controlul de stat al operatorilor din domeniul alimentar și operatorilor din domeniul hranei pentru animale care practică activitate de întreprinzător se planifică, se efectuează și se înregistrează în conformitate cu prevederile Legii nr. 131/2012 privind controlul de stat asupra activității de întreprinzător.
+
+(7) - abrogat.
+
+(8) La elaborarea sau adaptarea legislației din domeniul alimentar se iau în considerare normele și recomandările internaționale, inclusiv cele ale Comisiei Codex Alimentarius și ale Uniunii Europene.
+
+(9) Operatorii din domeniul alimentar care produc, achiziționează, depozitează, transportă și introduc pe piață produse alimentare sau prestează servicii de alimentație publică trebuie să respecte prevederile Legii nr.296/2017 privind cerințele generale de igienă a produselor alimentare și să efectueze măsuri de asigurare a siguranței produselor respective.
+
+(10) Supravegherea și controlul de stat al respectării obligațiilor menționate la art.7 alin.14) din prezenta lege sunt exercitate de către autoritatea competentă la nivel național în domeniul securității cibernetice în conformitate cu Legea nr.48/2023 privind securitatea cibernetică.
+
+Articolul 9.  Cerințele față de siguranța hranei
+
+                      pentru animale
+
+(1) Hrana pentru animale nu se introduce pe piață și nu se dă niciunui animal de la care se obțin produse alimentare dacă aceasta nu prezintă siguranță.
+
+(2) Se consideră că folosirea hranei pentru animale nu prezintă siguranță în cazul în care:
+
+a) aceasta are un efect negativ asupra sănătății animale ori asupra sănătății umane;
+
+b) produsele alimentare obținute de la animale pentru producția de alimente devin un factor de risc pentru consumul uman.
+
+(3) În cazul în care o anumită hrană pentru animale a fost identificată că nu prezintă siguranță și provine dintr-un transport, un lot sau o livrare de hrană pentru animalele din aceeași clasă ori având aceeași descriere, se presupune că întreaga cantitate de hrană din acel transport, acel lot sau din acea livrare este afectată, cu excepția cazului în care, în urma unei evaluări detaliate pe baza cerințelor privind siguranța hranei pentru animale aprobate de Guvern, nu există nicio dovadă că restul transportului, lotului sau al livrării nu prezintă siguranță.
+
+(4) Conformitatea unei hrane pentru animale cu cerințele specifice aplicabile pentru acea hrană nu împiedică organul de control abilitat să restricționeze introducerea acesteia pe piață ori să solicite retragerea acesteia de pe piață în cazul în care există suspiciuni că, în pofida acelei conformități, respectiva hrană pentru animale nu prezintă siguranță.
+
+Articolul 10. Responsabilități privind siguranța
+
+                       hranei pentru animale
+
+(1) În cazul în care operatorul din domeniul hranei pentru animale consideră sau are motive să considere că o anumită hrană pentru animale care a fost importată, produsă, procesată, fabricată sau distribuită nu satisface cerințele de siguranță, acesta inițiază imediat procedurile de retragere a hranei pentru animale respective de pe piață și informează imediat în acest sens organul de control abilitat. În aceste împrejurări sau în cazul în care transportul, lotul sau livrarea de hrană pentru animale nu îndeplinește cerințele de siguranță a hranei pentru animale, respectiva hrană pentru animale urmează să fie distrusă, cu excepția cazurilor în care organul de control abilitat ia o altă decizie. Operatorul îi va informa pe gestionarii hranei pentru animale despre motivul retragerii acesteia și, dacă este necesar, va retrage de la ei produsele care le-au fost deja furnizate, atunci când alte măsuri nu sunt suficiente pentru realizarea unui nivel ridicat de protecție a sănătății animale.
+
+(2) Operatorul din domeniul hranei pentru animale responsabil de activitățile de vânzare cu amănuntul și de distribuție a hranei pentru animale, care nu afectează ambalarea, etichetarea, siguranța sau integritatea acesteia, inițiază, în limitele activităților sale, proceduri de retragere de pe piață a produselor care nu sunt conforme cu cerințele de siguranță, transmițând mai departe informațiile necesare pentru trasabilitatea hranei pentru animale, cooperând la acțiunile întreprinse de producători, prelucrători, fabricanți și/sau de organul de control abilitat.
+
+(3) Operatorul din domeniul hranei pentru animale informează imediat organul de control abilitat despre acțiunile întreprinse pentru prevenirea riscurilor rezultate din folosirea hranei pentru animale și nu va împiedica sau descuraja orice persoană să coopereze cu organul de control abilitat în cazul în care aceasta ar putea preveni, reduce sau elimina un risc rezultat dintr-o hrană pentru animale.
+
+(4) Operatorii din domeniul hranei pentru animale colaborează cu organul de control abilitat la acțiunile întreprinse pentru evitarea sau reducerea riscurilor prezentate de o hrană pentru animale care este furnizată ori care a fost furnizată.
+
+Articolul 11. Trasabilitatea
+
+(1) Trasabilitatea produselor alimentare, a hranei pentru animale, a plantelor și a animalelor de la care se obțin produse alimentare, precum și a oricăror alte substanțe destinate a fi încorporate în alimente sau în hrana pentru animale, se stabilește pentru toate etapele lanțului alimentar.
+
+(2) Produsele alimentare care urmează a fi introduse pe piață sunt etichetate conform prevederilor Legii nr.279/2017 privind informarea consumatorului cu privire la produsele alimentare.
+
+(3) Operatorii din domeniul alimentar și cei din domeniul hranei pentru animale trebuie să dispună de sisteme care să permită identificarea întreprinderilor de la care au fost aprovizionați cu alimente, cu hrană pentru animale, cu animale de la care se obțin produse alimentare sau cu orice substanțe destinate să fie încorporate în alimente sau în hrana pentru animale. De asemenea, operatorii din domeniul alimentar trebuie să dispună de sisteme care să permită identificarea întreprinderilor cărora le-au fost furnizate produsele alimentare fabricate sau ambalate de către ei. Aceste informații sunt puse la dispoziția Agenției Naționale pentru Siguranța Alimentelor la solicitare.
+
+(4) Pentru a asigura retragerea alimentelor nesigure și monitorizarea efectelor lor asupra sănătății umane, pe tot lanțul alimentar vor fi implementate sisteme de trasabilitate.
+
+(5) Operatorii din domeniul alimentar prezintă următoarele informații cu privire la loturile de produse alimentare care sunt furnizate agenților economici:
+
+a) o descriere precisă a produsului alimentar;
+
+b) volumul sau cantitatea de produse alimentare;
+
+c) numele sau denumirea și adresa operatorului din domeniul alimentar de la care s-a expediat produsul alimentar;
+
+d) numele și adresa expeditorului (proprietarului), în cazul în care acesta este altul decât operatorul din domeniul alimentar de la care s-a expediat produsul alimentar;
+
+e) numele și adresa operatorului din domeniul alimentar căruia i-a fost expediat produsul alimentar;
+
+f) numele și adresa destinatarului (proprietarului), în cazul în care acesta este altul decât operatorul din domeniul alimentar căruia i-a fost expediat produsul alimentar;
+
+g) o referință de identificare a lotului sau a transportului, după caz; și
+
+h) data expedierii produsului alimentar.
+
+Formatul în care sunt puse la dispoziție informațiile menționate trebuie să fie unul precis și clar.
+
+(6) Informațiile menționate la alin. (5) se actualizează zilnic și se păstrează cel puțin 14 zile de la data-limită de consum sau de la data durabilității minimale, sau de la ultima zi a termenului de valabilitate.
+
+(7) La solicitarea Agenției Naționale pentru Siguranța Alimentelor, operatorul din domeniul alimentar furnizează informațiile menționate la alin. (5) în termen de 5 zile, iar în cazul produselor alimentare care nu prezintă siguranță, informațiile solicitate se comunică în termen de 24 de ore.
+
+Articolul 12. Prezentarea și etichetarea produselor
+
+                       alimentare
+
+(1) Etichetarea, publicitatea și prezentarea produselor alimentare sau a hranei pentru animale, inclusiv forma, aspectul sau ambalajul acestora, materialele de ambalare utilizate, modul în care sunt expuse, precum și informațiile oferite în legătură cu acestea prin orice mijloace de informare nu trebuie să inducă în eroare consumatorul.
+
+(2) Produsele alimentare trebuie să fie preambalate și ambalate astfel încât să se asigure menținerea calității și a inofensivității lor la depozitare, transport și distribuire.
+
+(3) La preambalarea, ambalarea și etichetarea produselor alimentare, operatorii din domeniul alimentar vor respecta cerințele Legii nr. 279/2017 privind informarea consumatorului cu privire la produsele alimentare.
+
+(4) Pentru preambalarea și ambalarea produselor alimentare se vor utiliza materiale ce corespund legislației din domeniul alimentar, care nu elimină în produsele alimentare componenți ce prezintă pericol pentru sănătatea umană, care asigură păstrarea proprietăților produsului și care sunt reciclabile ori pot fi valorificate și nimicite fără a prejudicia mediul.
+
+(5) Etichetarea produselor alimentare le va oferi consumatorilor informațiile necesare, suficiente, veritabile și ușor de comparat, care să le permită acestora să-și aleagă produsul alimentar corespunzător exigențelor și să cunoască eventualele riscuri la care ar putea fi expuși, pentru a nu fi induși în eroare.
+
+(6) Se interzice prelungirea termenului de valabilitate al produselor alimentare, inclusiv prin reetichetare sau reambalare.
+
+(7) Etichetarea produselor alimentare provenite din organisme modificate genetic se face conform prevederilor Legii nr. 755/2001 privind securitatea biologică.
+
+(8) Etichetele produselor alimentare cu destinație nutrițională specială pentru sugari sau copiii mici nu vor conține informații care să împiedice ori să defavorizeze alimentația la sân.
+
+(9) Etichetele suplimentelor alimentare, etalarea și publicitatea acestora nu le vor atribui proprietăți profilactice, de tratament și nici nu vor invoca aceste proprietăți.
+
+(10) Informația promoțională și publicitatea pentru produsele nerecomandate preșcolarilor și elevilor trebuie să evite caracterul atractiv pentru copii și să nu-i vizeze pe aceștia.
+
+Articolul 13. Cerințele de siguranță a produselor
+
+                        alimentare în procesul de producție
+
+(1) La fabricarea de produse alimentare, operatorii din domeniul alimentar sunt obligați să respecte cerințele privind siguranța și calitatea acestor produse la toate etapele lanțului alimentar, de asemenea să elaboreze planurile de autocontrol al siguranței și al calității în procesul de producție. Termenul de valabilitate al produselor alimentare este stabilit de către producător în colaborare cu instituțiile de cercetare și doar după testări de laborator prealabile.
+
+(2) Termenul de valabilitate al produselor se stabilește ținând cont de tipul de produs, de metoda de fabricare, de compoziția sa, de ambalajul utilizat și de condițiile de depozitare a produselor.
+
+(3) La fabricarea și prelucrarea produselor alimentare și la fabricarea materialelor care vin în contact cu produsele alimentare se vor respecta prevederile legislației din domeniul alimentar.
+
+(4) Cantitatea de contaminanți, de reziduuri de pesticide din/de pe produsele alimentare și din/de pe hrana de origine vegetală și animală pentru animale, precum și cantitatea de aditivi alimentari, arome și enzime din produsele alimentare nu trebuie să depășească limitele stabilite de Ministerul Sănătății.
+
+(5) La fabricarea produselor alimentare se va utiliza materie primă inofensivă, care corespunde legislației din domeniul alimentar. La obținerea materiei prime alimentare se admite utilizarea de aditivi furajeri, de stimulatori de creștere a animalelor (inclusiv preparate hormonale), de preparate veterinare, pesticide, fertilizanți sau de alte produse pentru tratarea plantelor care corespund legislației din domeniul alimentar.
+
+(6) Aditivii alimentari, substanțele nutritive utilizate ca fortifianți, nutrimentele, precum și materialele care vin în contact cu produsele alimentare sunt folosite la fabricarea produselor alimentare doar dacă au fost autorizate sanitar în modul stabilit de Guvern.
+
+(7) Producătorul este obligat să sisteze imediat producerea și distribuirea produselor alimentare și/sau a materialelor care vin în contact cu produsele alimentare periculoase și/sau neconforme cu legislația din domeniul alimentar, pe termenul necesar remedierii deficiențelor. Produsele alimentare și/sau materialele care vin în contact cu produsele alimentare periculoase și/sau neconforme cu legislația din domeniul alimentar sunt supuse de către producător, în modul stabilit, expertizei și utilizării condiționate sau nimicirii.
+
+Articolul 13¹. Responsabilitățile operatorilor din
+
+                         domeniul alimentar
+
+(1) - abrogat.
+
+(2) Operatorii din domeniul alimentar, în cadrul întreprinderilor pe care le gestionează, vor recepționa doar produse alimentare sigure pentru consum, însoțite de certificatele de calitate eliberate de producători sau certificatul sanitar veterinar.
+
+(3) Operatorii din domeniul alimentar, la etapa de producție, sunt obligați să organizeze și să efectueze, pe parcursul fluxului tehnologic, controlul siguranței produselor alimentare, să înregistreze rezultatele acestuia și să le păstreze pe o perioadă de un an de la data-limită de consum sau de la data durabilității minimale, sau de la ultima zi a termenului de valabilitate.
+
+(4) - abrogat.
+
+(5) Fiecare lot de produse alimentare autohtone introdus pe piață este însoțit de certificatul de calitate. Certificatul de calitate este emis pe suport de hârtie sau, la solicitare, în formă electronică.
+
+(6) La introducerea pe piață a produselor alimentare de import, acestea sunt însoțite de documentul care atestă siguranța și calitatea, eliberat de producător/exportator și/sau de autoritatea competentă din domeniul alimentar din țara de origine/țara de export, în limba română și/sau în limba engleză.
+
+(6¹) Lotul de produse alimentare livrat de distribuitor trebuie să fie însoțit de copia de pe certificatul de calitate și/sau de copia de pe documentul care atestă siguranța și calitatea acestuia, emise de producător.
+
+(7) Periodicitatea sau frecvența rapoartelor de încercări de laborator se stabilește în baza planului de autocontrol, în funcție de:
+
+a) gradul de perisabilitate a produsului alimentar;
+
+b) numărul punctelor critice de control identificate în procesul tehnologic;
+
+c) indicatorii de siguranță (microbiologici, contaminanți, reziduuri).
+
+(8) Operatorii din domeniul alimentar prezintă cel puțin următoarele informații obligatorii în certificatul de calitate:
+
+a) numele/denumirea și adresa/sediul producătorului;
+
+b) numele/denumirea și adresa/sediul operatorului din domeniul alimentar căruia i-a fost expediat produsul alimentar;
+
+c) denumirea produsului alimentar;
+
+d) cantitatea de produs alimentar livrat;
+
+e) informații privind valabilitatea produselor alimentare;
+
+f) condițiile speciale de păstrare;
+
+g) - abrogată;
+
+h) - abrogată.
+
+(9) Operatorii din domeniul alimentar țin evidența certificatelor de calitate eliberate în format electronic sau pe suport de hârtie.
+
+(10) Recomandarea privind elaborarea și implementarea planului de autocontrol al operatorilor din domeniul alimentar este aprobată prin ordinul directorului general al Agenției Naționale pentru Siguranța Alimentelor.
+
+Articolul 14. Autorizarea unor produse alimentare,
+
+                       a materialelor și articolelor care vin
+
+                        în contact cu produsele alimentare
+
+                        și a surselor de apă minerală și potabilă
+
+(1) Înainte de utilizare în procesele de producție, de introducere pe piață și de distribuire, unele categorii de produse alimentare, materialele și articolele care vin în contact cu produsele alimentare, precum și sursele de apă minerală și potabilă se supun autorizării sanitare după cum urmează:
+
+a) suplimentele alimentare, altele decât cele care conțin exclusiv vitamine și/sau minerale, se supun înregistrării de stat;
+
+b) suplimentele alimentare care conțin exclusiv vitamine și/sau minerale, produsele alimentare pentru sugari și copii mici, formulele de început și continuare pentru sugari, produsele alimentare destinate unor scopuri medicale speciale, înlocuitorii unei diete totale pentru controlul greutății, produsele alimentare cu adaos de vitamine și minerale se supun notificării;
+
+[Art.14 al.(1), lit.b) în redacția LP317 din 29.12.25, MO646-650/30.12.25 art.787; în vigoare 31.12.25]
+
+c) materialele și articolele care vin în contact cu produsele alimentare și sursele de apă minerală se supun avizării sanitare.
+
+[Art.14 al.(1), lit.c) în redacția LP317 din 29.12.25, MO646-650/30.12.25 art.787; în vigoare 31.12.25]
+
+(2) Procedurile și modul de organizare a autorizării sanitare menționate la alin. (1) se stabilesc prin acte normative, aprobate în conformitate cu art. 41 alin. (4) din Legea nr. 160/2011 privind reglementarea prin autorizare a activității de întreprinzător.
+
+(3) Alimentele noi sunt introduse pe piață doar dacă sunt înregistrate în Uniunea Europeană și notificate de Agenția Națională pentru Siguranța Alimentelor conform procedurilor aprobate de Guvern.
+
+(4) Suplimentele alimentare, altele decât cele care conțin exclusiv vitamine și/sau minerale, sunt introduse pe piață doar dacă sunt înregistrate de Agenția Națională pentru Sănătate Publică conform procedurilor prevăzute de regulamentul sanitar aprobat de Guvern și au obținut certificatul de înregistrare în condițiile Legii nr. 160/2011 privind reglementarea prin autorizare a activității de întreprinzător.
+
+(5) Condițiile de introducere pe piață a aditivilor alimentari, a aromelor și a enzimelor, condițiile de utilizare a aditivilor alimentari în produsele alimentare, inclusiv a aditivilor alimentari utilizați în enzimele și aromele alimentare și în alți aditivi, precum și normele privind etichetarea aditivilor alimentari, a enzimelor și a aromelor comercializate se stabilesc prin regulamente sanitare aprobate de Guvern.
+
+(6) Numai aditivii alimentari incluși în listele de aditivi alimentari autorizați pentru utilizare pot fi introduși pe piață și utilizați în produsele alimentare, inclusiv aditivii alimentari autorizați pentru utilizarea în alți aditivi alimentari, în enzimele alimentare sau în aromele alimentare. Listele de aditivi alimentari autorizați pentru utilizare se stabilesc de Ministerul Sănătății, în baza recomandărilor Comisei Codex Alimentarius și a reglementărilor Uniunii Europene.
+
+Articolul 15. - abrogat.
+
+Articolul 16. - abrogat.
+
+Articolul 17. - abrogat.
+
+Articolul 18. - abrogat.
+
+Articolul 19. Produsele alimentare fortificate
+
+(1) Produsele alimentare fortificate trebuie să conțină substanțe nutritive adăugate în limitele stabilite de Ministerul Sănătății și să fie inofensive pentru om.
+
+(2) Fortificarea produselor alimentare cu nutrimente deficitare se aprobă de către Guvern, la propunerile Ministerului Sănătății care stabilește și cerințele față de aceste produse alimentare.
+
+(3) Operatorii din domeniul alimentar sunt obligați să asigure conținutul reglementat de nutrimente în produsele alimentare fortificate la toate etapele lanțului alimentar.
+
+(4) Produsele alimentare fortificate cu nutrimentele deficitare au prioritate la transport, depozitare și distribuire față de produsele alimentare nefortificate din aceeași categorie.
+
+Articolul 20. Depozitarea, transportul și distribuirea
+
+(1) Depozitarea, transportul și distribuirea produselor alimentare și a materialelor care vin în contact cu produsele alimentare se vor efectua în condiții care să asigure inofensivitatea lor și menținerea proprietăților lor.
+
+(2) Operatorii din domeniul alimentar implicați în depozitarea, transportul și distribuirea produselor alimentare sunt obligați să respecte prevederile legislației din domeniul alimentar și să confirme respectarea acestora în documentele de însoțire.
+
+(3) Transportul produselor alimentare se va efectua în mijloace de transport speciale, care să asigure condițiile de igienă și de temperatură prevăzute la art. 12 din Legea nr. 296/2017 privind cerințele generale de igienă a produselor alimentare, și va fi însoțit de autorizație sanitar-veterinară obținută în modul stabilit la art. 18 din Legea nr. 221/2007 privind activitatea sanitar-veterinară.
+
+(4) În cazul în care, la depozitarea, transportul sau distribuirea produselor alimentare și a materialelor care vin în contact cu produsele alimentare au fost comise încălcări ce au generat modificarea calității și pierderea inofensivității lor, acestea devenind periculoase, operatorii din domeniul alimentar care le dețin sunt obligați să sisteze livrarea și distribuirea acestor produse și materiale, să informeze destinatarii și consumatorii, să organizeze retragerea lor de la cumpărători și consumatori, să asigure expertiza lor și utilizarea lor condiționată sau nimicirea.
+
+(5) Prepararea, comercializarea și distribuirea produselor alimentare nerecomandate preșcolarilor și elevilor în instituții de învățământ general și profesional tehnic, precum și în tabere de odihnă și întremare a sănătății copiilor și adolescenților, sunt reglementate de către Guvern.
+
+Articolul 21. Importul produselor alimentare
+
+                       și al hranei pentru animale în
+
+                       Republica Moldova
+
+(1) Produsele alimentare și hrana pentru animale importate în Republica Moldova pentru a fi introduse pe piață trebuie să satisfacă cerințele prevăzute de legislația din domeniul alimentar și condițiile recunoscute ca fiind cel puțin echivalente cu acestea sau, în cazul acordurilor comune încheiate între Republica Moldova și țara exportatoare, să satisfacă cerințele din respectivul document.
+
+(1¹) La import, produsele alimentare și materialele destinate să vină în contact cu produsele alimentare sunt însoțite de acte ce confirmă siguranța acestora, emise de autoritatea competentă din țara de origine, și de acte ce confirmă calitatea acestora, eliberate de producător.
+
+(2) La import, produsele alimentare și materialele care vin în contact cu produsele alimentare se supun controalelor în vamă conform prevederilor cap. V din Legea nr. 50/2013 cu privire la controalele oficiale pentru verificarea conformității cu legislația privind hrana pentru animale și produsele alimentare și cu normele de sănătate și de bunăstare a animalelor.
+
+(3) Se interzice importul de produse alimentare în cazul în care din termenul de valabilitate al acestora a rămas mai puțin de:
+
+– 1/2 din termen, în cazul produselor cu termen de valabilitate de până la 90 de zile inclusiv;
+
+– 60 de zile, în cazul produselor cu termen de valabilitate de la 90 până la 180 de zile inclusiv;
+
+– 1/3 din termen, în cazul produselor cu termen de valabilitate mai mare de 180 de zile.
+
+Articolul 22. Exportul produselor alimentare
+
+                      și al hranei pentru animale din
+
+                      Republica Moldova
+
+(1) Produsele alimentare și hrana pentru animale destinate exportului sau reexportului în vederea introducerii lor pe piața unei alte țări trebuie să corespundă cerințelor prevăzute de legislația din domeniul alimentar aplicabile în țara respectivă, cu excepția cazurilor în care acordul bilateral dintre părți prevede altfel.
+
+(2) La solicitarea operatorului din domeniul alimentar, Agenția Națională pentru Siguranța Alimentelor certifică siguranța produselor alimentare destinate exportului sau reexportului prin eliberarea certificatului de sănătate. Certificatul de sănătate se eliberează în urma rezultatelor încercărilor de laborator efectuate de laboratorul de referință sau de un laborator acreditat, prin care confirmă corespunderea produselor alimentare cu legislația din domeniul alimentar din țara de export. La efectuarea încercărilor de laborator, prelevările de probe se efectuează de către autoritatea emitentă a certificatului. Modelul certificatului de sănătate este prezentat în anexa nr. 2.
+
+(2¹) Certificatul de sănătate se întocmește, se eliberează, se suspendă, se retrage sau eliberarea acestuia se refuză prin intermediul Sistemului informațional automatizat de gestionare și eliberare a actelor permisive (SIA GEAP), conform art. 6 alin. (2²) din Legea nr. 160/2011 privind reglementarea prin autorizare a activității de întreprinzător.
+
+(3) Produsele alimentare, materialele care vin în contact cu produsele alimentare și hrana pentru animale destinate exportului, care nu corespund prevederilor legislației Republicii Moldova din domeniul alimentar, dar corespund cerințelor țării importatoare, pot rămâne în Republica Moldova pentru o perioadă de cel mult 90 de zile de la data producerii lor sau a intrării lor în țară. Aceste produse vor fi marcate clar ca fiind destinate exclusiv exportului, vor fi depozitate și păstrate separat de alte produse alimentare.
+
+(4) În cazul în care produsele alimentare și materialele care vin în contact cu produsele alimentare destinate exportului nu corespund prevederilor legislației Republicii Moldova din domeniul alimentar și, într-o perioadă de 90 de zile de la data producerii lor, nu au fost exportate sau aduse în conformitate legislația din domeniul alimentar, produsele și materialele respective sunt supuse expertizei și, în funcție de rezultatele ei, se utilizează condiționat sau se nimicesc de către operatorii din domeniul alimentar.
+
+Articolul 23. Personalul întreprinderilor din
+
+                      domeniul alimentar
+
+(1) Producerea și distribuirea produselor alimentare se efectuează numai de către persoanele care, la angajare, au fost supuse unui examen medical preventiv și, ulterior, efectuează examene medicale periodice, îndeplinesc condițiile de sănătate stabilite de către Guvern, au calificarea profesională necesară pentru operațiunile pe care le execută, au fost instruite igienic și posedă cunoștințe suficiente în domeniul sănătății publice, al igienei produselor alimentare și al igienei muncii și au fost atestate conform legislației din domeniul alimentar.
+
+(2) Persoanele afectate de maladii infecțioase sau cele suspectate că ar suferi de astfel de maladii, persoanele care au fost în contact cu asemenea bolnavi și persoanele purtătoare ale agenților patogeni de maladii infecțioase nu sunt admise la executarea operațiunilor ce implică contactul direct cu produsele alimentare și materialele care vin în contact cu produsele alimentare.
+
+Capitolul IV
+
+DOMENIILE DE COMPETENȚĂ PENTRU
+
+SIGURANȚA ALIMENTELOR
+
+Articolul 24. Domeniile de competență ale
+
+                      Agenției Naționale pentru
+
+                      Siguranța Alimentelor
+
+(1) Agenția Națională pentru Siguranța Alimentelor este autoritatea publică centrală de supraveghere în domeniul alimentar ce are ca obiectiv general aplicarea politicii privind siguranța alimentelor, inclusiv a hranei pentru animale, la toate etapele lanțului alimentar, de la producerea primară, procesarea, depozitarea, transportul, comercializarea acestora până la importul și exportul acestora.
+
+(2) Domeniile principale de competență ale Agenției Naționale pentru Siguranța Alimentelor în ceea ce privește siguranța alimentelor sunt:
+
+a) asigurarea siguranței biologice, chimice și fizice a produselor alimentare;
+
+b) supravegherea și controlul producerii produselor alimentare, al igienei la întreprinderile din domeniul alimentar, inclusiv la unitățile alimentare din instituțiile medicale, din instituțiile balneosanatoriale, din instituțiile de educație antepreșcolară, din instituțiile de învățământ preșcolar, primar, secundar, special, extrașcolar, din alternativele educaționale și din taberele pentru copii;
+
+c) supravegherea și controlul pe întreg lanț alimentar a hranei pentru animale și a furajelor medicamentoase, al igienei la întreprinderile producătoare de furaj;
+
+d) supravegherea și controlul privind utilizarea organismelor modificate genetic (OMG-urilor) în produsele alimentare, în hrana pentru animale și semințe, la etapa de import, producere, prelucrare, procesare, transportare, distribuire, comercializare și utilizare a acestora;
+
+e) supravegherea calității produselor primare, a calității alimentelor și a hranei pentru animale;
+
+f) autorizarea operatorilor din domeniul alimentar conform art. 18 din Legea nr.221/2007 privind activitatea sanitară veterinară și/sau înregistrarea în domeniul siguranței alimentelor a acestora, conform prevederilor capitolului V¹din prezenta lege;
+
+g) certificarea siguranței produselor alimentare destinate exportului/reexportului conform prevederilor art. 22 alin. (1);
+
+h) supravegherea și controlul materialelor care vin în contact cu produsele alimentare aflate în uz la toate etapele lanțului alimentar;
+
+i) supravegherea și controlul etichetării produselor alimentare, inclusiv a alimentelor noi, a produselor alimentare pentru copii, cuprinzând formulele de început și formulele de continuare, a preparatelor pe bază de cereale, a produselor alimentare destinate unor scopuri medicale speciale și a înlocuitorilor unei diete totale pentru controlul greutății, în conformitate cu legislația din domeniul alimentar;
+
+j) supravegherea și controlul pe întreg lanțul alimentar al suplimentelor alimentare, cu excepția celor fabricate în unități cu activitate farmaceutică și comercializate în farmacii;
+
+k) supravegherea și controlul pe întreg lanțul alimentar al aditivilor alimentari, al  alimentelor noi, al produselor alimentare fortificate, al produselor alimentare tratate cu radiații ionizante;
+
+l) supravegherea și controlul pe întreg lanțul alimentar al produselor alimentare pentru sugari și copiii mici și al produselor alimentare cu destinație nutrițională specială, cu excepția celor care se comercializează exclusiv în farmacii;
+
+m) supravegherea calității apei potabile utilizate de întreprinderile din domeniul alimentar la toate etapele lanțului alimentar, supravegherea pe piață a apei potabile și apelor minerale, inclusiv a apelor îmbuteliate;
+
+n) protecția intereselor consumatorilor privind comercializarea produselor alimentare și prestarea serviciilor în alimentația publică;
+
+o) identificarea, evaluarea, managementul și comunicarea riscurilor în domeniul inofensivității alimentelor și a hranei pentru animale;
+
+p) verificarea înregistrărilor din fișele medicale individuale ale angajaților întreprinderilor din domeniul alimentar și verificarea instruirii acestora în domeniul igienei.
+
+(3) Prin Agenția Națională pentru Siguranța Alimentelor, Republica Moldova:
+
+a) contribuie la elaborarea de standarde tehnice internaționale privind produsele alimentare și hrana pentru animale, precum și la elaborarea de standarde sanitare și fitosanitare;
+
+b) promovează coordonarea activității în vederea respectării standardelor de siguranță a alimentelor și a hranei pentru animale, desfășurată de organizațiile guvernamentale și neguvernamentale internaționale;
+
+c) contribuie la dezvoltarea acordurilor privind recunoașterea echivalenței măsurilor specifice privind siguranța alimentelor și a hranei pentru animale;
+
+d) promovează coerența dintre standardele tehnice internaționale și legislația din domeniul alimentar.
+
+Articolul 25. Domeniile de competență ale
+
+                      Ministerului Sănătății
+
+Competențele Ministerului Sănătății privind supravegherea de stat a sănătății publice în domeniul siguranței produselor alimentare sunt:
+
+a) identificarea, evaluarea, managementul și comunicarea riscurilor asupra stării de sănătate și de nutriție a populației;
+
+b) prevenirea maladiilor provocate de produse alimentare prin realizarea intervențiilor de prevenire primară și secundară;
+
+c) înregistrarea izbucnirilor de boli provocate de produse alimentare și cercetarea epidemiologică a acestor cazuri împreună cu Agenția Națională pentru Siguranța Alimentelor;
+
+d) - abrogată;
+
+e) asigurarea instruirii în domeniul igienei și organizarea examenului medical al angajaților întreprinderilor care produc, prelucrează, depozitează, transportă și comercializează produse alimentare sau care prestează servicii de alimentație publică;
+
+f) autorizarea sanitară a produselor alimentare, a materialelor și a articolelor destinate să vină în contact cu produsele alimentare, precum și a surselor de apă minerale naturale indicate în art.14;
+
+g) supravegherea și controlul respectării cerințelor privind mențiunile nutriționale și de sănătate pentru formulele de început și formulele de continuare, pentru preparatele pe bază de cereale și alimentele pentru copii, pentru alimentele destinate unor scopuri medicale speciale, pentru înlocuitorii unei diete totale pentru controlul greutății, precum și pentru apele minerale comercializate în farmacii, care se asigură de Agenția Națională pentru Sănătate Publică;
+
+h) supravegherea și controlul produselor alimentare pentru sugari și copiii mici, precum și al produselor cu destinație nutrițională specială, care se comercializează în farmacii;
+
+i) autorizarea surselor de ape minerale naturale;
+
+j) supravegherea și controlul materialelor care vin în contact cu produsele alimentare introduse pe piață, inclusiv cele importate, cu excepția materialelor destinate să vină în contact cu produsele alimentare aflate în uz la toate etapele lanțului alimentar;
+
+k) elaborarea reglementărilor în domeniul aditivilor alimentari, al suplimentelor alimentare, al alimentelor noi, al produselor alimentare fortificate, al produselor alimentare tratate cu radiații ionizante, al produselor alimentare cu adaos de vitamine și minerale, al formulelor de început și formulelor de continuare, al preparatelor pe bază de cereale și al produselor alimentare pentru copii, al produselor alimentare destinate unor scopuri medicale speciale, al înlocuitorilor unei diete totale pentru controlul greutății, al apelor minerale și potabile și surselor acestora, al materialelor care vin în contact cu produsele alimentare, precum și al mențiunilor nutriționale și de sănătate înscrise pe produsele alimentare;
+
+l) stabilirea parametrilor microbiologici și fizico-chimici, a limitelor maxime de reziduuri de pesticide și contaminanți din produsele alimentare;
+
+m) supravegherea și controlul pe întreg lanțul de producere a suplimentelor alimentare fabricate în unitățile cu activitate farmaceutică și comercializate în farmacii.
+
+Capitolul V
+
+SISTEMELE DE SUPRAVEGHERE ȘI CONTROL
+
+PRIVIND SIGURANȚA ALIMENTELOR
+
+Articolul 26. Sistemul rapid de alertă pentru
+
+                      alimente și furaje la nivel național
+
+(1) Sistemul rapid de alertă pentru alimente și furaje la nivel național (în continuare – Sistem rapid de alertă) este o rețea de comunicare pentru notificarea unor riscuri, directe sau indirecte, asupra sănătății umane derivând din produsele alimentare sau din hrana pentru animale.
+
+(2) Autoritățile administrației publice centrale implicate în Sistemul rapid de alertă – Agenția Națională pentru Siguranța Alimentelor, Ministerul Sănătății, Ministerul Afacerilor Interne, Ministerul Agriculturii și Industriei Alimentare și Serviciul Vamal – desemnează fiecare câte un punct de contact care este membru al rețelei. În calitate de punct național de contact se desemnează Agenția Națională pentru Siguranța Alimentelor, care răspunde de administrarea rețelei.
+
+ (3) În cazul în care un membru al rețelei deține o informație legată de existența unui risc grav, direct sau indirect, asupra sănătății umane care derivă din produse alimentare sau din hrana pentru animale, această informație este notificată imediat Agenției Naționale pentru Siguranța Alimentelor prin Sistemul rapid de alertă. Agenția transmite imediat această informație tuturor membrilor rețelei și poate include în notificare orice date științifice sau tehnice de natură să faciliteze o acțiune adecvată de gestiune a riscurilor de către membrii rețelei.
+
+(4) Prin Sistemul rapid de alertă, punctele de contact notifică imediat Agenția Națională pentru Siguranța Alimentelor cu privire la:
+
+a) orice măsură, necesitând o intervenție rapidă, pe care au întreprins-o pentru a restricționa introducerea pe piață sau a determina retragerea de pe piață ori returnarea produselor alimentare sau a hranei pentru animale în vederea protejării sănătății umane;
+
+b) orice recomandare sau acord cu operatorii din lanțul alimentar, necesitând o intervenție rapidă, având drept scop, în mod voluntar sau obligatoriu, prevenirea, limitarea sau impunerea unor condiții specifice pentru introducerea pe piață ori eventuala folosire a produselor alimentare sau a hranei pentru animale din cauza unui risc major asupra sănătății umane;
+
+c) orice respingere, legată de un risc direct sau indirect asupra sănătății umane, a unui transport, lot ori container de produse alimentare sau de hrană pentru animale de către organul de control la un post de control sanitar-veterinar ori fitosanitar de frontieră.
+
+(5) Notificarea este însoțită de o explicare detaliată a motivelor acțiunii întreprinse de către organul de control. Aceasta este urmată de informații suplimentare, în special în cazul în care măsurile pe care se bazează notificarea sunt modificate sau retrase.
+
+(6) Agenția Națională pentru Siguranța Alimentelor transmite imediat notificarea și informațiile suplimentare primite conform alin. (1) și (3) tuturor membrilor Sistemului rapid de alertă. În cazul în care un transport, un lot sau un container este respins de către organul de control la un post de control sanitar-veterinar ori fitosanitar de frontieră, Agenția Națională pentru Siguranța Alimentelor transmite imediat o notificare tuturor posturilor de control de la frontieră, precum și țării de origine a transportului, lotului sau containerului respectiv.
+
+(7) În cazul în care un produs alimentar sau o anumită hrană pentru animale expediată către statul importator este obiectul unei notificări prin Sistemul rapid de alertă, Agenția Națională pentru Siguranța Alimentelor furnizează acestui stat informațiile corespunzătoare.
+
+(8) Prin Sistemul rapid de alertă se identifică, într-un termen util, toxiinfecțiile alimentare, legătura dintre acestea și produsele alimentare sursă, urmărind trasabilitatea.
+
+(9) Măsurile de punere în aplicare a Sistemului rapid de alertă pentru alimente și furaje la nivel național vor fi aprobate de către Guvern.
+
+Articolul 27. Norme de confidențialitate pentru
+
+                       Sistemul rapid de alertă pentru
+
+                       alimente și furaje la nivel național
+
+(1) Informațiile de care dispun membrii Sistemului rapid de alertă, legate de riscurile asupra sănătății umane prezentate de anumite produse alimentare și hrana pentru animale, sunt disponibile pentru societatea civilă conform prevederilor art. 6. Societatea civilă are acces la informațiile privind identificarea produsului, natura riscului și măsurile luate.
+
+(2) Membrii Sistemului rapid de alertă iau măsuri pentru a se asigura că angajații lor nu vor divulga informațiile obținute în exercitarea atribuțiilor lor, care, prin natura lor, necesită protecția secretului comercial în cazuri justificate în mod corespunzător, cu excepția cazurilor în care informațiile trebuie făcute publice dacă împrejurările o cer pentru protejarea sănătății umane.
+
+[Art.27 al.(2) modificat prin LP330 din 29.12.25, MO662-664/31.12.25 art.810; în vigoare 31.12.25]
+
+(3) Protecția secretului comercial nu împiedică transmiterea către autoritățile competente a informațiilor relevante pentru eficientizarea activităților de supraveghere a pieței și de aplicare a legislației din domeniul alimentar. Autoritățile care primesc informații ce intră sub incidența secretului comercial asigură protecția acestora în conformitate cu Legea nr. 384/2023 privind protecția secretelor comerciale.
+
+[Art.27 al.(3) modificat prin LP330 din 29.12.25, MO662-664/31.12.25 art.810; în vigoare 31.12.25]
+
+Articolul 28. Măsuri de urgență privind produsele
+
+                       alimentare și hrana pentru animale care
+
+                       își au originea în Republica Moldova
+
+                       sau care sunt  importate
+
+(1) În cazurile în care produsele alimentare sau hrana pentru animale prezintă un risc major pentru sănătatea umană, sănătatea animală sau mediul înconjurător, Agenția Națională pentru Siguranța Alimentelor, din oficiu sau la solicitarea unui alt membru al rețelei, adoptă imediat una sau mai multe dintre următoarele măsuri, în funcție de gravitatea situației:
+
+1) în cazul produselor alimentare și al hranei pentru animale ce își au originea în Republica Moldova:
+
+a) suspendarea introducerii pe piață a produsului alimentar respectiv sau a hranei pentru animale respective;
+
+b) suspendarea utilizării produsului alimentar respectiv sau a hranei pentru animale respective;
+
+c) stabilirea unor condiții speciale pentru produsul alimentar respectiv sau hrana pentru animale respectivă;
+
+2) în cazul produselor alimentare și al hranei pentru animale importate:
+
+a) suspendarea importului produsului alimentar respectiv sau al hranei pentru animale respective din statul de origine a produsului sau dintr-o regiune a acestuia și, după caz, din statul de tranzit;
+
+b) stabilirea unor condiții speciale pentru produsul alimentar respectiv sau hrana pentru animale respectivă din statul de origine a produsului sau dintr-o regiune a acestuia.
+
+(2) În cazuri de urgență, Agenția Națională pentru Siguranța Alimentelor poate lua, în mod provizoriu, măsurile menționate la alin.(1) după informarea și consultarea cu statele importatoare respective.
+
+(3) În cel mult 10 zile lucrătoare din momentul întreprinderii măsurilor specificate la alin.(1), acestea sunt confirmate, modificate, revocate sau extinse, iar motivele pe care se întemeiază decizia sunt făcute publice pe pagina oficială web a Agenției Naționale pentru Siguranța Alimentelor în termen de 24 de ore.
+
+Articolul 29. Planul general de gestionare a crizelor
+
+                       în sectorul alimentelor și furajelor
+
+(1) Guvernul aprobă Planul general pentru gestionarea crizelor în sectorul alimentelor și furajelor (denumit în continuare planul general).
+
+(2) Planul general prevede tipurile de situații care implică riscuri directe sau indirecte pentru sănătatea umană derivând din produse alimentare sau din hrana pentru animale, ce nu pot fi prevenite, eliminate sau reduse la un nivel acceptabil prin dispozițiile existente sau nu pot fi gestionate în mod adecvat numai prin aplicarea prevederilor art. 28.
+
+(3) În cazul survenirii unei situații de criză în domeniul siguranței produselor alimentare și a hranei pentru animale, Agenția Națională pentru Siguranța Alimentelor instituie imediat o celulă de criză la care participă și autoritățile publice centrale, de asemenea, dacă este necesar, asigură asistența științifică și tehnică.
+
+(4) Celula de criză răspunde de colectarea și evaluarea tuturor informațiilor relevante și de identificarea opțiunilor disponibile pentru prevenirea, eliminarea sau reducerea la un nivel acceptabil a riscurilor pentru sănătatea umană cât mai rapid și mai eficient posibil.
+
+(5) Celula de criză poate solicita sprijinul oricărei persoane de drept public sau de drept privat a cărei experiență o consideră necesară pentru gestionarea, în mod eficient, a crizei în domeniul siguranței produselor alimentare și a hranei pentru animale.
+
+(6) Celula de criză informează permanent publicul asupra riscurilor implicate de criza din domeniul siguranței produselor alimentare și a hranei pentru animale, precum și asupra măsurilor luate.
+
+Articolul 30. Retragerea de pe piață a produselor
+
+                      alimentare  și a materialelor care vin
+
+                      în contact cu produsele alimentare
+
+                      periculoase și/sau neconforme
+
+                      legislației din domeniul alimentar
+
+(1) Produsele alimentare și materialele care vin în contact cu produsele alimentare periculoase și/sau neconforme legislației din domeniul alimentar sunt retrase de pe piață în termen de 15 zile lucrătoare. Operatorul din domeniul alimentar deținător al acestor produse și/sau materiale este obligat să le retragă de pe piață din proprie inițiativă sau în temeiul unei dispoziții scrise (prescripții) a organului de control și de supraveghere de stat.
+
+(2) Produsele alimentare și materialele care vin în contact cu produsele alimentare ce nu corespund legislației din domeniul alimentar, dar care nu sunt falsificate și nu prezintă vreun pericol pentru sănătatea umană pot fi recondiționate înainte de a fi vândute sau distribuite. Operatorul din domeniul alimentar deținător al acestor produse și/sau materiale va asigura depozitarea lor în condiții ce ar exclude accesul la ele, de asemenea va asigura evidența lor strictă pentru toată perioada de recondiționare.
+
+(3) Operatorii din domeniul alimentar responsabili de comerțul cu amănuntul sau de distribuirea produselor alimentare și a materialelor care vin în contact cu produsele alimentare în procesul cărora nu se afectează ambalajul, etichetarea, inofensivitatea sau integritatea acestora vor institui, în limita activităților proprii, proceduri de retragere de pe piață a produselor și materialelor menționate care nu corespund condițiilor de inofensivitate prevăzute de legislația din domeniul alimentar, vor transmite informațiile necesare pentru stabilirea trasabilității produselor retrase și vor coopera la realizarea măsurilor luate de către producători, importatori și/sau de către organul de control.
+
+(3¹) Operatorii din domeniul alimentar deținători ai produselor alimentare și/sau materialelor destinate să vină în contact cu produsele alimentare periculoase și/sau neconforme legislației din domeniul alimentar sunt obligați să actualizeze zilnic informația cu privire la produsele alimentare retrase din comerț și returnate la unitate și, la solicitare, să furnizeze informația autorității competente.
+
+(4) Operatorii din domeniul alimentar trebuie să informeze imediat organele de control și supraveghere de stat despre fiecare caz de suspiciune a introducerii pe piață a unor produse alimentare și/sau materiale care vin în contact cu produsele alimentare ce prezintă pericol pentru sănătatea umană, precum și despre măsurile luate în vederea prevenirii, diminuării sau eliminării riscurilor.
+
+(5) Dacă într-un lot de produse alimentare sau de materiale care vin în contact cu produsele alimentare de aceeași categorie este depistat un produs sau un material periculos, se consideră că toate produsele sau materialele din acest lot sunt în aceeași măsură periculoase, cu excepția cazurilor în care, în urma unei expertize detaliate, se constată că restul lotului nu prezintă vreun pericol.
+
+(6) Operatorii din domeniul alimentar deținători de produse alimentare și materiale care vin în contact cu produsele alimentare periculoase și/sau neconforme legislației din domeniul alimentar sunt obligați să asigure depozitarea provizorie a acestora în condiții ce ar exclude accesul la ele, precum și evidența strictă a acestora.
+
+(7) În cazul în care operatorii din domeniul alimentar deținători de produse alimentare și de materiale care vin în contact cu produsele alimentare periculoase și/sau neconforme legislației din domeniul alimentar nu au luat măsuri de retragere a acestor produse și materiale de pe piață, operatorii respectivi sunt pasibili de răspundere juridică.
+
+Articolul 31. Expertiza, utilizarea condiționată
+
+                       sau nimicirea  produselor alimentare
+
+                       și a materialelor care vin în contact
+
+                       cu produsele alimentare periculoase
+
+                        și/sau neconforme legislației din
+
+                        domeniul alimentar, retrase de pe piață
+
+(1) Produsele alimentare și materialele destinate să vină în contact cu produsele alimentare periculoase și/sau neconforme legislației din domeniul alimentar retrase de pe piață sunt supuse expertizei corespunzătoare (sanitaro-epidemiologice, sanitar veterinare și investigațiilor de laborator) de către organul de control și supraveghere de stat, în conformitate cu competențele ce îi sunt atribuite, pentru a determina posibilitatea de utilizare condiționată sau de nimicire a acestora. În cazul în care produsele alimentare au fost fabricate în unități neautorizate sanitar veterinar sau neînregistrate în domeniul siguranței alimentelor ori în cazul în care operatorul din domeniul alimentar deținător al produselor alimentare și/sau al materialelor destinate să vină în contact cu produsele alimentare nu poate confirma proveniența acestora și în cazul în care produsele au semne vizibile de alterare și prezintă un pericol grav și imediat pentru viața și sănătatea umană, ele vor fi utilizate condiționat sau vor fi nimicite fără efectuarea expertizei. Anterior utilizării condiționate sau nimicirii, deținătorul produselor și/sau al materialelor respective, în prezența reprezentantului organului de control și supraveghere de stat, modifică proprietățile lor prin orice metodă accesibilă și sigură care ar exclude posibilitatea utilizării lor conform destinației.
+
+(2) Produsele alimentare și materialele care vin în contact cu produsele alimentare periculoase și/sau neconforme legislației din domeniul alimentar se depozitează, pe durata efectuării expertizei, în condiții ce ar exclude accesul la ele. Produsele și materialele respective vor fi luate la evidență strictă. Responsabil de integritatea acestor produse și/sau materiale este operatorul din domeniul alimentar care le deține.
+
+(3) În baza rezultatelor expertizei produselor alimentare și/sau a materialelor care vin în contact cu produsele alimentare periculoase și/sau neconforme legislației din domeniul alimentar, organul de control și supraveghere de stat decide utilizarea condiționată sau nimicirea acestora. Operatorul din domeniul alimentar deținător al produselor și/sau materialelor respective alege modul și condițiile de utilizare condiționată sau de nimicire a acestora în conformitate cu legislația din domeniul alimentar și le coordonează cu organul de control și supraveghere de stat care a emis decizia corespunzătoare.
+
+(4) Oportunitatea folosirii alimentelor periculoase și/sau neconforme legislației din domeniul alimentar în calitate de hrană pentru animale se coordonează cu Agenția Națională pentru Siguranța Alimentelor.
+
+(5) Toate cheltuielile care rezultă din controalele oficiale efectuate în caz de neconformitate, inclusiv prelevarea probelor, investigațiile de laborator, expertiza, depozitarea, transportul, utilizarea condiționată sau nimicirea produselor alimentare și a materialelor care vin în contact cu produsele alimentare periculoase și/sau neconforme legislației din domeniul alimentar, sunt suportate de către operatorul din domeniul alimentar care le deține.
+
+(6) Operatorul din domeniul alimentar deținător de produse alimentare și/sau materiale care vin în contact cu produsele alimentare periculoase și/sau neconforme legislației din domeniul alimentar va prezenta organului de control și supraveghere de stat care a emis decizia de utilizare condiționată sau de nimicire a acestora documentul sau copia documentului care confirmă utilizarea condiționată sau nimicirea produselor și/sau materialelor respective.
+
+(7) Organul de control și supraveghere de stat care a emis decizia de utilizare condiționată sau de nimicire a produselor alimentare și/sau a materialelor care vin în contact cu produsele alimentare periculoase și/sau neconforme legislației din domeniul alimentar este obligat să efectueze controlul asupra utilizării condiționate sau nimicirii produselor și/sau materialelor respective.
+
+Capitolul V¹
+
+ÎNREGISTRAREA ÎN DOMENIUL
+
+SIGURANȚEI ALIMENTELOR
+
+Articolul 31¹. Cerințe privind înregistrarea în
+
+                         domeniul siguranței alimentelor
+
+(1) Activitățile din domeniul alimentar, aprobate prin ordinul directorului general al Agenției Naționale pentru Siguranța Alimentelor, se supun înregistrării în domeniul siguranței alimentelor.
+
+(2) Certificatul de înregistrare în domeniul siguranței alimentelor se obține în baza cererii conform modelului prevăzut la anexa nr. 4.
+
+(3) La cerere se anexează:
+
+[Art.31¹ al.(3), lit.a) abrogată prin LP317 din 29.12.25, MO646-650/30.12.25 art.787; în vigoare 31.12.25]
+
+b) copia de pe actul de proprietate sau de pe contractul de locațiune a imobilului/terenului în care se va desfășura activitatea înregistrată.
+
+(4) Prin derogare de la alin.(1) și (2), operatorii al căror domeniu de activitate este prevăzut în anexa nr.6 din Legea nr.221/2007 privind activitatea sanitară veterinară se autorizează în modul corespunzător de către Agenția Națională pentru Siguranța Alimentelor, odată cu obținerea autorizației sanitare veterinare de funcționare.
+
+(5) În cazul în care activitatea titularului certificatului de înregistrare în domeniul siguranței alimentelor suferă modificări, în special datele indicate în cerere și/sau în documentele anexate la cerere, operatorul este obligat să înștiințeze, în cel mult 10 zile lucrătoare, autoritatea competentă despre modificările survenite.
+
+(6) Certificatul de înregistrare în domeniul siguranței alimentelor se eliberează pentru un termen nelimitat, dacă spațiul în care operatorul din domeniul alimentar își va desfășura activitatea este în proprietate, și pe perioada de valabilitate a contractului de locațiune a imobilului/terenului, dacă spațiul este în locațiune.
+
+(7) Agenția Națională pentru Siguranța Alimentelor verifică, prin intermediul platformei de interoperabilitate (MConnect), înregistrarea activității de întreprinzător și dreptul de proprietate sau dreptul de folosință al agentului economic asupra spațiului.
+
+Articolul 31². Obligațiile operatorilor din domeniul
+
+                        alimentar
+
+(1) Operatorii înregistrați în sensul prezentului capitol sunt responsabili pentru siguranța și calitatea produsului lor și iau toate măsurile necesare pentru a se asigura că produsele obținute și comercializate către consumatorul final nu prezintă risc pentru sănătatea umană și că sunt îndeplinite toate condițiile stabilite de legislația din domeniul alimentar referitoare la:
+
+a) etichetare;
+
+b) asigurare a trasabilității;
+
+c) parametrii de calitate și siguranță ai materiilor prime și ai produselor finite inclusiv prin testări de laborator;
+
+d)  controlul potabilității apei;
+
+e) instruirea personalului;
+
+f) aplicarea procedurilor de bune practici de igienă și a bunelor practici de fabricație, bazate pe principiile siguranței alimentelor, inclusiv prin aplicarea principiilor de analiză a riscurilor în punctele critice de control (HACCP – Hazard Analysis and Critical Control Points), având în vedere tipul, capacitatea de producție și specificul unității.
+
+(2) Operatorii din domeniul alimentar introduc pe piață produsele alimentare provenite din Republica Moldova numai dacă acestea au fost preparate și manipulate exclusiv în unitățile care au fost autorizate sanitar veterinar sau înregistrate în domeniul siguranței alimentelor.
+
+(3) Orice activitate din domeniul alimentar care nu a fost autorizată sanitar veterinar sau nu a fost înregistrată în domeniul siguranței alimentelor se consideră ilegală și se sancționează contravențional în conformitate cu prevederile legislației.
+
+Articolul 31³. Obligațiile Agenției Naționale pentru
+
+                        Siguranța Alimentelor
+
+(1) La recepționarea cererii de înregistrare în domeniul siguranței alimentelor, Agenția Națională pentru Siguranța Alimentelor este obligată să acorde certificatul constatator conform prevederilor și modelului stabilite de Legea nr. 160/2011 privind reglementarea prin autorizare a activității de întreprinzător.
+
+(2) În cel mult 5 zile lucrătoare, Agenția Națională pentru Siguranța Alimentelor este obligată să examineze cererea, să evalueze condițiile de activitate a operatorului din domeniul alimentar și, în baza criteriilor de analiză a riscurilor și a profilului solicitantului, să inițieze și să efectueze un control inopinat în conformitate cu Legea nr. 131/2012 privind controlul de stat asupra activității de întreprinzător. Controlul efectuat întru eliberarea actului permisiv nu necesită întocmirea delegației de control în acest sens.
+
+(3) În cazul în care informațiile din cerere și actele anexate sunt complete și, în urma evaluării și a controlului efectuat, nu sunt constatate abateri de la cerințele și obligațiile stabilite expres în legislație pentru activitatea și tipul de unitate în cauză, Agenția este obligată, în termen de 15 zile lucrătoare de la data recepționării cererii, să înregistreze unitatea și să emită certificatul de înregistrare în domeniul siguranței alimentelor, conform modelului din anexa nr. 5.
+
+(4) Termenul de examinare a cererii se suspendă în cazul în care aceasta este incompletă și solicitantul trebuie să prezinte date și/sau documente specificate în prezenta lege sau în cazul în care abaterile depistate vor cauza cu certitudine sporirea riscului produsului pentru sănătatea publică, însă aceste abateri pot fi remediate în cel mult 30 de zile.
+
+(5) Înregistrarea unității se respinge, cu o argumentare corespunzătoare din partea Agenției Naționale pentru Siguranța Alimentelor, doar în cazul în care, în urma evaluării sau controlului, la unitate au fost constatate încălcări prevăzute expres în legislație care nu pot fi remediate în decursul a 45 de zile și a căror gravitate înaltă creează cu certitudine risc sporit și iminent pentru sănătatea publică.
+
+(6) În cazul în care Agenția Națională pentru Siguranța Alimentelor nu acordă un răspuns în scris în termen de 15 zile lucrătoare de la depunerea cererii, se aplică principiul aprobării tacite în conformitate cu prevederile Legii nr. 160/2011 privind reglementarea prin autorizare a activității de întreprinzător.
+
+(7) Certificatul de înregistrare în domeniul siguranței alimentelor se suspendă/se retrage la cererea titularului de act permisiv sau dacă titularul a comis încălcări foarte grave ale responsabilităților prevăzute expres în legislație, care prezintă riscuri iminente și imediate pentru viața și sănătatea consumatorului și care nu pot fi remediate într-un termen proxim.
+
+(8) Prin derogare de la art. 10 alin. (3)–(7) și art. 11 alin. (1¹)–(7) din Legea nr. 160/2012 privind reglementarea prin autorizare a activității de întreprinzător, suspendarea și retragerea certificatului de înregistrare în domeniul siguranței alimentelor se efectuează ca urmare a constatărilor din procesul-verbal de control întocmit de către inspectorii Agenției Naționale pentru Siguranța Alimentelor și în baza deciziei de suspendare sau de retragere a certificatului de înregistrare în domeniul siguranței alimentelor, emisă de către șeful subdiviziunii teritoriale, al cărei model este aprobat prin ordinul directorului general al Agenției Naționale pentru Siguranța Alimentelor. Termenul maxim de suspendare a actului permisiv constituie 90 de zile. Neînlăturarea în termenul stabilit de lege a circumstanțelor care au dus la suspendarea valabilității actului permisiv constituie temei pentru retragerea actului permisiv.
+
+(9) După înlăturarea neconformităților care au stat la baza suspendării/retragerii certificatului de înregistrare în domeniul siguranței alimentelor, conducătorul unității informează Agenția Națională pentru Siguranța Alimentelor în acest sens, solicitând controlul repetat.
+
+(10) Inspectorii efectuează controlul repetat în maximum 5 zile de la data înregistrării cererii, cu întocmirea unui proces-verbal de control suplimentar, conex cu procesul-verbal de control inițial, pe care îl completează cu constatările în urma controlului. În cazul în care se constată înlăturarea încălcărilor care au stat la baza suspendării/retragerii certificatului de înregistrare în domeniul siguranței alimentelor, inspectorii fac mențiunea corespunzătoare în procesul-verbal de control.
+
+(11) Reluarea activității de întreprinzător se efectuează în baza deciziei șefului subdiviziunii teritoriale pentru siguranța alimentelor, urmare a constatărilor din procesul-verbal de control suplimentar, conex cu procesul-verbal de control inițial, cu anexarea documentelor confirmative prin care s-a constatat înlăturarea încălcărilor care au stat la baza suspendării certificatului de înregistrare în domeniul siguranței alimentelor.
+
+Capitolul VI
+
+RESPONSABILITĂȚI ȘI SOLUȚIONAREA
+
+LITIGIILOR
+
+Articolul 32. Răspunderea pentru încălcarea
+
+                       prevederilor prezentei legi
+
+(1) Încălcarea prevederilor prezentei legi atrage după sine răspunderea contravențională, civilă sau penală în conformitate cu legislația în vigoare.
+
+(2) Exercitarea necorespunzătoare a funcțiilor de către persoanele cu funcții de răspundere din organele de control și supraveghere de stat, precum și tăinuirea de către aceste persoane a unor fapte ce pun în pericol viața și sănătatea umană atrag răspunderea acestora în conformitate cu legislația în vigoare.
+
+Articolul 33. Soluționarea litigiilor
+
+Litigiile apărute între operatorii din domeniul alimentar/operatorii din domeniul hranei pentru animale și organele de control și supraveghere de stat ca urmare a activităților de control și de supraveghere se soluționează conform procedurii prevăzute de Legea nr. 131/2012 privind controlul de stat al activității de întreprinzător. Alte litigii decât cele apărute ca urmare a activităților de control și supraveghere se soluționează în conformitate cu prevederile Codului administrativ.
+
+Capitolul VII
+
+DISPOZIȚII FINALE
+
+Articolul 34. Intrarea în vigoare a prezentei legi
+
+(1) Prezenta lege intră în vigoare după 12 luni de la data publicării în Monitorul Oficial al Republicii Moldova.
+
+(2) Guvernul, în termen de 12 luni de la data publicării prezentei legi:
+
+a) va aduce în concordanță actele sale normative cu prevederile prezentei legi;
+
+b) va prezenta Parlamentului propuneri privind aducerea în conformitate a legislației naționale cu prevederile prezentei legi.
+
+(3) La data intrării în vigoare a prezentei legi, se abrogă Legea nr. 113/ 2012 cu privire la stabilirea principiilor și a cerințelor generale ale legislației privind siguranța alimentelor (Monitorul Oficial al Republicii Moldova, 2012, nr. 143–148, art. 467) și Legea nr. 78/2004 privind produsele alimentare (Monitorul Oficial al Republicii Moldova, 2004, nr. 83–87, art. 431).
+
+PREŞEDINTELE PARLAMENTULUI                                  Andrian CANDU
+
+Nr. 306. Chişinău, 30 noiembrie 2018.
+
+anexa nr.1 - abrogată
+
+Anexa nr. 2
+
+Model de certificat de sănătate
+
+anexa nr.3 - abrogată
+
+anexa nr.4
+
+[Anexa nr.4 modificată prin LP317 din 29.12.25, MO646-650/30.12.25 art.787; în vigoare 31.12.25]
+
+anexa nr.5

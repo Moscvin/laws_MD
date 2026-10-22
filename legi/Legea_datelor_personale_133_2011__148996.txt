@@ -1,0 +1,722 @@
+TITLU: Legea nr. 133/2011 privind protecția datelor cu caracter personal
+SURSA: https://www.legis.md/cautare/getResults?doc_id=148996&lang=ro
+
+Republica Moldova
+
+											PARLAMENTUL
+
+											LEGE Nr.												133
+din  08-07-2011
+
+											privind protecţia datelor cu caracter personal
+
+										Publicat : 14-10-2011
+												în  Monitorul Oficial												Nr.												170-175 art.												492
+
+										MODIFICAT
+
+LP100 din 13.06.25, MO317-319/14.06.25 art.345; în vigoare 14.06.25
+
+Prezenta lege creează cadrul juridic necesar aplicării Directivei 95/46/CE a Parlamentului European şi a Consiliului din 24 octombrie 1995 privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi libera circulaţie a acestor date.
+
+Parlamentul adoptă prezenta lege organică.
+
+Capitolul I
+
+DISPOZIŢII GENERALE
+
+Articolul 1. Scopul legii
+
+Scopul prezentei legi este asigurarea protecţiei drepturilor şi libertăţilor fundamentale ale persoanei fizice în ceea ce priveşte prelucrarea datelor cu caracter personal, în special a dreptului la inviolabilitatea vieţii intime, familiale şi private.
+
+Articolul 2. Domeniul de aplicare
+
+(1) Prezenta lege reglementează relaţiile juridice care apar în procesul de prelucrare a datelor cu caracter personal ce fac parte dintr-un sistem de evidenţă sau care sînt destinate să fie incluse într-un asemenea sistem, efectuată în totalitate sau în parte prin mijloace automatizate, precum şi prin alte mijloace decît cele automatizate.
+
+(2) Domeniul de acţiune al prezentei legi se extinde asupra:
+
+a) prelucrării datelor cu caracter personal efectuate în cadrul activităţilor desfăşurate de operatori aflaţi pe teritoriul Republicii Moldova;
+
+b) prelucrării datelor cu caracter personal efectuate în cadrul misiunilor diplomatice şi oficiilor consulare ale Republicii Moldova, precum şi de către alţi operatori aflaţi în afara teritoriului ţării, dar pe teritorii în care se aplică dreptul intern al Republicii Moldova, în temeiul dreptului internaţional public;
+
+c) prelucrării datelor cu caracter personal efectuate de operatori aflaţi în afara teritoriului Republicii Moldova, cu utilizarea mijloacelor aflate pe teritoriul Republicii Moldova, cu excepţia cazului în care aceste mijloace nu sînt utilizate decît în scopul tranzitării pe teritoriul Republicii Moldova a datelor cu caracter personal care fac obiectul prelucrării respective;
+
+d) prelucrării datelor cu caracter personal în cadrul acţiunilor de prevenire şi investigare a infracţiunilor, punerii în executare a sentinţelor de condamnare şi al altor acţuni din cadrul procedurii penale sau contravenţionale în condiţiile legii.
+
+(3) Prevederile prezentei legi sînt aplicabile persoanei împuternicite de către operator, fără a exclude dreptul de a intenta acţiune în justiţie împotriva operatorului.
+
+(4) Domeniul de acţiune al prezentei legi nu se extinde asupra:
+
+a) prelucrării datelor cu caracter personal efectuate de către operatori exclusiv pentru nevoi personale sau familiale, dacă prin aceasta nu se încalcă drepturile subiecţilor datelor cu caracter personal;
+
+b) prelucrării datelor cu caracter personal atribuite la secret de stat în modul stabilit, cu excepţia celor indicate la alin. (2) lit. d);
+
+c) operaţiunilor de prelucrare şi transmitere transfrontalieră a datelor cu caracter personal ce se referă la făptuitorii sau victimele crimelor de genocid, ale crimelor de război şi ale crimelor împotriva umanităţii.
+
+Articolul 3. Noţiuni principale
+
+Termenii şi expresiile utilizate în prezenta lege au următoarele semnificaţii:
+
+date cu caracter personal – orice informaţie referitoare la o persoană fizică identificată sau identificabilă (subiect al datelor cu caracter personal). Persoana identificabilă este persoana care poate fi identificată, direct sau indirect, prin referire la un număr de identificare sau la unul ori mai multe elemente specifice identităţii sale fizice, fiziologice, psihice, economice, culturale sau sociale;
+
+categorii speciale de date cu caracter personal – datele care dezvăluie originea rasială sau etnică a persoanei, convingerile ei politice, religioase sau filozofice, apartenenţa socială, datele privind starea de sănătate sau viaţa sexuală, precum şi cele referitoare la condamnările penale, măsurile procesuale de constrîngere sau sancţiunile contravenţionale;
+
+prelucrarea datelor cu caracter personal – orice operaţiune sau serie de operaţiuni care se efectuează asupra datelor cu caracter personal prin mijloace automatizate sau neautomatizate, cum ar fi colectarea, înregistrarea, organizarea, stocarea, păstrarea, restabilirea, adaptarea ori modificarea, extragerea, consultarea, utilizarea, dezvăluirea prin transmitere, diseminare sau în orice alt mod, alăturarea ori combinarea, blocarea, ştergerea sau distrugerea;
+
+sistem de evidenţă a datelor cu caracter personal – orice serie structurată de date cu caracter personal accesibile conform unor criterii specifice, fie că este centralizată, descentralizată ori repartizată după criterii funcţionale sau geografice;
+
+operator – persoana fizică sau persoana juridică de drept public sau de drept privat, inclusiv autoritatea publică, orice altă instituţie ori organizaţie care, în mod individual sau împreună cu altele, stabileşte scopurile şi mijloacele de prelucrare a datelor cu caracter personal prevăzute în mod expres de legislaţia în vigoare;
+
+persoană împuternicită de către operator – persoana fizică sau persoana juridică de drept public ori de drept privat, inclusiv autoritatea publică şi subdiviziunile ei teritoriale, care prelucrează date cu caracter personal în numele şi pe seama operatorului, pe baza instrucţiunilor primite de la operator;
+
+terţ – persoană fizică sau persoană juridică de drept public ori de drept privat, alta decît subiectul datelor cu caracter personal, decît operatorul ori persoana împuternicită de către operator şi decît persoana care sub autoritatea directă a operatorului sau a persoanei împuternicite este autorizată să prelucreze date cu caracter personal;
+
+destinatar – orice persoană fizică sau persoană juridică de drept public ori de drept privat, inclusiv autoritatea publică şi subdiviziunile ei teritoriale, căreia îi sînt dezvăluite date cu caracter personal, indiferent dacă este sau nu terţ. Nu sînt considerate destinatari organele din domeniul apărării naţionale, securităţii statului şi ordinii publice, organele de urmărire penală şi instanţele judecătoreşti cărora li se comunică date cu caracter personal în cadrul exercitării competenţelor stabilite de lege;
+
+consimțământul subiectului de date cu caracter personal – manifestare de voință liberă, specifică, informată și lipsită de ambiguitate a subiectului de date prin care acesta acceptă, printr-o declarație sau printr-o acțiune fără echivoc, ca datele cu caracter personal care îl privesc să fie prelucrate;
+
+depersonalizarea datelor – modificarea datelor cu caracter personal astfel încît detaliile privind circumstanţele personale sau materiale să nu mai permită atribuirea acestora unei persoane fizice identificate sau identificabile ori să permită atribuirea doar în condiţiile unei investigaţii care necesită cheltuieli disproporţionate de timp, mijloace şi forţă de muncă;
+
+creare de profiluri – formă de prelucrare automată a datelor cu caracter personal, care constă în utilizarea datelor cu caracter personal pentru a evalua anumite aspecte referitoare la o persoană fizică, în special pentru a analiza sau a stabili aspecte privind performanța la locul de muncă, situația economică, sănătatea, preferințele, interesele, fiabilitatea, comportamentul, locul în care se află persoana respectivă și deplasările acesteia.
+
+Capitolul II
+
+CONDIŢIILE DE BAZĂ PENTRU PRELUCRAREA, STOCAREA
+
+ŞI UTILIZAREA DATELOR CU CARACTER PERSONAL
+
+Articolul 4. Caracteristica datelor cu caracter personal
+
+(1) Datele cu caracter personal care fac obiectul prelucrării trebuie să fie:
+
+a) prelucrate în mod corect şi conform prevederilor legii;
+
+b) colectate în scopuri determinate, explicite şi legitime, iar ulterior să nu fie prelucrate într-un mod incompatibil cu aceste scopuri. Prelucrarea ulterioară a datelor cu caracter personal în scopuri statistice, de cercetare istorică sau ştiinţifică nu este considerată incompatibilă cu scopul colectării dacă se efectuează cu respectarea prevederilor prezentei legi şi cu respectarea garanţiilor privind prelucrarea datelor cu caracter personal, prevăzute de normele ce reglementează activitatea statistică, cercetarea istorică şi cea ştiinţifică;
+
+c) adecvate, pertinente şi neexcesive în ceea ce priveşte scopul pentru care sînt colectate şi/sau prelucrate ulterior;
+
+d) exacte şi, dacă este necesar, actualizate. Datele inexacte sau incomplete din punctul de vedere al scopului pentru care sînt colectate şi ulterior prelucrate se şterg sau se rectifică;
+
+e) stocate într-o formă care să permită identificarea subiecţilor datelor cu caracter personal pe o perioadă care nu va depăşi durata necesară atingerii scopurilor pentru care sînt colectate şi ulterior prelucrate. Stocarea datelor cu caracter personal pe o perioadă mai mare, în scopuri statistice, de cercetare istorică sau ştiinţifică, se va face cu respectarea garanţiilor privind prelucrarea datelor cu caracter personal, prevăzute de normele ce reglementează aceste domenii, şi numai pentru perioada necesară realizării acestor scopuri.
+
+(2) Operatorii au obligaţia să respecte şi să asigure implementarea prevederilor alin. (1).
+
+Articolul 5. Prelucrarea datelor cu caracter personal
+
+(1) Prelucrarea datelor cu caracter personal se efectuează cu consimţămîntul subiectului datelor cu caracter personal.
+
+(2) Consimţămîntul privind prelucrarea datelor cu caracter personal poate fi retras în orice moment de către subiectul datelor cu caracter personal. Retragerea consimţămîntului nu poate avea efect retroactiv.
+
+(3) În cazul subiectului datelor cu caracter personal adult sau minor care este supus măsurii de ocrotire judiciare sub forma tutelei, consimţămîntul privind prelucrarea datelor cu caracter personal se acordă, în formă scrisă, de către reprezentantul legal, în cazul minorului, sau de către tutore, în cazul adultului.
+
+(3¹) În cazul subiectului datelor cu caracter personal adult care este supus măsurii de ocrotire judiciare sub forma ocrotirii provizorii sau curatelei, consimţămîntul privind prelucrarea datelor cu caracter personal se acordă, în formă scrisă, de către persoana ocrotită. Dacă starea acesteia nu-i permite să ia de sine stătător o decizie privind prelucrarea datelor cu caracter personal, ocrotitorul provizoriu sau curatorul va asista persoana ocrotită, prin contrasemnarea acordului, în condiţiile legii.
+
+(4) În cazul decesului subiectului datelor cu caracter personal, consimţămîntul privind prelucrarea datelor sale se acordă, în formă scrisă, de către succesorii acestuia, dacă un astfel de consimţămînt nu a fost dat de subiectul datelor cu caracter personal în timpul vieţii.
+
+(5) Consimţămîntul subiectului datelor cu caracter personal nu este cerut în cazurile în care prelucrarea este necesară pentru:
+
+a) executarea unui contract la care subiectul datelor cu caracter personal este parte sau pentru luarea unor măsuri înaintea încheierii contractului, la cererea acestuia;
+
+b) îndeplinirea unei obligaţii care îi revine operatorului conform legii;
+
+c) protejarea vieţii, integrităţii fizice sau a sănătăţii subiectului datelor cu caracter personal;
+
+d) executarea sarcinilor de interes public sau care rezultă din exercitarea prerogativelor de autoritate publică cu care este învestit operatorul sau terţul căruia îi sînt dezvăluite datele cu caracter personal;
+
+e) realizarea unui interes legitim al operatorului sau al terţului căruia îi sînt dezvăluite datele cu caracter personal, cu condiţia ca acest interes să nu prejudicieze interesele sau drepturile şi libertăţile fundamentale ale subiectului datelor cu caracter personal;
+
+e¹) efectuarea auditului public extern;
+
+f) scopuri statistice, de cercetare istorică sau ştiinţifică, cu condiţia ca datele cu caracter personal să rămînă anonime pe toată durata prelucrării.
+
+g) schimbul de date în condițiile legislației în vigoare cu privire la schimbul de date și interoperabilitate.
+
+Articolul 6. Prelucrarea categoriilor speciale
+
+                     de date cu caracter personal
+
+(1) Prelucrarea categoriilor speciale de date cu caracter personal este interzisă, cu excepţia cazurilor în care:
+
+a) subiectul datelor cu caracter personal şi-a dat consimţămîntul. În cazul subiectului datelor cu caracter personal în privința căruia a fost instituită măsura de ocrotire judiciară sub forma tutelei, prelucrarea categoriilor speciale de date cu caracter personal se efectuează numai cu obţinerea consimțământului în formă scrisă al tutorelui;
+
+b) prelucrarea este necesară pentru îndeplinirea obligaţiilor sau drepturilor specifice ale operatorului în domeniul dreptului muncii, cu respectarea garanţiilor prevăzute de lege şi ţinîndu-se cont de faptul că o eventuală dezvăluire către un terţ a datelor cu caracter personal prelucrate în acest scop poate fi efectuată numai dacă există o obligaţie legală a operatorului în acest sens;
+
+c) prelucrarea este necesară pentru protecţia vieţii, integrităţii fizice sau a sănătăţii subiectului datelor cu caracter personal ori a altei persoane, în cazul în care subiectul datelor cu caracter personal se află în incapacitate fizică sau juridică de a-şi da consimțământul;
+
+d) prelucrarea este efectuată în contextul activităţilor legitime de către asociaţii obşteşti, partide şi alte organizaţii social-politice, de către sindicate, asociaţii de patronat, organizaţii filozofice sau religioase, organizaţii cooperatiste necomerciale, cu condiţia ca prelucrarea să se refere numai la membrii acestora sau la persoanele cu care acestea au contacte permanente în legătură cu scopurile lor şi cu condiţia ca datele să nu fie dezvăluite terţilor fără consimțământul subiecţilor datelor cu caracter personal;
+
+e) prelucrarea se referă la date făcute publice în mod voluntar şi manifest de către subiectul datelor cu caracter personal;
+
+f) prelucrarea este necesară pentru constatarea, exercitarea sau apărarea unui drept în justiţie al subiectului datelor cu caracter personal;
+
+g) prelucrarea este necesară în scopul asigurării securităţii statului, al reducerii riscului de declanșare sau în cazul declanșării urgențelor de sănătate publică, cu condiţia ca aceasta să se efectueze cu respectarea drepturilor subiectului datelor cu caracter personal şi a celorlalte garanţii prevăzute de prezenta lege.
+
+(2) Centrul Naţional pentru Protecţia Datelor cu Caracter Personal poate dispune, din motive întemeiate, interzicerea prelucrării categoriilor speciale de date cu caracter personal, chiar dacă subiectul datelor şi-a dat consimțământul, iar acesta nu a fost retras, cu condiţia ca interdicţia să nu fie înlăturată prin unul din cazurile stabilite la alin. (1) lit. b)–g).
+
+Articolul 7. Prelucrarea datelor cu caracter personal
+
+                    privind starea de sănătate
+
+(1) Prelucrarea datelor cu caracter personal privind starea de sănătate se permite, prin derogare de la prevederile art. 6, în cazul în care:
+
+a) prelucrarea este necesară în scopuri de medicină preventivă, de stabilire a diagnosticelor medicale, de administrare a unor îngrijiri sau tratamente pentru subiectul datelor cu caracter personal sau de gestionare a serviciilor de sănătate care acţionează în interesul subiectului datelor cu caracter personal;
+
+b) prelucrarea este necesară pentru protecţia sănătăţii publice.
+
+(2) Cadrele medicale, instituţiile medico-sanitare şi personalul medical al acestora pot prelucra date cu caracter personal privind starea de sănătate numai dacă prelucrarea este necesară pentru protejarea vieţii, integrităţii fizice și a sănătăţii subiecţilor datelor cu caracter personal, precum și în scopul reducerii riscului de declanșare sau în cazul declanșării urgențelor de sănătate publică.
+
+(3) Datele cu caracter personal privind starea de sănătate pot fi prelucrate în scopurile indicate la alin. (1) de către sau sub supravegherea unui cadru medical supus secretului profesional ori de către sau sub supravegherea unei alte persoane supuse unei obligaţii echivalente în ceea ce priveşte secretul profesional.
+
+(4) Datele cu caracter personal privind starea de sănătate se colectează de la subiectul datelor cu caracter personal sau atunci când o astfel de prelucrare este necesară în conformitate cu alin. (1).
+
+Articolul 8. Prelucrarea datelor cu caracter personal
+
+                      referitoare la condamnări penale, măsuri
+
+                      procesuale de constrângere sau sancţiuni
+
+                      contravenţionale
+
+(1) Prelucrarea datelor cu caracter personal referitoare la condamnări penale, măsuri procesuale de constrângere sau sancţiuni contravenţionale poate fi efectuată numai de către sau sub controlul autorităţilor publice, în limitele competenţelor acordate şi în condiţiile stabilite prin legile ce reglementează aceste domenii.
+
+(2) Registrul informaţiilor criminalistice şi criminologice este ţinut de Ministerul Afacerilor Interne.
+
+Articolul 9. Prelucrarea datelor cu caracter personal
+
+                    având funcţie de identificare
+
+Prelucrarea numărului de identificare de stat (IDNP) al persoanei fizice, a amprentelor digitale sau a altor date cu caracter personal având o funcţie de identificare de aplicabilitate generală poate fi efectuată în următoarele condiţii:
+
+a) subiectul datelor cu caracter personal şi-a dat consimțământul;
+
+b) prelucrarea este prevăzută în mod expres de legislaţie.
+
+Articolul 10. Prelucrarea datelor cu caracter personal
+
+                       şi libertatea de exprimare
+
+Prevederile art. 5, 6 şi 8 nu se aplică în situaţia în care prelucrarea datelor cu caracter personal se face exclusiv în scopuri jurnalistice, artistice sau literare, dacă aceasta se referă la date care au fost făcute publice în mod voluntar şi manifest de către subiectul datelor cu caracter personal sau la date care sînt strîns legate de calitatea de persoană publică a subiectului datelor cu caracter personal sau de caracterul public al faptelor în care acesta este implicat, în condiţiile Legii cu privire la libertatea de exprimare.
+
+Articolul 11. Stocarea şi utilizarea datelor cu caracter
+
+                       personal la încheierea operaţiunilor de
+
+                       prelucrare
+
+(1) Condiţiile şi termenele de stocare a datelor cu caracter personal se stabilesc de legislaţie ţinîndu-se cont de prevederile art. 4 alin. (1) lit. e). La expirarea termenului de stocare, datele cu caracter personal urmează a fi distruse în modul stabilit de lege.
+
+(2) Datele cu caracter personal din registrele de stat, de la data încetării utilizării acestora, pot rămîne la păstrare primind statutul de document de arhivă.
+
+(3) La încheierea operaţiunilor de prelucrare a datelor cu caracter personal, dacă subiectul acestor date nu şi-a dat consimţămîntul pentru o altă destinaţie sau pentru o prelucrare ulterioară, acestea vor fi:
+
+a) distruse;
+
+b) transferate unui alt operator, cu condiţia ca operatorul iniţial să garanteze faptul că prelucrările ulterioare au scopuri similare celor în care s-a făcut prelucrarea iniţială;
+
+c) transformate în date anonime şi stocate exclusiv în scopuri statistice, de cercetare istorică sau ştiinţifică.
+
+(4) După decesul subiectului datelor cu caracter personal, datele acestuia se pot utiliza, cu consimţămîntul succesorilor, în scop de arhivă sau în alte scopuri prevăzute de lege.
+
+Capitolul III
+
+DREPTURILE SUBIECTULUI DATELOR
+
+CU CARACTER PERSONAL
+
+Articolul 12. Informarea subiectului datelor cu
+
+                       caracter personal
+
+(1) În cazul în care datele cu caracter personal sînt colectate direct de la subiectul datelor, operatorul sau persoana împuternicită de către operator este obligată să-i furnizeze următoarele informaţii, exceptînd cazul în care acesta deţine deja informaţiile respective:
+
+1) identitatea operatorului sau, după caz, a persoanei împuternicite de către operator;
+
+2) scopul prelucrării datelor colectate;
+
+3) informaţii suplimentare, precum:
+
+a) destinatarii sau categoriile de destinatari ai datelor cu caracter personal;
+
+b) existenţa drepturilor de acces la date, de intervenţie asupra datelor şi de opoziţie, precum şi condiţiile în care acestea pot fi exercitate;
+
+c) dacă răspunsurile la întrebările cu ajutorul cărora se colectează datele sînt obligatorii sau voluntare, precum şi consecinţele posibile ale refuzului de a răspunde.
+
+(2) În cazul în care datele cu caracter personal nu sînt colectate direct de la subiectul datelor, operatorul sau persoana împuternicită de către operator este obligată ca, în momentul colectării datelor sau, dacă se intenţionează dezvăluirea acestora către terţi, cel mai tîrziu în momentul primei dezvăluiri, să furnizeze subiectului datelor cu caracter personal informaţia privind categoriile de date care urmează a fi colectate sau dezvăluite, precum şi informaţiile indicate la alin. (1), cu excepţia pct. 3) lit. c).
+
+(3) Prevederile alin. (2) nu se aplică în cazul în care:
+
+a) subiectul datelor cu caracter personal deţine informaţiile respective;
+
+b) prelucrarea datelor cu caracter personal se face în scopuri statistice, de cercetare istorică sau ştiinţifică;
+
+c) furnizarea informaţiilor este imposibilă sau implică un efort disproporţionat faţă de interesul legitim care ar putea fi lezat;
+
+d) înregistrarea sau dezvăluirea datelor cu caracter personal este prevăzută în mod expres de legislaţie.
+
+Articolul 13. Dreptul de acces la datele cu caracter
+
+                      personal
+
+(1) Orice subiect al datelor cu caracter personal are dreptul să obţină de la operator, la cerere, fără întîrziere şi în mod gratuit:
+
+a) confirmarea faptului că datele care îl privesc sînt sau nu sînt prelucrate de acesta, de asemenea informaţii referitoare la scopurile prelucrării, categoriile de date avute în vedere şi destinatarii sau categoriile de destinatari cărora le sînt dezvăluite datele;
+
+b) comunicarea, într-o formă inteligibilă şi într-un mod care nu necesită un echipament suplimentar, a datelor cu caracter personal care fac obiectul prelucrării, precum şi a oricărei informaţii disponibile privind originea acestor date;
+
+c) informaţii privind principiile de funcţionare a mecanismului prin care se efectuează prelucrarea automatizată a datelor care vizează subiectul datelor cu caracter personal;
+
+d) informaţii cu privire la consecinţele juridice generate de prelucrarea datelor cu caracter personal pentru subiectul acestor date;
+
+e) informaţii privind modul de exercitare a dreptului de intervenţie asupra datelor cu caracter personal.
+
+(2) În cazul în care datele cu caracter personal privind starea de sănătate sînt prelucrate în scop de cercetare ştiinţifică, dacă nu există riscul de a se aduce atingere drepturilor subiectului datelor cu caracter personal şi dacă datele nu sînt utilizate pentru a lua decizii sau măsuri faţă de o anumită persoană, comunicarea informaţiilor prevăzute la alin. (1) se poate face într-un termen mai mare decît cel stabilit de Legea privind accesul la informaţie, în măsura în care aceasta ar putea afecta cercetarea sau rezultatul acesteia, dar nu mai tîrziu de momentul în care cercetarea este încheiată. Subiectul datelor cu caracter personal trebuie să îşi dea consimţămîntul ca datele privind starea de sănătate să fie prelucrate în scop de cercetare ştiinţifică, precum şi asupra posibilei amînări din acest motiv a comunicării informaţiilor prevăzute la alin. (1).
+
+Articolul 14. Dreptul de intervenţie asupra datelor
+
+                      cu caracter personal
+
+Orice subiect al datelor cu caracter personal are dreptul de a obţine de la operator sau persoana împuternicită de către acesta, la cerere şi în mod gratuit:
+
+a) rectificarea, actualizarea, blocarea sau ştergerea datelor cu caracter personal a căror prelucrare contravine prezentei legi, în special datorită caracterului incomplet sau inexact al datelor;
+
+b) notificarea terţilor cărora le-au fost dezvăluite datele cu caracter personal despre operaţiunile efectuate conform lit. a), exceptînd cazurile cînd această notificare se dovedeşte a fi imposibilă sau presupune un efort disproporţionat faţă de interesul legitim care ar putea fi lezat.
+
+Articolul 15. Excepţii şi restricţii
+
+(1) Prevederile art. 4 alin. (1), art. 12 alin. (1) şi (2), art.13, 14 şi 28 nu se aplică în cazul în care prelucrarea datelor cu caracter personal este efectuată în cadrul acţiunilor prevăzute la art. 2 alin. (2) lit. d) și la art. 5 alin. (5) lit. g), în scopul apărării naţionale, al securităţii statului şi menţinerii ordinii publice, al protecţiei drepturilor şi libertăţilor subiectului datelor cu caracter personal sau ale altor persoane, dacă prin aplicarea acestora este prejudiciată eficienţa acţiunii sau obiectivul urmărit în exercitarea competențelor legale ale autorităţii publice.
+
+(2) Prelucrarea datelor cu caracter personal în scopurile stabilite la alin. (1) nu poate depăşi perioada necesară atingerii obiectivului urmărit.
+
+(3) După încetarea situaţiei care justifică aplicarea alin. (1) şi (2) din prezentul articol, operatorii vor lua măsurile necesare pentru a asigura respectarea drepturilor subiecţilor datelor cu caracter personal prevăzute la art. 12–14.
+
+(4) Autorităţile publice ţin evidenţa aplicării excepţiilor stabilite la alin. (1) şi informează Centrul Naţional pentru Protecţia Datelor cu Caracter Personal, în termen de 10 zile, despre datele cu caracter personal prelucrate în condiţiile prezentului articol.
+
+Articolul 16. Dreptul de opoziţie al subiectului
+
+                       datelor cu caracter personal
+
+(1) Subiectul datelor cu caracter personal are dreptul de a se opune în orice moment, în mod gratuit, din motive întemeiate şi legitime legate de situaţia sa particulară, ca datele cu caracter personal care îl vizează să facă obiectul unei prelucrări, cu excepţia cazurilor în care legea stabileşte altfel. Dacă opoziţia este justificată, prelucrarea efectuată de operator nu mai poate viza aceste date.
+
+(2) Subiectul datelor cu caracter personal are dreptul de a se opune în orice moment, în mod gratuit şi fără nici o justificare, ca datele care îl vizează să fie prelucrate pentru prospectare comercială. Operatorul sau persoana împuternicită de către operator este obligată să informeze subiectul despre dreptul de a se opune unei astfel de lucrări înaintea dezvăluirii către terţi a datelor sale cu caracter personal.
+
+Articolul 17. Dreptul de a nu fi supus unei decizii
+
+                      individuale
+
+(1) Orice persoană are dreptul de a cere anularea, în totalitate sau parţală, a oricărei decizii individuale care produce efecte juridice asupra drepturilor şi libertăţilor sale, fiind întemeiată exclusiv pe prelucrarea automatizată a datelor cu caracter personal destinată să evalueze unele aspecte ale personalităţii sale, precum competenţa profesională, credibilitatea, comportamentul şi altele asemenea.
+
+(2) Persoana poate fi supusă deciziei prevăzute la alin. (1) în cazul în care:
+
+a) decizia este autorizată de o lege care stabileşte măsurile ce garantează apărarea interesului legitim al subiectului datelor cu caracter personal;
+
+b) decizia este luată în cadrul încheierii sau executării unui contract, cu condiţia că cererea de încheiere sau de executare a contractului depusă de subiectul datelor cu caracter personal a fost satisfăcută.
+
+Articolul 18. Accesul la justiţie
+
+Orice persoană care a suferit un prejudiciu în urma unei prelucrări de date cu caracter personal efectuată ilegal sau căreia i-au fost încălcate drepturile şi interesele garantate de prezenta lege are dreptul de a sesiza instanţa de judecată pentru repararea prejudiciilor materiale şi morale.
+
+Capitolul IV
+
+ORGANUL DE CONTROL AL PRELUCRĂRILOR
+
+DE DATE CU CARACTER PERSONAL
+
+Articolul 19. Organul de control al prelucrărilor
+
+                       de date cu caracter personal
+
+(1) Controlul asupra conformităţi prelucrării datelor cu caracter personal cu cerinţele prezentei legi se efectuează de către Centrul Naţional pentru Protecţia Datelor cu Caracter Personal (în continuare – Centru), care acţionează în condiţii de imparţialitate şi independenţă.
+
+(2) Centrul este persoană juridică, dispune de ştampilă şi de antet cu imaginea Stemei de Stat a Republicii Moldova. Sediul permanent al Centrului se află în municipiul Chişinău.
+
+(3) Regulamentul Centrului, structura şi personalul-limită ale acestuia se aprobă de Parlament.
+
+(4) Centrul se finanțează de la bugetul de stat în limita alocațiilor bugetare aprobate prin legea bugetară anuală.
+
+(5) Bugetul Centrului se elaborează, se aprobă și se administrează conform principiilor, regulilor și procedurilor prevăzute de Legea finanțelor publice și responsabilității bugetar-fiscale nr. 181/2014.
+
+Articolul 20. Atribuţiile şi drepturile Centrului
+
+(1) Centrul are următoarele atribuţii:
+
+a) monitorizează respectarea legislaţiei cu privire la protecţia informaţiei şi controlează aplicarea acesteia, în special dreptul la informare, de acces la date, de intervenţie asupra datelor şi de opoziţie;
+
+b) - abrogată;
+
+c) emite instrucţiunile necesare pentru a aduce prelucrările de date cu caracter personal în conformitate cu prevederile prezentei legi, fără a atinge sfera de competenţă a altor organe;
+
+d) oferă subiecţilor datelor cu caracter personal informaţii referitoare la drepturile lor;
+
+e) dispune suspendarea sau încetarea prelucrării datelor cu caracter personal efectuate cu încălcarea prevederilor prezentei legi;
+
+f) - abrogată;
+
+g) emite ordine în domeniul protecţiei datelor cu caracter personal şi formulare tipizate ale registrelor proprii;
+
+h) oferă consiliere la realizarea impactului asupra protecției datelor și în cadrul procedurii de consultare prealabilă menționate la art. 24, întocmește și publică o listă a tipurilor de operațiuni care fac obiectul cerinței de efectuare a evaluării impactului asupra protecției datelor în conformitate cu art. 23 alin. (1). Centrul este în drept, de asemenea, să stabilească și să pună la dispoziția publicului o listă a tipurilor de operațiuni de prelucrare pentru care nu este necesară evaluarea impactului asupra protecției datelor;
+
+i) efectuează controlul legalităţii prelucrărilor de date cu caracter personal;
+
+j) face propuneri privind perfecţionarea legislaţiei în vigoare în domeniul protecţiei şi prelucrării datelor cu caracter personal;
+
+k) cooperează cu autorităţile publice, cu mijloacele de informare în masă, cu asociaţiile obşteşti şi cu instituţiile similare din străinătate;
+
+l) centralizează şi analizează rapoartele anuale de activitate a autorităţilor publice privind protecţia persoanelor în ceea ce priveşte prelucrarea datelor cu caracter personal;
+
+m) sesizează organele de drept în cazul existenţei unor indicii privind săvîrşirea infracţiunilor legate de încălcarea drepturilor subiecţilor datelor cu caracter personal;
+
+n) constată contravenţii şi încheie procese-verbale conform Codului contravenţional al Republicii Moldova;
+
+o) informează autorităţile publice despre situaţia din domeniul protecţiei drepturilor subiecţilor datelor cu caracter personal, de asemenea răspunde la demersurile şi interpelările acestora;
+
+p) - abrogată;
+
+q) informează periodic instituţiile şi societatea despre activitatea sa, despre problemele şi preocupările prioritare în domeniul protecţiei drepturilor persoanei;
+
+r) acordă asistenţă şi execută cereri de asistenţă privind punerea în practică a Convenţiei pentru protecţia persoanelor cu privire la prelucrarea automatizată a datelor cu caracter personal;
+
+s) îndeplineşte alte atribuţii prevăzute de lege.
+
+(2) Centrul are următoarele drepturi:
+
+a) solicită şi primeşte gratuit de la persoane fizice sau persoane juridice de drept public şi de drept privat informaţiile necesare pentru exercitarea atribuţiilor sale;
+
+b) obţine de la operatori suportul şi informaţiile necesare executării atribuţiilor sale;
+
+c) atrage specialişti şi experţi din domenii care necesită cunoştinţe speciale pentru participarea la procesul de verificare prealabilă şi de control al legalităţii prelucrării datelor cu caracter personal şi încheie cu ei acorduri de confidenţialitate;
+
+d) cere de la operatori rectificarea, blocarea sau distrugerea datelor cu caracter personal neveridice sau obţinute ilicit.
+
+(3) Operatorii, indiferent de forma lor juridică de organizare, prezintă Centrului materialele şi documentele solicitate cu privire la protecţia datelor cu caracter personal în termen de 15 zile, dacă în solicitare nu se prevede un alt termen.
+
+Articolul 21. Organizarea activităţii Centrului
+
+(1) În cadrul activităţii sale, Centrul asigură confidenţialitatea datelor cu caracter personal care i-au devenit cunoscute.
+
+(2) În scopul colectării informaţiilor necesare îndeplinirii atribuțiilor de soluționare a plângerilor, personalul Centrului are dreptul de acces în încăperile şi pe teritoriul în care sînt amplasate sisteme de evidenţă a datelor cu caracter personal, la datele cu caracter personal prelucrate de operatori şi/sau persoanele împuternicite de către aceştia, la echipamentul de prelucrare, programe şi aplicaţii, precum şi la orice document sau înregistrare referitoare la prelucrarea de date cu caracter personal, în condiţiile legii.
+
+(3) Anual, până la data de 15 martie, Centrul prezintă Parlamentului, în ședință plenară, Președintelui Republicii Moldova și Guvernului raportul de activitate pe anul precedent, care se publică gratuit în Monitorul Oficial al Republicii Moldova și pe pagina web oficială a Centrului.
+
+Articolul 22. Conducerea Centrului
+
+(1) Centrul este condus de un director, numit în funcţie de Parlament la propunerea Preşedintelui Parlamentului, a unei fracţiuni parlamentare sau a unui grup de cel puţin 15 deputaţi, cu votul majorităţii deputaţilor aleşi, pentru un mandat de 5 ani. Persoana numită poate ocupa funcţia de director nu mai mult de două mandate consecutive.
+
+(2) Directorul efectuează conducerea generală a Centrului, angajează şi eliberează personalul Centrului în condiţiile Legii cu privire la funcţia publică şi statutul funcţionarului public, stabileşte obligaţiile de serviciu ale acestuia, organizează pregătirea rapoartelor anuale şi le prezintă în plenul Parlamentului, reprezintă instituţia în ţară şi peste hotare.
+
+(3) În exercitarea atribuţiilor sale, directorul este asistat de un adjunct, numit în funcţie de Parlament la propunerea directorului Centrului, cu votul majorităţii deputaţilor aleşi, pentru un mandat de 5 ani. În absenţa directorului Centrului, directorul adjunct îndeplineşte temporar atribuţiile acestuia.
+
+(4) În funcţia de director sau director adjunct al Centrului poate fi numită orice persoană care deţine cetăţenia Republicii Moldova, are studii superioare juridice şi experienţă profesională de cel puţin 5 ani în domeniul apărării drepturilor şi a libertăţilor omului. Nu pot fi numite în funcțiile de director sau director adjunct al Centrului persoanele în privința cărora există interdicția de a ocupa funcţii publice sau de demnitate publică, ce derivă din actele de constatare ale Autorității Naționale de Integritate.
+
+(5) Funcţia de director şi cea de director adjunct al Centrului sînt funcţii de demnitate publică, și se supun prevederilor legislației cu privire la statutul persoanelor care exercită funcţii de demnitate publică. Salarizarea acestor funcții se face în conformitate cu legislația privind sistemul de salarizare în sectorul bugetar.
+
+(6) Pe perioada exercitării mandatului, directorul şi directorul adjunct al Centrului nu pot face parte din partide sau alte organizaţii social-politice, nu pot desfăşura alte activităţi publice sau private, cu excepţia activităţii didactico-ştiinţifice, nu au dreptul să deţină, direct sau indirect, valori mobiliare la societăţi comerciale sau întreprinderi al căror obiect de activitate se află în competenţa Centrului.
+
+(7) Exercitarea mandatelor de director şi director adjunct încetează la expirarea termenului acestora, exceptînd cazurile de încetare a exercitării atribuţiilor înainte de termen. În cazul în care termenul de exercitare a mandatelor a expirat, directorul şi directorul adjunct al Centrului continuă să se afle în exerciţiul funcţiunii pînă la preluarea acestor funcţii de către succesorii lor.
+
+(8) Mandatele de director şi director adjunct al Centrului încetează înainte de termen în caz de:
+
+a) demisie;
+
+b) incompatibilitate cu alte funcţii publice sau private, stabilită prin actul de constatare rămas definitiv;
+
+c) revocare din funcţie;
+
+d) imposibilitate de a exercita mandatul din motive de sănătate, constatate prin examen medical;
+
+e) deces.
+
+(9) Propunerea de revocare din funcţie a directorului Centrului poate fi înaintată de Preşedintele Parlamentului, de o fracţiune parlamentară sau de un grup de cel puţin 15 deputaţi în următoarele cazuri:
+
+a) încălcare gravă a obligaţiilor funcţionale prevăzute de legislaţie;
+
+b) hotărîre de condamnare rămasă definitivă în cazul săvîrşirii unei infracţiuni.
+
+c) stabilire, prin actul de constatare rămas definitiv, a emiterii/adoptării de către acesta a unui act administrativ, încheierii directe sau prin intermediul unei persoane terțe a unui act juridic, luării sau participării la luarea unei decizii fără soluționarea conflictului de interese real în conformitate cu prevederile legislației privind reglementarea conflictului de interese;
+
+d) nedepunere a declarației de avere și interese personale sau refuz de a o depune, în condițiile art. 27 alin. (2) din Legea nr. 132/2016 cu privire la Autoritatea Națională de Integritate;
+
+e) dispunere de către instanța de judecată, prin hotărîre irevocabilă, a confiscării averii nejustificate.
+
+(10) Propunerea de revocare din funcţie a directorului adjunct al Centrului poate fi înaintată de directorul Centrului, de o fracţiune parlamentară sau de un grup de cel puţin 15 deputaţi în cazurile prevăzute la alin. (9). Hotărîrea de revocare se adoptă cu votul majorităţii deputaţilor aleşi.
+
+Capitolul V
+
+CONTROLUL PROTECŢIEI DATELOR
+
+CU CARACTER PERSONAL
+
+Articolul 23. Evaluarea impactului asupra
+
+                      protecției datelor
+
+(1)  În funcție de natura, domeniul de aplicare, contextul și scopurile prelucrării datelor, în cazul în care un tip de prelucrare, în special cel bazat pe utilizarea noilor tehnologii, este susceptibil să genereze un risc sporit pentru drepturile și libertățile persoanelor, operatorul efectuează, înaintea prelucrării, evaluarea impactului operațiunilor de prelucrare prevăzute asupra protecției datelor cu caracter personal. O evaluare unică poate aborda un set de operațiuni de prelucrare similare care prezintă riscuri sporite similare.
+
+(2) La realizarea evaluării impactului asupra protecției datelor, operatorul solicită avizul persoanei responsabile cu protecția datelor, dacă aceasta a fost desemnată.
+
+(3) Evaluarea impactului asupra protecției datelor indicată la alin. (1) se impune mai ales în cazul:
+
+a) evaluării sistematice și cuprinzătoare a aspectelor personale referitoare la persoane fizice, care se bazează pe prelucrarea automată, inclusiv pe crearea de profiluri, și care stă la baza unor decizii automatizate care produc efecte juridice privind persoana fizică sau care o afectează, în mod similar, într-o măsură semnificativă;
+
+b) prelucrării, pe scară largă, a unor categorii de date care se referă la dezvăluirea originii rasiale sau etnice, a opiniilor politice, a confesiunii religioase sau convingerilor filozofice ori a apartenenței la sindicate, precum și prelucrării de date genetice, de date biometrice pentru identificarea unică a unei persoane fizice, de date privind sănătatea ori de date privind viața sexuală sau orientarea sexuală, privind condamnările penale și infracțiunile unei persoane fizice;
+
+c) monitorizării sistematice, pe scară largă, a unei zone accesibile publicului.
+
+(4) Evaluarea conține cel puțin:
+
+a) descrierea sistematică a operațiunilor de prelucrare preconizate și a scopurilor prelucrării datelor, inclusiv, după caz, a interesului legitim urmărit de operator;
+
+b) evaluarea necesității și proporționalității operațiunilor de prelucrare în legătură cu scopurile respective;
+
+c) evaluarea riscurilor pentru drepturile și libertățile subiecților de date menționate la alin. (1), în special originea (sursa), natura, gradul specific de probabilitate a materializării riscului sporit și gravitatea acestui risc. Rezultatul evaluării se ia în considerare la stabilirea măsurilor adecvate care trebuie luate pentru a demonstra că prelucrarea datelor cu caracter personal respectă prezenta lege;
+
+d) măsurile de prevenire a riscurilor, inclusiv garanțiile, măsurile de securitate și mecanismele menite să asigure protecția datelor cu caracter personal și să demonstreze conformitatea cu prevederile prezentei legi, luând în considerare drepturile și interesele legitime ale subiecților de date și ale altor persoane interesate.
+
+(5) Operatorul solicită, după caz, avizul în formă scrisă, în formă electronică sau prin utilizarea mijloacelor electronice de comunicație al subiecților de date ori al reprezentanților acestora privind prelucrarea preconizată, fără a aduce atingere protecției intereselor comerciale sau publice ori securității operațiunilor de prelucrare.
+
+(6) În cazul în care prelucrarea în temeiul art. 5 alin. (5) lit. b) sau d) are un temei juridic prevăzut de actele normative în vigoare, iar dreptul respectiv reglementează operațiunea de prelucrare specifică sau setul de operațiuni specifice în cauză și deja s-a efectuat o evaluare a impactului asupra protecției datelor ca parte a unei evaluări a impactului general în contextul adoptării respectivului temei juridic, prevederile alin. (1)–(3) din prezentul articol nu se aplică, dacă actele normative nu prevăd altfel.
+
+(7) Dacă este necesar, operatorul efectuează o analiză pentru a evalua dacă prelucrarea datelor are loc în conformitate cu evaluarea impactului asupra protecției datelor, cel puțin atunci când are loc o modificare a riscului reprezentat de operațiunile de prelucrare.
+
+(8) Centrul întocmește și publică o listă a tipurilor de operațiuni de prelucrare care fac obiectul cerinței de efectuare a unei evaluări a impactului asupra protecției datelor, în conformitate cu alin. (1).
+
+(9) Centrul poate, de asemenea, să stabilească și să pună la dispoziția publicului o listă a tipurilor de operațiuni de prelucrare pentru care nu este necesară o evaluare a impactului asupra protecției datelor.
+
+Articolul 24. Consultarea prealabilă
+
+(1) Operatorul consultă Centrul înainte de prelucrarea datelor dacă evaluarea impactului asupra protecției datelor, prevăzută la art. 23, indică faptul că prelucrarea ar genera un risc sporit, iar operatorul consideră că riscul nu poate fi atenuat prin mijloace rezonabile sub aspectul tehnologiilor disponibile și al costurilor implementării.
+
+(2) În cazul în care Centrul consideră că prelucrarea prevăzută la alin. (1) ar încălca prezenta lege, în special atunci când riscul nu a fost identificat sau atenuat într-o măsură suficientă de operator, Centrul oferă consiliere în scris operatorului și, după caz, persoanei împuternicite de operator în cel mult opt săptămâni de la primirea cererii de consultare, precum și poate utiliza oricare dintre competențele menționate la art. 20. Perioada respectivă poate fi prelungită cu șase săptămâni, ținându-se cont de complexitatea prelucrării prevăzute. Centrul informează operatorul și, după caz, persoana împuternicită de operator, în termen de o lună de la primirea cererii, cu privire la astfel de prelungire, prezentând detaliat și specific motivele întârzierii. Curgerea acestor perioade poate fi suspendată până când Centrul nu a obținut informațiile pe care le-a solicitat în scopul consultării.
+
+(3) În cazul în care operatorul consultă Centrul în conformitate cu alin. (1), acesta îi furnizează Centrului:
+
+a) după caz, responsabilitățile corespunzătoare ale operatorului/operatorilor și ale persoanelor împuternicite de operator implicate în activitățile de prelucrare a datelor, în special pentru prelucrarea în cadrul unui grup de întreprinderi;
+
+b) scopurile și mijloacele prelucrării preconizate;
+
+c) măsurile și garanțiile prevăzute pentru protecția drepturilor și libertăților subiecților de date, în conformitate cu prezenta lege;
+
+d) după caz, datele de contact ale persoanei responsabile cu protecția datelor;
+
+e) evaluarea impactului asupra protecției datelor, prevăzută la art. 23;
+
+f) alte informații relevante și necesare solicitate suplimentar de Centru.
+
+Articolul 25. Desemnarea persoanei responsabile
+
+                       cu protecția datelor
+
+(1) Operatorul și persoana împuternicită de operator desemnează o persoană responsabilă cu protecția datelor ori de câte ori:
+
+a) prelucrarea este efectuată de o autoritate sau o instituție publică, cu excepția instanțelor care acționează în exercițiul funcției lor jurisdicționale;
+
+b) activitățile principale ale operatorului sau ale persoanei împuternicite de operator constau în operațiuni de prelucrare care, prin natura, domeniul de aplicare și/sau scopurile lor, necesită o monitorizare periodică și sistematică a subiecților de date pe scară largă;
+
+c) activitățile principale ale operatorului sau ale persoanei împuternicite de operator constau în prelucrarea pe scară largă a unor categorii speciale de date.
+
+(2) Un grup de întreprinderi poate desemna o persoană responsabilă cu protecția datelor unică, cu condiția ca persoana respectivă să fie ușor accesibilă de fiecare întreprindere.
+
+(3) În cazul în care operatorul sau persoana împuternicită de operator este  autoritate publică ori instituție publică, poate fi desemnată o persoană responsabilă cu protecția datelor unică pentru mai multe dintre aceste autorități sau instituții, luând în considerare structura organizatorică și dimensiunea acestora.
+
+(4) Persoana responsabilă cu protecția datelor este desemnată pe baza calităților profesionale și, în special, a cunoștințelor de specialitate privind  reglementările și practicile din domeniul protecției datelor, precum și pe baza capacității de a îndeplini sarcinile prevăzute la art. 25².
+
+(5) Persoana responsabilă cu protecția datelor poate activa în cadrul operatorului sau al persoanei împuternicite de operator ori poate să își îndeplinească sarcinile în baza unui contract de prestare servicii.
+
+(6) Operatorul sau persoana împuternicită de operator publică datele de contact ale persoanei responsabile cu protecția datelor și le comunică Centrului.
+
+(7) În alte cazuri decât cele menționate la alin. (1), operatorul sau persoana împuternicită de operator, precum și asociațiile și alte instituții care reprezintă categorii de operatori sau de persoane împuternicite de operatori pot desemna sau, în cazul în care legislația prevede, desemnează obligatoriu o persoană responsabilă cu protecția datelor. Persoana responsabilă cu protecția datelor poate să acționeze în favoarea unor astfel de asociații și a altor instituții care reprezintă operatori sau persoane împuternicite de operatori.
+
+Articolul 25¹. Funcția responsabilului cu protecția
+
+                         datelor
+
+(1) Operatorul și persoana împuternicită de operator asigură că persoana responsabilă cu protecția datelor este implicată în mod corespunzător și în timp util în toate aspectele legate de protecția datelor cu caracter personal.
+
+(2) Operatorul și persoana împuternicită de operator oferă suport persoanei responsabile cu protecția datelor în îndeplinirea sarcinilor indicate la art. 25², asigurându-i resursele necesare pentru executarea sarcinilor respective, pentru menținerea cunoștințelor sale de specialitate, precum și accesul către datele cu caracter personal și către operațiunile de prelucrare.
+
+(3) Operatorul și persoana împuternicită de operator asigură că persoana responsabilă cu protecția datelor nu primește instrucțiuni cu privire la îndeplinirea sarcinilor. Aceasta nu poate fi demisă ori sancționată de operator sau de persoana împuternicită de operator pentru îndeplinirea sarcinilor sale. Persoana responsabilă cu protecția datelor răspunde direct în fața celui mai înalt nivel al conducerii operatorului sau persoanei împuternicite de operator.
+
+(4) Subiecții de date pot contacta persoana responsabilă cu protecția datelor cu privire la chestiunile legate de prelucrarea datelor acestora și la exercitarea drepturilor lor în temeiul prezentei legi.
+
+(5) Persoana responsabilă cu protecția datelor are obligația de a respecta secretul sau confidențialitatea privind îndeplinirea sarcinilor, în conformitate cu actele normative.
+
+(6) Persoana responsabilă cu protecția datelor poate îndeplini și alte sarcini și atribuții. Operatorul sau persoana împuternicită de operator asigură că niciuna dintre aceste sarcini și atribuții nu generează un conflict de interese.
+
+Articolul 25². Sarcinile persoanei responsabile
+
+                         cu protecția datelor
+
+(1) Persoana responsabilă cu protecția datelor are cel puțin următoarele sarcini:
+
+a) informarea și consilierea operatorului sau a persoanei împuternicite de operator, precum și a angajaților care se ocupă de prelucrarea datelor cu privire la obligațiile care le revin în temeiul prezentei legi și al altor acte normative;
+
+b) monitorizarea respectării prezentei legi și a altor acte normative referitoare la protecția datelor și a politicilor operatorului sau ale persoanei împuternicite de operator în ceea ce privește protecția datelor cu caracter personal, precum și atribuirea responsabilităților, inclusiv privind acțiunile de sensibilizare și de formare a personalului implicat în operațiunile de prelucrare și privind auditurile aferente;
+
+c) oferirea consilierii la cerere în ceea ce privește evaluarea impactului asupra protecției datelor și monitorizarea funcționării acesteia;
+
+d) cooperarea cu Centrul;
+
+e) asumarea rolului de punct de contact pentru Centru privind aspectele legate de prelucrarea datelor, inclusiv consultarea prealabilă, precum și, după caz, consultarea cu privire la alte chestiuni.
+
+(2) În îndeplinirea sarcinilor, persoana responsabilă cu protecția datelor ține cont, în mod corespunzător, de riscul asociat operațiunilor de prelucrare, luând în considerare natura, domeniul de aplicare, contextul și scopurile prelucrării.
+
+Articolul 26. Controlul legalităţii prelucrării datelor
+
+                      cu caracter personal
+
+(1) Controlul legalităţii prelucrării datelor cu caracter personal (în continuare – control) are drept scop verificarea corespunderii cu cerinţele şi a îndeplinirii condiţiilor prevăzute de prezenta lege de către operator sau persoana împuternicită de către acesta.
+
+(2) Controlul se efectuează în conformitate cu un regulament elaborat și aprobat de Centru. La efectuarea controlului legalității prelucrării datelor cu caracter personal de către persoanele care practică o activitate de întreprinzător, Centrul aplică prevederile prezentei legi și ale Legii nr. 131/2012 privind controlul de stat în măsura în care aceasta nu contravine prezentei legi.
+
+(4) În cazul în care, ca urmare a controlului efectuat, sînt constatate încălcări, Centrul emite decizia de suspendare a operaţiunilor de prelucrare a datelor cu caracter personal, care va conţine instrucţiuni pentru aducerea prelucrării datelor cu caracter personal în conformitate cu prevederile prezentei legi.
+
+[Art.26 al.(4) modificat prin LP100 din 13.06.25, MO317-319/14.06.25 art.345; în vigoare 14.06.25]
+
+(4¹) În cadrul controlului, Centrul poate decide suspendarea operațiunilor de prelucrare a datelor cu caracter personal, până la luarea unei decizii finale, în cazul în care prelucrarea datelor cu caracter personal ar putea genera riscuri la adresa drepturilor și libertăților fundamentale ale unui număr considerabil de subiecți ai datelor cu caracter personal, ținându-se cont de natura, domeniul de aplicare, contextul și scopurile prelucrării datelor, precum și de amploarea și frecvența prelucrării. Deciziile emise în condițiile prezentului alineat pot fi contestate în instanța de judecată în termen de 5 zile. Termenul de examinare a contestațiilor în cauză de către instanța de judecată este de 5 zile.
+
+[Art.26 al.(4¹) introdus prin LP100 din 13.06.25, MO317-319/14.06.25 art.345; în vigoare 14.06.25]
+
+(5) Efectuarea operaţiunilor de prelucrare a datelor cu caracter personal se suspendă pînă la înlăturarea circumstanţelor care au servit drept temei pentru emiterea deciziei. Operatorul sau persoana împuternicită de către acesta este obligată să înlăture respectivele circumstanţe în termen de 30 de zile de la emiterea deciziei de suspendare.
+
+(6) În cazul în care operatorul sau persoana împuternicită de către acesta nu a înlăturat circumstanţele care au servit drept temei pentru suspendare în termenul stabilit la alin. (5), Centrul emite decizia de încetare a operaţiunilor de prelucrare a datelor cu caracter personal, cu sau fără dispunerea blocării ori distrugerii datelor cu caracter personal neveridice sau obţinute ilicit.
+
+(7) Decizia de suspendare sau de încetare a operaţiunilor de prelucrare a datelor cu caracter personal poate fi contestată în instanţa de contencios administrativ.
+
+Articolul 27. Procedura primirii şi soluţonării
+
+                       plîngerilor de către Centru
+
+(1) Subiectul datelor cu caracter personal care consideră că prelucrarea datelor sale nu este conformă cu cerinţele prezentei legi poate înainta Centrului o plîngere în termen de 30 de zile din momentul depistării încălcării, cu realizarea în prealabil, după caz, a drepturilor prevăzute la art. 12, 13, 14, 16 și 17. În cazul în care subiectul datelor cu caracter personal omite realizarea drepturilor sale, precum și alte aspecte importante legate de prezentarea probelor relevante, Centrul îl informează despre acest fapt în termen de 30 de zile de la data primirii plângerii.
+
+(2) În procesul soluţionării plîngerii, Centrul poate audia subiectul datelor cu caracter personal, operatorul şi, dacă este cazul, persoana împuternicită de către operator şi martorii, de asemenea poate dispune efectuarea unei cercetări la fața locului.
+
+(2¹) Termenul de examinare și soluționare a plângerii înaintate cu respectarea alin. (1) este de 3 luni, cu posibilitatea prelungirii justificate a acestuia la fiecare 30 de zile, în funcție de complexitatea cauzei, volumul de informații ce urmează a fi obținute și analizate, comportamentul participanților vizați, conduita autorităților relevante și importanța procedurii administrative pentru partea interesată, dar nu mai mult de 6 luni. După obținerea tuturor informațiilor și analiza acestora, Centrul finalizează examinarea și soluționarea plângerii în cel mult 30 de zile. Dacă obiectul plângerii excedează domeniul de aplicare a prezentei legi, plângerea nu se examinează, fapt despre care se informează subiectul datelor cu caracter personal. Asigurarea respectării termenului de examinare și soluționare a plângerilor este pusă în sarcina personalului Centrului, iar controlul asupra respectării termenului este pus în sarcina șefilor subdiviziunilor Centrului. Centrul informează subiectul datelor cu caracter personal cu privire la progresele în examinarea și soluționarea plângerii în cazul prelungirii termenului de examinare și soluționare a plângerii sau la cererea acestuia.
+
+(3) În urma examinării plângerii, Centrul emite o decizie motivată prin care constată lipsa încălcării sau încălcarea legislației în domeniul protecției datelor cu caracter personal, cu dispunerea, după caz, a suspendării, încetării operațiunilor de prelucrare a datelor cu caracter personal, rectificării, blocării sau distrugerii datelor neveridice ori obținute ilicit. În cazul lipsei sau insuficienței probelor ce ar demonstra încălcarea, Centrul constată, prin decizie motivată, lipsa încălcării. Decizia privind constatarea încălcării legislației în domeniul protecției datelor cu caracter personal și probele acumulate servesc drept temei pentru întocmirea procesului-verbal cu privire la contravenție, în condițiile Codului contravențional al Republicii Moldova. Dacă este cazul, instrucțiunile din decizie se includ în planul de remediere a contravenției.
+
+(3¹) Decizia se emite de către directorul Centrului, de către directorul adjunct şi personalul abilitat cu funcții de control ai Centrului, în conformitate cu competențele atribuite prin ordinul directorului. Decizia se comunică persoanelor vizate în termen de 10 zile lucrătoare de la data emiterii, prin orice mijloc care să confirme recepționarea acesteia.
+
+(4) Prevederile alin. (2)–(3¹) se aplică în mod corespunzător şi în situaţia în care Centrul se autosesizează cu privire la comiterea unei încălcări a drepturilor subiecţilor datelor cu caracter personal, recunoscute de prezenta lege.
+
+(5) Operatorul, persoana împuternicită de către acesta sau subiectul datelor cu caracter personal pot contesta acțiunile, inacțiunile și decizia Centrului direct în instanța de judecată, în conformitate cu prevederile Codului administrativ, fără respectarea procedurii prealabile.
+
+Articolul 28 -  abrogat.
+
+Capitolul VI
+
+CONFIDENŢIALITATEA ŞI SECURITATEA
+
+PRELUCRĂRII DATELOR CU CARACTER PERSONAL
+
+Articolul 29. Confidenţialitatea datelor cu caracter
+
+                       personal
+
+(1) Operatorii şi terţii care au acces la datele cu caracter personal sînt obligaţi să asigure confidenţialitatea acestor date, cu excepţia cazurilor:
+
+a) prelucrarea se referă la date făcute publice în mod voluntar şi manifest de către subiectul datelor cu caracter personal;
+
+b) datele cu caracter personal au fost depersonalizate.
+
+(2) Orice persoană care acţionează în numele, pe seama sau în alt mod sub autoritatea operatorului poate prelucra date cu caracter personal doar pe baza instrucţiunilor operatorului, cu excepţia cazului în care acţionează în temeiul unei obligaţii prevăzute de lege.
+
+(3) Conducerea Centrului şi personalul acestuia sînt obligaţi să garanteze nedivulgarea secretului profesional în ceea ce priveşte informaţiile confidenţiale la care au acces, inclusiv după încetarea activităţii lor.
+
+Articolul 30. Securitatea prelucrării datelor
+
+                       cu caracter personal
+
+(1) La prelucrarea datelor cu caracter personal, operatorul este obligat să ia măsurile organizatorice şi tehnice necesare pentru protecţia datelor cu caracter personal împotriva distrugerii, modificării, blocării, copierii, răspîndirii, precum şi împotriva altor acţiuni ilicite, măsuri menite să asigure un nivel de securitate adecvat în ceea ce priveşte riscurile prezentate de prelucrare şi caracterul datelor prelucrate.
+
+(2) În cazul în care prelucrarea datelor cu caracter personal este efectuată pe seama şi în numele operatorului, acesta va împuternici o persoană care va asigura respectarea garanţiilor referitoare la măsurile adecvate de securitate tehnică şi de organizare privind prelucrarea ce urmează să fie efectuată. Persoana împuternicită de operator nu recrutează o altă persoană împuternicită de operator fără a primi prealabil o autorizație scrisă, specifică sau generală, din partea operatorului. În cazul unei autorizații generale scrise, persoana împuternicită de operator informează operatorul cu privire la toate modificările preconizate privind adăugarea sau înlocuirea altor persoane împuternicite de operator, oferind astfel posibilitatea operatorului de a prezenta obiecții față de modificările respective.
+
+(2¹) În cazul în care o persoană împuternicită de un operator recrutează o altă persoană împuternicită pentru efectuarea de operațiuni de prelucrare specifică în numele operatorului, aceleași obligații privind protecția datelor cu caracter personal, prevăzute în contractul sau în alt act juridic încheiat între operator și persoana împuternicită de operator, revin și celei de-a doua persoane împuternicite, în temeiul unui contract sau al unui alt act juridic, în special care să furnizeze garanții suficiente pentru punerea în aplicare a unor măsuri tehnice și organizatorice adecvate, astfel încât prelucrarea să îndeplinească cerințele prezentei legi. În cazul în care cea de-a doua persoană împuternicită nu își respectă obligațiile privind protecția datelor cu caracter personal, persoana împuternicită de operator continuă să poarte răspundere deplină față de operator în ceea ce privește îndeplinirea obligațiilor celei de-a doua persoane împuternicite.
+
+(3) Prelucrarea datelor cu caracter personal prin persoana împuternicită de către operator trebuie reglementată printr-un contract sau un alt act juridic care să asigure în special faptul că:
+
+a) persoana împuternicită acţionează numai pe baza instrucţiunilor operatorului;
+
+b) obligaţiile prevăzute la alin. (1) îi revin şi persoanei împuternicite.
+
+(3¹) Contractul sau celălalt act juridic se încheie în scris, inclusiv în formă electronică.
+
+(4) - abrogat.
+
+Articolul 31. Depersonalizarea datelor cu caracter
+
+                        personal
+
+(1) În scopuri statistice, de cercetare istorică, ştiinţifică, sociologică, medicală, de documentare juridică, operatorul depersonalizează datele cu caracter personal prin retragerea din ele a părţii care permite identificarea persoanei fizice, transformîndu-le în date anonime, care nu pot fi asociate cu o persoană identificată sau identificabilă.
+
+(2) În cazul depersonalizării, regimul de confidenţialitate stabilit pentru datele respective se anulează.
+
+Capitolul VII
+
+TRANSMITEREA TRANSFRONTALIERĂ A DATELOR
+
+CU CARACTER PERSONAL
+
+Articolul 32. Transmiterea transfrontalieră și libera
+
+                       circulație a datelor cu caracter personal
+
+(1) Prezentul articol se aplică în cazul transmiterii către un alt stat a datelor cu caracter personal care fac obiectul prelucrării.
+
+(2) Transmiterea datelor cu caracter personal se permite și se realizează, ținând cont de principiul liberei circulații a datelor, către:
+
+a) statele membre ale Spațiului Economic European;
+
+b) statele care asigură un nivel adecvat de protecție a datelor cu caracter personal.
+
+(3) Centrul aprobă, prin decizie, lista statelor care asigură un nivel adecvat de protecție a datelor, luând în considerare: tratatele internaționale în materie de protecție a datelor cu caracter personal la care fac parte; existența și compatibilitatea legislației privind protecția datelor; competențele și cooperarea cu organul de supraveghere a prelucrării datelor, precum și alte aspecte importante privind regimul juridic al protecției datelor cu caracter personal. Centrul ţine cont de deciziile adoptate de Comisia Europeană privind statele care asigură un nivel adecvat de protecție a datelor cu caracter personal.
+
+(4) Lista statelor care asigură un nivel adecvat de protecție a datelor se publică în Monitorul Oficial al Republicii Moldova și pe pagina web oficială a Centrului.
+
+(5) Transmiterea datelor cu caracter personal către statele care nu asigură un nivel adecvat de protecție poate avea loc:
+
+a) dacă prelucrarea are loc în temeiul unui acord sau tratat semnat între Republica Moldova și țara de destinație;
+
+b) cu consimțământul subiectului datelor cu caracter personal, cu informarea asupra posibilelor riscuri pe care astfel de transferuri le pot implica pentru subiectul de date ca urmare a lipsei unei decizii privind caracterul adecvat al nivelului de protecție și a unor garanții adecvate;
+
+c) în cazul necesității de a încheia ori executa un acord sau contract între subiectul datelor cu caracter personal şi operator ori între operator şi o persoană terță în interesul subiectului datelor cu caracter personal;
+
+d) dacă aceasta este necesară pentru a proteja viața, integritatea fizică sau sănătatea subiectului datelor cu caracter personal;
+
+e) dacă sunt urmărite scopuri jurnalistice, artistice, științifice, literare sau de arhivare în interes public;
+
+f) către alte companii ori organizații din același grup cu operatorul de date, cu condiția respectării regulilor corporatiste obligatorii, aprobate de statele indicate la alin. (2) lit. a), sau a celor aprobate de Centru;
+
+g) dacă aceasta este necesară pentru satisfacerea unui interes public major, precum apărarea națională, securitatea statului sau ordinea publică, pentru buna desfășurare a procesului penal ori pentru constatarea, exercitarea sau apărarea unui drept în justiție, cu condiția ca datele cu caracter personal să fie prelucrate în legătură cu acest scop şi numai pentru perioada necesară realizării acestui scop;
+
+h) dacă transferul este necesar pentru stabilirea, exercitarea sau apărarea unui drept în instanță, indiferent dacă este în contextul unei proceduri judiciare ori în contextul unei proceduri administrative sau extrajudiciare, inclusiv în cadrul procedurilor în fața autorităților de reglementare;
+
+i) dacă prelucrarea are loc în temeiul contractului standard pentru transmiterea transfrontalieră a datelor cu caracter personal, elaborat și aprobat de Centru, încheiat de către operatorul de date.
+
+Capitolul VIII
+
+RĂSPUNDEREA
+
+Articolul 33. Răspunderea pentru încălcarea prezentei legi
+
+Pentru încălcarea prezentei legi, persoanele vinovate răspund în conformitate cu legislaţia civilă, contravenţională sau penală.
+
+Capitolul IX
+
+Articolul 34
+
+(1) Prezenta lege intră în vigoare după 6 luni de la data publicării.
+
+(2) La data intrării în vigoare a prezentei legi, se abrogă Legea nr.17-XVI din 15 februarie 2007 cu privire la protecţia datelor cu caracter personal (Monitorul Oficial al Republicii Moldova, 2007, nr. 107–111, art. 468), cu modificările şi completările ulterioare.
+
+(3) Guvernul, în termen de 6 luni:
+
+a) va elabora şi va prezenta Parlamentului propuneri privind aducerea legislaţiei în vigoare în concordanţă cu prezenta lege;
+
+b) va pune actele sale normative în concordanţă cu prezenta lege;
+
+c) va asigura punerea în concordanţă a actelor normative ale autorităţilor publice centrale cu prezenta lege.
+
+(4) Operaţiunile de prelucrare a datelor cu caracter personal începute anterior intrării în vigoare a prezentei legi vor fi notificate Centrului în termen de 30 de zile de la data intrării ei în vigoare, în vederea înregistrării obligatorii.
+
+PREŞEDINTELE PARLAMENTULUI                               Marian LUPU
+
+Nr. 133. Chişinău, 8 iulie 2011.
